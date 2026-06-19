@@ -9,7 +9,8 @@
       "partOfSpeech": "adj.",
       "chinese": "鼓舞人心的；激励的",
       "example_sentence": "Her inspiring speech encouraged the whole class.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她鼓舞人心的演讲激励了全班同学。"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "partOfSpeech": "v.",
       "chinese": "钦佩；赞赏",
       "example_sentence": "Many students admire scientists who work for the nation.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "许多学生钦佩为国工作的科学家。"
     },
     {
       "id": 3,
@@ -27,7 +29,8 @@
       "partOfSpeech": "n.",
       "chinese": "历史学家",
       "example_sentence": "The historian wrote about life in the last century.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位历史学家撰写了关于上世纪生活的著作。"
     },
     {
       "id": 4,
@@ -36,7 +39,8 @@
       "partOfSpeech": "n.",
       "chinese": "研究人员",
       "example_sentence": "A researcher spent years studying the disease.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "一位研究人员花数年时间研究这种疾病。"
     },
     {
       "id": 5,
@@ -45,7 +49,8 @@
       "partOfSpeech": "n.",
       "chinese": "化学家",
       "example_sentence": "The chemist made an important discovery in the lab.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位化学家在实验室做出了重要发现。"
     },
     {
       "id": 6,
@@ -54,7 +59,8 @@
       "partOfSpeech": "n.",
       "chinese": "物理学家",
       "example_sentence": "The physicist explored the secrets of the universe.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位物理学家探索宇宙的奥秘。"
     },
     {
       "id": 7,
@@ -63,7 +69,8 @@
       "partOfSpeech": "n.",
       "chinese": "饥饿",
       "example_sentence": "The war brought hunger to many nations.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "战争给许多国家带来了饥荒。"
     },
     {
       "id": 8,
@@ -72,7 +79,8 @@
       "partOfSpeech": "n.",
       "chinese": "化学",
       "example_sentence": "She fell in love with chemistry in childhood.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她童年时就爱上了化学。"
     },
     {
       "id": 9,
@@ -81,7 +89,8 @@
       "partOfSpeech": "phrase",
       "chinese": "辍学；不再参加",
       "example_sentence": "He had to drop out of school because of hunger.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "他因饥饿而不得不辍学。"
     },
     {
       "id": 10,
@@ -90,7 +99,8 @@
       "partOfSpeech": "n.",
       "chinese": "日历",
       "example_sentence": "Mark the date on your calendar.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "在你的日历上标记这个日期。"
     },
     {
       "id": 11,
@@ -99,7 +109,8 @@
       "partOfSpeech": "n.",
       "chinese": "发现",
       "example_sentence": "The discovery changed scientific history forever.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这一发现永远改变了科学史。"
     },
     {
       "id": 12,
@@ -108,7 +119,8 @@
       "partOfSpeech": "n.",
       "chinese": "世纪",
       "example_sentence": "Many pioneers lived in the last century.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "许多先驱生活在上个世纪。"
     },
     {
       "id": 13,
@@ -117,7 +129,8 @@
       "partOfSpeech": "adj.",
       "chinese": "受伤的；负伤的",
       "example_sentence": "Brave soldiers cared for the wounded after the battle.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "战斗结束后，勇敢的士兵照料伤员。"
     },
     {
       "id": 14,
@@ -126,7 +139,8 @@
       "partOfSpeech": "n.",
       "chinese": "士兵",
       "example_sentence": "The soldier showed great courage during the war.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位士兵在战争中表现出极大的勇气。"
     },
     {
       "id": 15,
@@ -135,7 +149,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "英国人；英国的",
       "example_sentence": "A British researcher admired the Chinese pioneer.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "一位英国研究人员钦佩这位中国先驱。"
     },
     {
       "id": 16,
@@ -144,7 +159,8 @@
       "partOfSpeech": "n.",
       "chinese": "（飞机的）航线；航路",
       "example_sentence": "The airway connected the nation to the western world.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这条航线将该国家与西方世界连接起来。"
     },
     {
       "id": 17,
@@ -153,7 +169,8 @@
       "partOfSpeech": "n.",
       "chinese": "国家；民族",
       "example_sentence": "The whole nation looked up to the admirable scientist.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "整个国家都敬仰这位令人钦佩的科学家。"
     },
     {
       "id": 18,
@@ -162,7 +179,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "传播；散布",
       "example_sentence": "Doctors worked to stop the spread of disease.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "医生们努力阻止疾病的传播。"
     },
     {
       "id": 19,
@@ -171,7 +189,8 @@
       "partOfSpeech": "n.",
       "chinese": "疾病",
       "example_sentence": "Her research helped fight a deadly disease.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她的研究帮助对抗一种致命的疾病。"
     },
     {
       "id": 20,
@@ -180,7 +199,8 @@
       "partOfSpeech": "n.",
       "chinese": "先驱；先锋",
       "example_sentence": "She was a pioneer in scientific exploration of the universe.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她是宇宙科学探索的先驱。"
     },
     {
       "id": 21,
@@ -189,7 +209,8 @@
       "partOfSpeech": "adj.",
       "chinese": "令人钦佩的",
       "example_sentence": "His admirable courage inspired the whole nation.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "他令人钦佩的勇气激励了整个国家。"
     },
     {
       "id": 22,
@@ -198,7 +219,8 @@
       "partOfSpeech": "n.",
       "chinese": "金字塔",
       "example_sentence": "The ancient pyramid stood as a symbol of wisdom and balance.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "古老的金字塔象征着智慧与平衡。"
     },
     {
       "id": 23,
@@ -207,7 +229,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "平衡；保持平衡",
       "example_sentence": "She tried to balance scientific work with family life.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她试图在科学工作与家庭生活之间取得平衡。"
     },
     {
       "id": 24,
@@ -216,7 +239,8 @@
       "partOfSpeech": "n.",
       "chinese": "勇气；勇敢",
       "example_sentence": "It took great courage to explore the unknown western lands.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "探索未知的西部土地需要极大的勇气。"
     },
     {
       "id": 25,
@@ -225,7 +249,8 @@
       "partOfSpeech": "n.",
       "chinese": "智慧；学问",
       "example_sentence": "The historian shared the wisdom of past dynasties.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位历史学家分享了过去各个朝代的智慧。"
     },
     {
       "id": 26,
@@ -234,7 +259,8 @@
       "partOfSpeech": "phrase",
       "chinese": "钦佩；仰慕",
       "example_sentence": "Children look up to brave pioneers who never give up.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "孩子们仰慕永不放弃的勇敢先驱。"
     },
     {
       "id": 27,
@@ -243,7 +269,8 @@
       "partOfSpeech": "n.",
       "chinese": "鼓舞人心的人（或事物）",
       "example_sentence": "Her life story became an inspiration to young scientists.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她的人生故事成为年轻科学家的灵感来源。"
     },
     {
       "id": 28,
@@ -252,7 +279,8 @@
       "partOfSpeech": "adj. & v.",
       "chinese": "勇敢的；无畏的；勇敢面对",
       "example_sentence": "The brave soldier refused to leave the wounded behind.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "勇敢的士兵拒绝抛下伤员。"
     },
     {
       "id": 29,
@@ -261,7 +289,8 @@
       "partOfSpeech": "adj.",
       "chinese": "必要的；必需的",
       "example_sentence": "Hard work is necessary if your dreams are to come true.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "要想梦想成真，努力工作是必要的。"
     },
     {
       "id": 30,
@@ -270,7 +299,8 @@
       "partOfSpeech": "n.",
       "chinese": "种子",
       "example_sentence": "A small seed of curiosity grew into a love of science.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "一颗小小的好奇心种子，长成了对科学的热爱。"
     },
     {
       "id": 31,
@@ -279,7 +309,8 @@
       "partOfSpeech": "n.",
       "chinese": "童年",
       "example_sentence": "She spent her childhood listening to the radio every evening.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她的童年是在每晚听收音机中度过的。"
     },
     {
       "id": 32,
@@ -288,7 +319,8 @@
       "partOfSpeech": "phrase",
       "chinese": "实现；成为现实",
       "example_sentence": "Her childhood dream of becoming a biologist finally came true.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她童年时成为生物学家的梦想终于实现了。"
     },
     {
       "id": 33,
@@ -297,7 +329,8 @@
       "partOfSpeech": "n.",
       "chinese": "朝代；王朝",
       "example_sentence": "The historian studied a famous dynasty in western China.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这位历史学家研究了中国西部的一个著名王朝。"
     },
     {
       "id": 34,
@@ -306,7 +339,8 @@
       "partOfSpeech": "adj.",
       "chinese": "西方的；西部的",
       "example_sentence": "Western scientific methods spread across the nation.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "西方科学方法传遍了全国。"
     },
     {
       "id": 35,
@@ -315,7 +349,8 @@
       "partOfSpeech": "adj.",
       "chinese": "科学（上）的",
       "example_sentence": "The researcher made a scientific discovery about the disease.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位研究人员就该疾病做出了科学发现。"
     },
     {
       "id": 36,
@@ -324,7 +359,8 @@
       "partOfSpeech": "n.",
       "chinese": "生物学家",
       "example_sentence": "The biologist collected seeds from plants across the country.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这位生物学家收集了全国各地植物的种子。"
     },
     {
       "id": 37,
@@ -333,7 +369,8 @@
       "partOfSpeech": "adj.",
       "chinese": "所有的；完全的",
       "example_sentence": "The whole nation admired her scientific achievements.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "整个国家都敬佩她的科学成就。"
     },
     {
       "id": 38,
@@ -342,7 +379,8 @@
       "partOfSpeech": "n.",
       "chinese": "银行",
       "example_sentence": "She saved money in the bank to fund her research.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她在银行存钱以资助她的研究。"
     },
     {
       "id": 39,
@@ -351,7 +389,8 @@
       "partOfSpeech": "adv.",
       "chinese": "永远",
       "example_sentence": "Her discovery will be remembered forever.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她的发现将被永远铭记。"
     },
     {
       "id": 40,
@@ -360,7 +399,8 @@
       "partOfSpeech": "n.",
       "chinese": "无线电；收音机",
       "example_sentence": "He heard the news about the pioneer on the radio.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "他在收音机里听到了关于这位先驱的消息。"
     },
     {
       "id": 41,
@@ -369,7 +409,8 @@
       "partOfSpeech": "phrase",
       "chinese": "留下；遗留",
       "example_sentence": "Great scientists leave behind a collection of wisdom for us all.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "伟大的科学家为我们留下了一套智慧财富。"
     },
     {
       "id": 42,
@@ -378,7 +419,8 @@
       "partOfSpeech": "n.",
       "chinese": "收集物；收藏品",
       "example_sentence": "The museum has a collection of scientific instruments from the last century.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "博物馆收藏了上世纪的一批科学仪器。"
     },
     {
       "id": 43,
@@ -387,7 +429,8 @@
       "partOfSpeech": "phrase",
       "chinese": "继续存在；继续活着",
       "example_sentence": "Her inspiring spirit will live on in the hearts of students.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她鼓舞人心的精神将在学生心中永存。"
     },
     {
       "id": 44,
@@ -396,7 +439,8 @@
       "partOfSpeech": "n.",
       "chinese": "探索",
       "example_sentence": "Space exploration helps us understand the whole universe.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "太空探索帮助我们了解整个宇宙。"
     },
     {
       "id": 45,
@@ -405,7 +449,8 @@
       "partOfSpeech": "n.",
       "chinese": "宇宙",
       "example_sentence": "The physicist spent his life studying the secrets of the universe.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这位物理学家毕生研究宇宙的奥秘。"
     },
     {
       "id": 46,
@@ -414,7 +459,8 @@
       "partOfSpeech": "n.",
       "chinese": "社会主义",
       "example_sentence": "The textbook discusses how socialism shaped the nation's history.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "课本讨论了社会主义如何塑造该国的历史。"
     },
     {
       "id": 47,
@@ -423,7 +469,8 @@
       "partOfSpeech": "n.",
       "chinese": "洞；孔",
       "example_sentence": "The inventor dug a small hole to test his new idea.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "发明家挖了一个小洞来测试他的新想法。"
     },
     {
       "id": 48,
@@ -432,7 +479,8 @@
       "partOfSpeech": "n.",
       "chinese": "女儿",
       "example_sentence": "Marie Curie's daughter also became a Nobel Prize winner.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "玛丽·居里的女儿也获得了诺贝尔奖。"
     },
     {
       "id": 49,
@@ -441,7 +489,8 @@
       "partOfSpeech": "pron.",
       "chinese": "她自己；她本人",
       "example_sentence": "She taught herself chemistry during a difficult period.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她在困难时期自学化学。"
     },
     {
       "id": 50,
@@ -450,7 +499,8 @@
       "partOfSpeech": "n.",
       "chinese": "飞行；航班",
       "example_sentence": "The first flight across the ocean was an admirable achievement.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "首次飞越大洋是一项令人钦佩的成就。"
     },
     {
       "id": 51,
@@ -459,7 +509,8 @@
       "partOfSpeech": "n.",
       "chinese": "木工手艺",
       "example_sentence": "He learned woodwork before becoming a famous inventor.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "在成为著名发明家之前，他学过木工。"
     },
     {
       "id": 52,
@@ -468,7 +519,8 @@
       "partOfSpeech": "n.",
       "chinese": "发明家",
       "example_sentence": "Michael Faraday was a great inventor and scientist.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "迈克尔·法拉第是一位伟大的发明家和科学家。"
     },
     {
       "id": 53,
@@ -477,7 +529,8 @@
       "partOfSpeech": "phrase",
       "chinese": "最重要的是；尤其是",
       "example_sentence": "Above all, we should remember their kindness to mankind.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "最重要的是，我们应该记住他们对人类的善意。"
     },
     {
       "id": 54,
@@ -486,7 +539,8 @@
       "partOfSpeech": "n.",
       "chinese": "思想家",
       "example_sentence": "Confucius was a great thinker whose wisdom lives on forever.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "孔子是一位伟大的思想家，他的智慧永存。"
     },
     {
       "id": 55,
@@ -495,7 +549,8 @@
       "partOfSpeech": "n.",
       "chinese": "时期；一段时间",
       "example_sentence": "That period of history saw many scientific discoveries.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "那个历史时期涌现了许多科学发现。"
     },
     {
       "id": 56,
@@ -504,7 +559,8 @@
       "partOfSpeech": "n.",
       "chinese": "王国",
       "example_sentence": "The ancient kingdom traded along the Silk Road.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这个古老的王国沿丝绸之路进行贸易。"
     },
     {
       "id": 57,
@@ -513,7 +569,8 @@
       "partOfSpeech": "n.",
       "chinese": "善良",
       "example_sentence": "Her kindness to wounded soldiers was truly admirable.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她对伤兵的善举确实令人钦佩。"
     },
     {
       "id": 58,
@@ -522,7 +579,8 @@
       "partOfSpeech": "conj.",
       "chinese": "是否",
       "example_sentence": "She wondered whether the discovery would change mankind forever.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她想知道这一发现是否会永远改变人类。"
     },
     {
       "id": 59,
@@ -531,7 +589,8 @@
       "partOfSpeech": "n.",
       "chinese": "人类",
       "example_sentence": "Scientific exploration has brought great benefits to all mankind.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "科学探索给全人类带来了巨大益处。"
     },
     {
       "id": 60,
@@ -540,7 +599,8 @@
       "partOfSpeech": "n.",
       "chinese": "迈克尔·法拉第",
       "example_sentence": "Michael Faraday was an inspiring inventor and chemist.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "迈克尔·法拉第是一位鼓舞人心的发明家和化学家。"
     },
     {
       "id": 61,
@@ -549,7 +609,8 @@
       "partOfSpeech": "n.",
       "chinese": "玛丽·居里",
       "example_sentence": "Marie Curie won the Nobel Prize for her scientific research.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "玛丽·居里因其科学研究获得了诺贝尔奖。"
     },
     {
       "id": 62,
@@ -558,7 +619,8 @@
       "partOfSpeech": "n.",
       "chinese": "诺贝尔奖",
       "example_sentence": "She became the first woman to win a Nobel Prize.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她成为第一位获得诺贝尔奖的女性。"
     },
     {
       "id": 63,
@@ -567,7 +629,8 @@
       "partOfSpeech": "n.",
       "chinese": "艾萨克·牛顿",
       "example_sentence": "Isaac Newton was a pioneer in physics and mathematics.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "艾萨克·牛顿是物理和数学领域的先驱。"
     },
     {
       "id": 64,
@@ -576,7 +639,8 @@
       "partOfSpeech": "n.",
       "chinese": "伊桑巴德·布鲁内尔",
       "example_sentence": "Isambard Brunel built railways and bridges across Britain.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "伊桑巴德·布鲁内尔在英国各地修建了铁路和桥梁。"
     },
     {
       "id": 65,
@@ -585,7 +649,8 @@
       "partOfSpeech": "n.",
       "chinese": "阿兰·图灵",
       "example_sentence": "Alan Turing was a brave thinker who changed modern science.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "阿兰·图灵是一位改变了现代科学的勇敢思想家。"
     },
     {
       "id": 66,
@@ -594,7 +659,8 @@
       "partOfSpeech": "n.",
       "chinese": "贝聿铭",
       "example_sentence": "I.M. Pei designed the glass pyramid at the Louvre Museum.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "贝聿铭设计了卢浮宫博物馆的玻璃金字塔。"
     },
     {
       "id": 67,
@@ -603,7 +669,8 @@
       "partOfSpeech": "n.",
       "chinese": "卢浮宫博物馆",
       "example_sentence": "The Louvre Museum in Paris holds a famous collection of art.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "巴黎的卢浮宫博物馆收藏着著名的艺术品。"
     },
     {
       "id": 68,
@@ -612,7 +679,8 @@
       "partOfSpeech": "n.",
       "chinese": "孔子",
       "example_sentence": "Confucius taught wisdom and kindness to students across the kingdom.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "孔子向全国的学生传授智慧与仁爱。"
     },
     {
       "id": 69,
@@ -621,7 +689,8 @@
       "partOfSpeech": "n.",
       "chinese": "维克多·雨果",
       "example_sentence": "Victor Hugo wrote inspiring novels that live on today.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "维克多·雨果创作了至今仍流传不衰的鼓舞人心的小说。"
     },
     {
       "id": 70,
@@ -630,7 +699,8 @@
       "partOfSpeech": "n.",
       "chinese": "西域",
       "example_sentence": "Traders travelled through the Western Regions on the Silk Road.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "商人们沿丝绸之路穿越西域。"
     },
     {
       "id": 71,
@@ -639,7 +709,8 @@
       "partOfSpeech": "n.",
       "chinese": "丝绸之路",
       "example_sentence": "The Silk Road connected China with nations in the western world.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "丝绸之路将中国同西方世界的各国连接起来。"
     },
     {
       "id": 72,
@@ -648,7 +719,8 @@
       "partOfSpeech": "n.",
       "chinese": "艾琳",
       "example_sentence": "Irène followed her mother Marie Curie into scientific research.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "艾琳追随母亲玛丽·居里，走上了科学研究之路。"
     },
     {
       "id": 73,
@@ -657,7 +729,8 @@
       "partOfSpeech": "n.",
       "chinese": "阿梅莉亚·埃尔哈特",
       "example_sentence": "Amelia Earhart made a brave flight across the Atlantic Ocean.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "阿梅莉亚·埃尔哈特勇敢地飞越大西洋。"
     },
     {
       "id": 74,
@@ -666,7 +739,8 @@
       "partOfSpeech": "n.",
       "chinese": "大西洋",
       "example_sentence": "Pioneers crossed the Atlantic Ocean by flight for the first time.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "先驱们首次通过飞行越过大西洋。"
     },
     {
       "id": 75,
@@ -675,7 +749,8 @@
       "partOfSpeech": "n.",
       "chinese": "公元前",
       "example_sentence": "Confucius lived in China during the fifth century BCE.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "孔子生活在中国公元前五世纪。"
     },
     {
       "id": 76,
@@ -684,7 +759,8 @@
       "partOfSpeech": "n.",
       "chinese": "战国时期",
       "example_sentence": "The Warring States Period was an important time in Chinese history.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "战国时期是中国历史上的一个重要时期。"
     }
   ]
 }

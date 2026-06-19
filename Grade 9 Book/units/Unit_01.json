@@ -9,7 +9,8 @@
       "partOfSpeech": "phrase",
       "chinese": "带来；引起",
       "example_sentence": "This policy will bring about significant changes.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这项政策将带来重大变化。"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "partOfSpeech": "adj.",
       "chinese": "崎岖的",
       "example_sentence": "The rough terrain made the journey difficult.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "崎岖的地形使旅途变得艰难。"
     },
     {
       "id": 3,
@@ -27,7 +29,8 @@
       "partOfSpeech": "phrase",
       "chinese": "被...覆盖",
       "example_sentence": "The ground was covered with snow.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "地面被雪覆盖了。"
     },
     {
       "id": 4,
@@ -36,7 +39,8 @@
       "partOfSpeech": "n.",
       "chinese": "沙尘暴",
       "example_sentence": "A powerful sandstorm swept across the desert.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "一场强沙尘暴席卷了沙漠。"
     },
     {
       "id": 5,
@@ -45,7 +49,8 @@
       "partOfSpeech": "n.",
       "chinese": "农田",
       "example_sentence": "Large areas of farmland are being developed.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "大片农田正在被开发。"
     },
     {
       "id": 6,
@@ -54,7 +59,8 @@
       "partOfSpeech": "n.",
       "chinese": "短缺",
       "example_sentence": "There is a shortage of fresh water in the region.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "该地区淡水短缺。"
     },
     {
       "id": 7,
@@ -63,7 +69,8 @@
       "partOfSpeech": "n.",
       "chinese": "缺乏",
       "example_sentence": "The lack of rainfall caused a drought.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "降雨不足导致了干旱。"
     },
     {
       "id": 8,
@@ -72,7 +79,8 @@
       "partOfSpeech": "n.",
       "chinese": "灌木",
       "example_sentence": "A small bush grew near the path.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "小径旁长着一丛小灌木。"
     },
     {
       "id": 9,
@@ -81,7 +89,8 @@
       "partOfSpeech": "n.",
       "chinese": "根",
       "example_sentence": "The tree's roots extended deep into the soil.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "树根深深扎入土壤。"
     },
     {
       "id": 10,
@@ -90,7 +99,8 @@
       "partOfSpeech": "n.",
       "chinese": "土壤",
       "example_sentence": "Rich soil is essential for growing crops.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "肥沃的土壤对于种植作物至关重要。"
     },
     {
       "id": 11,
@@ -99,7 +109,8 @@
       "partOfSpeech": "adj.",
       "chinese": "铺满沙子的；含沙的",
       "example_sentence": "The sandy beach was perfect for a vacation.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "这片沙滩非常适合度假。"
     },
     {
       "id": 12,
@@ -108,7 +119,8 @@
       "partOfSpeech": "n.",
       "chinese": "政府",
       "example_sentence": "The government implemented new environmental policies.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "政府实施了新的环境政策。"
     },
     {
       "id": 13,
@@ -117,7 +129,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "支持",
       "example_sentence": "We support sustainable development.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "我们支持可持续发展。"
     },
     {
       "id": 14,
@@ -126,7 +139,8 @@
       "partOfSpeech": "n.",
       "chinese": "玉米；谷物",
       "example_sentence": "Corn is one of the most important crops worldwide.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "玉米是世界上最重要的作物之一。"
     },
     {
       "id": 15,
@@ -135,7 +149,8 @@
       "partOfSpeech": "adj.",
       "chinese": "高科技的",
       "example_sentence": "The company uses high-tech equipment in manufacturing.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "该公司在制造过程中使用高科技设备。"
     },
     {
       "id": 16,
@@ -144,7 +159,8 @@
       "partOfSpeech": "n.",
       "chinese": "温室",
       "example_sentence": "Vegetables grow in the greenhouse year-round.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "温室里一年四季都种着蔬菜。"
     },
     {
       "id": 17,
@@ -153,7 +169,8 @@
       "partOfSpeech": "n.",
       "chinese": "公路",
       "example_sentence": "The highway connects the two major cities.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这条公路连接着两座大城市。"
     },
     {
       "id": 18,
@@ -162,7 +179,8 @@
       "partOfSpeech": "n.",
       "chinese": "铁路",
       "example_sentence": "The railway network expanded to rural areas.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "铁路网扩展到了农村地区。"
     },
     {
       "id": 19,
@@ -171,7 +189,8 @@
       "partOfSpeech": "n.",
       "chinese": "向往的地方；吸引力",
       "example_sentence": "The national park is a major tourist attraction.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "国家公园是一个主要的旅游景点。"
     },
     {
       "id": 20,
@@ -180,7 +199,8 @@
       "partOfSpeech": "n.",
       "chinese": "产品",
       "example_sentence": "Our company produces high-quality products.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "我们公司生产高质量的产品。"
     },
     {
       "id": 21,
@@ -189,7 +209,8 @@
       "partOfSpeech": "adv.",
       "chinese": "大大地；非常",
       "example_sentence": "The new technology has greatly improved productivity.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "新技术极大地提高了生产力。"
     },
     {
       "id": 22,
@@ -198,7 +219,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "社会主义者；社会主义的",
       "example_sentence": "Socialist policies aim to reduce inequality.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "社会主义政策旨在减少不平等。"
     },
     {
       "id": 23,
@@ -207,7 +229,8 @@
       "partOfSpeech": "n.",
       "chinese": "电子支付",
       "example_sentence": "E-payment services have become increasingly popular.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "电子支付服务越来越受欢迎。"
     },
     {
       "id": 24,
@@ -216,7 +239,8 @@
       "partOfSpeech": "n.",
       "chinese": "住房；住宅",
       "example_sentence": "Affordable housing is a major concern for the government.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "可负担的住房是政府关注的主要问题。"
     },
     {
       "id": 25,
@@ -225,7 +249,8 @@
       "partOfSpeech": "adj.",
       "chinese": "电子的",
       "example_sentence": "Digital technology has transformed education.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "数字技术改变了教育。"
     },
     {
       "id": 26,
@@ -234,7 +259,8 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "音频的；音频",
       "example_sentence": "The audio quality of the recording is excellent.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这段录音的音质非常好。"
     },
     {
       "id": 27,
@@ -243,7 +269,8 @@
       "partOfSpeech": "n.",
       "chinese": "泥土；污垢",
       "example_sentence": "Heavy rain turned the dirt road into mud.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "大雨把土路变成了泥路。"
     },
     {
       "id": 28,
@@ -252,7 +279,8 @@
       "partOfSpeech": "n.",
       "chinese": "小路；轨道",
       "example_sentence": "The railway track runs through the savanna.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "铁路轨道穿过稀树草原。"
     },
     {
       "id": 29,
@@ -261,7 +289,8 @@
       "partOfSpeech": "adj.",
       "chinese": "宽的；宽阔的",
       "example_sentence": "The new highway is wide enough for two lorries.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "新公路宽得可以容纳两辆卡车。"
     },
     {
       "id": 30,
@@ -270,7 +299,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "交通路线；联系；连接",
       "example_sentence": "The railway links the port to the capital.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "铁路将港口与首都连接起来。"
     },
     {
       "id": 31,
@@ -279,7 +309,8 @@
       "partOfSpeech": "n.",
       "chinese": "港口",
       "example_sentence": "Goods from abroad arrive at the port every day.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "来自国外的货物每天抵达港口。"
     },
     {
       "id": 32,
@@ -288,7 +319,8 @@
       "partOfSpeech": "n.",
       "chinese": "首都",
       "example_sentence": "Nairobi is the capital of Kenya.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "内罗毕是肯尼亚的首都。"
     },
     {
       "id": 33,
@@ -297,7 +329,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "肯尼亚人；肯尼亚的",
       "example_sentence": "Many Kenyan workers helped build the railway.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "许多肯尼亚工人参与了铁路的建设。"
     },
     {
       "id": 34,
@@ -306,7 +339,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "优势；益处；使受益",
       "example_sentence": "The new railway will benefit local villagers.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "新铁路将使当地村民受益。"
     },
     {
       "id": 35,
@@ -315,7 +349,8 @@
       "partOfSpeech": "phrase",
       "chinese": "对……感到满意",
       "example_sentence": "The manager is happy with the team's progress.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "经理对团队的进展感到满意。"
     },
     {
       "id": 36,
@@ -324,7 +359,8 @@
       "partOfSpeech": "adj.",
       "chinese": "方便的",
       "example_sentence": "E-payment makes shopping more convenient.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "电子支付使购物更加便利。"
     },
     {
       "id": 37,
@@ -333,7 +369,8 @@
       "partOfSpeech": "n.",
       "chinese": "生意；商业",
       "example_sentence": "The port supports many small businesses.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "港口扶持着许多小型企业。"
     },
     {
       "id": 38,
@@ -342,7 +379,8 @@
       "partOfSpeech": "n.",
       "chinese": "容易；自在",
       "example_sentence": "Digital tools brought ease to daily work.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "数字工具给日常工作带来了便利。"
     },
     {
       "id": 39,
@@ -351,7 +389,8 @@
       "partOfSpeech": "phrase",
       "chinese": "轻而易举地",
       "example_sentence": "She completed the difficult task with ease.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "她轻而易举地完成了这项艰巨的任务。"
     },
     {
       "id": 40,
@@ -360,7 +399,8 @@
       "partOfSpeech": "n.",
       "chinese": "卡车",
       "example_sentence": "A lorry carried corn from the farmland to the city.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "一辆卡车把玉米从农田运到城市。"
     },
     {
       "id": 41,
@@ -369,7 +409,8 @@
       "partOfSpeech": "n.",
       "chinese": "经理",
       "example_sentence": "The station manager checked the timetable.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "站长查看了时刻表。"
     },
     {
       "id": 42,
@@ -378,7 +419,8 @@
       "partOfSpeech": "n.",
       "chinese": "结论",
       "example_sentence": "In conclusion, the project greatly improved transport.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "总之，该项目极大地改善了交通。"
     },
     {
       "id": 43,
@@ -387,7 +429,8 @@
       "partOfSpeech": "adj.",
       "chinese": "狭窄的",
       "example_sentence": "The narrow track was hard for wide lorries to pass.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "狭窄的小径很难让宽大的卡车通过。"
     },
     {
       "id": 44,
@@ -396,7 +439,8 @@
       "partOfSpeech": "n.",
       "chinese": "村民",
       "example_sentence": "Villagers welcomed the new railway station.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "村民们欢迎新的火车站。"
     },
     {
       "id": 45,
@@ -405,7 +449,8 @@
       "partOfSpeech": "n.",
       "chinese": "奥林匹克运动会",
       "example_sentence": "Kenyan runners have won many medals at the Olympics.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "肯尼亚选手在奥运会上赢得了许多奖牌。"
     },
     {
       "id": 46,
@@ -414,7 +459,8 @@
       "partOfSpeech": "adj.",
       "chinese": "人造的；非天然的",
       "example_sentence": "The lake is a man-made reservoir for the city.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "这个湖是供城市使用的人工水库。"
     },
     {
       "id": 47,
@@ -423,7 +469,8 @@
       "partOfSpeech": "n.",
       "chinese": "奇迹",
       "example_sentence": "Many people called the recovery a miracle.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "许多人把这次康复称为奇迹。"
     },
     {
       "id": 48,
@@ -432,7 +479,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "带领；领先地位；主角",
       "example_sentence": "Kenya took the lead in building the new railway.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "肯尼亚在修建新铁路方面处于领先地位。"
     },
     {
       "id": 49,
@@ -441,7 +489,8 @@
       "partOfSpeech": "adj.",
       "chinese": "低年级的；初级的",
       "example_sentence": "She teaches in a junior school near the railway station.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "她在火车站附近的一所初中任教。"
     },
     {
       "id": 50,
@@ -450,7 +499,8 @@
       "partOfSpeech": "n.",
       "chinese": "公寓",
       "example_sentence": "Many workers rent a flat close to the port.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "许多工人在港口附近租公寓。"
     },
     {
       "id": 51,
@@ -459,7 +509,8 @@
       "partOfSpeech": "n.",
       "chinese": "讨论",
       "example_sentence": "The class had a lively discussion about Kenya's development.",
-      "essential": true
+      "essential": true,
+      "example_sentence_zh": "全班就肯尼亚的发展进行了热烈的讨论。"
     },
     {
       "id": 52,
@@ -468,7 +519,8 @@
       "partOfSpeech": "n.",
       "chinese": "方面",
       "example_sentence": "Transport is a key aspect of the country's growth.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "交通是该国发展的一个关键方面。"
     },
     {
       "id": 53,
@@ -477,7 +529,8 @@
       "partOfSpeech": "n.",
       "chinese": "蒙巴萨",
       "example_sentence": "The railway connects Nairobi to the port city of Mombasa.",
-      "essential": false
+      "essential": false,
+      "example_sentence_zh": "铁路将内罗毕与港口城市蒙巴萨连接起来。"
     }
   ]
 }

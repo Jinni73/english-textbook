@@ -8,7 +8,9 @@
       "pronunciation": "/ə ɡʊd riːd/",
       "partOfSpeech": "phrase",
       "chinese": "好的读物；好书（或文章等）",
-      "example_sentence": "This novel is a good read for young students."
+      "example_sentence": "This novel is a good read for young students.",
+      "essential": true,
+      "example_sentence_zh": "这部小说是年轻学生的好读物。"
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "pronunciation": "/ədˈventʃə(r)/",
       "partOfSpeech": "n.",
       "chinese": "冒险；冒险经历",
-      "example_sentence": "The boys love an adventure story full of danger."
+      "example_sentence": "The boys love an adventure story full of danger.",
+      "essential": true,
+      "example_sentence_zh": "男孩子们喜欢充满危险的冒险故事。"
     },
     {
       "id": 3,
@@ -24,7 +28,9 @@
       "pronunciation": "/ˈfæntəsi/",
       "partOfSpeech": "n.",
       "chinese": "幻想；幻想作品",
-      "example_sentence": "She enjoys fantasy books about magic kingdoms."
+      "example_sentence": "She enjoys fantasy books about magic kingdoms.",
+      "essential": true,
+      "example_sentence_zh": "她喜欢关于魔法王国的幻想小说。"
     },
     {
       "id": 4,
@@ -32,7 +38,9 @@
       "pronunciation": "/ˈmɪstəri/",
       "partOfSpeech": "n.",
       "chinese": "悬疑小说；神秘的事物；奥秘",
-      "example_sentence": "He stayed up late reading a mystery novel."
+      "example_sentence": "He stayed up late reading a mystery novel.",
+      "essential": true,
+      "example_sentence_zh": "他熬夜读一部悬疑小说。"
     },
     {
       "id": 5,
@@ -40,7 +48,9 @@
       "pronunciation": "/ˈfɪkʃn/",
       "partOfSpeech": "n.",
       "chinese": "小说",
-      "example_sentence": "The library has a large section of fiction."
+      "example_sentence": "The library has a large section of fiction.",
+      "essential": true,
+      "example_sentence_zh": "图书馆有一个很大的小说区。"
     },
     {
       "id": 6,
@@ -48,7 +58,9 @@
       "pronunciation": "/dɪˈtektɪv/",
       "partOfSpeech": "n.",
       "chinese": "侦探",
-      "example_sentence": "The detective solved the case before midnight."
+      "example_sentence": "The detective solved the case before midnight.",
+      "essential": true,
+      "example_sentence_zh": "侦探在午夜之前破案了。"
     },
     {
       "id": 7,
@@ -56,7 +68,9 @@
       "pronunciation": "/ˈeɪliən/",
       "partOfSpeech": "n.",
       "chinese": "外星人",
-      "example_sentence": "The science fiction story is about an alien visitor."
+      "example_sentence": "The science fiction story is about an alien visitor.",
+      "essential": true,
+      "example_sentence_zh": "这部科幻故事讲述了一个外星访客。"
     },
     {
       "id": 8,
@@ -64,7 +78,9 @@
       "pronunciation": "/əˈtæk/",
       "partOfSpeech": "v. & n.",
       "chinese": "攻击；进攻",
-      "example_sentence": "The hero had to attack the enemy at dawn."
+      "example_sentence": "The hero had to attack the enemy at dawn.",
+      "essential": true,
+      "example_sentence_zh": "英雄不得不在黎明时分进攻敌人。"
     },
     {
       "id": 9,
@@ -72,7 +88,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "听说；得知",
-      "example_sentence": "Have you ever heard of this famous writer?"
+      "example_sentence": "Have you ever heard of this famous writer?",
+      "essential": true,
+      "example_sentence_zh": "你听说过这位著名作家吗？"
     },
     {
       "id": 10,
@@ -80,7 +98,9 @@
       "pronunciation": "/ˈkɪŋdəm/",
       "partOfSpeech": "n.",
       "chinese": "王国",
-      "example_sentence": "The prince ruled a peaceful kingdom in the story."
+      "example_sentence": "The prince ruled a peaceful kingdom in the story.",
+      "essential": true,
+      "example_sentence_zh": "故事中，王子统治着一个和平的王国。"
     },
     {
       "id": 11,
@@ -88,7 +108,9 @@
       "pronunciation": "/hɪˈstɒrɪkl/",
       "partOfSpeech": "adj.",
       "chinese": "历史的；有关历史的",
-      "example_sentence": "She prefers historical novels set in ancient times."
+      "example_sentence": "She prefers historical novels set in ancient times.",
+      "essential": true,
+      "example_sentence_zh": "她更喜欢以古代为背景的历史小说。"
     },
     {
       "id": 12,
@@ -96,7 +118,9 @@
       "pronunciation": "/fɔːs/",
       "partOfSpeech": "v. & n.",
       "chinese": "强迫；迫使；用力推动；力；武力",
-      "example_sentence": "Nothing can force me to stop reading this book."
+      "example_sentence": "Nothing can force me to stop reading this book.",
+      "essential": true,
+      "example_sentence_zh": "什么都不能强迫我停止读这本书。"
     },
     {
       "id": 13,
@@ -104,7 +128,9 @@
       "pronunciation": "/stiːl/",
       "partOfSpeech": "v.",
       "chinese": "偷；窃取",
-      "example_sentence": "The thief tried to steal gold from the castle."
+      "example_sentence": "The thief tried to steal gold from the castle.",
+      "essential": true,
+      "example_sentence_zh": "小偷试图从城堡偷走黄金。"
     },
     {
       "id": 14,
@@ -112,7 +138,9 @@
       "pronunciation": "/ˈpʌnɪʃ/",
       "partOfSpeech": "v.",
       "chinese": "惩罚；处罚",
-      "example_sentence": "The king will punish anyone who breaks the law."
+      "example_sentence": "The king will punish anyone who breaks the law.",
+      "essential": true,
+      "example_sentence_zh": "国王将惩罚任何违法的人。"
     },
     {
       "id": 15,
@@ -120,7 +148,9 @@
       "pronunciation": "/ˈɪdiəm/",
       "partOfSpeech": "n.",
       "chinese": "习语；成语",
-      "example_sentence": "We learned an idiom from the English textbook."
+      "example_sentence": "We learned an idiom from the English textbook.",
+      "essential": true,
+      "example_sentence_zh": "我们从英语课本中学了一个习语。"
     },
     {
       "id": 16,
@@ -128,7 +158,9 @@
       "pronunciation": "/ˈriːsntli/",
       "partOfSpeech": "adv.",
       "chinese": "最近；不久前",
-      "example_sentence": "I recently finished a book about space travel."
+      "example_sentence": "I recently finished a book about space travel.",
+      "essential": true,
+      "example_sentence_zh": "我最近读完了一本关于太空旅行的书。"
     },
     {
       "id": 17,
@@ -136,7 +168,9 @@
       "pronunciation": "/lɒst/",
       "partOfSpeech": "adj.",
       "chinese": "迷路的；丢失的；失去的",
-      "example_sentence": "The main character felt lost in the big city."
+      "example_sentence": "The main character felt lost in the big city.",
+      "essential": true,
+      "example_sentence_zh": "主人公在大城市中感到迷失。"
     },
     {
       "id": 18,
@@ -144,7 +178,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "迷路",
-      "example_sentence": "Be careful not to get lost in the forest."
+      "example_sentence": "Be careful not to get lost in the forest.",
+      "essential": true,
+      "example_sentence_zh": "小心不要在森林里迷路。"
     },
     {
       "id": 19,
@@ -152,7 +188,9 @@
       "pronunciation": "/ˌrekəˈmend/",
       "partOfSpeech": "v.",
       "chinese": "推荐；建议",
-      "example_sentence": "The librarian will recommend a book for you."
+      "example_sentence": "The librarian will recommend a book for you.",
+      "essential": true,
+      "example_sentence_zh": "图书管理员会为你推荐一本书。"
     },
     {
       "id": 20,
@@ -160,7 +198,9 @@
       "pronunciation": "/səˈsaɪəti/",
       "partOfSpeech": "n.",
       "chinese": "社会；社团",
-      "example_sentence": "The story shows how society changed over time."
+      "example_sentence": "The story shows how society changed over time.",
+      "essential": true,
+      "example_sentence_zh": "故事展示了社会如何随时间而变化。"
     },
     {
       "id": 21,
@@ -168,7 +208,9 @@
       "pronunciation": "/ˈlɪtərəri/",
       "partOfSpeech": "adj.",
       "chinese": "文学的；文学上的",
-      "example_sentence": "She won a prize for her literary work."
+      "example_sentence": "She won a prize for her literary work.",
+      "essential": true,
+      "example_sentence_zh": "她因其文学作品获奖。"
     },
     {
       "id": 22,
@@ -176,7 +218,9 @@
       "pronunciation": "/beɪs/",
       "partOfSpeech": "v. & n.",
       "chinese": "以……为据点；根基；基础；根据地",
-      "example_sentence": "The film is based on a true story."
+      "example_sentence": "The film is based on a true story.",
+      "essential": true,
+      "example_sentence_zh": "这部电影根据真实故事改编。"
     },
     {
       "id": 23,
@@ -184,7 +228,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "以……为基础（或根据）",
-      "example_sentence": "Writers often base stories on real events."
+      "example_sentence": "Writers often base stories on real events.",
+      "essential": true,
+      "example_sentence_zh": "作家们常根据真实事件创作故事。"
     },
     {
       "id": 24,
@@ -192,7 +238,9 @@
       "pronunciation": "/ˈsʌməri/",
       "partOfSpeech": "n.",
       "chinese": "总结；概要",
-      "example_sentence": "Write a short summary of the chapter you read."
+      "example_sentence": "Write a short summary of the chapter you read.",
+      "essential": true,
+      "example_sentence_zh": "写一段你所读章节的简短概要。"
     },
     {
       "id": 25,
@@ -200,7 +248,9 @@
       "pronunciation": "/spɔɪld/",
       "partOfSpeech": "adj.",
       "chinese": "宠坏的；娇惯坏的",
-      "example_sentence": "The spoiled boy never shared his toys."
+      "example_sentence": "The spoiled boy never shared his toys.",
+      "essential": true,
+      "example_sentence_zh": "这个被宠坏的男孩从不分享玩具。"
     },
     {
       "id": 26,
@@ -208,7 +258,9 @@
       "pronunciation": "/ˈselfɪʃ/",
       "partOfSpeech": "adj.",
       "chinese": "自私的",
-      "example_sentence": "A selfish person thinks only about himself."
+      "example_sentence": "A selfish person thinks only about himself.",
+      "essential": true,
+      "example_sentence_zh": "自私的人只考虑自己。"
     },
     {
       "id": 27,
@@ -216,7 +268,9 @@
       "pronunciation": "/ˈpeɪnfl/",
       "partOfSpeech": "adj.",
       "chinese": "令人痛苦的；（身体部位）疼痛的",
-      "example_sentence": "Saying goodbye at the end was a painful moment."
+      "example_sentence": "Saying goodbye at the end was a painful moment.",
+      "essential": true,
+      "example_sentence_zh": "最后的告别是一个令人痛苦的时刻。"
     },
     {
       "id": 28,
@@ -224,7 +278,9 @@
       "pronunciation": "/lɒk/",
       "partOfSpeech": "v. & n.",
       "chinese": "用锁锁上；锁",
-      "example_sentence": "Please lock the door before you leave."
+      "example_sentence": "Please lock the door before you leave.",
+      "essential": true,
+      "example_sentence_zh": "离开前请锁好门。"
     },
     {
       "id": 29,
@@ -232,7 +288,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "锁好（建筑物的）门",
-      "example_sentence": "Remember to lock up the library at night."
+      "example_sentence": "Remember to lock up the library at night.",
+      "essential": true,
+      "example_sentence_zh": "记得晚上锁好图书馆。"
     },
     {
       "id": 30,
@@ -240,7 +298,9 @@
       "pronunciation": "/ʌnˈlɒk/",
       "partOfSpeech": "v.",
       "chinese": "开……的锁；发现；揭开",
-      "example_sentence": "She used a key to unlock the hidden room."
+      "example_sentence": "She used a key to unlock the hidden room.",
+      "essential": true,
+      "example_sentence_zh": "她用钥匙打开了隐藏房间的门。"
     },
     {
       "id": 31,
@@ -248,7 +308,9 @@
       "pronunciation": "/ˈhɪdn/",
       "partOfSpeech": "adj.",
       "chinese": "隐藏的；秘密的",
-      "example_sentence": "They found a hidden message in the old book."
+      "example_sentence": "They found a hidden message in the old book.",
+      "essential": true,
+      "example_sentence_zh": "他们在旧书中发现了一条隐藏的信息。"
     },
     {
       "id": 32,
@@ -256,7 +318,9 @@
       "pronunciation": "/ˈnəʊbədi/",
       "partOfSpeech": "pron.",
       "chinese": "没有人；谁也不",
-      "example_sentence": "Nobody knew the secret of the treasure."
+      "example_sentence": "Nobody knew the secret of the treasure.",
+      "essential": true,
+      "example_sentence_zh": "没有人知道宝藏的秘密。"
     },
     {
       "id": 33,
@@ -264,7 +328,9 @@
       "pronunciation": "/ˈðeəfɔː(r)/",
       "partOfSpeech": "adv.",
       "chinese": "因此；所以",
-      "example_sentence": "The hero was brave; therefore, the people trusted him."
+      "example_sentence": "The hero was brave; therefore, the people trusted him.",
+      "essential": true,
+      "example_sentence_zh": "英雄很勇敢，因此人们信任他。"
     },
     {
       "id": 34,
@@ -272,7 +338,9 @@
       "pronunciation": "/steɪt/",
       "partOfSpeech": "n. & v.",
       "chinese": "状态；国家；州；陈述；说明",
-      "example_sentence": "Please state your opinion clearly in the essay."
+      "example_sentence": "Please state your opinion clearly in the essay.",
+      "essential": true,
+      "example_sentence_zh": "请在作文中清楚地陈述你的观点。"
     },
     {
       "id": 35,
@@ -280,7 +348,9 @@
       "pronunciation": "/wiːk/",
       "partOfSpeech": "adj.",
       "chinese": "虚弱的；（能力）弱的",
-      "example_sentence": "He was too weak to lift the heavy box."
+      "example_sentence": "He was too weak to lift the heavy box.",
+      "essential": true,
+      "example_sentence_zh": "他太虚弱了，抬不起那个沉重的箱子。"
     },
     {
       "id": 36,
@@ -288,7 +358,9 @@
       "pronunciation": "/sɪns/",
       "partOfSpeech": "prep., adv. & conj.",
       "chinese": "自……以后；从……以来；既然；由于",
-      "example_sentence": "I have loved reading since I was six."
+      "example_sentence": "I have loved reading since I was six.",
+      "essential": true,
+      "example_sentence_zh": "我从六岁起就热爱阅读。"
     },
     {
       "id": 37,
@@ -296,7 +368,9 @@
       "pronunciation": "/ˈsiːkrətli/",
       "partOfSpeech": "adv.",
       "chinese": "秘密地",
-      "example_sentence": "She secretly read the letter behind the door."
+      "example_sentence": "She secretly read the letter behind the door.",
+      "essential": true,
+      "example_sentence_zh": "她躲在门后偷偷读了那封信。"
     },
     {
       "id": 38,
@@ -304,7 +378,9 @@
       "pronunciation": "/pruːv/",
       "partOfSpeech": "v.",
       "chinese": "证明；证实；显示是",
-      "example_sentence": "The facts will prove that he is innocent."
+      "example_sentence": "The facts will prove that he is innocent.",
+      "essential": true,
+      "example_sentence_zh": "事实将证明他是无辜的。"
     },
     {
       "id": 39,
@@ -312,7 +388,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "站起身来",
-      "example_sentence": "The soldier got to his feet and continued the fight."
+      "example_sentence": "The soldier got to his feet and continued the fight.",
+      "essential": true,
+      "example_sentence_zh": "士兵站起身来，继续战斗。"
     },
     {
       "id": 40,
@@ -320,7 +398,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "一天天；逐日",
-      "example_sentence": "Day by day, the story became more exciting."
+      "example_sentence": "Day by day, the story became more exciting.",
+      "essential": true,
+      "example_sentence_zh": "故事一天天地变得越来越精彩。"
     },
     {
       "id": 41,
@@ -328,7 +408,9 @@
       "pronunciation": "/ˈbɪld ʌp/",
       "partOfSpeech": "n.",
       "chinese": "准备期；准备过程",
-      "example_sentence": "The build-up to the final battle was thrilling."
+      "example_sentence": "The build-up to the final battle was thrilling.",
+      "essential": true,
+      "example_sentence_zh": "最后一场战斗前的铺垫令人紧张兴奋。"
     },
     {
       "id": 42,
@@ -336,7 +418,9 @@
       "pronunciation": "/ˈklaɪmæks/",
       "partOfSpeech": "n.",
       "chinese": "高潮；极点",
-      "example_sentence": "The climax of the novel kept me on the edge of my seat."
+      "example_sentence": "The climax of the novel kept me on the edge of my seat.",
+      "essential": true,
+      "example_sentence_zh": "小说的高潮让我坐立不安。"
     },
     {
       "id": 43,
@@ -344,7 +428,9 @@
       "pronunciation": "/ɪˈfekt/",
       "partOfSpeech": "n.",
       "chinese": "影响；结果",
-      "example_sentence": "The book had a deep effect on my thinking."
+      "example_sentence": "The book had a deep effect on my thinking.",
+      "essential": true,
+      "example_sentence_zh": "这本书对我的思想产生了深远的影响。"
     },
     {
       "id": 44,
@@ -352,7 +438,9 @@
       "pronunciation": "",
       "partOfSpeech": "phrase",
       "chinese": "及时；来得及",
-      "example_sentence": "They arrived in time to save the village."
+      "example_sentence": "They arrived in time to save the village.",
+      "essential": true,
+      "example_sentence_zh": "他们及时赶到，拯救了村庄。"
     },
     {
       "id": 45,
@@ -360,7 +448,9 @@
       "pronunciation": "/ˈriːdə(r)/",
       "partOfSpeech": "n.",
       "chinese": "读者；简易读物",
-      "example_sentence": "Every reader will find something to enjoy here."
+      "example_sentence": "Every reader will find something to enjoy here.",
+      "essential": true,
+      "example_sentence_zh": "每位读者都能在这里找到喜欢的东西。"
     },
     {
       "id": 46,
@@ -368,7 +458,9 @@
       "pronunciation": "/laɪˈbreəriən/",
       "partOfSpeech": "n.",
       "chinese": "图书管理员；图书馆馆长",
-      "example_sentence": "The librarian helped me choose a good read."
+      "example_sentence": "The librarian helped me choose a good read.",
+      "essential": true,
+      "example_sentence_zh": "图书管理员帮我挑选了一本好书。"
     },
     {
       "id": 47,
@@ -376,7 +468,9 @@
       "pronunciation": "/kənˈsɪdə(r)/",
       "partOfSpeech": "v.",
       "chinese": "认为；仔细考虑",
-      "example_sentence": "Consider reading this book before the test."
+      "example_sentence": "Consider reading this book before the test.",
+      "essential": true,
+      "example_sentence_zh": "考试前不妨读读这本书。"
     },
     {
       "id": 48,
@@ -384,7 +478,9 @@
       "pronunciation": "/ˈenəmi/",
       "partOfSpeech": "n.",
       "chinese": "敌人",
-      "example_sentence": "The hero finally defeated his enemy."
+      "example_sentence": "The hero finally defeated his enemy.",
+      "essential": true,
+      "example_sentence_zh": "英雄最终击败了他的敌人。"
     },
     {
       "id": 49,
@@ -392,7 +488,9 @@
       "pronunciation": "/ˈnɔːti/",
       "partOfSpeech": "adj.",
       "chinese": "淘气的",
-      "example_sentence": "The naughty boy hid his homework under the bed."
+      "example_sentence": "The naughty boy hid his homework under the bed.",
+      "essential": true,
+      "example_sentence_zh": "淘气的男孩把作业藏在床底下。"
     },
     {
       "id": 50,
@@ -400,7 +498,9 @@
       "pronunciation": "/ˈdʒentl/",
       "partOfSpeech": "adj.",
       "chinese": "温柔的",
-      "example_sentence": "She spoke in a gentle voice to the child."
+      "example_sentence": "She spoke in a gentle voice to the child.",
+      "essential": true,
+      "example_sentence_zh": "她用温柔的声音对孩子说话。"
     },
     {
       "id": 51,
@@ -408,7 +508,9 @@
       "pronunciation": "/dɪˈfiːt/",
       "partOfSpeech": "v. & n.",
       "chinese": "击败；战胜；失败；击败",
-      "example_sentence": "Our team will defeat the champions next week."
+      "example_sentence": "Our team will defeat the champions next week.",
+      "essential": true,
+      "example_sentence_zh": "我们队下周将战胜冠军队。"
     },
     {
       "id": 52,
@@ -416,7 +518,9 @@
       "pronunciation": "/ˈbeɪsɪk/",
       "partOfSpeech": "adj.",
       "chinese": "基本的；初步的",
-      "example_sentence": "You need a basic understanding of grammar to write well."
+      "example_sentence": "You need a basic understanding of grammar to write well.",
+      "essential": true,
+      "example_sentence_zh": "要写好作文，需要掌握基本的语法。"
     },
     {
       "id": 53,
@@ -424,7 +528,9 @@
       "pronunciation": "/ˌrekəmenˈdeɪʃn/",
       "partOfSpeech": "n.",
       "chinese": "推荐；提议",
-      "example_sentence": "Thank you for your recommendation of this novel."
+      "example_sentence": "Thank you for your recommendation of this novel.",
+      "essential": true,
+      "example_sentence_zh": "谢谢你推荐这部小说。"
     },
     {
       "id": 54,
@@ -432,7 +538,9 @@
       "pronunciation": "/əˈmerɪkən/",
       "partOfSpeech": "adj. & n.",
       "chinese": "美国的；美洲的；美国人；美洲人",
-      "example_sentence": "He is reading an American classic this month."
+      "example_sentence": "He is reading an American classic this month.",
+      "essential": true,
+      "example_sentence_zh": "他这个月在读一部美国经典著作。"
     },
     {
       "id": 55,
@@ -440,7 +548,9 @@
       "pronunciation": "/bəʊn/",
       "partOfSpeech": "n.",
       "chinese": "骨头",
-      "example_sentence": "The dog buried a bone in the garden."
+      "example_sentence": "The dog buried a bone in the garden.",
+      "essential": true,
+      "example_sentence_zh": "狗在花园里埋了一根骨头。"
     },
     {
       "id": 56,
@@ -448,7 +558,9 @@
       "pronunciation": "/daʊt/",
       "partOfSpeech": "v. & n.",
       "chinese": "怀疑；疑惑；不确定",
-      "example_sentence": "I doubt that the story ends happily."
+      "example_sentence": "I doubt that the story ends happily.",
+      "essential": true,
+      "example_sentence_zh": "我怀疑这个故事会有圆满结局。"
     },
     {
       "id": 57,
@@ -456,7 +568,9 @@
       "pronunciation": "/ɪnˈspaɪə(r)/",
       "partOfSpeech": "v.",
       "chinese": "激励；鼓舞",
-      "example_sentence": "Great books inspire us to dream bigger."
+      "example_sentence": "Great books inspire us to dream bigger.",
+      "essential": true,
+      "example_sentence_zh": "好书激励我们拥有更大的梦想。"
     },
     {
       "id": 58,
@@ -464,7 +578,9 @@
       "pronunciation": "/dɪˈstrɔɪ/",
       "partOfSpeech": "v.",
       "chinese": "破坏；摧毁",
-      "example_sentence": "The fire could destroy the old library."
+      "example_sentence": "The fire could destroy the old library.",
+      "essential": true,
+      "example_sentence_zh": "大火可能会摧毁这座旧图书馆。"
     },
     {
       "id": 59,
@@ -472,7 +588,9 @@
       "pronunciation": "/ˌɪntrəˈdʌkʃn/",
       "partOfSpeech": "n.",
       "chinese": "介绍；序言",
-      "example_sentence": "The introduction explains the main ideas of the book."
+      "example_sentence": "The introduction explains the main ideas of the book.",
+      "essential": true,
+      "example_sentence_zh": "序言介绍了本书的主要观点。"
     }
   ]
 }
