@@ -1,0 +1,690 @@
+{
+  "unit": 2,
+  "title": "Unit 2",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "inspiring",
+      "pronunciation": "/ɪnˈspaɪərɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "鼓舞人心的；激励的",
+      "example_sentence": "Her inspiring speech encouraged the whole class.",
+      "essential": false
+    },
+    {
+      "id": 2,
+      "english": "admire",
+      "pronunciation": "/ədˈmaɪə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "钦佩；赞赏",
+      "example_sentence": "Many students admire scientists who work for the nation.",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "historian",
+      "pronunciation": "/hɪˈstɔːriən/",
+      "partOfSpeech": "n.",
+      "chinese": "历史学家",
+      "example_sentence": "The historian wrote about life in the last century.",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "researcher",
+      "pronunciation": "/rɪˈsɜːtʃə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "研究人员",
+      "example_sentence": "A researcher spent years studying the disease.",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "chemist",
+      "pronunciation": "/ˈkemɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "化学家",
+      "example_sentence": "The chemist made an important discovery in the lab.",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "physicist",
+      "pronunciation": "/ˈfɪzɪsɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "物理学家",
+      "example_sentence": "The physicist explored the secrets of the universe.",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "hunger",
+      "pronunciation": "/ˈhʌŋɡə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "饥饿",
+      "example_sentence": "The war brought hunger to many nations.",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "chemistry",
+      "pronunciation": "/ˈkemɪstri/",
+      "partOfSpeech": "n.",
+      "chinese": "化学",
+      "example_sentence": "She fell in love with chemistry in childhood.",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "drop out (of sth)",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "辍学；不再参加",
+      "example_sentence": "He had to drop out of school because of hunger.",
+      "essential": false
+    },
+    {
+      "id": 10,
+      "english": "calendar",
+      "pronunciation": "/ˈkælɪndə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "日历",
+      "example_sentence": "Mark the date on your calendar.",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "discovery",
+      "pronunciation": "/dɪˈskʌvəri/",
+      "partOfSpeech": "n.",
+      "chinese": "发现",
+      "example_sentence": "The discovery changed scientific history forever.",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "century",
+      "pronunciation": "/ˈsentʃəri/",
+      "partOfSpeech": "n.",
+      "chinese": "世纪",
+      "example_sentence": "Many pioneers lived in the last century.",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "wounded",
+      "pronunciation": "/ˈwuːndɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "受伤的；负伤的",
+      "example_sentence": "Brave soldiers cared for the wounded after the battle.",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "soldier",
+      "pronunciation": "/ˈsəʊldʒə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "士兵",
+      "example_sentence": "The soldier showed great courage during the war.",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "British",
+      "pronunciation": "/ˈbrɪtɪʃ/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "英国人；英国的",
+      "example_sentence": "A British researcher admired the Chinese pioneer.",
+      "essential": false
+    },
+    {
+      "id": 16,
+      "english": "airway",
+      "pronunciation": "/ˈeəweɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "（飞机的）航线；航路",
+      "example_sentence": "The airway connected the nation to the western world.",
+      "essential": false
+    },
+    {
+      "id": 17,
+      "english": "nation",
+      "pronunciation": "/ˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "国家；民族",
+      "example_sentence": "The whole nation looked up to the admirable scientist.",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "spread",
+      "pronunciation": "/spred/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "传播；散布",
+      "example_sentence": "Doctors worked to stop the spread of disease.",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "disease",
+      "pronunciation": "/dɪˈziːz/",
+      "partOfSpeech": "n.",
+      "chinese": "疾病",
+      "example_sentence": "Her research helped fight a deadly disease.",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "pioneer",
+      "pronunciation": "/ˌpaɪəˈnɪə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "先驱；先锋",
+      "example_sentence": "She was a pioneer in scientific exploration of the universe.",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "admirable",
+      "pronunciation": "/ˈædmərəbl/",
+      "partOfSpeech": "adj.",
+      "chinese": "令人钦佩的",
+      "example_sentence": "His admirable courage inspired the whole nation.",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "pyramid",
+      "pronunciation": "/ˈpɪrəmɪd/",
+      "partOfSpeech": "n.",
+      "chinese": "金字塔",
+      "example_sentence": "The ancient pyramid stood as a symbol of wisdom and balance.",
+      "essential": false
+    },
+    {
+      "id": 23,
+      "english": "balance",
+      "pronunciation": "/ˈbæləns/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "平衡；保持平衡",
+      "example_sentence": "She tried to balance scientific work with family life.",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "courage",
+      "pronunciation": "/ˈkʌrɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "勇气；勇敢",
+      "example_sentence": "It took great courage to explore the unknown western lands.",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "wisdom",
+      "pronunciation": "/ˈwɪzdəm/",
+      "partOfSpeech": "n.",
+      "chinese": "智慧；学问",
+      "example_sentence": "The historian shared the wisdom of past dynasties.",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "look up to sb",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "钦佩；仰慕",
+      "example_sentence": "Children look up to brave pioneers who never give up.",
+      "essential": false
+    },
+    {
+      "id": 27,
+      "english": "inspiration",
+      "pronunciation": "/ˌɪnspəˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "鼓舞人心的人（或事物）",
+      "example_sentence": "Her life story became an inspiration to young scientists.",
+      "essential": false
+    },
+    {
+      "id": 28,
+      "english": "brave",
+      "pronunciation": "/breɪv/",
+      "partOfSpeech": "adj. & v.",
+      "chinese": "勇敢的；无畏的；勇敢面对",
+      "example_sentence": "The brave soldier refused to leave the wounded behind.",
+      "essential": true
+    },
+    {
+      "id": 29,
+      "english": "necessary",
+      "pronunciation": "/ˈnesəsəri/",
+      "partOfSpeech": "adj.",
+      "chinese": "必要的；必需的",
+      "example_sentence": "Hard work is necessary if your dreams are to come true.",
+      "essential": true
+    },
+    {
+      "id": 30,
+      "english": "seed",
+      "pronunciation": "/siːd/",
+      "partOfSpeech": "n.",
+      "chinese": "种子",
+      "example_sentence": "A small seed of curiosity grew into a love of science.",
+      "essential": false
+    },
+    {
+      "id": 31,
+      "english": "childhood",
+      "pronunciation": "/ˈtʃaɪldhʊd/",
+      "partOfSpeech": "n.",
+      "chinese": "童年",
+      "example_sentence": "She spent her childhood listening to the radio every evening.",
+      "essential": false
+    },
+    {
+      "id": 32,
+      "english": "come true",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "实现；成为现实",
+      "example_sentence": "Her childhood dream of becoming a biologist finally came true.",
+      "essential": false
+    },
+    {
+      "id": 33,
+      "english": "dynasty",
+      "pronunciation": "/ˈdɪnəsti; ˈdaɪnəsti/",
+      "partOfSpeech": "n.",
+      "chinese": "朝代；王朝",
+      "example_sentence": "The historian studied a famous dynasty in western China.",
+      "essential": false
+    },
+    {
+      "id": 34,
+      "english": "western",
+      "pronunciation": "/ˈwestən/",
+      "partOfSpeech": "adj.",
+      "chinese": "西方的；西部的",
+      "example_sentence": "Western scientific methods spread across the nation.",
+      "essential": true
+    },
+    {
+      "id": 35,
+      "english": "scientific",
+      "pronunciation": "/ˌsaɪənˈtɪfɪk/",
+      "partOfSpeech": "adj.",
+      "chinese": "科学（上）的",
+      "example_sentence": "The researcher made a scientific discovery about the disease.",
+      "essential": true
+    },
+    {
+      "id": 36,
+      "english": "biologist",
+      "pronunciation": "/baɪˈɒlədʒɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "生物学家",
+      "example_sentence": "The biologist collected seeds from plants across the country.",
+      "essential": false
+    },
+    {
+      "id": 37,
+      "english": "whole",
+      "pronunciation": "/həʊl/",
+      "partOfSpeech": "adj.",
+      "chinese": "所有的；完全的",
+      "example_sentence": "The whole nation admired her scientific achievements.",
+      "essential": true
+    },
+    {
+      "id": 38,
+      "english": "bank",
+      "pronunciation": "/bæŋk/",
+      "partOfSpeech": "n.",
+      "chinese": "银行",
+      "example_sentence": "She saved money in the bank to fund her research.",
+      "essential": true
+    },
+    {
+      "id": 39,
+      "english": "forever",
+      "pronunciation": "/fərˈevə(r)/",
+      "partOfSpeech": "adv.",
+      "chinese": "永远",
+      "example_sentence": "Her discovery will be remembered forever.",
+      "essential": true
+    },
+    {
+      "id": 40,
+      "english": "radio",
+      "pronunciation": "/ˈreɪdiəʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "无线电；收音机",
+      "example_sentence": "He heard the news about the pioneer on the radio.",
+      "essential": true
+    },
+    {
+      "id": 41,
+      "english": "leave behind",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "留下；遗留",
+      "example_sentence": "Great scientists leave behind a collection of wisdom for us all.",
+      "essential": false
+    },
+    {
+      "id": 42,
+      "english": "collection",
+      "pronunciation": "/kəˈlekʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "收集物；收藏品",
+      "example_sentence": "The museum has a collection of scientific instruments from the last century.",
+      "essential": true
+    },
+    {
+      "id": 43,
+      "english": "live on",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "继续存在；继续活着",
+      "example_sentence": "Her inspiring spirit will live on in the hearts of students.",
+      "essential": false
+    },
+    {
+      "id": 44,
+      "english": "exploration",
+      "pronunciation": "/ˌekspləˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "探索",
+      "example_sentence": "Space exploration helps us understand the whole universe.",
+      "essential": true
+    },
+    {
+      "id": 45,
+      "english": "universe",
+      "pronunciation": "/ˈjuːnɪvɜːs/",
+      "partOfSpeech": "n.",
+      "chinese": "宇宙",
+      "example_sentence": "The physicist spent his life studying the secrets of the universe.",
+      "essential": true
+    },
+    {
+      "id": 46,
+      "english": "socialism",
+      "pronunciation": "/ˈsəʊʃəlɪzəm/",
+      "partOfSpeech": "n.",
+      "chinese": "社会主义",
+      "example_sentence": "The textbook discusses how socialism shaped the nation's history.",
+      "essential": true
+    },
+    {
+      "id": 47,
+      "english": "hole",
+      "pronunciation": "/həʊl/",
+      "partOfSpeech": "n.",
+      "chinese": "洞；孔",
+      "example_sentence": "The inventor dug a small hole to test his new idea.",
+      "essential": true
+    },
+    {
+      "id": 48,
+      "english": "daughter",
+      "pronunciation": "/ˈdɔːtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "女儿",
+      "example_sentence": "Marie Curie's daughter also became a Nobel Prize winner.",
+      "essential": true
+    },
+    {
+      "id": 49,
+      "english": "herself",
+      "pronunciation": "/hɜːˈself; həˈself/",
+      "partOfSpeech": "pron.",
+      "chinese": "她自己；她本人",
+      "example_sentence": "She taught herself chemistry during a difficult period.",
+      "essential": true
+    },
+    {
+      "id": 50,
+      "english": "flight",
+      "pronunciation": "/flaɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "飞行；航班",
+      "example_sentence": "The first flight across the ocean was an admirable achievement.",
+      "essential": true
+    },
+    {
+      "id": 51,
+      "english": "woodwork",
+      "pronunciation": "/ˈwʊdwɜːk/",
+      "partOfSpeech": "n.",
+      "chinese": "木工手艺",
+      "example_sentence": "He learned woodwork before becoming a famous inventor.",
+      "essential": false
+    },
+    {
+      "id": 52,
+      "english": "inventor",
+      "pronunciation": "/ɪnˈventə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "发明家",
+      "example_sentence": "Michael Faraday was a great inventor and scientist.",
+      "essential": true
+    },
+    {
+      "id": 53,
+      "english": "above all",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "最重要的是；尤其是",
+      "example_sentence": "Above all, we should remember their kindness to mankind.",
+      "essential": false
+    },
+    {
+      "id": 54,
+      "english": "thinker",
+      "pronunciation": "/ˈθɪŋkə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "思想家",
+      "example_sentence": "Confucius was a great thinker whose wisdom lives on forever.",
+      "essential": true
+    },
+    {
+      "id": 55,
+      "english": "period",
+      "pronunciation": "/ˈpɪəriəd/",
+      "partOfSpeech": "n.",
+      "chinese": "时期；一段时间",
+      "example_sentence": "That period of history saw many scientific discoveries.",
+      "essential": true
+    },
+    {
+      "id": 56,
+      "english": "kingdom",
+      "pronunciation": "/ˈkɪŋdəm/",
+      "partOfSpeech": "n.",
+      "chinese": "王国",
+      "example_sentence": "The ancient kingdom traded along the Silk Road.",
+      "essential": false
+    },
+    {
+      "id": 57,
+      "english": "kindness",
+      "pronunciation": "/ˈkaɪndnəs/",
+      "partOfSpeech": "n.",
+      "chinese": "善良",
+      "example_sentence": "Her kindness to wounded soldiers was truly admirable.",
+      "essential": true
+    },
+    {
+      "id": 58,
+      "english": "whether",
+      "pronunciation": "/ˈweðə(r)/",
+      "partOfSpeech": "conj.",
+      "chinese": "是否",
+      "example_sentence": "She wondered whether the discovery would change mankind forever.",
+      "essential": true
+    },
+    {
+      "id": 59,
+      "english": "mankind",
+      "pronunciation": "/mænˈkaɪnd/",
+      "partOfSpeech": "n.",
+      "chinese": "人类",
+      "example_sentence": "Scientific exploration has brought great benefits to all mankind.",
+      "essential": false
+    },
+    {
+      "id": 60,
+      "english": "Michael Faraday",
+      "pronunciation": "/ˈmaɪkl ˈfærədeɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "迈克尔·法拉第",
+      "example_sentence": "Michael Faraday was an inspiring inventor and chemist.",
+      "essential": false
+    },
+    {
+      "id": 61,
+      "english": "Marie Curie",
+      "pronunciation": "/məˈriː ˈkjʊəri/",
+      "partOfSpeech": "n.",
+      "chinese": "玛丽·居里",
+      "example_sentence": "Marie Curie won the Nobel Prize for her scientific research.",
+      "essential": false
+    },
+    {
+      "id": 62,
+      "english": "Nobel Prize",
+      "pronunciation": "/nəʊˈbel praɪz/",
+      "partOfSpeech": "n.",
+      "chinese": "诺贝尔奖",
+      "example_sentence": "She became the first woman to win a Nobel Prize.",
+      "essential": false
+    },
+    {
+      "id": 63,
+      "english": "Isaac Newton",
+      "pronunciation": "/ˈaɪzək ˈnjuːtn/",
+      "partOfSpeech": "n.",
+      "chinese": "艾萨克·牛顿",
+      "example_sentence": "Isaac Newton was a pioneer in physics and mathematics.",
+      "essential": false
+    },
+    {
+      "id": 64,
+      "english": "Isambard Brunel",
+      "pronunciation": "/ˈɪzəmbɑːd bruːˈnel/",
+      "partOfSpeech": "n.",
+      "chinese": "伊桑巴德·布鲁内尔",
+      "example_sentence": "Isambard Brunel built railways and bridges across Britain.",
+      "essential": false
+    },
+    {
+      "id": 65,
+      "english": "Alan Turing",
+      "pronunciation": "/ˈælən ˈtjʊərɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "阿兰·图灵",
+      "example_sentence": "Alan Turing was a brave thinker who changed modern science.",
+      "essential": false
+    },
+    {
+      "id": 66,
+      "english": "I.M. Pei",
+      "pronunciation": "/ˌaɪ ˈem peɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "贝聿铭",
+      "example_sentence": "I.M. Pei designed the glass pyramid at the Louvre Museum.",
+      "essential": false
+    },
+    {
+      "id": 67,
+      "english": "Louvre Museum",
+      "pronunciation": "/ˈluːvə mjuːˈziːəm/",
+      "partOfSpeech": "n.",
+      "chinese": "卢浮宫博物馆",
+      "example_sentence": "The Louvre Museum in Paris holds a famous collection of art.",
+      "essential": false
+    },
+    {
+      "id": 68,
+      "english": "Confucius",
+      "pronunciation": "/kənˈfjuːʃəs/",
+      "partOfSpeech": "n.",
+      "chinese": "孔子",
+      "example_sentence": "Confucius taught wisdom and kindness to students across the kingdom.",
+      "essential": false
+    },
+    {
+      "id": 69,
+      "english": "Victor Hugo",
+      "pronunciation": "/ˈvɪktə(r) ˈhjuːɡəʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "维克多·雨果",
+      "example_sentence": "Victor Hugo wrote inspiring novels that live on today.",
+      "essential": false
+    },
+    {
+      "id": 70,
+      "english": "Western Regions",
+      "pronunciation": "/ˈwestən ˈriːdʒənz/",
+      "partOfSpeech": "n.",
+      "chinese": "西域",
+      "example_sentence": "Traders travelled through the Western Regions on the Silk Road.",
+      "essential": false
+    },
+    {
+      "id": 71,
+      "english": "the Silk Road",
+      "pronunciation": "",
+      "partOfSpeech": "n.",
+      "chinese": "丝绸之路",
+      "example_sentence": "The Silk Road connected China with nations in the western world.",
+      "essential": false
+    },
+    {
+      "id": 72,
+      "english": "Irène",
+      "pronunciation": "/aɪˈriːn/",
+      "partOfSpeech": "n.",
+      "chinese": "艾琳",
+      "example_sentence": "Irène followed her mother Marie Curie into scientific research.",
+      "essential": false
+    },
+    {
+      "id": 73,
+      "english": "Amelia Earhart",
+      "pronunciation": "/əˈmiːliə ˈeəhɑːt/",
+      "partOfSpeech": "n.",
+      "chinese": "阿梅莉亚·埃尔哈特",
+      "example_sentence": "Amelia Earhart made a brave flight across the Atlantic Ocean.",
+      "essential": false
+    },
+    {
+      "id": 74,
+      "english": "Atlantic Ocean",
+      "pronunciation": "/ətˈlæntɪk ˈəʊʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "大西洋",
+      "example_sentence": "Pioneers crossed the Atlantic Ocean by flight for the first time.",
+      "essential": false
+    },
+    {
+      "id": 75,
+      "english": "BCE (before the Common Era)",
+      "pronunciation": "/ˌbiː siː ˈiː/",
+      "partOfSpeech": "n.",
+      "chinese": "公元前",
+      "example_sentence": "Confucius lived in China during the fifth century BCE.",
+      "essential": false
+    },
+    {
+      "id": 76,
+      "english": "the Warring States Period",
+      "pronunciation": "",
+      "partOfSpeech": "n.",
+      "chinese": "战国时期",
+      "example_sentence": "The Warring States Period was an important time in Chinese history.",
+      "essential": false
+    }
+  ]
+}

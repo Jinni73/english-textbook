@@ -1,0 +1,478 @@
+{
+  "unit": 7,
+  "title": "Unit 7 A Good Read!",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "a good read",
+      "pronunciation": "/ə ɡʊd riːd/",
+      "partOfSpeech": "phrase",
+      "chinese": "好的读物；好书（或文章等）",
+      "example_sentence": "This novel is a good read for young students."
+    },
+    {
+      "id": 2,
+      "english": "adventure",
+      "pronunciation": "/ədˈventʃə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "冒险；冒险经历",
+      "example_sentence": "The boys love an adventure story full of danger."
+    },
+    {
+      "id": 3,
+      "english": "fantasy",
+      "pronunciation": "/ˈfæntəsi/",
+      "partOfSpeech": "n.",
+      "chinese": "幻想；幻想作品",
+      "example_sentence": "She enjoys fantasy books about magic kingdoms."
+    },
+    {
+      "id": 4,
+      "english": "mystery",
+      "pronunciation": "/ˈmɪstəri/",
+      "partOfSpeech": "n.",
+      "chinese": "悬疑小说；神秘的事物；奥秘",
+      "example_sentence": "He stayed up late reading a mystery novel."
+    },
+    {
+      "id": 5,
+      "english": "fiction",
+      "pronunciation": "/ˈfɪkʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "小说",
+      "example_sentence": "The library has a large section of fiction."
+    },
+    {
+      "id": 6,
+      "english": "detective",
+      "pronunciation": "/dɪˈtektɪv/",
+      "partOfSpeech": "n.",
+      "chinese": "侦探",
+      "example_sentence": "The detective solved the case before midnight."
+    },
+    {
+      "id": 7,
+      "english": "alien",
+      "pronunciation": "/ˈeɪliən/",
+      "partOfSpeech": "n.",
+      "chinese": "外星人",
+      "example_sentence": "The science fiction story is about an alien visitor."
+    },
+    {
+      "id": 8,
+      "english": "attack",
+      "pronunciation": "/əˈtæk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "攻击；进攻",
+      "example_sentence": "The hero had to attack the enemy at dawn."
+    },
+    {
+      "id": 9,
+      "english": "hear of",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "听说；得知",
+      "example_sentence": "Have you ever heard of this famous writer?"
+    },
+    {
+      "id": 10,
+      "english": "kingdom",
+      "pronunciation": "/ˈkɪŋdəm/",
+      "partOfSpeech": "n.",
+      "chinese": "王国",
+      "example_sentence": "The prince ruled a peaceful kingdom in the story."
+    },
+    {
+      "id": 11,
+      "english": "historical",
+      "pronunciation": "/hɪˈstɒrɪkl/",
+      "partOfSpeech": "adj.",
+      "chinese": "历史的；有关历史的",
+      "example_sentence": "She prefers historical novels set in ancient times."
+    },
+    {
+      "id": 12,
+      "english": "force",
+      "pronunciation": "/fɔːs/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "强迫；迫使；用力推动；力；武力",
+      "example_sentence": "Nothing can force me to stop reading this book."
+    },
+    {
+      "id": 13,
+      "english": "steal",
+      "pronunciation": "/stiːl/",
+      "partOfSpeech": "v.",
+      "chinese": "偷；窃取",
+      "example_sentence": "The thief tried to steal gold from the castle."
+    },
+    {
+      "id": 14,
+      "english": "punish",
+      "pronunciation": "/ˈpʌnɪʃ/",
+      "partOfSpeech": "v.",
+      "chinese": "惩罚；处罚",
+      "example_sentence": "The king will punish anyone who breaks the law."
+    },
+    {
+      "id": 15,
+      "english": "idiom",
+      "pronunciation": "/ˈɪdiəm/",
+      "partOfSpeech": "n.",
+      "chinese": "习语；成语",
+      "example_sentence": "We learned an idiom from the English textbook."
+    },
+    {
+      "id": 16,
+      "english": "recently",
+      "pronunciation": "/ˈriːsntli/",
+      "partOfSpeech": "adv.",
+      "chinese": "最近；不久前",
+      "example_sentence": "I recently finished a book about space travel."
+    },
+    {
+      "id": 17,
+      "english": "lost",
+      "pronunciation": "/lɒst/",
+      "partOfSpeech": "adj.",
+      "chinese": "迷路的；丢失的；失去的",
+      "example_sentence": "The main character felt lost in the big city."
+    },
+    {
+      "id": 18,
+      "english": "get lost",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "迷路",
+      "example_sentence": "Be careful not to get lost in the forest."
+    },
+    {
+      "id": 19,
+      "english": "recommend",
+      "pronunciation": "/ˌrekəˈmend/",
+      "partOfSpeech": "v.",
+      "chinese": "推荐；建议",
+      "example_sentence": "The librarian will recommend a book for you."
+    },
+    {
+      "id": 20,
+      "english": "society",
+      "pronunciation": "/səˈsaɪəti/",
+      "partOfSpeech": "n.",
+      "chinese": "社会；社团",
+      "example_sentence": "The story shows how society changed over time."
+    },
+    {
+      "id": 21,
+      "english": "literary",
+      "pronunciation": "/ˈlɪtərəri/",
+      "partOfSpeech": "adj.",
+      "chinese": "文学的；文学上的",
+      "example_sentence": "She won a prize for her literary work."
+    },
+    {
+      "id": 22,
+      "english": "base",
+      "pronunciation": "/beɪs/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "以……为据点；根基；基础；根据地",
+      "example_sentence": "The film is based on a true story."
+    },
+    {
+      "id": 23,
+      "english": "base sth on sth",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "以……为基础（或根据）",
+      "example_sentence": "Writers often base stories on real events."
+    },
+    {
+      "id": 24,
+      "english": "summary",
+      "pronunciation": "/ˈsʌməri/",
+      "partOfSpeech": "n.",
+      "chinese": "总结；概要",
+      "example_sentence": "Write a short summary of the chapter you read."
+    },
+    {
+      "id": 25,
+      "english": "spoiled",
+      "pronunciation": "/spɔɪld/",
+      "partOfSpeech": "adj.",
+      "chinese": "宠坏的；娇惯坏的",
+      "example_sentence": "The spoiled boy never shared his toys."
+    },
+    {
+      "id": 26,
+      "english": "selfish",
+      "pronunciation": "/ˈselfɪʃ/",
+      "partOfSpeech": "adj.",
+      "chinese": "自私的",
+      "example_sentence": "A selfish person thinks only about himself."
+    },
+    {
+      "id": 27,
+      "english": "painful",
+      "pronunciation": "/ˈpeɪnfl/",
+      "partOfSpeech": "adj.",
+      "chinese": "令人痛苦的；（身体部位）疼痛的",
+      "example_sentence": "Saying goodbye at the end was a painful moment."
+    },
+    {
+      "id": 28,
+      "english": "lock",
+      "pronunciation": "/lɒk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "用锁锁上；锁",
+      "example_sentence": "Please lock the door before you leave."
+    },
+    {
+      "id": 29,
+      "english": "lock up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "锁好（建筑物的）门",
+      "example_sentence": "Remember to lock up the library at night."
+    },
+    {
+      "id": 30,
+      "english": "unlock",
+      "pronunciation": "/ʌnˈlɒk/",
+      "partOfSpeech": "v.",
+      "chinese": "开……的锁；发现；揭开",
+      "example_sentence": "She used a key to unlock the hidden room."
+    },
+    {
+      "id": 31,
+      "english": "hidden",
+      "pronunciation": "/ˈhɪdn/",
+      "partOfSpeech": "adj.",
+      "chinese": "隐藏的；秘密的",
+      "example_sentence": "They found a hidden message in the old book."
+    },
+    {
+      "id": 32,
+      "english": "nobody",
+      "pronunciation": "/ˈnəʊbədi/",
+      "partOfSpeech": "pron.",
+      "chinese": "没有人；谁也不",
+      "example_sentence": "Nobody knew the secret of the treasure."
+    },
+    {
+      "id": 33,
+      "english": "therefore",
+      "pronunciation": "/ˈðeəfɔː(r)/",
+      "partOfSpeech": "adv.",
+      "chinese": "因此；所以",
+      "example_sentence": "The hero was brave; therefore, the people trusted him."
+    },
+    {
+      "id": 34,
+      "english": "state",
+      "pronunciation": "/steɪt/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "状态；国家；州；陈述；说明",
+      "example_sentence": "Please state your opinion clearly in the essay."
+    },
+    {
+      "id": 35,
+      "english": "weak",
+      "pronunciation": "/wiːk/",
+      "partOfSpeech": "adj.",
+      "chinese": "虚弱的；（能力）弱的",
+      "example_sentence": "He was too weak to lift the heavy box."
+    },
+    {
+      "id": 36,
+      "english": "since",
+      "pronunciation": "/sɪns/",
+      "partOfSpeech": "prep., adv. & conj.",
+      "chinese": "自……以后；从……以来；既然；由于",
+      "example_sentence": "I have loved reading since I was six."
+    },
+    {
+      "id": 37,
+      "english": "secretly",
+      "pronunciation": "/ˈsiːkrətli/",
+      "partOfSpeech": "adv.",
+      "chinese": "秘密地",
+      "example_sentence": "She secretly read the letter behind the door."
+    },
+    {
+      "id": 38,
+      "english": "prove",
+      "pronunciation": "/pruːv/",
+      "partOfSpeech": "v.",
+      "chinese": "证明；证实；显示是",
+      "example_sentence": "The facts will prove that he is innocent."
+    },
+    {
+      "id": 39,
+      "english": "get to one's feet",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "站起身来",
+      "example_sentence": "The soldier got to his feet and continued the fight."
+    },
+    {
+      "id": 40,
+      "english": "day by day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "一天天；逐日",
+      "example_sentence": "Day by day, the story became more exciting."
+    },
+    {
+      "id": 41,
+      "english": "build-up",
+      "pronunciation": "/ˈbɪld ʌp/",
+      "partOfSpeech": "n.",
+      "chinese": "准备期；准备过程",
+      "example_sentence": "The build-up to the final battle was thrilling."
+    },
+    {
+      "id": 42,
+      "english": "climax",
+      "pronunciation": "/ˈklaɪmæks/",
+      "partOfSpeech": "n.",
+      "chinese": "高潮；极点",
+      "example_sentence": "The climax of the novel kept me on the edge of my seat."
+    },
+    {
+      "id": 43,
+      "english": "effect",
+      "pronunciation": "/ɪˈfekt/",
+      "partOfSpeech": "n.",
+      "chinese": "影响；结果",
+      "example_sentence": "The book had a deep effect on my thinking."
+    },
+    {
+      "id": 44,
+      "english": "in time",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "及时；来得及",
+      "example_sentence": "They arrived in time to save the village."
+    },
+    {
+      "id": 45,
+      "english": "reader",
+      "pronunciation": "/ˈriːdə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "读者；简易读物",
+      "example_sentence": "Every reader will find something to enjoy here."
+    },
+    {
+      "id": 46,
+      "english": "librarian",
+      "pronunciation": "/laɪˈbreəriən/",
+      "partOfSpeech": "n.",
+      "chinese": "图书管理员；图书馆馆长",
+      "example_sentence": "The librarian helped me choose a good read."
+    },
+    {
+      "id": 47,
+      "english": "consider",
+      "pronunciation": "/kənˈsɪdə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "认为；仔细考虑",
+      "example_sentence": "Consider reading this book before the test."
+    },
+    {
+      "id": 48,
+      "english": "enemy",
+      "pronunciation": "/ˈenəmi/",
+      "partOfSpeech": "n.",
+      "chinese": "敌人",
+      "example_sentence": "The hero finally defeated his enemy."
+    },
+    {
+      "id": 49,
+      "english": "naughty",
+      "pronunciation": "/ˈnɔːti/",
+      "partOfSpeech": "adj.",
+      "chinese": "淘气的",
+      "example_sentence": "The naughty boy hid his homework under the bed."
+    },
+    {
+      "id": 50,
+      "english": "gentle",
+      "pronunciation": "/ˈdʒentl/",
+      "partOfSpeech": "adj.",
+      "chinese": "温柔的",
+      "example_sentence": "She spoke in a gentle voice to the child."
+    },
+    {
+      "id": 51,
+      "english": "defeat",
+      "pronunciation": "/dɪˈfiːt/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "击败；战胜；失败；击败",
+      "example_sentence": "Our team will defeat the champions next week."
+    },
+    {
+      "id": 52,
+      "english": "basic",
+      "pronunciation": "/ˈbeɪsɪk/",
+      "partOfSpeech": "adj.",
+      "chinese": "基本的；初步的",
+      "example_sentence": "You need a basic understanding of grammar to write well."
+    },
+    {
+      "id": 53,
+      "english": "recommendation",
+      "pronunciation": "/ˌrekəmenˈdeɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "推荐；提议",
+      "example_sentence": "Thank you for your recommendation of this novel."
+    },
+    {
+      "id": 54,
+      "english": "American",
+      "pronunciation": "/əˈmerɪkən/",
+      "partOfSpeech": "adj. & n.",
+      "chinese": "美国的；美洲的；美国人；美洲人",
+      "example_sentence": "He is reading an American classic this month."
+    },
+    {
+      "id": 55,
+      "english": "bone",
+      "pronunciation": "/bəʊn/",
+      "partOfSpeech": "n.",
+      "chinese": "骨头",
+      "example_sentence": "The dog buried a bone in the garden."
+    },
+    {
+      "id": 56,
+      "english": "doubt",
+      "pronunciation": "/daʊt/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "怀疑；疑惑；不确定",
+      "example_sentence": "I doubt that the story ends happily."
+    },
+    {
+      "id": 57,
+      "english": "inspire",
+      "pronunciation": "/ɪnˈspaɪə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "激励；鼓舞",
+      "example_sentence": "Great books inspire us to dream bigger."
+    },
+    {
+      "id": 58,
+      "english": "destroy",
+      "pronunciation": "/dɪˈstrɔɪ/",
+      "partOfSpeech": "v.",
+      "chinese": "破坏；摧毁",
+      "example_sentence": "The fire could destroy the old library."
+    },
+    {
+      "id": 59,
+      "english": "introduction",
+      "pronunciation": "/ˌɪntrəˈdʌkʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "介绍；序言",
+      "example_sentence": "The introduction explains the main ideas of the book."
+    }
+  ]
+}

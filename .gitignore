@@ -1,0 +1,5 @@
+# Generated locally by TTS scripts — not published in this data repo
+**/audio/
+**/listening-audio/
+
+.DS_Store

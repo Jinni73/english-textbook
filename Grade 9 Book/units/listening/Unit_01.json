@@ -1,0 +1,187 @@
+{
+  "unit": 1,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "The Changing World",
+      "subtitle": "Section A, 1b",
+      "instruction": "Listen to a telephone conversation. Then answer the questions.",
+      "speakers": [
+        { "id": "li_rui", "name": "Li Rui", "voice": "en-GB-SoniaNeural" },
+        { "id": "george", "name": "George", "voice": "en-GB-RyanNeural" }
+      ],
+      "lines": [
+        { "speaker": "li_rui", "text": "Hello, George." },
+        {
+          "speaker": "george",
+          "text": "Hi, Li Rui. Guess what? My father, Bob, and I are going to visit your hometown. Could you be our guide?"
+        },
+        { "speaker": "li_rui", "text": "Sure! I'd love to!" },
+        {
+          "speaker": "george",
+          "text": "Wonderful! You know, my father's last visit was about 20 years ago. He became a good friend of your grandfather."
+        },
+        {
+          "speaker": "li_rui",
+          "text": "Grandpa will be so happy. They haven't seen each other for ages!"
+        },
+        {
+          "speaker": "george",
+          "text": "Yes, and my father really wants to see how the place has changed since he last visited."
+        }
+      ],
+      "questions": [
+        { "id": 1, "prompt": "Why does George call Li Rui?" },
+        {
+          "id": 2,
+          "prompt": "What is the relationship between George's father and Li Rui's grandfather?"
+        },
+        { "id": 3, "prompt": "When did George's father last visit the place?" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Changing World",
+      "subtitle": "Section A, 1c",
+      "instruction": "Li Rui is now showing George and his father around her hometown. Listen to their conversation and complete the table.",
+      "speakers": [
+        { "id": "li_rui", "name": "Li Rui", "voice": "en-GB-SoniaNeural" },
+        { "id": "george", "name": "George", "voice": "en-GB-RyanNeural" },
+        { "id": "bob", "name": "Bob", "voice": "en-GB-ThomasNeural" }
+      ],
+      "lines": [
+        { "speaker": "li_rui", "text": "What do you think of your trip so far?" },
+        {
+          "speaker": "bob",
+          "text": "Amazing! When I first visited here, it took half a day to reach the town. Now, with the new roads, it takes only an hour."
+        },
+        {
+          "speaker": "li_rui",
+          "text": "Yes. When I was a child, the bus took nearly 40 minutes over rough roads to get to school. Now, it takes only 15 minutes."
+        },
+        { "speaker": "george", "text": "Life is much easier!" },
+        {
+          "speaker": "li_rui",
+          "text": "Not only that. We used to have to travel far to see a doctor, but now our town has built a new hospital."
+        },
+        { "speaker": "bob", "text": "Great! And didn't I see a supermarket down the street?" },
+        {
+          "speaker": "li_rui",
+          "text": "Yes. We didn't have any good places for shopping until 10 years ago."
+        },
+        {
+          "speaker": "bob",
+          "text": "But the biggest change is on the hills. They used to be covered with sand."
+        },
+        {
+          "speaker": "li_rui",
+          "text": "And now they have been covered with beautiful trees!"
+        }
+      ],
+      "questions": [],
+      "exercise": {
+        "type": "fill_table",
+        "columnLabels": { "past": "Past", "present": "Present" },
+        "rows": [
+          {
+            "id": 1,
+            "past": {
+              "before": "It took ",
+              "after": " to reach the town.",
+              "answers": ["half a day"]
+            },
+            "present": {
+              "before": "With the new roads, it takes only ",
+              "after": ".",
+              "answers": ["an hour", "one hour", "1 hour"]
+            }
+          },
+          {
+            "id": 2,
+            "past": {
+              "before": "Going to school by bus took ",
+              "after": " over rough roads.",
+              "answers": ["nearly 40 minutes", "40 minutes"]
+            },
+            "present": {
+              "before": "Going to school takes only ",
+              "after": ".",
+              "answers": ["15 minutes"]
+            }
+          },
+          {
+            "id": 3,
+            "past": {
+              "before": "They used to ",
+              "after": " to see a doctor.",
+              "answers": ["travel far", "have to travel far"]
+            },
+            "present": {
+              "before": "The town has built a new ",
+              "after": ".",
+              "answers": ["hospital"]
+            }
+          },
+          {
+            "id": 4,
+            "past": {
+              "before": "They didn't have ",
+              "after": " for shopping.",
+              "answers": ["any good places", "good places"]
+            },
+            "present": {
+              "before": "They now have a ",
+              "after": " down the street.",
+              "answers": ["supermarket"]
+            }
+          },
+          {
+            "id": 5,
+            "past": {
+              "before": "The hills were covered with ",
+              "after": ".",
+              "answers": ["sand"]
+            },
+            "present": {
+              "before": "They are now covered with ",
+              "after": ".",
+              "answers": ["beautiful trees", "trees"]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "The Changing World",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        { "id": "bob", "name": "Bob", "voice": "en-GB-RyanNeural" },
+        { "id": "grandpa", "name": "Grandpa", "voice": "en-GB-ThomasNeural" }
+      ],
+      "lines": [
+        { "speaker": "bob", "text": "I'm amazed by how green your hometown has become!" },
+        {
+          "speaker": "grandpa",
+          "text": "Have you seen the corn fields outside of the town yet?"
+        },
+        { "speaker": "bob", "text": "Yeah! They're huge!" },
+        {
+          "speaker": "grandpa",
+          "text": "There used to be sandstorms all the time, and the fields were getting smaller and smaller. Then, after one big sandstorm, we decided to do something."
+        },
+        { "speaker": "bob", "text": "What did you do?" },
+        {
+          "speaker": "grandpa",
+          "text": "We found a small bush. It had long roots that could hold the soil together. We began planting it in sandy areas. The government provided support too."
+        },
+        { "speaker": "bob", "text": "Wasn't it difficult to plant so many bushes?" },
+        {
+          "speaker": "grandpa",
+          "text": "Yes, it was. At the beginning, we worked by hand. Later, we had machines to help. We have planted many bushes and trees since then. There are fewer sandstorms now and the environment is getting better. It has also improved our lives. Everyone has become richer and happier."
+        }
+      ],
+      "questions": []
+    }
+  ]
+}

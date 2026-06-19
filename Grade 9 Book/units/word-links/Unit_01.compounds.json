@@ -1,0 +1,199 @@
+{
+  "unit": 1,
+  "bookId": "grade-9",
+  "updatedAt": "2026-06-18",
+  "entries": {
+    "4": {
+      "vocabularyId": 4,
+      "english": "sandstorm",
+      "parts": [
+        {
+          "form": "sand",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "very small grains of rock found on beaches and in deserts",
+          "glossZh": "沙；沙子",
+          "color": "teal"
+        },
+        {
+          "form": "storm",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "very bad weather with strong wind and rain or snow",
+          "glossZh": "暴风雨；风暴",
+          "color": "orange"
+        }
+      ],
+      "note": "From sand + storm — a storm that carries sand through the air.",
+      "reviewed": true
+    },
+    "5": {
+      "vocabularyId": 5,
+      "english": "farmland",
+      "parts": [
+        {
+          "form": "farm",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "an area of land used for growing crops or raising animals",
+          "glossZh": "农场；农田",
+          "color": "teal"
+        },
+        {
+          "form": "land",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "the surface of the earth that is not covered by water",
+          "glossZh": "土地；陆地",
+          "color": "orange"
+        }
+      ],
+      "note": "From farm + land — land used for farming.",
+      "reviewed": true
+    },
+    "15": {
+      "vocabularyId": 15,
+      "english": "high-tech",
+      "parts": [
+        {
+          "form": "high",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "advanced or at a high level",
+          "glossZh": "高级的；先进的",
+          "color": "teal"
+        },
+        {
+          "form": "tech",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "short for technology; modern equipment and methods",
+          "glossZh": "技术（technology 的缩写）",
+          "color": "orange"
+        }
+      ],
+      "note": "From high + tech — using advanced technology.",
+      "reviewed": true
+    },
+    "16": {
+      "vocabularyId": 16,
+      "english": "greenhouse",
+      "parts": [
+        {
+          "form": "green",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "of the colour green; relating to plants or the environment",
+          "glossZh": "绿色的；与植物/环境相关的",
+          "color": "teal"
+        },
+        {
+          "form": "house",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a building for people or a specific use",
+          "glossZh": "房子；建筑物",
+          "color": "orange"
+        }
+      ],
+      "note": "From green + house — a building for growing plants.",
+      "reviewed": true
+    },
+    "17": {
+      "vocabularyId": 17,
+      "english": "highway",
+      "parts": [
+        {
+          "form": "high",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "main or important; raised above the ground",
+          "glossZh": "主要的；高处的",
+          "color": "teal"
+        },
+        {
+          "form": "way",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a road, path, or route for travel",
+          "glossZh": "路；道路",
+          "color": "orange"
+        }
+      ],
+      "note": "From high + way — a main public road, especially between cities.",
+      "reviewed": true
+    },
+    "18": {
+      "vocabularyId": 18,
+      "english": "railway",
+      "parts": [
+        {
+          "form": "rail",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the metal tracks that trains run on",
+          "glossZh": "铁轨；轨道",
+          "color": "teal"
+        },
+        {
+          "form": "way",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a route or path for travel",
+          "glossZh": "路；线路",
+          "color": "orange"
+        }
+      ],
+      "note": "From rail + way — a system of tracks and trains for transport.",
+      "reviewed": true
+    },
+    "23": {
+      "vocabularyId": 23,
+      "english": "e-payment",
+      "parts": [
+        {
+          "form": "e",
+          "role": "modifier",
+          "pos": "prefix",
+          "glossEn": "short for electronic; done using computers or the internet",
+          "glossZh": "电子的（electronic 的缩写）",
+          "color": "teal"
+        },
+        {
+          "form": "payment",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "money paid for goods or services",
+          "glossZh": "付款；支付",
+          "color": "orange"
+        }
+      ],
+      "note": "From e- + payment — paying online or by digital means.",
+      "reviewed": true
+    },
+    "46": {
+      "vocabularyId": 46,
+      "english": "man-made",
+      "parts": [
+        {
+          "form": "man",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a human being; relating to people rather than nature",
+          "glossZh": "人；人类的",
+          "color": "teal"
+        },
+        {
+          "form": "made",
+          "role": "head",
+          "pos": "v.",
+          "glossEn": "past participle of make; produced or created",
+          "glossZh": "制造的（make 的过去分词）",
+          "color": "orange"
+        }
+      ],
+      "note": "From man + made — created by people, not occurring naturally.",
+      "reviewed": true
+    }
+  }
+}

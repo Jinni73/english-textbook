@@ -1,0 +1,483 @@
+{
+  "unit": 1,
+  "title": "Unit 1",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "bring about",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "带来；引起",
+      "example_sentence": "This policy will bring about significant changes.",
+      "essential": false
+    },
+    {
+      "id": 2,
+      "english": "rough",
+      "pronunciation": "/rʌf/",
+      "partOfSpeech": "adj.",
+      "chinese": "崎岖的",
+      "example_sentence": "The rough terrain made the journey difficult.",
+      "essential": false
+    },
+    {
+      "id": 3,
+      "english": "be covered with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "被...覆盖",
+      "example_sentence": "The ground was covered with snow.",
+      "essential": false
+    },
+    {
+      "id": 4,
+      "english": "sandstorm",
+      "pronunciation": "/'sændstɔːm/",
+      "partOfSpeech": "n.",
+      "chinese": "沙尘暴",
+      "example_sentence": "A powerful sandstorm swept across the desert.",
+      "essential": false
+    },
+    {
+      "id": 5,
+      "english": "farmland",
+      "pronunciation": "/'fɑːmlænd/",
+      "partOfSpeech": "n.",
+      "chinese": "农田",
+      "example_sentence": "Large areas of farmland are being developed.",
+      "essential": false
+    },
+    {
+      "id": 6,
+      "english": "shortage",
+      "pronunciation": "/'ʃɔːrtɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "短缺",
+      "example_sentence": "There is a shortage of fresh water in the region.",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "lack",
+      "pronunciation": "/læk/",
+      "partOfSpeech": "n.",
+      "chinese": "缺乏",
+      "example_sentence": "The lack of rainfall caused a drought.",
+      "essential": false
+    },
+    {
+      "id": 8,
+      "english": "bush",
+      "pronunciation": "/bʊʃ/",
+      "partOfSpeech": "n.",
+      "chinese": "灌木",
+      "example_sentence": "A small bush grew near the path.",
+      "essential": false
+    },
+    {
+      "id": 9,
+      "english": "root",
+      "pronunciation": "/ruːt/",
+      "partOfSpeech": "n.",
+      "chinese": "根",
+      "example_sentence": "The tree's roots extended deep into the soil.",
+      "essential": false
+    },
+    {
+      "id": 10,
+      "english": "soil",
+      "pronunciation": "/sɔɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "土壤",
+      "example_sentence": "Rich soil is essential for growing crops.",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "sandy",
+      "pronunciation": "/'sændi/",
+      "partOfSpeech": "adj.",
+      "chinese": "铺满沙子的；含沙的",
+      "example_sentence": "The sandy beach was perfect for a vacation.",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "government",
+      "pronunciation": "/'gʌvərnmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "政府",
+      "example_sentence": "The government implemented new environmental policies.",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "support",
+      "pronunciation": "/sə'pɔːrt/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "支持",
+      "example_sentence": "We support sustainable development.",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "corn",
+      "pronunciation": "/kɔːrn/",
+      "partOfSpeech": "n.",
+      "chinese": "玉米；谷物",
+      "example_sentence": "Corn is one of the most important crops worldwide.",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "high-tech",
+      "pronunciation": "/ˌhaɪ'tek/",
+      "partOfSpeech": "adj.",
+      "chinese": "高科技的",
+      "example_sentence": "The company uses high-tech equipment in manufacturing.",
+      "essential": false
+    },
+    {
+      "id": 16,
+      "english": "greenhouse",
+      "pronunciation": "/'griːnhaʊs/",
+      "partOfSpeech": "n.",
+      "chinese": "温室",
+      "example_sentence": "Vegetables grow in the greenhouse year-round.",
+      "essential": false
+    },
+    {
+      "id": 17,
+      "english": "highway",
+      "pronunciation": "/'haɪweɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "公路",
+      "example_sentence": "The highway connects the two major cities.",
+      "essential": false
+    },
+    {
+      "id": 18,
+      "english": "railway",
+      "pronunciation": "/'reɪlweɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "铁路",
+      "example_sentence": "The railway network expanded to rural areas.",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "attraction",
+      "pronunciation": "/ə'trækʃən/",
+      "partOfSpeech": "n.",
+      "chinese": "向往的地方；吸引力",
+      "example_sentence": "The national park is a major tourist attraction.",
+      "essential": false
+    },
+    {
+      "id": 20,
+      "english": "product",
+      "pronunciation": "/'prɑːdʌkt/",
+      "partOfSpeech": "n.",
+      "chinese": "产品",
+      "example_sentence": "Our company produces high-quality products.",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "greatly",
+      "pronunciation": "/'greɪtli/",
+      "partOfSpeech": "adv.",
+      "chinese": "大大地；非常",
+      "example_sentence": "The new technology has greatly improved productivity.",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "socialist",
+      "pronunciation": "/'soʊʃəlɪst/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "社会主义者；社会主义的",
+      "example_sentence": "Socialist policies aim to reduce inequality.",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "e-payment",
+      "pronunciation": "/'iː'peɪmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "电子支付",
+      "example_sentence": "E-payment services have become increasingly popular.",
+      "essential": false
+    },
+    {
+      "id": 24,
+      "english": "housing",
+      "pronunciation": "/'haʊzɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "住房；住宅",
+      "example_sentence": "Affordable housing is a major concern for the government.",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "digital",
+      "pronunciation": "/'dɪdʒɪtəl/",
+      "partOfSpeech": "adj.",
+      "chinese": "电子的",
+      "example_sentence": "Digital technology has transformed education.",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "audio",
+      "pronunciation": "/'ɔːdioʊ/",
+      "partOfSpeech": "adj. & n.",
+      "chinese": "音频的；音频",
+      "example_sentence": "The audio quality of the recording is excellent.",
+      "essential": false
+    },
+    {
+      "id": 27,
+      "english": "dirt",
+      "pronunciation": "/dɜːrt/",
+      "partOfSpeech": "n.",
+      "chinese": "泥土；污垢",
+      "example_sentence": "Heavy rain turned the dirt road into mud.",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "track",
+      "pronunciation": "/træk/",
+      "partOfSpeech": "n.",
+      "chinese": "小路；轨道",
+      "example_sentence": "The railway track runs through the savanna.",
+      "essential": false
+    },
+    {
+      "id": 29,
+      "english": "wide",
+      "pronunciation": "/waɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "宽的；宽阔的",
+      "example_sentence": "The new highway is wide enough for two lorries.",
+      "essential": true
+    },
+    {
+      "id": 30,
+      "english": "link",
+      "pronunciation": "/lɪŋk/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "交通路线；联系；连接",
+      "example_sentence": "The railway links the port to the capital.",
+      "essential": false
+    },
+    {
+      "id": 31,
+      "english": "port",
+      "pronunciation": "/pɔːrt/",
+      "partOfSpeech": "n.",
+      "chinese": "港口",
+      "example_sentence": "Goods from abroad arrive at the port every day.",
+      "essential": false
+    },
+    {
+      "id": 32,
+      "english": "capital",
+      "pronunciation": "/ˈkæpɪtl/",
+      "partOfSpeech": "n.",
+      "chinese": "首都",
+      "example_sentence": "Nairobi is the capital of Kenya.",
+      "essential": true
+    },
+    {
+      "id": 33,
+      "english": "Kenyan",
+      "pronunciation": "/ˈkenjən/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "肯尼亚人；肯尼亚的",
+      "example_sentence": "Many Kenyan workers helped build the railway.",
+      "essential": false
+    },
+    {
+      "id": 34,
+      "english": "benefit",
+      "pronunciation": "/ˈbenɪfɪt/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "优势；益处；使受益",
+      "example_sentence": "The new railway will benefit local villagers.",
+      "essential": false
+    },
+    {
+      "id": 35,
+      "english": "be happy with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "对……感到满意",
+      "example_sentence": "The manager is happy with the team's progress.",
+      "essential": false
+    },
+    {
+      "id": 36,
+      "english": "convenient",
+      "pronunciation": "/kənˈviːniənt/",
+      "partOfSpeech": "adj.",
+      "chinese": "方便的",
+      "example_sentence": "E-payment makes shopping more convenient.",
+      "essential": true
+    },
+    {
+      "id": 37,
+      "english": "business",
+      "pronunciation": "/ˈbɪznəs/",
+      "partOfSpeech": "n.",
+      "chinese": "生意；商业",
+      "example_sentence": "The port supports many small businesses.",
+      "essential": true
+    },
+    {
+      "id": 38,
+      "english": "ease",
+      "pronunciation": "/iːz/",
+      "partOfSpeech": "n.",
+      "chinese": "容易；自在",
+      "example_sentence": "Digital tools brought ease to daily work.",
+      "essential": true
+    },
+    {
+      "id": 39,
+      "english": "with ease",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "轻而易举地",
+      "example_sentence": "She completed the difficult task with ease.",
+      "essential": false
+    },
+    {
+      "id": 40,
+      "english": "lorry",
+      "pronunciation": "/ˈlɒri/",
+      "partOfSpeech": "n.",
+      "chinese": "卡车",
+      "example_sentence": "A lorry carried corn from the farmland to the city.",
+      "essential": false
+    },
+    {
+      "id": 41,
+      "english": "manager",
+      "pronunciation": "/ˈmænɪdʒər/",
+      "partOfSpeech": "n.",
+      "chinese": "经理",
+      "example_sentence": "The station manager checked the timetable.",
+      "essential": true
+    },
+    {
+      "id": 42,
+      "english": "conclusion",
+      "pronunciation": "/kənˈkluːʒn/",
+      "partOfSpeech": "n.",
+      "chinese": "结论",
+      "example_sentence": "In conclusion, the project greatly improved transport.",
+      "essential": false
+    },
+    {
+      "id": 43,
+      "english": "narrow",
+      "pronunciation": "/ˈnærəʊ/",
+      "partOfSpeech": "adj.",
+      "chinese": "狭窄的",
+      "example_sentence": "The narrow track was hard for wide lorries to pass.",
+      "essential": true
+    },
+    {
+      "id": 44,
+      "english": "villager",
+      "pronunciation": "/ˈvɪlɪdʒə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "村民",
+      "example_sentence": "Villagers welcomed the new railway station.",
+      "essential": true
+    },
+    {
+      "id": 45,
+      "english": "the Olympics",
+      "pronunciation": "/əˈlɪmpɪks/",
+      "partOfSpeech": "n.",
+      "chinese": "奥林匹克运动会",
+      "example_sentence": "Kenyan runners have won many medals at the Olympics.",
+      "essential": true
+    },
+    {
+      "id": 46,
+      "english": "man-made",
+      "pronunciation": "/ˌmænˈmeɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "人造的；非天然的",
+      "example_sentence": "The lake is a man-made reservoir for the city.",
+      "essential": false
+    },
+    {
+      "id": 47,
+      "english": "miracle",
+      "pronunciation": "/ˈmɪrəkl/",
+      "partOfSpeech": "n.",
+      "chinese": "奇迹",
+      "example_sentence": "Many people called the recovery a miracle.",
+      "essential": false
+    },
+    {
+      "id": 48,
+      "english": "lead",
+      "pronunciation": "/liːd/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "带领；领先地位；主角",
+      "example_sentence": "Kenya took the lead in building the new railway.",
+      "essential": true
+    },
+    {
+      "id": 49,
+      "english": "junior",
+      "pronunciation": "/ˈdʒuːniər/",
+      "partOfSpeech": "adj.",
+      "chinese": "低年级的；初级的",
+      "example_sentence": "She teaches in a junior school near the railway station.",
+      "essential": true
+    },
+    {
+      "id": 50,
+      "english": "flat",
+      "pronunciation": "/flæt/",
+      "partOfSpeech": "n.",
+      "chinese": "公寓",
+      "example_sentence": "Many workers rent a flat close to the port.",
+      "essential": true
+    },
+    {
+      "id": 51,
+      "english": "discussion",
+      "pronunciation": "/dɪˈskʌʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "讨论",
+      "example_sentence": "The class had a lively discussion about Kenya's development.",
+      "essential": true
+    },
+    {
+      "id": 52,
+      "english": "aspect",
+      "pronunciation": "/ˈæspekt/",
+      "partOfSpeech": "n.",
+      "chinese": "方面",
+      "example_sentence": "Transport is a key aspect of the country's growth.",
+      "essential": false
+    },
+    {
+      "id": 53,
+      "english": "Mombasa",
+      "pronunciation": "/mɒmˈbɑːsə/",
+      "partOfSpeech": "n.",
+      "chinese": "蒙巴萨",
+      "example_sentence": "The railway connects Nairobi to the port city of Mombasa.",
+      "essential": false
+    }
+  ]
+}
