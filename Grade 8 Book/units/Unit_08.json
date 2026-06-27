@@ -1,0 +1,454 @@
+{
+  "unit": 8,
+  "title": "Unit 8 Making a Difference",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "make a difference",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "有作用；有影响",
+      "example_sentence": "Volunteering can make a difference in your community."
+    },
+    {
+      "id": 2,
+      "english": "visitor",
+      "pronunciation": "/ˈvɪzɪtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "参观者；来访者",
+      "example_sentence": "The guide showed the visitors around the stadium."
+    },
+    {
+      "id": 3,
+      "english": "elderly",
+      "pronunciation": "/ˈeldəli/",
+      "partOfSpeech": "adj.",
+      "chinese": "年纪较大的；上了年纪的",
+      "example_sentence": "We should respect elderly people in our neighbourhood."
+    },
+    {
+      "id": 4,
+      "english": "the elderly",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "老人；上了年纪的人",
+      "example_sentence": "The charity provides meals for the elderly."
+    },
+    {
+      "id": 5,
+      "english": "organization",
+      "pronunciation": "/ˌɔːɡənaɪˈzeɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "组织；团体；机构",
+      "example_sentence": "She works for a volunteer organization in the city."
+    },
+    {
+      "id": 6,
+      "english": "stadium",
+      "pronunciation": "/ˈsteɪdiəm/",
+      "partOfSpeech": "n.",
+      "chinese": "体育馆；运动场",
+      "example_sentence": "Students helped clean up the stadium after the event."
+    },
+    {
+      "id": 7,
+      "english": "provide",
+      "pronunciation": "/prəˈvaɪd/",
+      "partOfSpeech": "v.",
+      "chinese": "提供；给予",
+      "example_sentence": "The shelter can provide food for people in need."
+    },
+    {
+      "id": 8,
+      "english": "can",
+      "pronunciation": "/kæn/",
+      "partOfSpeech": "n.",
+      "chinese": "罐（装食品或饮品的金属罐）；一罐（的量）",
+      "example_sentence": "He collected empty cans for recycling."
+    },
+    {
+      "id": 9,
+      "english": "owner",
+      "pronunciation": "/ˈəʊnə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "主人；物主",
+      "example_sentence": "The owner of the dog thanked the volunteers warmly."
+    },
+    {
+      "id": 10,
+      "english": "cage",
+      "pronunciation": "/keɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "笼子",
+      "example_sentence": "The animal shelter cleaned every cage carefully."
+    },
+    {
+      "id": 11,
+      "english": "donation",
+      "pronunciation": "/dəʊˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "捐赠物（可数）；捐赠（行为，不可数）",
+      "example_sentence": "Thank you for your generous donation to the charity."
+    },
+    {
+      "id": 12,
+      "english": "shelter",
+      "pronunciation": "/ˈʃeltə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "庇护所；居所",
+      "example_sentence": "Many volunteers work at the animal shelter on weekends."
+    },
+    {
+      "id": 13,
+      "english": "interviewer",
+      "pronunciation": "/ˈɪntəvjuːə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "面试官；采访者",
+      "example_sentence": "The interviewer asked about her volunteer experience."
+    },
+    {
+      "id": 14,
+      "english": "youth",
+      "pronunciation": "/juːθ/",
+      "partOfSpeech": "n.",
+      "chinese": "青年；青年时期",
+      "example_sentence": "In his youth, he dreamed of joining the army."
+    },
+    {
+      "id": 15,
+      "english": "nursing home",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "养老院",
+      "example_sentence": "They visit the nursing home every Sunday afternoon."
+    },
+    {
+      "id": 16,
+      "english": "active",
+      "pronunciation": "/ˈæktɪv/",
+      "partOfSpeech": "adj.",
+      "chinese": "活跃的；积极的",
+      "example_sentence": "She stays active by helping out at school events."
+    },
+    {
+      "id": 17,
+      "english": "come along",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "赶快；跟着来",
+      "example_sentence": "Come along — we need more hands to hand out flyers."
+    },
+    {
+      "id": 18,
+      "english": "army",
+      "pronunciation": "/ˈɑːmi/",
+      "partOfSpeech": "n.",
+      "chinese": "军队",
+      "example_sentence": "His elder brother decided to join the army."
+    },
+    {
+      "id": 19,
+      "english": "soldier",
+      "pronunciation": "/ˈsəʊldʒə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "军人；士兵",
+      "example_sentence": "The soldier spoke warmly to the children in the audience."
+    },
+    {
+      "id": 20,
+      "english": "primary",
+      "pronunciation": "/ˈpraɪməri/",
+      "partOfSpeech": "adj.",
+      "chinese": "小学教育的；首要的",
+      "example_sentence": "Helping others is her primary goal this year."
+    },
+    {
+      "id": 21,
+      "english": "help out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "分担工作；帮忙做",
+      "example_sentence": "Could you help out at the charity sale on Saturday?"
+    },
+    {
+      "id": 22,
+      "english": "charity",
+      "pronunciation": "/ˈtʃærəti/",
+      "partOfSpeech": "n.",
+      "chinese": "慈善机构（或组织）；慈善事业",
+      "example_sentence": "The local charity raised money for families in need."
+    },
+    {
+      "id": 23,
+      "english": "warmly",
+      "pronunciation": "/ˈwɔːmli/",
+      "partOfSpeech": "adv.",
+      "chinese": "热情地；温暖地",
+      "example_sentence": "The lady welcomed the volunteers warmly."
+    },
+    {
+      "id": 24,
+      "english": "lady",
+      "pronunciation": "/ˈleɪdi/",
+      "partOfSpeech": "n.",
+      "chinese": "女士；淑女",
+      "example_sentence": "An elderly lady thanked them for the donation."
+    },
+    {
+      "id": 25,
+      "english": "gentleman",
+      "pronunciation": "/ˈdʒentlmən/",
+      "partOfSpeech": "n.",
+      "chinese": "先生；君子",
+      "example_sentence": "The gentleman offered to help carry the boxes."
+    },
+    {
+      "id": 26,
+      "english": "bark",
+      "pronunciation": "/bɑːk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "（狗）吠叫；狗叫声",
+      "example_sentence": "The dog began to bark at the visitors."
+    },
+    {
+      "id": 27,
+      "english": "sign up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "报名",
+      "example_sentence": "Many students signed up for the volunteer programme."
+    },
+    {
+      "id": 28,
+      "english": "ever since",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "自从；自……以后",
+      "example_sentence": "Ever since that day, she has volunteered every week."
+    },
+    {
+      "id": 29,
+      "english": "adult",
+      "pronunciation": "/ˈædʌlt/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "成年人；成年的；成熟的",
+      "example_sentence": "Every adult can make a difference in the community."
+    },
+    {
+      "id": 30,
+      "english": "missing",
+      "pronunciation": "/ˈmɪsɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "失踪的；丢失的",
+      "example_sentence": "The poster asked people to look for a missing cat."
+    },
+    {
+      "id": 31,
+      "english": "practical",
+      "pronunciation": "/ˈpræktɪkl/",
+      "partOfSpeech": "adj.",
+      "chinese": "实用的；实际的",
+      "example_sentence": "She gave us practical advice on teamwork."
+    },
+    {
+      "id": 32,
+      "english": "life-saving",
+      "pronunciation": "/ˈlaɪf seɪvɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "救命的；救生的",
+      "example_sentence": "The volunteers learned basic life-saving skills."
+    },
+    {
+      "id": 33,
+      "english": "teamwork",
+      "pronunciation": "/ˈtiːmwɜːk/",
+      "partOfSpeech": "n.",
+      "chinese": "团队合作",
+      "example_sentence": "Good teamwork helped them finish the project successfully."
+    },
+    {
+      "id": 34,
+      "english": "successful",
+      "pronunciation": "/səkˈsesfl/",
+      "partOfSpeech": "adj.",
+      "chinese": "成功的；有成就的",
+      "example_sentence": "The charity event was successful thanks to many volunteers."
+    },
+    {
+      "id": 35,
+      "english": "most of all",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "最主要的是",
+      "example_sentence": "Most of all, she wanted to help people in need."
+    },
+    {
+      "id": 36,
+      "english": "value",
+      "pronunciation": "/ˈvæljuː/",
+      "partOfSpeech": "n.",
+      "chinese": "重要作用；价值",
+      "example_sentence": "Volunteer work has great value for society."
+    },
+    {
+      "id": 37,
+      "english": "voluntary",
+      "pronunciation": "/ˈvɒləntri/",
+      "partOfSpeech": "adj.",
+      "chinese": "自愿的；无偿的",
+      "example_sentence": "She does voluntary work at the nursing home."
+    },
+    {
+      "id": 38,
+      "english": "ordinary",
+      "pronunciation": "/ˈɔːdnri/",
+      "partOfSpeech": "adj.",
+      "chinese": "平凡的；普通的",
+      "example_sentence": "An ordinary person can still make a big difference."
+    },
+    {
+      "id": 39,
+      "english": "worth",
+      "pronunciation": "/wɜːθ/",
+      "partOfSpeech": "adj.",
+      "chinese": "值得；有价值",
+      "example_sentence": "This book is worth reading for every student."
+    },
+    {
+      "id": 40,
+      "english": "audience",
+      "pronunciation": "/ˈɔːdiəns/",
+      "partOfSpeech": "n.",
+      "chinese": "听众；观众",
+      "example_sentence": "The audience clapped warmly after the speech."
+    },
+    {
+      "id": 41,
+      "english": "willing",
+      "pronunciation": "/ˈwɪlɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "乐意的；愿意的",
+      "example_sentence": "She is willing to help out whenever people are in need."
+    },
+    {
+      "id": 42,
+      "english": "on the go",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在忙碌中",
+      "example_sentence": "He is always on the go, visiting schools and charities."
+    },
+    {
+      "id": 43,
+      "english": "in need",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "需要帮助的；生活困难的",
+      "example_sentence": "The organization supports families in need."
+    },
+    {
+      "id": 44,
+      "english": "completely",
+      "pronunciation": "/kəmˈpliːtli/",
+      "partOfSpeech": "adv.",
+      "chinese": "完全地；彻底地",
+      "example_sentence": "We completely agree that teamwork matters."
+    },
+    {
+      "id": 45,
+      "english": "success",
+      "pronunciation": "/səkˈses/",
+      "partOfSpeech": "n.",
+      "chinese": "成功",
+      "example_sentence": "Their success came from years of hard effort."
+    },
+    {
+      "id": 46,
+      "english": "elder",
+      "pronunciation": "/ˈeldə(r)/",
+      "partOfSpeech": "adj.",
+      "chinese": "（两人中）年纪较长的（尤指哥哥姐姐）",
+      "example_sentence": "My elder sister volunteers at the animal shelter."
+    },
+    {
+      "id": 47,
+      "english": "donate",
+      "pronunciation": "/dəʊˈneɪt/",
+      "partOfSpeech": "v.",
+      "chinese": "捐赠；赠送",
+      "example_sentence": "Many people donate clothes to the charity."
+    },
+    {
+      "id": 48,
+      "english": "pocket",
+      "pronunciation": "/ˈpɒkɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "口袋",
+      "example_sentence": "He kept some pocket money for donations."
+    },
+    {
+      "id": 49,
+      "english": "pocket money",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "零花钱",
+      "example_sentence": "She used her pocket money to buy food for the shelter."
+    },
+    {
+      "id": 50,
+      "english": "effort",
+      "pronunciation": "/ˈefət/",
+      "partOfSpeech": "n.",
+      "chinese": "努力；艰难的尝试",
+      "example_sentence": "They made an effort to hand out warm meals."
+    },
+    {
+      "id": 51,
+      "english": "hand out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "分发",
+      "example_sentence": "Volunteers hand out water to visitors at the stadium."
+    },
+    {
+      "id": 52,
+      "english": "familiar with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "通晓；熟悉",
+      "example_sentence": "Are you familiar with the rules of the organization?"
+    },
+    {
+      "id": 53,
+      "english": "etc.",
+      "pronunciation": "/ɪtˈsetərə/",
+      "partOfSpeech": "adv.",
+      "chinese": "等等；以及诸如此类",
+      "example_sentence": "We need pens, paper, tape, etc. for the event."
+    },
+    {
+      "id": 54,
+      "english": "talent",
+      "pronunciation": "/ˈtælənt/",
+      "partOfSpeech": "n.",
+      "chinese": "才能；天赋；天才",
+      "example_sentence": "She used her talent to design an advertisement for the charity."
+    },
+    {
+      "id": 55,
+      "english": "madam",
+      "pronunciation": "/ˈmædəm/",
+      "partOfSpeech": "n.",
+      "chinese": "（正式、礼貌的称呼）女士；夫人",
+      "example_sentence": "Good morning, madam. May I help you with the donation?"
+    },
+    {
+      "id": 56,
+      "english": "advertisement",
+      "pronunciation": "/ədˈvɜːtɪsmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "（= ad）广告；启事",
+      "example_sentence": "The advertisement encouraged young people to sign up."
+    }
+  ]
+}
