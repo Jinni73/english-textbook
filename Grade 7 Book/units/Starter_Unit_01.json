@@ -188,6 +188,7 @@
       "pronunciation": "/ˌpiː ɑː ˈsiː/",
       "partOfSpeech": "n.",
       "chinese": "中华人民共和国",
+      "acronym_expansion": "People's Republic of China",
       "example_sentence": "PRC stands for the People's Republic of China.",
       "essential": false,
       "example_sentence_zh": "PRC 代表中华人民共和国。"
@@ -198,6 +199,7 @@
       "pronunciation": "/ˌpiː el ˈeɪ/",
       "partOfSpeech": "n.",
       "chinese": "中国人民解放军",
+      "acronym_expansion": "People's Liberation Army",
       "example_sentence": "PLA is the abbreviation for the People's Liberation Army.",
       "essential": false,
       "example_sentence_zh": "PLA 是中国人民解放军的缩写。"
@@ -208,6 +210,7 @@
       "pronunciation": "/ˌviː ˈɑː(r)/",
       "partOfSpeech": "n.",
       "chinese": "虚拟现实",
+      "acronym_expansion": "Virtual Reality",
       "example_sentence": "Some students tried a VR lesson in the computer room.",
       "essential": false,
       "example_sentence_zh": "一些同学在电脑室体验了 VR 课程。"
@@ -218,6 +221,7 @@
       "pronunciation": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
       "partOfSpeech": "n.",
       "chinese": "世界卫生组织",
+      "acronym_expansion": "World Health Organization",
       "example_sentence": "WHO works to improve health around the world.",
       "essential": false,
       "example_sentence_zh": "世界卫生组织致力于改善全球健康。"
@@ -228,6 +232,7 @@
       "pronunciation": "/ˌjuː ˈen/",
       "partOfSpeech": "n.",
       "chinese": "联合国",
+      "acronym_expansion": "United Nations",
       "example_sentence": "The UN helps countries work together on big problems.",
       "essential": false,
       "example_sentence_zh": "联合国帮助各国共同应对重大问题。"

@@ -318,6 +318,7 @@
       "pronunciation": "/ˌjuː 'keɪ/",
       "partOfSpeech": "n.",
       "chinese": "英国",
+      "acronym_expansion": "United Kingdom",
       "essential": false,
       "example_sentence": "London is the capital of the UK.",
       "example_sentence_zh": "伦敦是英国的首都。"
@@ -328,6 +329,7 @@
       "pronunciation": "/ˌjuː 'es/",
       "partOfSpeech": "n.",
       "chinese": "美国",
+      "acronym_expansion": "United States",
       "essential": false,
       "example_sentence": "My pen pal lives in the US.",
       "example_sentence_zh": "我的笔友住在美国。"

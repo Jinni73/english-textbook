@@ -18,6 +18,7 @@
       "pronunciation": "/ˌaɪ 'tiː/",
       "partOfSpeech": "n.",
       "chinese": "信息技术",
+      "acronym_expansion": "Information Technology",
       "essential": true,
       "example_sentence": "We learn IT in a smart computer room.",
       "example_sentence_zh": "我们在智能机房里学信息技术。"
@@ -168,6 +169,7 @@
       "pronunciation": "/ˌeɪ 'em/",
       "partOfSpeech": "n.",
       "chinese": "上午",
+      "acronym_expansion": "ante meridiem",
       "essential": true,
       "example_sentence": "Biology class starts at 8 AM.",
       "example_sentence_zh": "生物课上午八点开始。"
@@ -178,6 +180,7 @@
       "pronunciation": "/ˌpiː 'em/",
       "partOfSpeech": "n.",
       "chinese": "下午；午后",
+      "acronym_expansion": "post meridiem",
       "essential": true,
       "example_sentence": "We have geography at 2 PM on Friday.",
       "example_sentence_zh": "我们周五下午两点上地理课。"
