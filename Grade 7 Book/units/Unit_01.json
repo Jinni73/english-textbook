@@ -9,7 +9,7 @@
       "partOfSpeech": "phrase",
       "chinese": "交朋友",
       "example_sentence": "It is easy to make friends when you greet people kindly.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "友好地打招呼时很容易交到朋友。"
     },
     {
@@ -19,7 +19,7 @@
       "partOfSpeech": "phrase",
       "chinese": "认识；了解",
       "example_sentence": "We get to know each other on the first day of school.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "我们在开学第一天互相认识了解。"
     },
     {
@@ -39,7 +39,7 @@
       "partOfSpeech": "phrase",
       "chinese": "全名",
       "example_sentence": "My full name is Zhang Wei, but you can call me Wei.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "我的全名是张伟，但你可以叫我伟。"
     },
     {
@@ -59,7 +59,7 @@
       "partOfSpeech": "phrase",
       "chinese": "姓氏",
       "example_sentence": "Brown is his last name.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "Brown 是他的姓。"
     },
     {
@@ -79,8 +79,418 @@
       "partOfSpeech": "phrase",
       "chinese": "班主任",
       "example_sentence": "Our class teacher helps us get to know the school rules.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "我们的班主任帮助我们了解校规。"
+    },
+    {
+      "id": 9,
+      "english": "first name",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "名字",
+      "essential": false,
+      "example_sentence": "My first name is Tom, and my last name is Smith.",
+      "example_sentence_zh": "我的名字是 Tom，姓是 Smith。"
+    },
+    {
+      "id": 10,
+      "english": "mistake",
+      "pronunciation": "/mɪ'steɪk/",
+      "partOfSpeech": "n.",
+      "chinese": "错误；失误",
+      "essential": true,
+      "example_sentence": "Everyone makes a mistake when they learn a new language.",
+      "example_sentence_zh": "每个人学新语言时都会犯错。"
+    },
+    {
+      "id": 11,
+      "english": "country",
+      "pronunciation": "/'kʌntri/",
+      "partOfSpeech": "n.",
+      "chinese": "国家",
+      "essential": true,
+      "example_sentence": "Australia is a beautiful country with many unique animals.",
+      "example_sentence_zh": "澳大利亚是一个有许多独特动物的美丽国家。"
+    },
+    {
+      "id": 12,
+      "english": "same",
+      "pronunciation": "/seɪm/",
+      "partOfSpeech": "adj.",
+      "chinese": "相同的",
+      "essential": true,
+      "example_sentence": "We are in the same class and share the same hobby.",
+      "example_sentence_zh": "我们在同一个班，有相同的爱好。"
+    },
+    {
+      "id": 13,
+      "english": "twin",
+      "pronunciation": "/twɪn/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "双胞胎之一；双胞胎之一的",
+      "essential": true,
+      "example_sentence": "Lisa and Sally are twin sisters in our grade.",
+      "example_sentence_zh": "莉萨和萨莉是我们年级的一对双胞胎姐妹。"
+    },
+    {
+      "id": 14,
+      "english": "both",
+      "pronunciation": "/bəʊθ/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "两个；两个都",
+      "essential": true,
+      "example_sentence": "Both Tom and I play tennis after school.",
+      "example_sentence_zh": "汤姆和我放学后都打网球。"
+    },
+    {
+      "id": 15,
+      "english": "band",
+      "pronunciation": "/bænd/",
+      "partOfSpeech": "n.",
+      "chinese": "乐队",
+      "essential": true,
+      "example_sentence": "Pauline plays the guitar in the school band.",
+      "example_sentence_zh": "保利娜在学校乐队里弹吉他。"
+    },
+    {
+      "id": 16,
+      "english": "pot",
+      "pronunciation": "/pɒt/",
+      "partOfSpeech": "n.",
+      "chinese": "锅",
+      "essential": true,
+      "example_sentence": "We put hot pot in a big pot on the table.",
+      "example_sentence_zh": "我们把火锅放在桌上的大锅里。"
+    },
+    {
+      "id": 17,
+      "english": "a lot",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "很；非常",
+      "essential": false,
+      "example_sentence": "I like Beijing roast duck a lot.",
+      "example_sentence_zh": "我非常喜欢北京烤鸭。"
+    },
+    {
+      "id": 18,
+      "english": "tofu",
+      "pronunciation": "/'təʊfuː/",
+      "partOfSpeech": "n.",
+      "chinese": "豆腐",
+      "essential": true,
+      "example_sentence": "Mapo tofu is a famous dish from China.",
+      "example_sentence_zh": "麻婆豆腐是一道来自中国的名菜。"
+    },
+    {
+      "id": 19,
+      "english": "parrot",
+      "pronunciation": "/'pærət/",
+      "partOfSpeech": "n.",
+      "chinese": "鹦鹉",
+      "essential": true,
+      "example_sentence": "Coco has a colourful parrot that can say hello.",
+      "example_sentence_zh": "科科有一只会说“你好”的彩色鹦鹉。"
+    },
+    {
+      "id": 20,
+      "english": "guitar",
+      "pronunciation": "/ɡɪ'tɑː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "吉他",
+      "essential": true,
+      "example_sentence": "Would you like to play the guitar with me?",
+      "example_sentence_zh": "你愿意和我一起弹吉他吗？"
+    },
+    {
+      "id": 21,
+      "english": "tennis",
+      "pronunciation": "/'tenɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "网球运动",
+      "essential": true,
+      "example_sentence": "Tom plays tennis in the park every day.",
+      "example_sentence_zh": "汤姆每天都在公园打网球。"
+    },
+    {
+      "id": 22,
+      "english": "page",
+      "pronunciation": "/peɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "页面；（书刊或纸张）页",
+      "essential": true,
+      "example_sentence": "Please turn to page twenty-four in your book.",
+      "example_sentence_zh": "请把书翻到第二十四页。"
+    },
+    {
+      "id": 23,
+      "english": "even",
+      "pronunciation": "/'iːvn/",
+      "partOfSpeech": "adv.",
+      "chinese": "甚至；连；愈加",
+      "essential": true,
+      "example_sentence": "She can play chess and even Chinese chess.",
+      "example_sentence_zh": "她会下国际象棋，甚至会下中国象棋。"
+    },
+    {
+      "id": 24,
+      "english": "hey",
+      "pronunciation": "/heɪ/",
+      "partOfSpeech": "interj.",
+      "chinese": "嘿；喂",
+      "essential": false,
+      "example_sentence": "Hey, would you like some information about our hobby club?",
+      "example_sentence_zh": "嘿，你想了解一下我们兴趣小组的信息吗？"
+    },
+    {
+      "id": 25,
+      "english": "play the guitar",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "弹吉他",
+      "essential": false,
+      "example_sentence": "Pauline loves to play the guitar after class.",
+      "example_sentence_zh": "保利娜下课后喜欢弹吉他。"
+    },
+    {
+      "id": 26,
+      "english": "would",
+      "pronunciation": "/wʊd; wəd/",
+      "partOfSpeech": "modal v.",
+      "chinese": "想（用于礼貌地邀请或向某人提供某物）；将会",
+      "essential": true,
+      "example_sentence": "Would you like to tell me about your country?",
+      "example_sentence_zh": "你愿意跟我讲讲你的国家吗？"
+    },
+    {
+      "id": 27,
+      "english": "would like to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "表示愿意、喜欢",
+      "essential": false,
+      "example_sentence": "I would like to make friends with students from the UK.",
+      "example_sentence_zh": "我想和来自英国的学生交朋友。"
+    },
+    {
+      "id": 28,
+      "english": "information",
+      "pronunciation": "/ˌɪnfə'meɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "信息；消息",
+      "essential": true,
+      "example_sentence": "Please write your hobby information on this page.",
+      "example_sentence_zh": "请在这一页写下你的爱好信息。"
+    },
+    {
+      "id": 29,
+      "english": "hobby",
+      "pronunciation": "/'hɒbi/",
+      "partOfSpeech": "n.",
+      "chinese": "业余爱好",
+      "essential": true,
+      "example_sentence": "My hobby is tennis, and my twin brother likes chess.",
+      "example_sentence_zh": "我的爱好是网球，我的双胞胎哥哥喜欢下棋。"
+    },
+    {
+      "id": 30,
+      "english": "re",
+      "pronunciation": "/riː/",
+      "partOfSpeech": "prep.",
+      "chinese": "（用于回复电子邮件）关于；事由",
+      "essential": false,
+      "example_sentence": "Re: hobby club — thanks for your information.",
+      "example_sentence_zh": "回复：兴趣小组——谢谢你的信息。"
+    },
+    {
+      "id": 31,
+      "english": "Green",
+      "pronunciation": "/ɡriːn/",
+      "partOfSpeech": "n.",
+      "chinese": "格林",
+      "essential": false,
+      "example_sentence": "Mr Green is our class teacher from the UK.",
+      "example_sentence_zh": "格林先生是来自英国的我们的班主任。"
+    },
+    {
+      "id": 32,
+      "english": "UK",
+      "pronunciation": "/ˌjuː 'keɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "英国",
+      "essential": false,
+      "example_sentence": "London is the capital of the UK.",
+      "example_sentence_zh": "伦敦是英国的首都。"
+    },
+    {
+      "id": 33,
+      "english": "US",
+      "pronunciation": "/ˌjuː 'es/",
+      "partOfSpeech": "n.",
+      "chinese": "美国",
+      "essential": false,
+      "example_sentence": "My pen pal lives in the US.",
+      "example_sentence_zh": "我的笔友住在美国。"
+    },
+    {
+      "id": 34,
+      "english": "Smith",
+      "pronunciation": "/smɪθ/",
+      "partOfSpeech": "n.",
+      "chinese": "史密斯",
+      "essential": false,
+      "example_sentence": "Tom Smith is a new student in our class.",
+      "example_sentence_zh": "汤姆·史密斯是我们班的新同学。"
+    },
+    {
+      "id": 35,
+      "english": "Lisa",
+      "pronunciation": "/'liːsə/",
+      "partOfSpeech": "n.",
+      "chinese": "莉萨",
+      "essential": false,
+      "example_sentence": "Lisa and I have the same hobby.",
+      "example_sentence_zh": "莉萨和我有相同的爱好。"
+    },
+    {
+      "id": 36,
+      "english": "Tom",
+      "pronunciation": "/tɒm/",
+      "partOfSpeech": "n.",
+      "chinese": "汤姆",
+      "essential": false,
+      "example_sentence": "Tom would like to play ping-pong with us.",
+      "example_sentence_zh": "汤姆想和我们一起打乒乓球。"
+    },
+    {
+      "id": 37,
+      "english": "hot pot",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "火锅",
+      "essential": false,
+      "example_sentence": "We eat hot pot with tofu and vegetables.",
+      "example_sentence_zh": "我们吃火锅时配豆腐和蔬菜。"
+    },
+    {
+      "id": 38,
+      "english": "Sally",
+      "pronunciation": "/'sæli/",
+      "partOfSpeech": "n.",
+      "chinese": "萨莉",
+      "essential": false,
+      "example_sentence": "Sally is from Sydney, Australia.",
+      "example_sentence_zh": "萨莉来自澳大利亚悉尼。"
+    },
+    {
+      "id": 39,
+      "english": "Wood",
+      "pronunciation": "/wʊd/",
+      "partOfSpeech": "n.",
+      "chinese": "伍德",
+      "essential": false,
+      "example_sentence": "Mr Wood teaches us English this year.",
+      "example_sentence_zh": "伍德先生今年教我们英语。"
+    },
+    {
+      "id": 40,
+      "english": "Sydney",
+      "pronunciation": "/'sɪdni/",
+      "partOfSpeech": "n.",
+      "chinese": "悉尼（澳大利亚城市）",
+      "essential": false,
+      "example_sentence": "Sydney is a big city in Australia.",
+      "example_sentence_zh": "悉尼是澳大利亚的一座城市。"
+    },
+    {
+      "id": 41,
+      "english": "Australia",
+      "pronunciation": "/ɒ'streɪliə/",
+      "partOfSpeech": "n.",
+      "chinese": "澳大利亚",
+      "essential": false,
+      "example_sentence": "Australia is Sally's country.",
+      "example_sentence_zh": "澳大利亚是萨莉的祖国。"
+    },
+    {
+      "id": 42,
+      "english": "Mapo tofu",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "麻婆豆腐",
+      "essential": false,
+      "example_sentence": "Mapo tofu tastes spicy and delicious.",
+      "example_sentence_zh": "麻婆豆腐又辣又好吃。"
+    },
+    {
+      "id": 43,
+      "english": "Beijing roast duck",
+      "pronunciation": "/rəʊst/",
+      "partOfSpeech": "phrase",
+      "chinese": "北京烤鸭",
+      "essential": false,
+      "example_sentence": "Beijing roast duck is famous around the world.",
+      "example_sentence_zh": "北京烤鸭闻名世界。"
+    },
+    {
+      "id": 44,
+      "english": "Singapore",
+      "pronunciation": "/ˌsɪŋə'pɔː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "新加坡",
+      "essential": false,
+      "example_sentence": "Lee moved to Singapore last year.",
+      "example_sentence_zh": "李去年搬到了新加坡。"
+    },
+    {
+      "id": 45,
+      "english": "the Great Wall",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "长城",
+      "essential": false,
+      "example_sentence": "We visited the Great Wall during the holiday.",
+      "example_sentence_zh": "假期里我们参观了长城。"
+    },
+    {
+      "id": 46,
+      "english": "Pauline",
+      "pronunciation": "/pɔː'liːn/",
+      "partOfSpeech": "n.",
+      "chinese": "保利娜",
+      "essential": false,
+      "example_sentence": "Pauline plays the guitar in the school band.",
+      "example_sentence_zh": "保利娜在学校乐队里弹吉他。"
+    },
+    {
+      "id": 47,
+      "english": "Lee",
+      "pronunciation": "/liː/",
+      "partOfSpeech": "n.",
+      "chinese": "李",
+      "essential": false,
+      "example_sentence": "Lee and Coco are good friends.",
+      "example_sentence_zh": "李和科科是好朋友。"
+    },
+    {
+      "id": 48,
+      "english": "Coco",
+      "pronunciation": "/'kəʊkəʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "科科",
+      "essential": false,
+      "example_sentence": "Coco keeps a parrot at home.",
+      "example_sentence_zh": "科科在家养了一只鹦鹉。"
+    },
+    {
+      "id": 49,
+      "english": "London",
+      "pronunciation": "/'lʌndən/",
+      "partOfSpeech": "n.",
+      "chinese": "伦敦（英国首都）",
+      "essential": false,
+      "example_sentence": "London is a city in the UK.",
+      "example_sentence_zh": "伦敦是英国的一座城市。"
     }
   ]
 }

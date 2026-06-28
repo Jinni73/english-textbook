@@ -69,7 +69,7 @@
       "partOfSpeech": "phrase",
       "chinese": "互相；彼此",
       "example_sentence": "They wave and greet each other every morning.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "他们每天早上挥手互致问候。"
     },
     {

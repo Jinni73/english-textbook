@@ -59,7 +59,7 @@
       "partOfSpeech": "phrase",
       "chinese": "别客气；不用谢。",
       "example_sentence": "Thank you for your help. — You're welcome.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "谢谢你的帮助。——别客气。"
     }
   ]

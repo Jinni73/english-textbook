@@ -1,0 +1,446 @@
+{
+  "unit": 9,
+  "title": "Unit 6",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "make use of",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "使用……；利用……",
+      "essential": false,
+      "example_sentence": "Make use of your free time to join a club.",
+      "example_sentence_zh": "利用空闲时间参加一个俱乐部。"
+    },
+    {
+      "id": 2,
+      "english": "quarter",
+      "pronunciation": "/ˈkwɔːtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "一刻钟；四等分之一",
+      "essential": true,
+      "example_sentence": "I get up a quarter past six every day.",
+      "example_sentence_zh": "我每天六点一刻起床。"
+    },
+    {
+      "id": 3,
+      "english": "shower",
+      "pronunciation": "/ˈʃaʊə(r)/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "淋浴；淋浴器；阵雨；洗淋浴",
+      "essential": true,
+      "example_sentence": "I take a shower before breakfast.",
+      "example_sentence_zh": "我早餐前洗个淋浴。"
+    },
+    {
+      "id": 4,
+      "english": "take a shower",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "淋浴",
+      "essential": false,
+      "example_sentence": "Timo takes a shower at quarter to seven.",
+      "example_sentence_zh": "蒂莫六点四十五分淋浴。"
+    },
+    {
+      "id": 5,
+      "english": "get dressed",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "穿衣服",
+      "essential": false,
+      "example_sentence": "Get dressed quickly after your shower.",
+      "example_sentence_zh": "淋浴后快点穿好衣服。"
+    },
+    {
+      "id": 6,
+      "english": "brush",
+      "pronunciation": "/brʌʃ/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "（用刷子）刷；刷子；画笔",
+      "essential": true,
+      "example_sentence": "Brush your teeth twice a day.",
+      "example_sentence_zh": "每天刷两次牙。"
+    },
+    {
+      "id": 7,
+      "english": "tooth",
+      "pronunciation": "/tuːθ/",
+      "partOfSpeech": "n.",
+      "chinese": "牙齿",
+      "essential": true,
+      "example_sentence": "Each tooth needs careful brushing.",
+      "example_sentence_zh": "每颗牙都要认真刷。"
+    },
+    {
+      "id": 8,
+      "english": "duty",
+      "pronunciation": "/ˈdjuːti/",
+      "partOfSpeech": "n.",
+      "chinese": "值班；职责",
+      "essential": true,
+      "example_sentence": "I am on duty in the dining hall today.",
+      "example_sentence_zh": "今天我在餐厅值班。"
+    },
+    {
+      "id": 9,
+      "english": "on duty",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "值班",
+      "essential": false,
+      "example_sentence": "Students on duty arrive at school early.",
+      "example_sentence_zh": "值日的学生很早到校。"
+    },
+    {
+      "id": 10,
+      "english": "usually",
+      "pronunciation": "/ˈjuːʒuəli/",
+      "partOfSpeech": "adv.",
+      "chinese": "通常地；一般地",
+      "essential": true,
+      "example_sentence": "I usually finish homework before dinner.",
+      "example_sentence_zh": "我通常在晚饭前完成作业。"
+    },
+    {
+      "id": 11,
+      "english": "get up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "起床；站起",
+      "essential": false,
+      "example_sentence": "Halla gets up at six on weekdays.",
+      "example_sentence_zh": "哈拉平日六点起床。"
+    },
+    {
+      "id": 12,
+      "english": "reporter",
+      "pronunciation": "/rɪˈpɔːtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "记者",
+      "essential": true,
+      "example_sentence": "The reporter writes news about school life.",
+      "example_sentence_zh": "这位记者采访关于校园生活的新闻。"
+    },
+    {
+      "id": 13,
+      "english": "around",
+      "pronunciation": "/əˈraʊnd/",
+      "partOfSpeech": "adv. & prep.",
+      "chinese": "大约；环绕；到处",
+      "essential": true,
+      "example_sentence": "Children play outside around four o'clock.",
+      "example_sentence_zh": "孩子们四点左右在外面玩。"
+    },
+    {
+      "id": 14,
+      "english": "homework",
+      "pronunciation": "/ˈhəʊmwɜːk/",
+      "partOfSpeech": "n.",
+      "chinese": "家庭作业",
+      "essential": true,
+      "example_sentence": "Finish your homework before you go to bed.",
+      "example_sentence_zh": "睡觉前完成家庭作业。"
+    },
+    {
+      "id": 15,
+      "english": "go to bed",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "上床睡觉",
+      "essential": false,
+      "example_sentence": "I go to bed at nine on school nights.",
+      "example_sentence_zh": "上学日晚上我九点睡觉。"
+    },
+    {
+      "id": 16,
+      "english": "saying",
+      "pronunciation": "/ˈseɪɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "谚语；格言",
+      "essential": false,
+      "example_sentence": "There is a Finnish saying about daily routine.",
+      "example_sentence_zh": "芬兰有一句关于日常作息的谚语。"
+    },
+    {
+      "id": 17,
+      "english": "rise",
+      "pronunciation": "/raɪz/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "起床；升起；增长；增加；增强",
+      "essential": true,
+      "example_sentence": "The sun rises early in Helsinki in summer.",
+      "example_sentence_zh": "夏天赫尔辛基日出很早。"
+    },
+    {
+      "id": 18,
+      "english": "stay",
+      "pronunciation": "/steɪ/",
+      "partOfSpeech": "v.",
+      "chinese": "停留；待",
+      "essential": false,
+      "example_sentence": "Stay at home when it is dark outside.",
+      "example_sentence_zh": "外面天黑时待在家里。"
+    },
+    {
+      "id": 19,
+      "english": "routine",
+      "pronunciation": "/ruːˈtiːn/",
+      "partOfSpeech": "n.",
+      "chinese": "常规",
+      "essential": false,
+      "example_sentence": "My daily routine starts with a shower.",
+      "example_sentence_zh": "我的日常作息从淋浴开始。"
+    },
+    {
+      "id": 20,
+      "english": "restaurant",
+      "pronunciation": "/ˈrestrɒnt/",
+      "partOfSpeech": "n.",
+      "chinese": "餐馆；餐厅",
+      "essential": true,
+      "example_sentence": "We eat at a restaurant at weekends.",
+      "example_sentence_zh": "我们周末在餐馆吃饭。"
+    },
+    {
+      "id": 21,
+      "english": "housework",
+      "pronunciation": "/ˈhaʊswɜːk/",
+      "partOfSpeech": "n.",
+      "chinese": "家务劳动",
+      "essential": true,
+      "example_sentence": "I help with housework after school.",
+      "example_sentence_zh": "放学后我帮忙做家务。"
+    },
+    {
+      "id": 22,
+      "english": "while",
+      "pronunciation": "/waɪl/",
+      "partOfSpeech": "n. & conj.",
+      "chinese": "一段时间；一会儿；在……期间；当……的时候",
+      "essential": true,
+      "example_sentence": "Rest for a while after you finish homework.",
+      "example_sentence_zh": "做完作业休息一会儿。"
+    },
+    {
+      "id": 23,
+      "english": "weekend",
+      "pronunciation": "/ˌwiːkˈend/",
+      "partOfSpeech": "n.",
+      "chinese": "周末",
+      "essential": true,
+      "example_sentence": "What do you do at weekends?",
+      "example_sentence_zh": "你周末做什么？"
+    },
+    {
+      "id": 24,
+      "english": "at weekends",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在周末",
+      "essential": false,
+      "example_sentence": "Timo plays hockey at weekends.",
+      "example_sentence_zh": "蒂莫周末打曲棍球。"
+    },
+    {
+      "id": 25,
+      "english": "daily",
+      "pronunciation": "/ˈdeɪli/",
+      "partOfSpeech": "adj.",
+      "chinese": "每日的；日常的",
+      "essential": false,
+      "example_sentence": "Daily exercise is part of my routine.",
+      "example_sentence_zh": "每日锻炼是我日常作息的一部分。"
+    },
+    {
+      "id": 26,
+      "english": "daily routine",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "日常生活",
+      "essential": false,
+      "example_sentence": "Write down your daily routine in English.",
+      "example_sentence_zh": "用英语写下你的日常作息。"
+    },
+    {
+      "id": 27,
+      "english": "only",
+      "pronunciation": "/ˈəʊnli/",
+      "partOfSpeech": "adv.",
+      "chinese": "只；仅",
+      "essential": true,
+      "example_sentence": "I only have a short break at noon.",
+      "example_sentence_zh": "我中午只有短暂休息。"
+    },
+    {
+      "id": 28,
+      "english": "break",
+      "pronunciation": "/breɪk/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "休息；间断；（使）破碎；损坏",
+      "essential": true,
+      "example_sentence": "We have a break after two classes.",
+      "example_sentence_zh": "两节课后我们休息一下。"
+    },
+    {
+      "id": 29,
+      "english": "Finnish",
+      "pronunciation": "/ˈfɪnɪʃ/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "芬兰语；芬兰的；芬兰人的；芬兰语的",
+      "essential": false,
+      "example_sentence": "Timo speaks Finnish at home in Finland.",
+      "example_sentence_zh": "蒂莫在芬兰家里说芬兰语。"
+    },
+    {
+      "id": 30,
+      "english": "finish",
+      "pronunciation": "/ˈfɪnɪʃ/",
+      "partOfSpeech": "v.",
+      "chinese": "结束；完成",
+      "essential": true,
+      "example_sentence": "I finish breakfast before school starts.",
+      "example_sentence_zh": "上学前我吃完早餐。"
+    },
+    {
+      "id": 31,
+      "english": "hockey",
+      "pronunciation": "/ˈhɒki/",
+      "partOfSpeech": "n.",
+      "chinese": "曲棍球",
+      "essential": true,
+      "example_sentence": "Ice hockey is popular in Finland.",
+      "example_sentence_zh": "冰球在芬兰很受欢迎。"
+    },
+    {
+      "id": 32,
+      "english": "ice hockey",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "冰球运动；冰上曲棍球",
+      "essential": false,
+      "example_sentence": "Halla watches ice hockey on TV at weekends.",
+      "example_sentence_zh": "哈拉周末在电视上看冰球。"
+    },
+    {
+      "id": 33,
+      "english": "already",
+      "pronunciation": "/ɔːlˈredi/",
+      "partOfSpeech": "adv.",
+      "chinese": "已经；早已",
+      "essential": true,
+      "example_sentence": "It is already dark outside at five.",
+      "example_sentence_zh": "五点外面已经黑了。"
+    },
+    {
+      "id": 34,
+      "english": "dark",
+      "pronunciation": "/dɑːk/",
+      "partOfSpeech": "adj.",
+      "chinese": "昏暗的；深色的",
+      "essential": true,
+      "example_sentence": "Stay inside when it gets dark.",
+      "example_sentence_zh": "天黑时待在室内。"
+    },
+    {
+      "id": 35,
+      "english": "outside",
+      "pronunciation": "/ˌaʊtˈsaɪd/",
+      "partOfSpeech": "adv. & prep. & adj.",
+      "chinese": "在（……）外面；外面的",
+      "essential": true,
+      "example_sentence": "It is cold outside in the morning.",
+      "example_sentence_zh": "早上外面很冷。"
+    },
+    {
+      "id": 36,
+      "english": "part",
+      "pronunciation": "/pɑːt/",
+      "partOfSpeech": "n.",
+      "chinese": "部分",
+      "essential": true,
+      "example_sentence": "Housework is part of my everyday life.",
+      "example_sentence_zh": "家务是我日常生活的一部分。"
+    },
+    {
+      "id": 37,
+      "english": "everyday",
+      "pronunciation": "/ˈevrɪdeɪ/",
+      "partOfSpeech": "adj.",
+      "chinese": "每天的；日常的",
+      "essential": true,
+      "example_sentence": "These are my everyday activities at home.",
+      "example_sentence_zh": "这些是我每天在家里的活动。"
+    },
+    {
+      "id": 38,
+      "english": "prepare",
+      "pronunciation": "/prɪˈpeə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "把……准备好；准备",
+      "essential": true,
+      "example_sentence": "Prepare your bag before you go to bed.",
+      "example_sentence_zh": "睡觉前准备好书包。"
+    },
+    {
+      "id": 39,
+      "english": "prepare sth for",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "为……把某物准备好",
+      "essential": false,
+      "example_sentence": "Prepare lunch for school in the morning.",
+      "example_sentence_zh": "早上准备好带去学校的午餐。"
+    },
+    {
+      "id": 40,
+      "english": "Timo",
+      "pronunciation": "/ˈtiːməʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "蒂莫",
+      "essential": false,
+      "example_sentence": "Timo is from Helsinki, Finland.",
+      "example_sentence_zh": "蒂莫来自芬兰赫尔辛基。"
+    },
+    {
+      "id": 41,
+      "english": "Halla",
+      "pronunciation": "/ˈhælə/",
+      "partOfSpeech": "n.",
+      "chinese": "哈拉",
+      "essential": false,
+      "example_sentence": "Halla and Timo share a daily routine.",
+      "example_sentence_zh": "哈拉和蒂莫的日常作息相似。"
+    },
+    {
+      "id": 42,
+      "english": "Helsinki",
+      "pronunciation": "/helˈsɪŋki/",
+      "partOfSpeech": "n.",
+      "chinese": "赫尔辛基（芬兰首都）",
+      "essential": false,
+      "example_sentence": "Helsinki is the capital of Finland.",
+      "example_sentence_zh": "赫尔辛基是芬兰的首都。"
+    },
+    {
+      "id": 43,
+      "english": "Finland",
+      "pronunciation": "/ˈfɪnlənd/",
+      "partOfSpeech": "n.",
+      "chinese": "芬兰",
+      "essential": false,
+      "example_sentence": "Finland is in northern Europe.",
+      "example_sentence_zh": "芬兰在欧洲北部。"
+    },
+    {
+      "id": 44,
+      "english": "home economics",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "家政学；家庭经济学",
+      "essential": false,
+      "example_sentence": "We learn home economics at school.",
+      "example_sentence_zh": "我们在学校学家政学。"
+    }
+  ]
+}

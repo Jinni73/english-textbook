@@ -1,0 +1,436 @@
+{
+  "unit": 5,
+  "title": "Unit 2",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "mean",
+      "pronunciation": "/miːn/",
+      "partOfSpeech": "v.",
+      "chinese": "意思是；打算",
+      "essential": true,
+      "example_sentence": "What does this word mean in Chinese?",
+      "example_sentence_zh": "这个词中文是什么意思？"
+    },
+    {
+      "id": 2,
+      "english": "husband",
+      "pronunciation": "/'hʌzbənd/",
+      "partOfSpeech": "n.",
+      "chinese": "丈夫",
+      "essential": true,
+      "example_sentence": "Her husband likes to play chess with the family.",
+      "example_sentence_zh": "她的丈夫喜欢和家人一起下棋。"
+    },
+    {
+      "id": 3,
+      "english": "bat",
+      "pronunciation": "/bæt/",
+      "partOfSpeech": "n.",
+      "chinese": "球棒；球拍",
+      "essential": true,
+      "example_sentence": "He bought a new ping-pong bat yesterday.",
+      "example_sentence_zh": "他昨天买了一支新乒乓球拍。"
+    },
+    {
+      "id": 4,
+      "english": "ping-pong bat",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "乒乓球拍",
+      "essential": false,
+      "example_sentence": "Tom keeps his ping-pong bat in his school bag.",
+      "example_sentence_zh": "汤姆把乒乓球拍放在书包里。"
+    },
+    {
+      "id": 5,
+      "english": "play ping-pong",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "打乒乓球",
+      "essential": false,
+      "example_sentence": "We play ping-pong together after school.",
+      "example_sentence_zh": "我们放学后一起打乒乓球。"
+    },
+    {
+      "id": 6,
+      "english": "together",
+      "pronunciation": "/tə'ɡeðə(r)/",
+      "partOfSpeech": "adv.",
+      "chinese": "在一起；共同",
+      "essential": true,
+      "example_sentence": "The family spends a lot of time together on weekends.",
+      "example_sentence_zh": "这家人周末经常一起度过很多时光。"
+    },
+    {
+      "id": 7,
+      "english": "every day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "每天",
+      "essential": false,
+      "example_sentence": "My grandfather goes fishing every day.",
+      "example_sentence_zh": "我爷爷每天都去钓鱼。"
+    },
+    {
+      "id": 8,
+      "english": "fishing rod",
+      "pronunciation": "/rɒd/",
+      "partOfSpeech": "phrase",
+      "chinese": "钓竿",
+      "essential": false,
+      "example_sentence": "He cleaned his fishing rod after the trip.",
+      "example_sentence_zh": "旅行结束后他清理了钓竿。"
+    },
+    {
+      "id": 9,
+      "english": "spend",
+      "pronunciation": "/spend/",
+      "partOfSpeech": "v.",
+      "chinese": "花（时间、钱等）",
+      "essential": true,
+      "example_sentence": "We spend an hour on chess activities every week.",
+      "example_sentence_zh": "我们每周花一小时做象棋活动。"
+    },
+    {
+      "id": 10,
+      "english": "a lot of / lots of",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "大量；许多",
+      "essential": false,
+      "example_sentence": "They have a lot of fun family activities together.",
+      "example_sentence_zh": "他们一起进行许多有趣的家庭活动。"
+    },
+    {
+      "id": 11,
+      "english": "really",
+      "pronunciation": "/'rɪəli/",
+      "partOfSpeech": "adv.",
+      "chinese": "非常；确实；真正地",
+      "essential": true,
+      "example_sentence": "I really enjoy playing Chinese chess with my grandpa.",
+      "example_sentence_zh": "我真的很喜欢跟爷爷下中国象棋。"
+    },
+    {
+      "id": 12,
+      "english": "member",
+      "pronunciation": "/'membə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "成员；会员",
+      "essential": true,
+      "example_sentence": "Each member of the club has a hobby to share.",
+      "example_sentence_zh": "俱乐部的每位成员都有一个爱好可以分享。"
+    },
+    {
+      "id": 13,
+      "english": "activity",
+      "pronunciation": "/æk'tɪvəti/",
+      "partOfSpeech": "n.",
+      "chinese": "活动",
+      "essential": true,
+      "example_sentence": "Our family activity this Sunday is fishing.",
+      "example_sentence_zh": "我们这个周日的家庭活动是钓鱼。"
+    },
+    {
+      "id": 14,
+      "english": "chess",
+      "pronunciation": "/tʃes/",
+      "partOfSpeech": "n.",
+      "chinese": "国际象棋",
+      "essential": true,
+      "example_sentence": "Chess is a quiet activity for two players.",
+      "example_sentence_zh": "国际象棋是两个人玩的安静活动。"
+    },
+    {
+      "id": 15,
+      "english": "Chinese chess",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "中国象棋",
+      "essential": false,
+      "example_sentence": "My father taught me Chinese chess when I was young.",
+      "example_sentence_zh": "我小时候爸爸教过我中国象棋。"
+    },
+    {
+      "id": 16,
+      "english": "grandparent",
+      "pronunciation": "/'ɡrænpeərənt/",
+      "partOfSpeech": "n.",
+      "chinese": "祖父（母）；外祖父（母）",
+      "essential": true,
+      "example_sentence": "My grandparent tells funny stories at night.",
+      "example_sentence_zh": "我的祖父母晚上讲有趣的故事。"
+    },
+    {
+      "id": 17,
+      "english": "funny",
+      "pronunciation": "/'fʌni/",
+      "partOfSpeech": "adj.",
+      "chinese": "好笑的；奇怪的",
+      "essential": true,
+      "example_sentence": "Sam has a funny hat that makes everyone laugh.",
+      "example_sentence_zh": "萨姆有一顶让大家发笑的滑稽帽子。"
+    },
+    {
+      "id": 18,
+      "english": "laugh",
+      "pronunciation": "/lɑːf/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "笑；发笑；笑声",
+      "essential": true,
+      "example_sentence": "We laugh a lot when we watch funny videos together.",
+      "example_sentence_zh": "我们一起看搞笑视频时会笑个不停。"
+    },
+    {
+      "id": 19,
+      "english": "different",
+      "pronunciation": "/'dɪfrənt/",
+      "partOfSpeech": "adj.",
+      "chinese": "不同的",
+      "essential": true,
+      "example_sentence": "Kate and Lily have different hobbies.",
+      "example_sentence_zh": "凯特和莉莉有不同的爱好。"
+    },
+    {
+      "id": 20,
+      "english": "violin",
+      "pronunciation": "/ˌvaɪə'lɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "小提琴",
+      "essential": true,
+      "example_sentence": "Jane plays the violin in the school band.",
+      "example_sentence_zh": "简在学校乐队里拉小提琴。"
+    },
+    {
+      "id": 21,
+      "english": "have fun",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "玩得高兴",
+      "essential": false,
+      "example_sentence": "The family have fun when they go hiking.",
+      "example_sentence_zh": "这家人去远足时玩得很开心。"
+    },
+    {
+      "id": 22,
+      "english": "hat",
+      "pronunciation": "/hæt/",
+      "partOfSpeech": "n.",
+      "chinese": "帽子",
+      "essential": true,
+      "example_sentence": "Fred wears a handsome hat at night.",
+      "example_sentence_zh": "弗雷德晚上戴着一顶好看的帽子。"
+    },
+    {
+      "id": 23,
+      "english": "handsome",
+      "pronunciation": "/'hænsəm/",
+      "partOfSpeech": "adj.",
+      "chinese": "英俊的",
+      "essential": true,
+      "example_sentence": "Jim looks handsome in his new hat.",
+      "example_sentence_zh": "吉姆戴上新帽子看起来很英俊。"
+    },
+    {
+      "id": 24,
+      "english": "knee",
+      "pronunciation": "/niː/",
+      "partOfSpeech": "n.",
+      "chinese": "膝；膝盖",
+      "essential": true,
+      "example_sentence": "Lucy hurt her knee on the hike.",
+      "example_sentence_zh": "露西远足时膝盖受了伤。"
+    },
+    {
+      "id": 25,
+      "english": "at night",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在夜晚",
+      "essential": false,
+      "example_sentence": "Grandparent reads to us at night.",
+      "example_sentence_zh": "祖父母晚上给我们读书。"
+    },
+    {
+      "id": 26,
+      "english": "in the middle",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在中间",
+      "essential": false,
+      "example_sentence": "Jack sits in the middle next to Sarah.",
+      "example_sentence_zh": "杰克坐在中间，紧挨着萨拉。"
+    },
+    {
+      "id": 27,
+      "english": "grandchild",
+      "pronunciation": "/'ɡræntʃaɪld/",
+      "partOfSpeech": "n.",
+      "chinese": "（外）孙子；（外）孙女",
+      "essential": false,
+      "example_sentence": "Each grandchild loves to laugh with grandparent.",
+      "example_sentence_zh": "每个孙辈都喜欢和祖父母一起笑。"
+    },
+    {
+      "id": 28,
+      "english": "son",
+      "pronunciation": "/sʌn/",
+      "partOfSpeech": "n.",
+      "chinese": "儿子",
+      "essential": true,
+      "example_sentence": "David is the son of Mr Wood.",
+      "example_sentence_zh": "戴维是伍德先生的儿子。"
+    },
+    {
+      "id": 29,
+      "english": "hike",
+      "pronunciation": "/haɪk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "远足；徒步旅行",
+      "essential": true,
+      "example_sentence": "We hike in the hills every weekend.",
+      "example_sentence_zh": "我们每个周末去山里远足。"
+    },
+    {
+      "id": 30,
+      "english": "go hiking",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "远足；徒步旅行",
+      "essential": false,
+      "example_sentence": "Oscar and Sam go hiking with their father.",
+      "example_sentence_zh": "奥斯卡和萨姆跟他们的父亲去远足。"
+    },
+    {
+      "id": 31,
+      "english": "next to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "紧邻；在……近旁",
+      "essential": false,
+      "example_sentence": "Ireland is next to the UK on the map.",
+      "example_sentence_zh": "在地图上爱尔兰紧邻英国。"
+    },
+    {
+      "id": 32,
+      "english": "David",
+      "pronunciation": "/'deɪvɪd/",
+      "partOfSpeech": "n.",
+      "chinese": "戴维",
+      "essential": false,
+      "example_sentence": "David plays chess with his brother Jim.",
+      "example_sentence_zh": "戴维和弟弟吉姆下棋。"
+    },
+    {
+      "id": 33,
+      "english": "Jim",
+      "pronunciation": "/dʒɪm/",
+      "partOfSpeech": "n.",
+      "chinese": "吉姆",
+      "essential": false,
+      "example_sentence": "Jim spends time with his family every day.",
+      "example_sentence_zh": "吉姆每天都和家人在一起。"
+    },
+    {
+      "id": 34,
+      "english": "Kate",
+      "pronunciation": "/keɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "凯特",
+      "essential": false,
+      "example_sentence": "Kate is a member of our school activity club.",
+      "example_sentence_zh": "凯特是我们学校活动俱乐部的成员。"
+    },
+    {
+      "id": 35,
+      "english": "Lily",
+      "pronunciation": "/'lɪli/",
+      "partOfSpeech": "n.",
+      "chinese": "莉莉",
+      "essential": false,
+      "example_sentence": "Lily really loves her violin lessons.",
+      "example_sentence_zh": "莉莉真的很喜欢小提琴课。"
+    },
+    {
+      "id": 36,
+      "english": "Ireland",
+      "pronunciation": "/'aɪələnd/",
+      "partOfSpeech": "n.",
+      "chinese": "爱尔兰",
+      "essential": false,
+      "example_sentence": "Fred comes from Ireland.",
+      "example_sentence_zh": "弗雷德来自爱尔兰。"
+    },
+    {
+      "id": 37,
+      "english": "Fred",
+      "pronunciation": "/fred/",
+      "partOfSpeech": "n.",
+      "chinese": "弗雷德",
+      "essential": false,
+      "example_sentence": "Fred is a handsome boy in our class.",
+      "example_sentence_zh": "弗雷德是我们班一个英俊的男孩。"
+    },
+    {
+      "id": 38,
+      "english": "Sam",
+      "pronunciation": "/sæm/",
+      "partOfSpeech": "n.",
+      "chinese": "萨姆",
+      "essential": false,
+      "example_sentence": "Sam and Jack are twin brothers.",
+      "example_sentence_zh": "萨姆和杰克是双胞胎兄弟。"
+    },
+    {
+      "id": 39,
+      "english": "Jane",
+      "pronunciation": "/dʒeɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "简",
+      "essential": false,
+      "example_sentence": "Jane plays the violin for the family.",
+      "example_sentence_zh": "简为家人拉小提琴。"
+    },
+    {
+      "id": 40,
+      "english": "Jack",
+      "pronunciation": "/dʒæk/",
+      "partOfSpeech": "n.",
+      "chinese": "杰克",
+      "essential": false,
+      "example_sentence": "Jack sits next to Sarah in class.",
+      "example_sentence_zh": "杰克在课上坐在萨拉旁边。"
+    },
+    {
+      "id": 41,
+      "english": "Sarah",
+      "pronunciation": "/'seərə/",
+      "partOfSpeech": "n.",
+      "chinese": "萨拉",
+      "essential": false,
+      "example_sentence": "Sarah laughs at funny stories from Oscar.",
+      "example_sentence_zh": "萨拉听奥斯卡讲的有趣故事时会笑。"
+    },
+    {
+      "id": 42,
+      "english": "Oscar",
+      "pronunciation": "/'ɒskə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "奥斯卡",
+      "essential": false,
+      "example_sentence": "Oscar goes hiking with Lucy on Sundays.",
+      "example_sentence_zh": "奥斯卡周日和露西去远足。"
+    },
+    {
+      "id": 43,
+      "english": "Lucy",
+      "pronunciation": "/'luːsi/",
+      "partOfSpeech": "n.",
+      "chinese": "露西",
+      "essential": false,
+      "example_sentence": "Lucy is the grandchild of our neighbour.",
+      "example_sentence_zh": "露西是我们邻居的孙女。"
+    }
+  ]
+}

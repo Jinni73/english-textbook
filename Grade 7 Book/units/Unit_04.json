@@ -1,0 +1,356 @@
+{
+  "unit": 7,
+  "title": "Unit 4",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "biology",
+      "pronunciation": "/baɪ'ɒlədʒi/",
+      "partOfSpeech": "n.",
+      "chinese": "生物学",
+      "essential": true,
+      "example_sentence": "Biology is my favourite subject this term.",
+      "example_sentence_zh": "生物学是我这学期最喜欢的科目。"
+    },
+    {
+      "id": 2,
+      "english": "IT",
+      "pronunciation": "/ˌaɪ 'tiː/",
+      "partOfSpeech": "n.",
+      "chinese": "信息技术",
+      "essential": true,
+      "example_sentence": "We learn IT in a smart computer room.",
+      "example_sentence_zh": "我们在智能机房里学信息技术。"
+    },
+    {
+      "id": 3,
+      "english": "geography",
+      "pronunciation": "/dʒi'ɒɡrəfi/",
+      "partOfSpeech": "n.",
+      "chinese": "地理（学）",
+      "essential": true,
+      "example_sentence": "Geography helps us remember countries on the map.",
+      "example_sentence_zh": "地理课帮助我们记住地图上的国家。"
+    },
+    {
+      "id": 4,
+      "english": "history",
+      "pronunciation": "/'hɪstri/",
+      "partOfSpeech": "n.",
+      "chinese": "历史；历史课",
+      "essential": true,
+      "example_sentence": "History class is exciting and useful.",
+      "example_sentence_zh": "历史课既激动人心又实用。"
+    },
+    {
+      "id": 5,
+      "english": "boring",
+      "pronunciation": "/'bɔːrɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "乏味的；令人生厌的",
+      "essential": true,
+      "example_sentence": "Some students think maths is boring.",
+      "example_sentence_zh": "有些学生觉得数学很乏味。"
+    },
+    {
+      "id": 6,
+      "english": "useful",
+      "pronunciation": "/'juːsfl/",
+      "partOfSpeech": "adj.",
+      "chinese": "有用的；有益的",
+      "essential": true,
+      "example_sentence": "French is useful when you travel in the future.",
+      "example_sentence_zh": "将来旅行时法语很有用。"
+    },
+    {
+      "id": 7,
+      "english": "exciting",
+      "pronunciation": "/ɪk'saɪtɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "令人激动的；使人兴奋的",
+      "essential": true,
+      "example_sentence": "The music class sounds exciting this term.",
+      "example_sentence_zh": "这学期的音乐课听起来很令人兴奋。"
+    },
+    {
+      "id": 8,
+      "english": "past",
+      "pronunciation": "/pɑːst/",
+      "partOfSpeech": "n. & adj. & prep.",
+      "chinese": "过去；过去的事情；过去的；在……之后",
+      "essential": true,
+      "example_sentence": "In the past, I was not good at numbers.",
+      "example_sentence_zh": "过去我不擅长数字。"
+    },
+    {
+      "id": 9,
+      "english": "good with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "灵巧的；善于应付……的",
+      "essential": false,
+      "example_sentence": "She is good with her hands and loves art.",
+      "example_sentence_zh": "她手很巧，喜欢美术。"
+    },
+    {
+      "id": 10,
+      "english": "number",
+      "pronunciation": "/'nʌmbə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "数字；号码",
+      "essential": true,
+      "example_sentence": "Can you remember this number in class?",
+      "example_sentence_zh": "你能记住课上的这个数字吗？"
+    },
+    {
+      "id": 11,
+      "english": "help sb with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "帮助某人做（某事）",
+      "essential": false,
+      "example_sentence": "I help my friend with biology homework.",
+      "example_sentence_zh": "我帮朋友做生物作业。"
+    },
+    {
+      "id": 12,
+      "english": "reason",
+      "pronunciation": "/'riːzn/",
+      "partOfSpeech": "n.",
+      "chinese": "原因；理由",
+      "essential": true,
+      "example_sentence": "What is the reason you like history?",
+      "example_sentence_zh": "你喜欢历史的原因是什么？"
+    },
+    {
+      "id": 13,
+      "english": "listen to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "听；倾听",
+      "essential": false,
+      "example_sentence": "We listen to the teacher in every class.",
+      "example_sentence_zh": "我们在每节课上都听老师讲课。"
+    },
+    {
+      "id": 14,
+      "english": "good at",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "擅长",
+      "essential": false,
+      "example_sentence": "Tom is good at IT and maths.",
+      "example_sentence_zh": "汤姆擅长信息技术和数学。"
+    },
+    {
+      "id": 15,
+      "english": "remember",
+      "pronunciation": "/rɪ'membə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "记住；记起",
+      "essential": true,
+      "example_sentence": "Remember to bring your instrument tomorrow.",
+      "example_sentence_zh": "记得明天带上你的乐器。"
+    },
+    {
+      "id": 16,
+      "english": "as",
+      "pronunciation": "/æz; əz/",
+      "partOfSpeech": "prep. & conj.",
+      "chinese": "如同；作为；当……时；由于",
+      "essential": true,
+      "example_sentence": "Work hard in class, as exams come at the end of the term.",
+      "example_sentence_zh": "努力学习，因为学期末有考试。"
+    },
+    {
+      "id": 17,
+      "english": "AM",
+      "pronunciation": "/ˌeɪ 'em/",
+      "partOfSpeech": "n.",
+      "chinese": "上午",
+      "essential": true,
+      "example_sentence": "Biology class starts at 8 AM.",
+      "example_sentence_zh": "生物课上午八点开始。"
+    },
+    {
+      "id": 18,
+      "english": "PM",
+      "pronunciation": "/ˌpiː 'em/",
+      "partOfSpeech": "n.",
+      "chinese": "下午；午后",
+      "essential": true,
+      "example_sentence": "We have geography at 2 PM on Friday.",
+      "example_sentence_zh": "我们周五下午两点上地理课。"
+    },
+    {
+      "id": 19,
+      "english": "French",
+      "pronunciation": "/frentʃ/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "法语；法国的；法国人的；法语的",
+      "essential": true,
+      "example_sentence": "French sounds excellent when she sings.",
+      "example_sentence_zh": "她唱歌时法语听起来棒极了。"
+    },
+    {
+      "id": 20,
+      "english": "excellent",
+      "pronunciation": "/'eksələnt/",
+      "partOfSpeech": "adj.",
+      "chinese": "优秀的；极好的",
+      "essential": true,
+      "example_sentence": "You did an excellent job in music class.",
+      "example_sentence_zh": "你在音乐课上表现优秀。"
+    },
+    {
+      "id": 21,
+      "english": "instrument",
+      "pronunciation": "/'ɪnstrəmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "乐器；器械；工具",
+      "essential": true,
+      "example_sentence": "The singer plays an instrument in the band.",
+      "example_sentence_zh": "那位歌手在乐队里演奏乐器。"
+    },
+    {
+      "id": 22,
+      "english": "singer",
+      "pronunciation": "/'sɪŋə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "歌手",
+      "essential": true,
+      "example_sentence": "The singer has an excellent voice.",
+      "example_sentence_zh": "这位歌手嗓音极好。"
+    },
+    {
+      "id": 23,
+      "english": "future",
+      "pronunciation": "/'fjuːtʃə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "将来；未来",
+      "essential": true,
+      "example_sentence": "In the future, I want to study IT.",
+      "example_sentence_zh": "将来我想学习信息技术。"
+    },
+    {
+      "id": 24,
+      "english": "in the future",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "将来；未来",
+      "essential": false,
+      "example_sentence": "In the future, robots may help us work out problems.",
+      "example_sentence_zh": "将来机器人也许能帮我们解决问题。"
+    },
+    {
+      "id": 25,
+      "english": "term",
+      "pronunciation": "/tɜːm/",
+      "partOfSpeech": "n.",
+      "chinese": "学期",
+      "essential": true,
+      "example_sentence": "This term we have five new subjects.",
+      "example_sentence_zh": "这学期我们有五门新科目。"
+    },
+    {
+      "id": 26,
+      "english": "work out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "计算出；解决",
+      "essential": false,
+      "example_sentence": "Can you work out this maths problem?",
+      "example_sentence_zh": "你能解出这道数学题吗？"
+    },
+    {
+      "id": 27,
+      "english": "problem",
+      "pronunciation": "/'prɒbləm/",
+      "partOfSpeech": "n.",
+      "chinese": "难题；困难",
+      "essential": true,
+      "example_sentence": "Ask the teacher if you have a problem in class.",
+      "example_sentence_zh": "如果在课堂上有困难，就问老师。"
+    },
+    {
+      "id": 28,
+      "english": "in class",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "课堂上",
+      "essential": false,
+      "example_sentence": "Remember to listen to the teacher in class.",
+      "example_sentence_zh": "记得在课堂上听老师讲课。"
+    },
+    {
+      "id": 29,
+      "english": "magic",
+      "pronunciation": "/'mædʒɪk/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "魔法；魔力；魔术；有魔力的；有神奇力量的",
+      "essential": true,
+      "example_sentence": "Science feels like magic when experiments work.",
+      "example_sentence_zh": "实验成功时，科学就像魔法一样。"
+    },
+    {
+      "id": 30,
+      "english": "life",
+      "pronunciation": "/laɪf/",
+      "partOfSpeech": "n.",
+      "chinese": "生活；生命",
+      "essential": true,
+      "example_sentence": "School life is exciting and full of change.",
+      "example_sentence_zh": "校园生活令人兴奋，充满变化。"
+    },
+    {
+      "id": 31,
+      "english": "scientist",
+      "pronunciation": "/ˈsaɪəntɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "科学家",
+      "essential": true,
+      "example_sentence": "Mike wants to be a scientist like Davis from Canada.",
+      "example_sentence_zh": "迈克想像来自加拿大的戴维斯一样当科学家。"
+    },
+    {
+      "id": 32,
+      "english": "Baker",
+      "pronunciation": "/ˈbeɪkə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "贝克",
+      "essential": false,
+      "example_sentence": "Baker is a scientist in our science club.",
+      "example_sentence_zh": "贝克是我们科学俱乐部里的一名科学家。"
+    },
+    {
+      "id": 33,
+      "english": "Mike",
+      "pronunciation": "/maɪk/",
+      "partOfSpeech": "n.",
+      "chinese": "迈克",
+      "essential": false,
+      "example_sentence": "Mike joins the drama club this term.",
+      "example_sentence_zh": "迈克这学期加入了戏剧社。"
+    },
+    {
+      "id": 34,
+      "english": "Davis",
+      "pronunciation": "/ˈdeɪvɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "戴维斯",
+      "essential": false,
+      "example_sentence": "Davis and Mike are interested in biology.",
+      "example_sentence_zh": "戴维斯和迈克对生物学感兴趣。"
+    },
+    {
+      "id": 35,
+      "english": "Canada",
+      "pronunciation": "/ˈkænədə/",
+      "partOfSpeech": "n.",
+      "chinese": "加拿大",
+      "essential": false,
+      "example_sentence": "Canada is a country with amazing wildlife.",
+      "example_sentence_zh": "加拿大是一个拥有丰富野生动物的国家。"
+    }
+  ]
+}

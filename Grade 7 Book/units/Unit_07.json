@@ -1,0 +1,436 @@
+{
+  "unit": 10,
+  "title": "Unit 7",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "celebrate",
+      "pronunciation": "/ˈselɪbreɪt/",
+      "partOfSpeech": "v.",
+      "chinese": "庆祝；庆贺",
+      "essential": true,
+      "example_sentence": "We celebrate National Day at school.",
+      "example_sentence_zh": "我们在学校庆祝国庆节。"
+    },
+    {
+      "id": 2,
+      "english": "surprise",
+      "pronunciation": "/səˈpraɪz/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "惊奇；惊讶；使感到意外",
+      "essential": true,
+      "example_sentence": "The party was a big surprise for Judy.",
+      "example_sentence_zh": "这场派对给朱迪一个大惊喜。"
+    },
+    {
+      "id": 3,
+      "english": "something",
+      "pronunciation": "/ˈsʌmθɪŋ/",
+      "partOfSpeech": "pron.",
+      "chinese": "某事；某物",
+      "essential": true,
+      "example_sentence": "Buy something special for the celebration.",
+      "example_sentence_zh": "为庆祝买点特别的东西。"
+    },
+    {
+      "id": 4,
+      "english": "sale",
+      "pronunciation": "/seɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "出售；销售",
+      "essential": true,
+      "example_sentence": "Yogurt is on sale at a good price.",
+      "example_sentence_zh": "酸奶特价出售，价格很实惠。"
+    },
+    {
+      "id": 5,
+      "english": "kilo",
+      "pronunciation": "/ˈkiːləʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "千克；公斤",
+      "essential": true,
+      "example_sentence": "We need one kilo of chocolate for the list.",
+      "example_sentence_zh": "清单上我们需要一千克巧克力。"
+    },
+    {
+      "id": 6,
+      "english": "yogurt",
+      "pronunciation": "/ˈjɒɡət/",
+      "partOfSpeech": "n.",
+      "chinese": "酸奶",
+      "essential": true,
+      "example_sentence": "Add yogurt and fruit to your shopping list.",
+      "example_sentence_zh": "把酸奶和水果加进购物清单。"
+    },
+    {
+      "id": 7,
+      "english": "total",
+      "pronunciation": "/ˈtəʊtl/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "总数；合计；总的；全体的",
+      "essential": true,
+      "example_sentence": "The total price is twenty yuan.",
+      "example_sentence_zh": "总价是二十元。"
+    },
+    {
+      "id": 8,
+      "english": "price",
+      "pronunciation": "/praɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "价格",
+      "essential": true,
+      "example_sentence": "These balloons are at a good price.",
+      "example_sentence_zh": "这些气球价格很实惠。"
+    },
+    {
+      "id": 9,
+      "english": "balloon",
+      "pronunciation": "/bəˈluːn/",
+      "partOfSpeech": "n.",
+      "chinese": "气球",
+      "essential": true,
+      "example_sentence": "Red balloons are symbols of celebration.",
+      "example_sentence_zh": "红气球是庆祝的象征。"
+    },
+    {
+      "id": 10,
+      "english": "chocolate",
+      "pronunciation": "/ˈtʃɒklət/",
+      "partOfSpeech": "n.",
+      "chinese": "巧克力",
+      "essential": true,
+      "example_sentence": "Chocolate pizza sounds surprising!",
+      "example_sentence_zh": "巧克力比萨听起来真惊喜！"
+    },
+    {
+      "id": 11,
+      "english": "pizza",
+      "pronunciation": "/ˈpiːtsə/",
+      "partOfSpeech": "n.",
+      "chinese": "比萨饼",
+      "essential": true,
+      "example_sentence": "We ordered pizza for the class party.",
+      "example_sentence_zh": "我们为班级派对订了比萨。"
+    },
+    {
+      "id": 12,
+      "english": "list",
+      "pronunciation": "/lɪst/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "名单；清单；列表；列清单",
+      "essential": true,
+      "example_sentence": "Make a list before you go shopping.",
+      "example_sentence_zh": "购物前先列清单。"
+    },
+    {
+      "id": 13,
+      "english": "own",
+      "pronunciation": "/əʊn/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "自己的；本人的",
+      "essential": true,
+      "example_sentence": "Grow your own vegetables in the village.",
+      "example_sentence_zh": "在村里种你们自己的蔬菜。"
+    },
+    {
+      "id": 14,
+      "english": "example",
+      "pronunciation": "/ɪɡˈzɑːmpl/",
+      "partOfSpeech": "n.",
+      "chinese": "例子；范例",
+      "essential": true,
+      "example_sentence": "For example, we blow out candles on birthdays.",
+      "example_sentence_zh": "例如，生日时我们吹灭蜡烛。"
+    },
+    {
+      "id": 15,
+      "english": "for example",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "例如",
+      "essential": false,
+      "example_sentence": "Many symbols, for example balloons, mean joy.",
+      "example_sentence_zh": "许多象征，例如气球，表示欢乐。"
+    },
+    {
+      "id": 16,
+      "english": "language",
+      "pronunciation": "/ˈlæŋɡwɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "语言",
+      "essential": true,
+      "example_sentence": "English is an international language.",
+      "example_sentence_zh": "英语是一门国际语言。"
+    },
+    {
+      "id": 17,
+      "english": "international",
+      "pronunciation": "/ˌɪntəˈnæʃnəl/",
+      "partOfSpeech": "adj.",
+      "chinese": "国际的",
+      "essential": true,
+      "example_sentence": "It is an international celebration this year.",
+      "example_sentence_zh": "今年是一场国际庆祝活动。"
+    },
+    {
+      "id": 18,
+      "english": "mark",
+      "pronunciation": "/mɑːk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "做记号；纪念；打分；记号",
+      "essential": true,
+      "example_sentence": "We mark National Day with a big celebration.",
+      "example_sentence_zh": "我们用盛大庆典纪念国庆节。"
+    },
+    {
+      "id": 19,
+      "english": "national",
+      "pronunciation": "/ˈnæʃnəl/",
+      "partOfSpeech": "adj.",
+      "chinese": "国家的；民族的",
+      "essential": true,
+      "example_sentence": "National Day is a meaningful holiday.",
+      "example_sentence_zh": "国庆节是一个意义重大的节日。"
+    },
+    {
+      "id": 20,
+      "english": "found",
+      "pronunciation": "/faʊnd/",
+      "partOfSpeech": "v.",
+      "chinese": "创建；创立",
+      "essential": true,
+      "example_sentence": "People found ways to celebrate together.",
+      "example_sentence_zh": "人们找到了一起庆祝的方式。"
+    },
+    {
+      "id": 21,
+      "english": "meaningful",
+      "pronunciation": "/ˈmiːnɪŋfl/",
+      "partOfSpeech": "adj.",
+      "chinese": "重要的；重大的",
+      "essential": true,
+      "example_sentence": "It was a meaningful celebration for everyone.",
+      "example_sentence_zh": "对每个人来说都是一次有意义的庆祝。"
+    },
+    {
+      "id": 22,
+      "english": "make a wish",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "许愿",
+      "essential": false,
+      "example_sentence": "Make a wish before you blow out the candles.",
+      "example_sentence_zh": "吹蜡烛前先许个愿。"
+    },
+    {
+      "id": 23,
+      "english": "celebration",
+      "pronunciation": "/ˌselɪˈbreɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "庆典；庆祝（活动）",
+      "essential": true,
+      "example_sentence": "The village holds a celebration every year.",
+      "example_sentence_zh": "这个村子每年都举办庆典。"
+    },
+    {
+      "id": 24,
+      "english": "post",
+      "pronunciation": "/pəʊst/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "帖子；邮政；邮寄；发布",
+      "essential": true,
+      "example_sentence": "Clark posted photos of the party online.",
+      "example_sentence_zh": "克拉克把派对照片发到了网上。"
+    },
+    {
+      "id": 25,
+      "english": "contact",
+      "pronunciation": "/ˈkɒntækt/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "联系；接触；联系；联络",
+      "essential": false,
+      "example_sentence": "Contact Judy if you need help with the list.",
+      "example_sentence_zh": "如果需要清单方面的帮助，联系朱迪。"
+    },
+    {
+      "id": 26,
+      "english": "symbol",
+      "pronunciation": "/ˈsɪmbl/",
+      "partOfSpeech": "n.",
+      "chinese": "象征；符号",
+      "essential": true,
+      "example_sentence": "The balloon is a symbol of joy.",
+      "example_sentence_zh": "气球是欢乐的象征。"
+    },
+    {
+      "id": 27,
+      "english": "take a photo",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "拍照",
+      "essential": false,
+      "example_sentence": "Take a photo when we blow out the candles.",
+      "example_sentence_zh": "吹蜡烛时拍张照片。"
+    },
+    {
+      "id": 28,
+      "english": "village",
+      "pronunciation": "/ˈvɪlɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "村庄；村镇",
+      "essential": true,
+      "example_sentence": "They celebrate in a small village.",
+      "example_sentence_zh": "他们在一个小村庄里庆祝。"
+    },
+    {
+      "id": 29,
+      "english": "grow",
+      "pronunciation": "/ɡrəʊ/",
+      "partOfSpeech": "v.",
+      "chinese": "成长；长大；增长",
+      "essential": true,
+      "example_sentence": "Children grow fast every year.",
+      "example_sentence_zh": "孩子们每年都长得很快。"
+    },
+    {
+      "id": 30,
+      "english": "blow",
+      "pronunciation": "/bləʊ/",
+      "partOfSpeech": "v.",
+      "chinese": "吹；刮",
+      "essential": true,
+      "example_sentence": "Blow out the candles on the cake.",
+      "example_sentence_zh": "吹灭蛋糕上的蜡烛。"
+    },
+    {
+      "id": 31,
+      "english": "blow out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "吹灭",
+      "essential": false,
+      "example_sentence": "We blow out candles and make a wish.",
+      "example_sentence_zh": "我们吹灭蜡烛并许愿。"
+    },
+    {
+      "id": 32,
+      "english": "enjoy",
+      "pronunciation": "/ɪnˈdʒɔɪ/",
+      "partOfSpeech": "v.",
+      "chinese": "享受……的乐趣；喜欢",
+      "essential": true,
+      "example_sentence": "Enjoy the celebration with your friends.",
+      "example_sentence_zh": "和朋友一起享受庆典。"
+    },
+    {
+      "id": 33,
+      "english": "height",
+      "pronunciation": "/haɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "身高；高度",
+      "essential": true,
+      "example_sentence": "Mark your height on the wall each year.",
+      "example_sentence_zh": "每年在墙上标记你的身高。"
+    },
+    {
+      "id": 34,
+      "english": "later",
+      "pronunciation": "/ˈleɪtə(r)/",
+      "partOfSpeech": "adv. & adj.",
+      "chinese": "以后（的）；后来（的）",
+      "essential": true,
+      "example_sentence": "See you later at the party.",
+      "example_sentence_zh": "晚点派对见。"
+    },
+    {
+      "id": 35,
+      "english": "next time",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "下次",
+      "essential": false,
+      "example_sentence": "Next time we will celebrate at school.",
+      "example_sentence_zh": "下次我们在学校庆祝。"
+    },
+    {
+      "id": 36,
+      "english": "whom",
+      "pronunciation": "/huːm/",
+      "partOfSpeech": "pron.",
+      "chinese": "谁；什么人",
+      "essential": true,
+      "example_sentence": "Whom did you invite to the celebration?",
+      "example_sentence_zh": "你邀请了谁来参加庆典？"
+    },
+    {
+      "id": 37,
+      "english": "William Shakespeare",
+      "pronunciation": "/ˈwɪljəm ˈʃeɪkspɪə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "威廉·莎士比亚",
+      "essential": false,
+      "example_sentence": "William Shakespeare is a famous writer in English.",
+      "example_sentence_zh": "威廉·莎士比亚是英语文学著名作家。"
+    },
+    {
+      "id": 38,
+      "english": "Florence Nightingale",
+      "pronunciation": "/ˈflɒrəns ˈnaɪtɪŋɡeɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "弗洛伦斯·南丁格尔",
+      "essential": false,
+      "example_sentence": "Florence Nightingale is a meaningful national hero.",
+      "example_sentence_zh": "弗洛伦斯·南丁格尔是一位意义重大的民族英雄。"
+    },
+    {
+      "id": 39,
+      "english": "National Day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "国庆节",
+      "essential": false,
+      "example_sentence": "We celebrate National Day in October.",
+      "example_sentence_zh": "我们在十月庆祝国庆节。"
+    },
+    {
+      "id": 40,
+      "english": "CPC Founding Day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "中国共产党建党纪念日",
+      "essential": false,
+      "example_sentence": "CPC Founding Day is in July.",
+      "example_sentence_zh": "中国共产党建党纪念日在七月。"
+    },
+    {
+      "id": 41,
+      "english": "PLA Day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "中国人民解放军建军节",
+      "essential": false,
+      "example_sentence": "PLA Day is on 1 August.",
+      "example_sentence_zh": "中国人民解放军建军节在八月一日。"
+    },
+    {
+      "id": 42,
+      "english": "Judy",
+      "pronunciation": "/ˈdʒuːdi/",
+      "partOfSpeech": "n.",
+      "chinese": "朱迪",
+      "essential": false,
+      "example_sentence": "Judy bought balloons for the party.",
+      "example_sentence_zh": "朱迪为派对买了气球。"
+    },
+    {
+      "id": 43,
+      "english": "Clark",
+      "pronunciation": "/klɑːk/",
+      "partOfSpeech": "n.",
+      "chinese": "克拉克",
+      "essential": false,
+      "example_sentence": "Clark enjoys the celebration with Judy.",
+      "example_sentence_zh": "克拉克和朱迪一起享受庆典。"
+    }
+  ]
+}

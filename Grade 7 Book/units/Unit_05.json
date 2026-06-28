@@ -1,0 +1,376 @@
+{
+  "unit": 8,
+  "title": "Unit 5",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "club",
+      "pronunciation": "/klʌb/",
+      "partOfSpeech": "n.",
+      "chinese": "俱乐部；社团",
+      "essential": true,
+      "example_sentence": "I want to join the music club at school.",
+      "example_sentence_zh": "我想加入学校的音乐俱乐部。"
+    },
+    {
+      "id": 2,
+      "english": "join",
+      "pronunciation": "/dʒɔɪn/",
+      "partOfSpeech": "v.",
+      "chinese": "参加；加入",
+      "essential": true,
+      "example_sentence": "Which club would you like to join?",
+      "example_sentence_zh": "你想加入哪个俱乐部？"
+    },
+    {
+      "id": 3,
+      "english": "choose",
+      "pronunciation": "/tʃuːz/",
+      "partOfSpeech": "v.",
+      "chinese": "选择；挑选",
+      "essential": true,
+      "example_sentence": "Choose a club that matches your ability.",
+      "example_sentence_zh": "选一个符合你能力的俱乐部。"
+    },
+    {
+      "id": 4,
+      "english": "drama",
+      "pronunciation": "/ˈdrɑːmə/",
+      "partOfSpeech": "n.",
+      "chinese": "戏剧；戏剧表演",
+      "essential": true,
+      "example_sentence": "Alice acts in the school drama club.",
+      "example_sentence_zh": "爱丽丝在学校戏剧社表演。"
+    },
+    {
+      "id": 5,
+      "english": "play Chinese chess",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "下中国象棋",
+      "essential": false,
+      "example_sentence": "Bill plays Chinese chess after school.",
+      "example_sentence_zh": "比尔放学后下中国象棋。"
+    },
+    {
+      "id": 6,
+      "english": "feeling",
+      "pronunciation": "/ˈfiːlɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "感觉；情感",
+      "essential": true,
+      "example_sentence": "Music gives me a happy feeling.",
+      "example_sentence_zh": "音乐给我带来快乐的感觉。"
+    },
+    {
+      "id": 7,
+      "english": "news",
+      "pronunciation": "/njuːz/",
+      "partOfSpeech": "n.",
+      "chinese": "消息；新闻",
+      "essential": true,
+      "example_sentence": "Good news! Our club show is soon.",
+      "example_sentence_zh": "好消息！我们俱乐部的表演很快就要开始了。"
+    },
+    {
+      "id": 8,
+      "english": "musical",
+      "pronunciation": "/ˈmjuːzɪkl/",
+      "partOfSpeech": "adj.",
+      "chinese": "音乐的；有音乐天赋的",
+      "essential": true,
+      "example_sentence": "Jenny is very musical and plays the drum.",
+      "example_sentence_zh": "珍妮很有音乐天赋，会打鼓。"
+    },
+    {
+      "id": 9,
+      "english": "musical instrument",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "乐器",
+      "essential": false,
+      "example_sentence": "Choose a musical instrument you want to learn.",
+      "example_sentence_zh": "选一种你想学的乐器。"
+    },
+    {
+      "id": 10,
+      "english": "exactly",
+      "pronunciation": "/ɪɡˈzæktli/",
+      "partOfSpeech": "adv.",
+      "chinese": "正是如此；准确地",
+      "essential": true,
+      "example_sentence": "That is exactly what Linda said in drama class.",
+      "example_sentence_zh": "这正是琳达在戏剧课上说的。"
+    },
+    {
+      "id": 11,
+      "english": "drum",
+      "pronunciation": "/drʌm/",
+      "partOfSpeech": "n.",
+      "chinese": "鼓",
+      "essential": false,
+      "example_sentence": "He plays the drum in the school band.",
+      "example_sentence_zh": "他在学校乐队里打鼓。"
+    },
+    {
+      "id": 12,
+      "english": "ability",
+      "pronunciation": "/əˈbɪləti/",
+      "partOfSpeech": "n.",
+      "chinese": "能力；才能",
+      "essential": true,
+      "example_sentence": "She has the ability to paint and climb well.",
+      "example_sentence_zh": "她有画画和攀爬的能力。"
+    },
+    {
+      "id": 13,
+      "english": "paint",
+      "pronunciation": "/peɪnt/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "用颜料画；在……上刷油漆；油漆；涂料",
+      "essential": true,
+      "example_sentence": "I paint pictures of nature at home.",
+      "example_sentence_zh": "我在家画大自然的图画。"
+    },
+    {
+      "id": 14,
+      "english": "climb",
+      "pronunciation": "/klaɪm/",
+      "partOfSpeech": "v.",
+      "chinese": "攀登；爬",
+      "essential": true,
+      "example_sentence": "We climb hills to discover more insects.",
+      "example_sentence_zh": "我们爬山去发现更多昆虫。"
+    },
+    {
+      "id": 15,
+      "english": "more",
+      "pronunciation": "/mɔː(r)/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "更多的（的）",
+      "essential": true,
+      "example_sentence": "I want to collect more photos of wildlife.",
+      "example_sentence_zh": "我想收集更多野生动物的照片。"
+    },
+    {
+      "id": 16,
+      "english": "act",
+      "pronunciation": "/ækt/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "扮演；行动",
+      "essential": true,
+      "example_sentence": "They act out a short drama in class.",
+      "example_sentence_zh": "他们在课上表演一段短剧。"
+    },
+    {
+      "id": 17,
+      "english": "act out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "表演",
+      "essential": false,
+      "example_sentence": "The club will act out the news story.",
+      "example_sentence_zh": "俱乐部将把这个新闻故事表演出来。"
+    },
+    {
+      "id": 18,
+      "english": "at home",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在家里",
+      "essential": false,
+      "example_sentence": "I practice the drum at home every day.",
+      "example_sentence_zh": "我每天在家练鼓。"
+    },
+    {
+      "id": 19,
+      "english": "interested",
+      "pronunciation": "/ˈɪntrəstɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "感兴趣的",
+      "essential": true,
+      "example_sentence": "Are you interested in nature clubs?",
+      "example_sentence_zh": "你对自然类社团感兴趣吗？"
+    },
+    {
+      "id": 20,
+      "english": "interested in",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "对……感兴趣",
+      "essential": false,
+      "example_sentence": "Bill is interested in insects and wildlife.",
+      "example_sentence_zh": "比尔对昆虫和野生动物感兴趣。"
+    },
+    {
+      "id": 21,
+      "english": "nature",
+      "pronunciation": "/ˈneɪtʃə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "自然界；大自然",
+      "essential": true,
+      "example_sentence": "Our club helps students discover nature.",
+      "example_sentence_zh": "我们的俱乐部帮助同学们探索大自然。"
+    },
+    {
+      "id": 22,
+      "english": "beef",
+      "pronunciation": "/biːf/",
+      "partOfSpeech": "n.",
+      "chinese": "牛肉",
+      "essential": false,
+      "example_sentence": "We eat beef at home more than before.",
+      "example_sentence_zh": "我们在家吃牛肉比以前多了。"
+    },
+    {
+      "id": 23,
+      "english": "soon",
+      "pronunciation": "/suːn/",
+      "partOfSpeech": "adv.",
+      "chinese": "不久；很快",
+      "essential": true,
+      "example_sentence": "The club show will start soon.",
+      "example_sentence_zh": "俱乐部表演很快就要开始。"
+    },
+    {
+      "id": 24,
+      "english": "than",
+      "pronunciation": "/ðæn; ðən/",
+      "partOfSpeech": "prep. & conj.",
+      "chinese": "（用以引出比较的第二部分）比",
+      "essential": true,
+      "example_sentence": "I like drama more than chess.",
+      "example_sentence_zh": "我比起国际象棋更喜欢戏剧。"
+    },
+    {
+      "id": 25,
+      "english": "more than",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "多于",
+      "essential": false,
+      "example_sentence": "More than ten students join the club.",
+      "example_sentence_zh": "十多名学生加入了俱乐部。"
+    },
+    {
+      "id": 26,
+      "english": "mind",
+      "pronunciation": "/maɪnd/",
+      "partOfSpeech": "n.",
+      "chinese": "头脑；心思",
+      "essential": true,
+      "example_sentence": "Do you mind if I take photos here?",
+      "example_sentence_zh": "你介意我在这里拍照吗？"
+    },
+    {
+      "id": 27,
+      "english": "fall",
+      "pronunciation": "/fɔːl/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "进入；掉落；跌倒；秋天",
+      "essential": true,
+      "example_sentence": "Many students fall in love with painting.",
+      "example_sentence_zh": "许多学生爱上了绘画。"
+    },
+    {
+      "id": 28,
+      "english": "fall in love with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "爱上……",
+      "essential": false,
+      "example_sentence": "Alice fell in love with musical drama.",
+      "example_sentence_zh": "爱丽丝爱上了音乐戏剧。"
+    },
+    {
+      "id": 29,
+      "english": "take photos",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "拍照",
+      "essential": false,
+      "example_sentence": "We take photos of insects in the park.",
+      "example_sentence_zh": "我们在公园里给昆虫拍照。"
+    },
+    {
+      "id": 30,
+      "english": "collect",
+      "pronunciation": "/kəˈlekt/",
+      "partOfSpeech": "v.",
+      "chinese": "收集；采集",
+      "essential": true,
+      "example_sentence": "Jenny collects news about wildlife.",
+      "example_sentence_zh": "珍妮收集关于野生动物的新闻。"
+    },
+    {
+      "id": 31,
+      "english": "insect",
+      "pronunciation": "/ˈɪnsekt/",
+      "partOfSpeech": "n.",
+      "chinese": "昆虫",
+      "essential": true,
+      "example_sentence": "We discover new insects on every climb.",
+      "example_sentence_zh": "我们每次爬山都会发现新昆虫。"
+    },
+    {
+      "id": 32,
+      "english": "discover",
+      "pronunciation": "/dɪˈskʌvə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "发现；发觉",
+      "essential": true,
+      "example_sentence": "Linda loves to discover wildlife with friends.",
+      "example_sentence_zh": "琳达喜欢和朋友一起发现野生生物。"
+    },
+    {
+      "id": 33,
+      "english": "wildlife",
+      "pronunciation": "/ˈwaɪldlaɪf/",
+      "partOfSpeech": "n.",
+      "chinese": "野生动物；野生生物",
+      "essential": true,
+      "example_sentence": "Protect wildlife when you explore nature.",
+      "example_sentence_zh": "探索大自然时要保护野生动物。"
+    },
+    {
+      "id": 34,
+      "english": "Linda",
+      "pronunciation": "/ˈlɪndə/",
+      "partOfSpeech": "n.",
+      "chinese": "琳达",
+      "essential": false,
+      "example_sentence": "Linda chooses the nature club.",
+      "example_sentence_zh": "琳达选择了自然俱乐部。"
+    },
+    {
+      "id": 35,
+      "english": "Alice",
+      "pronunciation": "/ˈælɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "爱丽丝",
+      "essential": false,
+      "example_sentence": "Alice acts in the school drama club.",
+      "example_sentence_zh": "爱丽丝在学校戏剧社表演。"
+    },
+    {
+      "id": 36,
+      "english": "Bill",
+      "pronunciation": "/bɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "比尔",
+      "essential": false,
+      "example_sentence": "Bill is interested in Chinese chess.",
+      "example_sentence_zh": "比尔对中国象棋感兴趣。"
+    },
+    {
+      "id": 37,
+      "english": "Jenny",
+      "pronunciation": "/ˈdʒeni/",
+      "partOfSpeech": "n.",
+      "chinese": "珍妮",
+      "essential": false,
+      "example_sentence": "Jenny plays the drum in the music club.",
+      "example_sentence_zh": "珍妮在音乐俱乐部里打鼓。"
+    }
+  ]
+}

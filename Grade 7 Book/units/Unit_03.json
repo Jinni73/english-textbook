@@ -1,0 +1,436 @@
+{
+  "unit": 6,
+  "title": "Unit 3",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "hall",
+      "pronunciation": "/hɔːl/",
+      "partOfSpeech": "n.",
+      "chinese": "礼堂；大厅",
+      "essential": true,
+      "example_sentence": "The school hall is large and special.",
+      "example_sentence_zh": "学校礼堂又大又特别。"
+    },
+    {
+      "id": 2,
+      "english": "dining hall",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "餐厅",
+      "essential": false,
+      "example_sentence": "We eat lunch in the dining hall every day.",
+      "example_sentence_zh": "我们每天在餐厅吃午饭。"
+    },
+    {
+      "id": 3,
+      "english": "in front of",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在……前面",
+      "essential": false,
+      "example_sentence": "The gym is in front of the sports field.",
+      "example_sentence_zh": "体育馆在运动场前面。"
+    },
+    {
+      "id": 4,
+      "english": "building",
+      "pronunciation": "/'bɪldɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "建筑物；房子",
+      "essential": true,
+      "example_sentence": "This smart building has a modern gym.",
+      "example_sentence_zh": "这座智能大楼里有一个现代化的体育馆。"
+    },
+    {
+      "id": 5,
+      "english": "across",
+      "pronunciation": "/ə'krɒs/",
+      "partOfSpeech": "adv. & prep.",
+      "chinese": "在（……）对面；横过",
+      "essential": true,
+      "example_sentence": "The office is across from the library.",
+      "example_sentence_zh": "办公室在图书馆对面。"
+    },
+    {
+      "id": 6,
+      "english": "across from",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在对面",
+      "essential": false,
+      "example_sentence": "The dining hall is across from the gym.",
+      "example_sentence_zh": "餐厅在体育馆对面。"
+    },
+    {
+      "id": 7,
+      "english": "centre",
+      "pronunciation": "/'sentə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "中心；中央",
+      "essential": true,
+      "example_sentence": "The student centre is at the back of the school.",
+      "example_sentence_zh": "学生活动中心在学校后面。"
+    },
+    {
+      "id": 8,
+      "english": "gym",
+      "pronunciation": "/dʒɪm/",
+      "partOfSpeech": "n.",
+      "chinese": "体育馆，健身房；（尤指学校的）体育活动",
+      "essential": true,
+      "example_sentence": "We do exercises in the gym after class.",
+      "example_sentence_zh": "我们课后在体育馆做操。"
+    },
+    {
+      "id": 9,
+      "english": "field",
+      "pronunciation": "/fiːld/",
+      "partOfSpeech": "n.",
+      "chinese": "场地；田地",
+      "essential": true,
+      "example_sentence": "The sports field is behind the main building.",
+      "example_sentence_zh": "运动场在主楼后面。"
+    },
+    {
+      "id": 10,
+      "english": "sports field",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "运动场",
+      "essential": false,
+      "example_sentence": "Students run on the sports field in the morning.",
+      "example_sentence_zh": "学生早上在运动场上跑步。"
+    },
+    {
+      "id": 11,
+      "english": "office",
+      "pronunciation": "/'ɒfɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "办公室",
+      "essential": true,
+      "example_sentence": "The teacher office is next to the hall.",
+      "example_sentence_zh": "教师办公室在礼堂旁边。"
+    },
+    {
+      "id": 12,
+      "english": "large",
+      "pronunciation": "/lɑːdʒ/",
+      "partOfSpeech": "adj.",
+      "chinese": "大的；大号的",
+      "essential": true,
+      "example_sentence": "Our school has a large dining hall.",
+      "example_sentence_zh": "我们学校有一个很大的餐厅。"
+    },
+    {
+      "id": 13,
+      "english": "special",
+      "pronunciation": "/'speʃl/",
+      "partOfSpeech": "adj.",
+      "chinese": "特别的；特殊的",
+      "essential": true,
+      "example_sentence": "This is a special day at school.",
+      "example_sentence_zh": "这是在学校特别的一天。"
+    },
+    {
+      "id": 14,
+      "english": "smart",
+      "pronunciation": "/smɑːt/",
+      "partOfSpeech": "adj.",
+      "chinese": "智能的；聪明的",
+      "essential": true,
+      "example_sentence": "We use a smart whiteboard in class.",
+      "example_sentence_zh": "我们在课堂上使用智能白板。"
+    },
+    {
+      "id": 15,
+      "english": "whiteboard",
+      "pronunciation": "/'waɪtbɔːd/",
+      "partOfSpeech": "n.",
+      "chinese": "白板；白色书写板",
+      "essential": false,
+      "example_sentence": "Please put up the notice on the whiteboard.",
+      "example_sentence_zh": "请把通知贴在白板上。"
+    },
+    {
+      "id": 16,
+      "english": "put up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "张贴；搭建",
+      "essential": false,
+      "example_sentence": "They put up flags in the hall.",
+      "example_sentence_zh": "他们在礼堂里挂起旗帜。"
+    },
+    {
+      "id": 17,
+      "english": "important",
+      "pronunciation": "/ɪm'pɔːtnt/",
+      "partOfSpeech": "adj.",
+      "chinese": "重要的",
+      "essential": true,
+      "example_sentence": "It is important to keep your locker clean.",
+      "example_sentence_zh": "保持储物柜整洁很重要。"
+    },
+    {
+      "id": 18,
+      "english": "notice",
+      "pronunciation": "/'nəʊtɪs/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "通知；注意；注意到；意识到",
+      "essential": true,
+      "example_sentence": "Did you notice the new screen in the corner?",
+      "example_sentence_zh": "你注意到角落里的新屏幕了吗？"
+    },
+    {
+      "id": 19,
+      "english": "locker",
+      "pronunciation": "/'lɒkə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "有锁存物柜；寄物柜",
+      "essential": true,
+      "example_sentence": "I keep my books in my locker.",
+      "example_sentence_zh": "我把书放在储物柜里。"
+    },
+    {
+      "id": 20,
+      "english": "drawer",
+      "pronunciation": "/drɔː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "抽屉",
+      "essential": true,
+      "example_sentence": "The keys are in the drawer of the office desk.",
+      "example_sentence_zh": "钥匙在办公室书桌的抽屉里。"
+    },
+    {
+      "id": 21,
+      "english": "at the back (of)",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在（……）后面",
+      "essential": false,
+      "example_sentence": "The bookcase is at the back of the classroom.",
+      "example_sentence_zh": "书柜在教室后面。"
+    },
+    {
+      "id": 22,
+      "english": "corner",
+      "pronunciation": "/'kɔːnə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "角；墙角；街角",
+      "essential": true,
+      "example_sentence": "There is a plant in the corner of the hall.",
+      "example_sentence_zh": "礼堂角落里有一盆植物。"
+    },
+    {
+      "id": 23,
+      "english": "bookcase",
+      "pronunciation": "/'bʊkkeɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "书架；书柜",
+      "essential": true,
+      "example_sentence": "The library bookcase is full of books.",
+      "example_sentence_zh": "图书馆的书架摆满了书。"
+    },
+    {
+      "id": 24,
+      "english": "screen",
+      "pronunciation": "/skriːn/",
+      "partOfSpeech": "n.",
+      "chinese": "屏幕；银幕",
+      "essential": true,
+      "example_sentence": "The smart screen sounds amazing in the new hall.",
+      "example_sentence_zh": "新礼堂里的智能屏幕听起来很棒。"
+    },
+    {
+      "id": 25,
+      "english": "at school",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在学校",
+      "essential": false,
+      "example_sentence": "We raise the flag at school every Monday.",
+      "example_sentence_zh": "我们每周一在学校升国旗。"
+    },
+    {
+      "id": 26,
+      "english": "different from",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "与……不一样",
+      "essential": false,
+      "example_sentence": "Our gym is different from yours.",
+      "example_sentence_zh": "我们的体育馆和你们的不一样。"
+    },
+    {
+      "id": 27,
+      "english": "modern",
+      "pronunciation": "/'mɒdn/",
+      "partOfSpeech": "adj.",
+      "chinese": "现代的；当代的",
+      "essential": true,
+      "example_sentence": "The building looks modern and clean.",
+      "example_sentence_zh": "这座楼看起来现代又整洁。"
+    },
+    {
+      "id": 28,
+      "english": "do exercises",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "做体操",
+      "essential": false,
+      "example_sentence": "Students do exercises on the sports field.",
+      "example_sentence_zh": "学生们在运动场上做体操。"
+    },
+    {
+      "id": 29,
+      "english": "amazing",
+      "pronunciation": "/ə'meɪzɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "令人惊奇的（惊喜或惊叹）的",
+      "essential": true,
+      "example_sentence": "The new school hall looks amazing.",
+      "example_sentence_zh": "新礼堂看起来令人惊叹。"
+    },
+    {
+      "id": 30,
+      "english": "raise",
+      "pronunciation": "/reɪz/",
+      "partOfSpeech": "v.",
+      "chinese": "使升高；提高",
+      "essential": true,
+      "example_sentence": "We raise the flag in front of the hall.",
+      "example_sentence_zh": "我们在礼堂前升旗。"
+    },
+    {
+      "id": 31,
+      "english": "flag",
+      "pronunciation": "/flæɡ/",
+      "partOfSpeech": "n.",
+      "chinese": "旗；旗帜",
+      "essential": true,
+      "example_sentence": "The red flag is similar to ours.",
+      "example_sentence_zh": "那面红旗和我们的相似。"
+    },
+    {
+      "id": 32,
+      "english": "most",
+      "pronunciation": "/məʊst/",
+      "partOfSpeech": "adj. & pron. & adv.",
+      "chinese": "大多数；最多；最大；最",
+      "essential": true,
+      "example_sentence": "Most students love the delicious food here.",
+      "example_sentence_zh": "大多数学生喜欢这里美味的食物。"
+    },
+    {
+      "id": 33,
+      "english": "change",
+      "pronunciation": "/tʃeɪndʒ/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "改变；变化",
+      "essential": true,
+      "example_sentence": "School life changes a lot in Grade 7.",
+      "example_sentence_zh": "七年级的校园生活变化很大。"
+    },
+    {
+      "id": 34,
+      "english": "seat",
+      "pronunciation": "/siːt/",
+      "partOfSpeech": "n.",
+      "chinese": "座位",
+      "essential": true,
+      "example_sentence": "Please take a seat in the dining hall.",
+      "example_sentence_zh": "请在餐厅找个座位坐下。"
+    },
+    {
+      "id": 35,
+      "english": "delicious",
+      "pronunciation": "/dɪ'lɪʃəs/",
+      "partOfSpeech": "adj.",
+      "chinese": "美味的；可口的",
+      "essential": true,
+      "example_sentence": "The food in the dining hall is delicious.",
+      "example_sentence_zh": "餐厅里的食物很美味。"
+    },
+    {
+      "id": 36,
+      "english": "How about...?",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "……怎么样？",
+      "essential": false,
+      "example_sentence": "How about meeting in the hall after school?",
+      "example_sentence_zh": "放学后在大厅见面怎么样？"
+    },
+    {
+      "id": 37,
+      "english": "yours",
+      "pronunciation": "/jɔːz/",
+      "partOfSpeech": "pron.",
+      "chinese": "（通常写作 Yours，用于书信结尾）你的；您的",
+      "essential": true,
+      "example_sentence": "Best wishes, yours, Flora.",
+      "example_sentence_zh": "祝好，你的，弗洛拉。"
+    },
+    {
+      "id": 38,
+      "english": "send",
+      "pronunciation": "/send/",
+      "partOfSpeech": "v.",
+      "chinese": "发送；邮寄",
+      "essential": true,
+      "example_sentence": "Please send me an email about the school trip.",
+      "example_sentence_zh": "请发邮件告诉我学校旅行的事。"
+    },
+    {
+      "id": 39,
+      "english": "similar",
+      "pronunciation": "/'sɪmələ(r)/",
+      "partOfSpeech": "adj.",
+      "chinese": "类似的；相像的",
+      "essential": true,
+      "example_sentence": "Our classrooms are similar in size.",
+      "example_sentence_zh": "我们的教室大小相似。"
+    },
+    {
+      "id": 40,
+      "english": "similar to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "类似的；相像的",
+      "essential": false,
+      "example_sentence": "This building is similar to the one across from it.",
+      "example_sentence_zh": "这栋楼和对面的那栋很像。"
+    },
+    {
+      "id": 41,
+      "english": "sound",
+      "pronunciation": "/saʊnd/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "听起来；好像；声音；响声",
+      "essential": true,
+      "example_sentence": "That sounds amazing! How about a tour?",
+      "example_sentence_zh": "听起来太棒了！参观一下怎么样？"
+    },
+    {
+      "id": 42,
+      "english": "bye for now",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "再见",
+      "essential": false,
+      "example_sentence": "Bye for now — see you at school tomorrow.",
+      "example_sentence_zh": "先再见——明天学校见。"
+    },
+    {
+      "id": 43,
+      "english": "Flora",
+      "pronunciation": "/'flɔːrə/",
+      "partOfSpeech": "n.",
+      "chinese": "弗洛拉",
+      "essential": false,
+      "example_sentence": "Flora sends a notice about the new gym.",
+      "example_sentence_zh": "弗洛拉发了一条关于新体育馆的通知。"
+    }
+  ]
+}
