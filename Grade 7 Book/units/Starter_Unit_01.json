@@ -1,0 +1,246 @@
+{
+  "unit": 1,
+  "title": "Starter Unit 1",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "unit",
+      "pronunciation": "/ˈjuːnɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "单元",
+      "example_sentence": "We are learning new words in Starter Unit 1.",
+      "essential": true,
+      "example_sentence_zh": "我们在入门第一单元学习新单词。"
+    },
+    {
+      "id": 2,
+      "english": "starter unit",
+      "pronunciation": "/ˈstɑːtə(r) ˈjuːnɪt/",
+      "partOfSpeech": "phrase",
+      "chinese": "过渡单元",
+      "example_sentence": "The starter unit helps us get ready for the course.",
+      "essential": true,
+      "example_sentence_zh": "过渡单元帮助我们为课程做好准备。"
+    },
+    {
+      "id": 3,
+      "english": "section",
+      "pronunciation": "/ˈsekʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "部分；地区",
+      "example_sentence": "Read the first section of the textbook carefully.",
+      "essential": true,
+      "example_sentence_zh": "仔细阅读课本的第一部分。"
+    },
+    {
+      "id": 4,
+      "english": "greet",
+      "pronunciation": "/ɡriːt/",
+      "partOfSpeech": "v.",
+      "chinese": "招呼；问候",
+      "example_sentence": "Students greet their teacher at the door.",
+      "essential": true,
+      "example_sentence_zh": "学生们在门口向老师问好。"
+    },
+    {
+      "id": 5,
+      "english": "each",
+      "pronunciation": "/iːtʃ/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "每个；各自",
+      "example_sentence": "Each student has a name tag on the desk.",
+      "essential": true,
+      "example_sentence_zh": "每个学生的课桌上都有姓名牌。"
+    },
+    {
+      "id": 6,
+      "english": "other",
+      "pronunciation": "/ˈʌðə(r)/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "另外的；其他的；另外的人（或物）",
+      "example_sentence": "Some students like football; other students prefer reading.",
+      "essential": true,
+      "example_sentence_zh": "有些学生喜欢足球，其他学生更喜欢阅读。"
+    },
+    {
+      "id": 7,
+      "english": "each other",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "互相；彼此",
+      "example_sentence": "They wave and greet each other every morning.",
+      "essential": true,
+      "example_sentence_zh": "他们每天早上挥手互致问候。"
+    },
+    {
+      "id": 8,
+      "english": "oh",
+      "pronunciation": "/əʊ/",
+      "partOfSpeech": "interj.",
+      "chinese": "哦；啊",
+      "example_sentence": "Oh, I forgot my English book at home!",
+      "essential": false,
+      "example_sentence_zh": "哦，我把英语书忘在家里了！"
+    },
+    {
+      "id": 9,
+      "english": "everyone",
+      "pronunciation": "/ˈevriwʌn/",
+      "partOfSpeech": "pron.",
+      "chinese": "每人；所有人",
+      "example_sentence": "Everyone in the class stands up to greet the teacher.",
+      "essential": true,
+      "example_sentence_zh": "全班同学起立向老师问好。"
+    },
+    {
+      "id": 10,
+      "english": "start",
+      "pronunciation": "/stɑːt/",
+      "partOfSpeech": "v.",
+      "chinese": "开始；着手",
+      "example_sentence": "Let's start our English lesson now.",
+      "essential": true,
+      "example_sentence_zh": "我们现在开始上英语课吧。"
+    },
+    {
+      "id": 11,
+      "english": "conversation",
+      "pronunciation": "/ˌkɒnvəˈseɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "谈话；交谈",
+      "example_sentence": "We had a short conversation in English after class.",
+      "essential": true,
+      "example_sentence_zh": "下课后我们用英语简短交谈。"
+    },
+    {
+      "id": 12,
+      "english": "spell",
+      "pronunciation": "/spel/",
+      "partOfSpeech": "v.",
+      "chinese": "用字母拼；拼写",
+      "example_sentence": "Can you spell your name for the class?",
+      "essential": true,
+      "example_sentence_zh": "你能给全班拼写一下你的名字吗？"
+    },
+    {
+      "id": 13,
+      "english": "bell",
+      "pronunciation": "/bel/",
+      "partOfSpeech": "n.",
+      "chinese": "铃（声）；钟（声）",
+      "example_sentence": "The school bell rings at eight o'clock.",
+      "essential": true,
+      "example_sentence_zh": "学校的铃在八点响起。"
+    },
+    {
+      "id": 14,
+      "english": "Helen",
+      "pronunciation": "/ˈhelən/",
+      "partOfSpeech": "n.",
+      "chinese": "海伦",
+      "example_sentence": "Helen is a new student in our class.",
+      "essential": false,
+      "example_sentence_zh": "海伦是我们班的新同学。"
+    },
+    {
+      "id": 15,
+      "english": "Ella",
+      "pronunciation": "/ˈelə/",
+      "partOfSpeech": "n.",
+      "chinese": "埃拉",
+      "example_sentence": "Ella sits next to me in the classroom.",
+      "essential": false,
+      "example_sentence_zh": "埃拉在教室里坐在我旁边。"
+    },
+    {
+      "id": 16,
+      "english": "Emma",
+      "pronunciation": "/ˈemə/",
+      "partOfSpeech": "n.",
+      "chinese": "埃玛",
+      "example_sentence": "Emma can spell her name very quickly.",
+      "essential": false,
+      "example_sentence_zh": "埃玛能很快拼出自己的名字。"
+    },
+    {
+      "id": 17,
+      "english": "Peter",
+      "pronunciation": "/ˈpiːtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "彼得",
+      "example_sentence": "Peter greets everyone with a smile.",
+      "essential": false,
+      "example_sentence_zh": "彼得微笑着向每个人问好。"
+    },
+    {
+      "id": 18,
+      "english": "Brown",
+      "pronunciation": "/braʊn/",
+      "partOfSpeech": "n.",
+      "chinese": "布朗",
+      "example_sentence": "Mr Brown is our English teacher.",
+      "essential": false,
+      "example_sentence_zh": "布朗先生是我们的英语老师。"
+    },
+    {
+      "id": 19,
+      "english": "PRC",
+      "pronunciation": "/ˌpiː ɑː ˈsiː/",
+      "partOfSpeech": "n.",
+      "chinese": "中华人民共和国",
+      "example_sentence": "PRC stands for the People's Republic of China.",
+      "essential": false,
+      "example_sentence_zh": "PRC 代表中华人民共和国。"
+    },
+    {
+      "id": 20,
+      "english": "PLA",
+      "pronunciation": "/ˌpiː el ˈeɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "中国人民解放军",
+      "example_sentence": "PLA is the abbreviation for the People's Liberation Army.",
+      "essential": false,
+      "example_sentence_zh": "PLA 是中国人民解放军的缩写。"
+    },
+    {
+      "id": 21,
+      "english": "VR",
+      "pronunciation": "/ˌviː ˈɑː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "虚拟现实",
+      "example_sentence": "Some students tried a VR lesson in the computer room.",
+      "essential": false,
+      "example_sentence_zh": "一些同学在电脑室体验了 VR 课程。"
+    },
+    {
+      "id": 22,
+      "english": "WHO",
+      "pronunciation": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+      "partOfSpeech": "n.",
+      "chinese": "世界卫生组织",
+      "example_sentence": "WHO works to improve health around the world.",
+      "essential": false,
+      "example_sentence_zh": "世界卫生组织致力于改善全球健康。"
+    },
+    {
+      "id": 23,
+      "english": "UN",
+      "pronunciation": "/ˌjuː ˈen/",
+      "partOfSpeech": "n.",
+      "chinese": "联合国",
+      "example_sentence": "The UN helps countries work together on big problems.",
+      "essential": false,
+      "example_sentence_zh": "联合国帮助各国共同应对重大问题。"
+    },
+    {
+      "id": 24,
+      "english": "Miller",
+      "pronunciation": "/ˈmɪlə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "米勒",
+      "example_sentence": "Miller is a common family name in English-speaking countries.",
+      "essential": false,
+      "example_sentence_zh": "Miller 在英语国家是常见的姓氏。"
+    }
+  ]
+}

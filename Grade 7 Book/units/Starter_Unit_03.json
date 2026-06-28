@@ -1,0 +1,96 @@
+{
+  "unit": 3,
+  "title": "Starter Unit 3",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "fun",
+      "pronunciation": "/fʌn/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "乐趣；快乐；有趣的；使人快乐的",
+      "example_sentence": "Counting games in English class are great fun.",
+      "essential": true,
+      "example_sentence_zh": "英语课上的数数游戏非常有趣。"
+    },
+    {
+      "id": 2,
+      "english": "yard",
+      "pronunciation": "/jɑːd/",
+      "partOfSpeech": "n.",
+      "chinese": "院子；园圃",
+      "example_sentence": "The children play in the school yard at break time.",
+      "essential": true,
+      "example_sentence_zh": "孩子们课间在学校院子里玩耍。"
+    },
+    {
+      "id": 3,
+      "english": "carrot",
+      "pronunciation": "/ˈkærət/",
+      "partOfSpeech": "n.",
+      "chinese": "胡萝卜",
+      "example_sentence": "There are ten carrots in the school garden.",
+      "essential": true,
+      "example_sentence_zh": "学校园圃里有十根胡萝卜。"
+    },
+    {
+      "id": 4,
+      "english": "goose",
+      "pronunciation": "/ɡuːs/",
+      "partOfSpeech": "n.",
+      "chinese": "鹅",
+      "example_sentence": "A goose walked across the yard near the classroom.",
+      "essential": true,
+      "example_sentence_zh": "一只鹅穿过教室旁的院子。"
+    },
+    {
+      "id": 5,
+      "english": "count",
+      "pronunciation": "/kaʊnt/",
+      "partOfSpeech": "v.",
+      "chinese": "数数",
+      "example_sentence": "Let's count the books on the shelf together.",
+      "essential": true,
+      "example_sentence_zh": "我们一起数书架上的书吧。"
+    },
+    {
+      "id": 6,
+      "english": "another",
+      "pronunciation": "/əˈnʌðə(r)/",
+      "partOfSpeech": "adj. & pron.",
+      "chinese": "另一；又一（人或事物）",
+      "example_sentence": "Can I have another carrot from the garden?",
+      "essential": true,
+      "example_sentence_zh": "我能再从园圃里拿一根胡萝卜吗？"
+    },
+    {
+      "id": 7,
+      "english": "else",
+      "pronunciation": "/els/",
+      "partOfSpeech": "adv.",
+      "chinese": "其他的；别的",
+      "example_sentence": "What else can you see in the yard?",
+      "essential": true,
+      "example_sentence_zh": "你还能在院子里看到别的什么？"
+    },
+    {
+      "id": 8,
+      "english": "circle",
+      "pronunciation": "/ˈsɜːkl/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "圈出；圆形；圆圈",
+      "example_sentence": "Circle the correct number on your worksheet.",
+      "essential": true,
+      "example_sentence_zh": "在练习纸上圈出正确的数字。"
+    },
+    {
+      "id": 9,
+      "english": "look at",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "看；瞧",
+      "example_sentence": "Look at the geese in the school yard.",
+      "essential": true,
+      "example_sentence_zh": "看学校院子里的那些鹅。"
+    }
+  ]
+}

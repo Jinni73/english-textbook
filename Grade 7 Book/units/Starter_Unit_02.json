@@ -1,0 +1,66 @@
+{
+  "unit": 2,
+  "title": "Starter Unit 2",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "bottle",
+      "pronunciation": "/ˈbɒtl/",
+      "partOfSpeech": "n.",
+      "chinese": "瓶子",
+      "example_sentence": "Please put the water bottle in your bag.",
+      "essential": true,
+      "example_sentence_zh": "请把水瓶放进你的书包里。"
+    },
+    {
+      "id": 2,
+      "english": "eraser",
+      "pronunciation": "/ɪˈreɪzə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "橡皮",
+      "example_sentence": "I need an eraser to fix this spelling mistake.",
+      "essential": true,
+      "example_sentence_zh": "我需要一块橡皮来改正这个拼写错误。"
+    },
+    {
+      "id": 3,
+      "english": "key",
+      "pronunciation": "/kiː/",
+      "partOfSpeech": "n.",
+      "chinese": "钥匙；关键",
+      "example_sentence": "The key to the classroom is on the teacher's desk.",
+      "essential": true,
+      "example_sentence_zh": "教室的钥匙在老师的桌子上。"
+    },
+    {
+      "id": 4,
+      "english": "thing",
+      "pronunciation": "/θɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "东西；事情",
+      "example_sentence": "Put your things in the locker before PE class.",
+      "essential": true,
+      "example_sentence_zh": "体育课前把东西放进储物柜。"
+    },
+    {
+      "id": 5,
+      "english": "need",
+      "pronunciation": "/niːd/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "需要",
+      "example_sentence": "Do you need a pen for the English test?",
+      "essential": true,
+      "example_sentence_zh": "英语考试你需要笔吗？"
+    },
+    {
+      "id": 6,
+      "english": "You're welcome.",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "别客气；不用谢。",
+      "example_sentence": "Thank you for your help. — You're welcome.",
+      "essential": true,
+      "example_sentence_zh": "谢谢你的帮助。——别客气。"
+    }
+  ]
+}

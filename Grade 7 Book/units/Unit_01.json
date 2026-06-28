@@ -1,0 +1,86 @@
+{
+  "unit": 4,
+  "title": "Unit 1",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "make friends",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "交朋友",
+      "example_sentence": "It is easy to make friends when you greet people kindly.",
+      "essential": true,
+      "example_sentence_zh": "友好地打招呼时很容易交到朋友。"
+    },
+    {
+      "id": 2,
+      "english": "get to know",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "认识；了解",
+      "example_sentence": "We get to know each other on the first day of school.",
+      "essential": true,
+      "example_sentence_zh": "我们在开学第一天互相认识了解。"
+    },
+    {
+      "id": 3,
+      "english": "full",
+      "pronunciation": "/fʊl/",
+      "partOfSpeech": "adj.",
+      "chinese": "完整的；满的",
+      "example_sentence": "Please write your full name on the form.",
+      "essential": true,
+      "example_sentence_zh": "请在表格上写下你的全名。"
+    },
+    {
+      "id": 4,
+      "english": "full name",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "全名",
+      "example_sentence": "My full name is Zhang Wei, but you can call me Wei.",
+      "essential": true,
+      "example_sentence_zh": "我的全名是张伟，但你可以叫我伟。"
+    },
+    {
+      "id": 5,
+      "english": "grade",
+      "pronunciation": "/ɡreɪd/",
+      "partOfSpeech": "n.",
+      "chinese": "年级；等级",
+      "example_sentence": "I am in Grade 7 this year.",
+      "essential": true,
+      "example_sentence_zh": "我今年上七年级。"
+    },
+    {
+      "id": 6,
+      "english": "last name",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "姓氏",
+      "example_sentence": "Brown is his last name.",
+      "essential": true,
+      "example_sentence_zh": "Brown 是他的姓。"
+    },
+    {
+      "id": 7,
+      "english": "classmate",
+      "pronunciation": "/ˈklɑːsmeɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "同班同学",
+      "example_sentence": "My classmate Emma sits in front of me.",
+      "essential": true,
+      "example_sentence_zh": "我的同班同学埃玛坐在我前面。"
+    },
+    {
+      "id": 8,
+      "english": "class teacher",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "班主任",
+      "example_sentence": "Our class teacher helps us get to know the school rules.",
+      "essential": true,
+      "example_sentence_zh": "我们的班主任帮助我们了解校规。"
+    }
+  ]
+}
