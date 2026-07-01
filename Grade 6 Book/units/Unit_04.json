@@ -1,0 +1,186 @@
+{
+  "unit": 4,
+  "title": "Unit 4 · Managing money well",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "money",
+      "pronunciation": "/ˈmʌni/",
+      "partOfSpeech": "n.",
+      "chinese": "钱",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a money.",
+      "example_sentence_zh": "我们在英语课上学习了「钱」这个词。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "pocket money",
+      "pronunciation": "/ˈpɒkɪt ˈmʌni/",
+      "partOfSpeech": "n.",
+      "chinese": "零花钱",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a pocket money.",
+      "example_sentence_zh": "我们在英语课上学习了「零花钱」这个词。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "schoolbag",
+      "pronunciation": "/ˈskuːlbæɡ/",
+      "partOfSpeech": "n.",
+      "chinese": "书包",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a schoolbag.",
+      "example_sentence_zh": "我们在英语课上学习了「书包」这个词。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "goods",
+      "pronunciation": "/ɡʊdz/",
+      "partOfSpeech": "n.",
+      "chinese": "商品",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a goods.",
+      "example_sentence_zh": "我们在英语课上学习了「商品」这个词。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "drink",
+      "pronunciation": "/drɪŋk/",
+      "partOfSpeech": "n.",
+      "chinese": "饮料",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a drink.",
+      "example_sentence_zh": "我们在英语课上学习了「饮料」这个词。",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "service",
+      "pronunciation": "/ˈsɜːvɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "服务",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a service.",
+      "example_sentence_zh": "我们在英语课上学习了「服务」这个词。",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "haircut",
+      "pronunciation": "/ˈheəkʌt/",
+      "partOfSpeech": "n.",
+      "chinese": "理发；发型",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a haircut.",
+      "example_sentence_zh": "我们在英语课上学习了「理发」这个词。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "microscope",
+      "pronunciation": "/ˈmaɪkrəskəʊp/",
+      "partOfSpeech": "n.",
+      "chinese": "显微镜",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a microscope.",
+      "example_sentence_zh": "我们在英语课上学习了「显微镜」这个词。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "lucky",
+      "pronunciation": "/ˈlʌki/",
+      "partOfSpeech": "adj.",
+      "chinese": "幸运的",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a lucky.",
+      "example_sentence_zh": "我们在英语课上学习了「幸运的」这个词。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "save up",
+      "pronunciation": "/seɪv ʌp/",
+      "partOfSpeech": "phrase",
+      "chinese": "攒钱",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a save up.",
+      "example_sentence_zh": "我们在英语课上学习了「攒钱」这个词。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "sale",
+      "pronunciation": "/seɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "特价销售；出售",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a sale.",
+      "example_sentence_zh": "我们在英语课上学习了「特价销售」这个词。",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "ticket",
+      "pronunciation": "/ˈtɪkɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "票",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a ticket.",
+      "example_sentence_zh": "我们在英语课上学习了「票」这个词。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "manage",
+      "pronunciation": "/ˈmænɪdʒ/",
+      "partOfSpeech": "v.",
+      "chinese": "管理",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a manage.",
+      "example_sentence_zh": "我们在英语课上学习了「管理」这个词。",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "difficult",
+      "pronunciation": "/ˈdɪfɪkəlt/",
+      "partOfSpeech": "adj.",
+      "chinese": "困难的",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a difficult.",
+      "example_sentence_zh": "我们在英语课上学习了「困难的」这个词。",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "sell",
+      "pronunciation": "/sel/",
+      "partOfSpeech": "v.",
+      "chinese": "出售；售卖",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a sell.",
+      "example_sentence_zh": "我们在英语课上学习了「出售」这个词。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "jar",
+      "pronunciation": "/dʒɑː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "罐子",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a jar.",
+      "example_sentence_zh": "我们在英语课上学习了「罐子」这个词。",
+      "essential": true
+    },
+    {
+      "id": 17,
+      "english": "half",
+      "pronunciation": "/hɑːf/",
+      "partOfSpeech": "n.",
+      "chinese": "一半",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a half.",
+      "example_sentence_zh": "我们在英语课上学习了「一半」这个词。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "for example",
+      "pronunciation": "/fɔː(r) ɪɡˈzɑːmpl/",
+      "partOfSpeech": "phrase",
+      "chinese": "例如",
+      "example_sentence": "Sarah used her pocket money wisely when she bought a for example.",
+      "example_sentence_zh": "我们在英语课上学习了「例如」这个词。",
+      "essential": true
+    }
+  ]
+}

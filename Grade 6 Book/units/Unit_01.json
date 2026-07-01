@@ -1,0 +1,259 @@
+{
+  "unit": 1,
+  "title": "Unit 1 · Amazing places",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "was",
+      "pronunciation": "/wɒz/",
+      "partOfSpeech": "v.",
+      "chinese": "（be 的第一和第三人称单数过去式）",
+      "example_sentence": "We talked about was during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「（be 的第一和第三人称单数过去式）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "climb",
+      "pronunciation": "/klaɪm/",
+      "partOfSpeech": "v.",
+      "chinese": "攀登；爬",
+      "example_sentence": "We talked about climb during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「攀登」这个词。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "kilometre",
+      "pronunciation": "/ˈkɪləmiːtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "千米；公里（= km）",
+      "example_sentence": "We talked about kilometre during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「千米」这个词。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "gingerbread house",
+      "pronunciation": "/ˈdʒɪndʒəbred haʊs/",
+      "partOfSpeech": "phrase",
+      "chinese": "姜饼屋",
+      "example_sentence": "We talked about gingerbread house during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「姜饼屋」这个词。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "send",
+      "pronunciation": "/send/",
+      "partOfSpeech": "v.",
+      "chinese": "邮寄；发送",
+      "example_sentence": "We talked about send during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「邮寄」这个词。",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "go",
+      "pronunciation": "/ɡəʊ/",
+      "partOfSpeech": "v.",
+      "chinese": "去；走（过去式 went）",
+      "example_sentence": "We talked about go during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「去」这个词。",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "thousand",
+      "pronunciation": "/ˈθaʊznd/",
+      "partOfSpeech": "num.",
+      "chinese": "一千",
+      "example_sentence": "We talked about thousand during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「一千」这个词。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "clay",
+      "pronunciation": "/kleɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "黏土；陶土",
+      "example_sentence": "We talked about clay during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「黏土」这个词。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "see",
+      "pronunciation": "/siː/",
+      "partOfSpeech": "v.",
+      "chinese": "看见（过去式 saw）",
+      "example_sentence": "We talked about see during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「看见（过去式 saw）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "village",
+      "pronunciation": "/ˈvɪlɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "村庄；村镇",
+      "example_sentence": "We talked about village during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「村庄」这个词。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "eat",
+      "pronunciation": "/iːt/",
+      "partOfSpeech": "v.",
+      "chinese": "吃（过去式 ate）",
+      "example_sentence": "We talked about eat during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「吃（过去式 ate）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "dry",
+      "pronunciation": "/draɪ/",
+      "partOfSpeech": "adj.",
+      "chinese": "干的",
+      "example_sentence": "We talked about dry during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「干的」这个词。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "take",
+      "pronunciation": "/teɪk/",
+      "partOfSpeech": "v.",
+      "chinese": "做（某个动作）；带（过去式 took）",
+      "example_sentence": "We talked about take during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「做（某个动作）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "view",
+      "pronunciation": "/vjuː/",
+      "partOfSpeech": "n.",
+      "chinese": "景色",
+      "example_sentence": "We talked about view during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「景色」这个词。",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "inspiring",
+      "pronunciation": "/ɪnˈspaɪərɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "鼓舞人心的",
+      "example_sentence": "We talked about inspiring during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「鼓舞人心的」这个词。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "bamboo",
+      "pronunciation": "/ˌbæmˈbuː/",
+      "partOfSpeech": "n.",
+      "chinese": "竹；竹子",
+      "example_sentence": "We talked about bamboo during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「竹」这个词。",
+      "essential": true
+    },
+    {
+      "id": 17,
+      "english": "pumpkin",
+      "pronunciation": "/ˈpʌmpkɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "南瓜",
+      "example_sentence": "We talked about pumpkin during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「南瓜」这个词。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "restaurant",
+      "pronunciation": "/ˈrestrɒnt/",
+      "partOfSpeech": "n.",
+      "chinese": "餐馆；餐厅",
+      "example_sentence": "We talked about restaurant during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「餐馆」这个词。",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "airport",
+      "pronunciation": "/ˈeəpɔːt/",
+      "partOfSpeech": "n.",
+      "chinese": "机场",
+      "example_sentence": "We talked about airport during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「机场」这个词。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "New Zealand",
+      "pronunciation": "/ˌnjuː ˈziːlənd/",
+      "partOfSpeech": "n.",
+      "chinese": "新西兰",
+      "example_sentence": "We talked about New Zealand during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「新西兰」这个词。"
+    },
+    {
+      "id": 21,
+      "english": "Hong Kong-Zhuhai-Macao Bridge",
+      "pronunciation": "/ˌhɒŋ ˌkɒŋ ˌʒuː ˌhaɪ ˌməˈkaʊ ˈbrɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "港珠澳大桥",
+      "example_sentence": "We talked about Hong Kong-Zhuhai-Macao Bridge during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「港珠澳大桥」这个词。"
+    },
+    {
+      "id": 22,
+      "english": "Paris",
+      "pronunciation": "/ˈpærɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "巴黎",
+      "example_sentence": "We talked about Paris during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「巴黎」这个词。"
+    },
+    {
+      "id": 23,
+      "english": "Eiffel Tower",
+      "pronunciation": "/ˈaɪfəl ˈtaʊə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "埃菲尔铁塔",
+      "example_sentence": "We talked about Eiffel Tower during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「埃菲尔铁塔」这个词。"
+    },
+    {
+      "id": 24,
+      "english": "Terracotta Warriors",
+      "pronunciation": "/ˌterəˈkɒtə ˈwɒriəz/",
+      "partOfSpeech": "n.",
+      "chinese": "兵马俑",
+      "example_sentence": "We talked about Terracotta Warriors during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「兵马俑」这个词。"
+    },
+    {
+      "id": 25,
+      "english": "Jinggangshan Revolution Museum",
+      "pronunciation": "/dʒɪŋˈɡæŋʃæn ˌrevəˈluːʃn mjuˈziːəm/",
+      "partOfSpeech": "n.",
+      "chinese": "井冈山革命博物馆",
+      "example_sentence": "We talked about Jinggangshan Revolution Museum during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「井冈山革命博物馆」这个词。"
+    },
+    {
+      "id": 26,
+      "english": "the Red Army",
+      "pronunciation": "/ðə red ˈɑːmi/",
+      "partOfSpeech": "n.",
+      "chinese": "红军",
+      "example_sentence": "We talked about the Red Army during our trip lesson.",
+      "example_sentence_zh": "我们在英语课上学习了「红军」这个词。"
+    }
+  ]
+}

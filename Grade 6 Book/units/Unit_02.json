@@ -1,0 +1,256 @@
+{
+  "unit": 2,
+  "title": "Unit 2 · Getting together",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "paste",
+      "pronunciation": "/peɪst/",
+      "partOfSpeech": "v.",
+      "chinese": "粘贴",
+      "example_sentence": "Our class discussed paste at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「粘贴」这个词。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "dress",
+      "pronunciation": "/dres/",
+      "partOfSpeech": "v.",
+      "chinese": "穿衣服",
+      "example_sentence": "Our class discussed dress at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「穿衣服」这个词。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "gala",
+      "pronunciation": "/ˈɡɑːlə/",
+      "partOfSpeech": "n.",
+      "chinese": "演出；庆典",
+      "example_sentence": "Our class discussed gala at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「演出」这个词。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "count down",
+      "pronunciation": "/kaʊnt daʊn/",
+      "partOfSpeech": "phrase",
+      "chinese": "倒计时",
+      "example_sentence": "Our class enjoyed count down at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「倒计时」这个词。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "marathon",
+      "pronunciation": "/ˈmærəθən/",
+      "partOfSpeech": "n.",
+      "chinese": "马拉松赛跑",
+      "example_sentence": "Our class discussed marathon at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「马拉松赛跑」这个词。",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "as",
+      "pronunciation": "/æz/",
+      "partOfSpeech": "prep.",
+      "chinese": "作为",
+      "example_sentence": "Our class discussed as at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「作为」这个词。",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "race",
+      "pronunciation": "/reɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "赛跑；速度竞赛",
+      "example_sentence": "Our class discussed race at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「赛跑」这个词。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "run",
+      "pronunciation": "/rʌn/",
+      "partOfSpeech": "v.",
+      "chinese": "跑；奔跑（过去式 ran）",
+      "example_sentence": "Our class discussed run at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「跑」这个词。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "cheer",
+      "pronunciation": "/tʃɪə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "欢呼；加油",
+      "example_sentence": "Our class discussed cheer at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「欢呼」这个词。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "book fair",
+      "pronunciation": "/bʊk feə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "书市",
+      "example_sentence": "Our class enjoyed book fair at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「书市」这个词。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "writer",
+      "pronunciation": "/ˈraɪtə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "作家；作者",
+      "example_sentence": "Our class discussed writer at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「作家」这个词。",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "read",
+      "pronunciation": "/riːd/",
+      "partOfSpeech": "v.",
+      "chinese": "阅读（过去式 read /red/）",
+      "example_sentence": "Our class discussed read at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「阅读（过去式 read /red/）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "make",
+      "pronunciation": "/meɪk/",
+      "partOfSpeech": "v.",
+      "chinese": "做；使出现（过去式 made）",
+      "example_sentence": "Our class discussed make at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「做」这个词。",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "sing",
+      "pronunciation": "/sɪŋ/",
+      "partOfSpeech": "v.",
+      "chinese": "唱；演唱（过去式 sang）",
+      "example_sentence": "Our class discussed sing at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「唱」这个词。",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "wear",
+      "pronunciation": "/weə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "穿；戴（过去式 wore）",
+      "example_sentence": "Our class discussed wear at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「穿」这个词。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "yesterday",
+      "pronunciation": "/ˈjestədeɪ/",
+      "partOfSpeech": "adv.",
+      "chinese": "昨天",
+      "example_sentence": "Our class discussed yesterday at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「昨天」这个词。",
+      "essential": true
+    },
+    {
+      "id": 17,
+      "english": "notice",
+      "pronunciation": "/ˈnəʊtɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "通知",
+      "example_sentence": "Our class discussed notice at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「通知」这个词。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "wake",
+      "pronunciation": "/weɪk/",
+      "partOfSpeech": "v.",
+      "chinese": "醒；醒来（过去式 woke）",
+      "example_sentence": "Our class discussed wake at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「醒」这个词。",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "later",
+      "pronunciation": "/ˈleɪtə(r)/",
+      "partOfSpeech": "adv.",
+      "chinese": "随后；后来",
+      "example_sentence": "Our class discussed later at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「随后」这个词。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "judge",
+      "pronunciation": "/dʒʌdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "裁判",
+      "example_sentence": "Our class discussed judge at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「裁判」这个词。",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "begin",
+      "pronunciation": "/bɪˈɡɪn/",
+      "partOfSpeech": "v.",
+      "chinese": "开始（过去式 began）",
+      "example_sentence": "Our class discussed begin at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「开始（过去式 began）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "win",
+      "pronunciation": "/wɪn/",
+      "partOfSpeech": "v.",
+      "chinese": "获胜（过去式 won）",
+      "example_sentence": "Our class discussed win at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「获胜（过去式 won）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "winner",
+      "pronunciation": "/ˈwɪnə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "获胜的人（或队）；成功者",
+      "example_sentence": "Our class discussed winner at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「获胜的人（或队）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "ever",
+      "pronunciation": "/ˈevə(r)/",
+      "partOfSpeech": "adv.",
+      "chinese": "以往任何时候（用于加强比较）",
+      "example_sentence": "Our class discussed ever at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「以往任何时候（用于加强比较）」这个词。",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "exciting",
+      "pronunciation": "/ɪkˈsaɪtɪŋ/",
+      "partOfSpeech": "adj.",
+      "chinese": "令人激动的",
+      "example_sentence": "Our class discussed exciting at the school event.",
+      "example_sentence_zh": "我们在英语课上学习了「令人激动的」这个词。",
+      "essential": true
+    }
+  ]
+}

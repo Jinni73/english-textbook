@@ -1,0 +1,39 @@
+{
+  "book": "Grade 6 Book (2024 PEP, 2026秋)",
+  "sourcePdf": "26秋六上人教英语教材.pdf",
+  "appendix": "Appendix 2 · Words in each unit (pp. 81–84)",
+  "generatedAt": "2026-07-01T05:15:36.973Z",
+  "note": "Curated from OCR + manual review; * words marked essential",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Unit 1 · Amazing places",
+      "wordCount": 26
+    },
+    {
+      "unit": 2,
+      "title": "Unit 2 · Getting together",
+      "wordCount": 25
+    },
+    {
+      "unit": 3,
+      "title": "Unit 3 · Healthy life",
+      "wordCount": 20
+    },
+    {
+      "unit": 4,
+      "title": "Unit 4 · Managing money well",
+      "wordCount": 18
+    },
+    {
+      "unit": 5,
+      "title": "Unit 5 · Exploring space",
+      "wordCount": 29
+    },
+    {
+      "unit": 6,
+      "title": "Unit 6 · Energy, nature and us",
+      "wordCount": 29
+    }
+  ]
+}

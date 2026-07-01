@@ -1,0 +1,296 @@
+{
+  "unit": 5,
+  "title": "Unit 5 · Exploring space",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "planet",
+      "pronunciation": "/ˈplænɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "行星",
+      "example_sentence": "In science class we learned about planet in space.",
+      "example_sentence_zh": "我们在英语课上学习了「行星」这个词。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "Earth",
+      "pronunciation": "/ɜːθ/",
+      "partOfSpeech": "n.",
+      "chinese": "地球",
+      "example_sentence": "In science class we learned about Earth in space.",
+      "example_sentence_zh": "我们在英语课上学习了「地球」这个词。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "sky",
+      "pronunciation": "/skaɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "天；天空",
+      "example_sentence": "In science class we learned about sky in space.",
+      "example_sentence_zh": "我们在英语课上学习了「天」这个词。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "daytime",
+      "pronunciation": "/ˈdeɪtaɪm/",
+      "partOfSpeech": "n.",
+      "chinese": "白天",
+      "example_sentence": "In science class we learned about daytime in space.",
+      "example_sentence_zh": "我们在英语课上学习了「白天」这个词。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "cloud",
+      "pronunciation": "/klaʊd/",
+      "partOfSpeech": "n.",
+      "chinese": "云",
+      "example_sentence": "In science class we learned about cloud in space.",
+      "example_sentence_zh": "我们在英语课上学习了「云」这个词。",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "Moon",
+      "pronunciation": "/muːn/",
+      "partOfSpeech": "n.",
+      "chinese": "月球；月亮",
+      "example_sentence": "In science class we learned about Moon in space.",
+      "example_sentence_zh": "我们在英语课上学习了「月球」这个词。",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "star",
+      "pronunciation": "/stɑː(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "恒星；星",
+      "example_sentence": "In science class we learned about star in space.",
+      "example_sentence_zh": "我们在英语课上学习了「恒星」这个词。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "space",
+      "pronunciation": "/speɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "太空；空间",
+      "example_sentence": "In science class we learned about space in space.",
+      "example_sentence_zh": "我们在英语课上学习了「太空」这个词。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "outer space",
+      "pronunciation": "/ˈaʊtə(r) speɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "外层空间；外太空",
+      "example_sentence": "In science class we learned about outer space in space.",
+      "example_sentence_zh": "我们在英语课上学习了「外层空间」这个词。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "space station",
+      "pronunciation": "/speɪs ˈsteɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "空间站",
+      "example_sentence": "In science class we learned about space station in space.",
+      "example_sentence_zh": "我们在英语课上学习了「空间站」这个词。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "ocean",
+      "pronunciation": "/ˈəʊʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "大海；海洋",
+      "example_sentence": "In science class we learned about ocean in space.",
+      "example_sentence_zh": "我们在英语课上学习了「大海」这个词。",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "marble",
+      "pronunciation": "/ˈmɑːbl/",
+      "partOfSpeech": "n.",
+      "chinese": "（玻璃）弹子",
+      "example_sentence": "In science class we learned about marble in space.",
+      "example_sentence_zh": "我们在英语课上学习了「（玻璃）弹子」这个词。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "satellite",
+      "pronunciation": "/ˈsætəlaɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "人造卫星",
+      "example_sentence": "In science class we learned about satellite in space.",
+      "example_sentence_zh": "我们在英语课上学习了「人造卫星」这个词。",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "soil",
+      "pronunciation": "/sɔɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "土壤",
+      "example_sentence": "In science class we learned about soil in space.",
+      "example_sentence_zh": "我们在英语课上学习了「土壤」这个词。",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "Mars",
+      "pronunciation": "/mɑːz/",
+      "partOfSpeech": "n.",
+      "chinese": "火星",
+      "example_sentence": "In science class we learned about Mars in space.",
+      "example_sentence_zh": "我们在英语课上学习了「火星」这个词。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "alien",
+      "pronunciation": "/ˈeɪliən/",
+      "partOfSpeech": "n.",
+      "chinese": "外星生物",
+      "example_sentence": "In science class we learned about alien in space.",
+      "example_sentence_zh": "我们在英语课上学习了「外星生物」这个词。",
+      "essential": true
+    },
+    {
+      "id": 17,
+      "english": "sunrise",
+      "pronunciation": "/ˈsʌnraɪz/",
+      "partOfSpeech": "n.",
+      "chinese": "日出",
+      "example_sentence": "In science class we learned about sunrise in space.",
+      "example_sentence_zh": "我们在英语课上学习了「日出」这个词。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "rover",
+      "pronunciation": "/ˈrəʊvə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "探测器",
+      "example_sentence": "In science class we learned about rover in space.",
+      "example_sentence_zh": "我们在英语课上学习了「探测器」这个词。",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "into",
+      "pronunciation": "/ˈɪntu/",
+      "partOfSpeech": "prep.",
+      "chinese": "朝；进入",
+      "example_sentence": "In science class we learned about into in space.",
+      "example_sentence_zh": "我们在英语课上学习了「朝」这个词。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "telescope",
+      "pronunciation": "/ˈtelɪskəʊp/",
+      "partOfSpeech": "n.",
+      "chinese": "望远镜",
+      "example_sentence": "In science class we learned about telescope in space.",
+      "example_sentence_zh": "我们在英语课上学习了「望远镜」这个词。",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "astronaut",
+      "pronunciation": "/ˈæstrənɔːt/",
+      "partOfSpeech": "n.",
+      "chinese": "宇航员；航天员",
+      "example_sentence": "In science class we learned about astronaut in space.",
+      "example_sentence_zh": "我们在英语课上学习了「宇航员」这个词。",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "spaceship",
+      "pronunciation": "/ˈspeɪsʃɪp/",
+      "partOfSpeech": "n.",
+      "chinese": "宇宙飞船",
+      "example_sentence": "In science class we learned about spaceship in space.",
+      "example_sentence_zh": "我们在英语课上学习了「宇宙飞船」这个词。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "month",
+      "pronunciation": "/mʌnθ/",
+      "partOfSpeech": "n.",
+      "chinese": "月；月份",
+      "example_sentence": "In science class we learned about month in space.",
+      "example_sentence_zh": "我们在英语课上学习了「月」这个词。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "taikonaut",
+      "pronunciation": "/ˈtaɪkənɔːt/",
+      "partOfSpeech": "n.",
+      "chinese": "中国航天员",
+      "example_sentence": "In science class we learned about taikonaut in space.",
+      "example_sentence_zh": "我们在英语课上学习了「中国航天员」这个词。",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "cloth",
+      "pronunciation": "/klɒθ/",
+      "partOfSpeech": "n.",
+      "chinese": "（一块）布；织物",
+      "example_sentence": "In science class we learned about cloth in space.",
+      "example_sentence_zh": "我们在英语课上学习了「（一块）布」这个词。",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "toothpaste",
+      "pronunciation": "/ˈtuːθpeɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "牙膏",
+      "example_sentence": "In science class we learned about toothpaste in space.",
+      "example_sentence_zh": "我们在英语课上学习了「牙膏」这个词。",
+      "essential": true
+    },
+    {
+      "id": 27,
+      "english": "question",
+      "pronunciation": "/ˈkwestʃən/",
+      "partOfSpeech": "n.",
+      "chinese": "问题",
+      "example_sentence": "In science class we learned about question in space.",
+      "example_sentence_zh": "我们在英语课上学习了「问题」这个词。",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "sunset",
+      "pronunciation": "/ˈsʌnset/",
+      "partOfSpeech": "n.",
+      "chinese": "日落",
+      "example_sentence": "In science class we learned about sunset in space.",
+      "example_sentence_zh": "我们在英语课上学习了「日落」这个词。",
+      "essential": true
+    },
+    {
+      "id": 29,
+      "english": "time",
+      "pronunciation": "/taɪm/",
+      "partOfSpeech": "n.",
+      "chinese": "次；回",
+      "example_sentence": "In science class we learned about time in space.",
+      "example_sentence_zh": "我们在英语课上学习了「次」这个词。",
+      "essential": true
+    }
+  ]
+}
