@@ -1,0 +1,93 @@
+{
+  "unit": 1,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Amazing places",
+      "subtitle": "Section A · Let's talk",
+      "instruction": "Zhang Peng is talking with Peter. Listen and read the conversation.",
+      "speakers": [
+        { "id": "zhang_peng", "name": "Zhang Peng", "voice": "en-GB-RyanNeural" },
+        { "id": "peter", "name": "Peter", "voice": "en-GB-ThomasNeural" }
+      ],
+      "lines": [
+        { "speaker": "zhang_peng", "text": "Hi, Peter! How was your weekend?" },
+        { "speaker": "peter", "text": "Not too bad, thanks. And you?" },
+        { "speaker": "zhang_peng", "text": "It was great! I climbed the Great Wall." },
+        { "speaker": "peter", "text": "Wow! The Great Wall is amazing." },
+        { "speaker": "zhang_peng", "text": "Yes, it is! It's 21,000 kilometres in all. What did you do, Peter?" },
+        { "speaker": "peter", "text": "I visited the \"Gingerbread House\" last Saturday." },
+        { "speaker": "zhang_peng", "text": "What did you do there? Eat gingerbread?" },
+        { "speaker": "peter", "text": "Ha! Ha! No! It's a beautiful train station in New Zealand." },
+        { "speaker": "zhang_peng", "text": "That sounds interesting. Please send me some pictures." }
+      ],
+      "questions": [
+        { "id": 1, "prompt": "What did the boys do last weekend?" },
+        { "id": 2, "prompt": "What facts do you learn from their conversation?" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Amazing places",
+      "subtitle": "Section B · Let's talk",
+      "instruction": "Binbin and Sarah meet Amy at school. Listen and read the conversation.",
+      "speakers": [
+        { "id": "binbin", "name": "Binbin", "voice": "en-GB-RyanNeural" },
+        { "id": "sarah", "name": "Sarah", "voice": "en-GB-SoniaNeural" },
+        { "id": "amy", "name": "Amy", "voice": "en-GB-LibbyNeural" }
+      ],
+      "lines": [
+        { "speaker": "amy", "text": "Where did you go over the summer holidays, Binbin?" },
+        { "speaker": "binbin", "text": "I went to Xi'an with my family." },
+        { "speaker": "sarah", "text": "I like Xi'an very much. What did you do there?" },
+        { "speaker": "binbin", "text": "We ate some famous Xi'an noodles. Then we went to see the Terracotta Warriors." },
+        { "speaker": "sarah", "text": "Wow! I really want to go there! How was it?" },
+        { "speaker": "binbin", "text": "Amazing! There are over seven thousand clay warriors and one hundred horses." },
+        { "speaker": "amy", "text": "I saw pictures on the internet. What else did you do?" },
+        { "speaker": "binbin", "text": "Well, we walked around the old city and rode bikes on the old city wall." },
+        { "speaker": "amy", "text": "That sounds great fun!" }
+      ],
+      "questions": [
+        { "id": 1, "prompt": "Where did Binbin go over the summer holidays?" },
+        { "id": 2, "prompt": "What did Binbin eat in Xi'an?" },
+        { "id": 3, "prompt": "How many clay warriors did Binbin see?" },
+        { "id": 4, "prompt": "What made his trip special?" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Amazing places",
+      "subtitle": "Section B · Listen (before Let's talk)",
+      "instruction": "Binbin and Sarah meet Amy at school. Listen and write T (True) or F (False).",
+      "speakers": [
+        { "id": "amy", "name": "Amy", "voice": "en-GB-LibbyNeural" },
+        { "id": "sarah", "name": "Sarah", "voice": "en-GB-SoniaNeural" }
+      ],
+      "lines": [
+        {
+          "speaker": "amy",
+          "text": "I took a trip to Shanghai over the summer holidays. The view from the tower was great!"
+        },
+        {
+          "speaker": "sarah",
+          "text": "That sounds wonderful! My cousin John went to Guiyang. It rained every day, so the weather wasn't very good."
+        },
+        { "speaker": "amy", "text": "Oh, that's too bad. I hope he still had fun." }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Amy went to Hainan.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "prompt": "The weather was good in Guiyang.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}

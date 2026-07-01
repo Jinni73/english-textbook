@@ -8,8 +8,8 @@
       "pronunciation": "/kəʊld/",
       "partOfSpeech": "n.",
       "chinese": "感冒",
-      "example_sentence": "The doctor said cold is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「感冒」这个词。",
+      "example_sentence": "I have a bad cold and cannot go to school today.",
+      "example_sentence_zh": "我感冒了，今天不能去学校。",
       "essential": true
     },
     {
@@ -18,8 +18,8 @@
       "pronunciation": "/ɪl/",
       "partOfSpeech": "adj.",
       "chinese": "不舒服；有病",
-      "example_sentence": "The doctor said ill is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「不舒服」这个词。",
+      "example_sentence": "She felt ill and stayed in bed all morning.",
+      "example_sentence_zh": "她感觉不舒服，整个上午都卧床休息。",
       "essential": true
     },
     {
@@ -28,8 +28,8 @@
       "pronunciation": "/hed/",
       "partOfSpeech": "n.",
       "chinese": "头；头部",
-      "example_sentence": "The doctor said head is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「头」这个词。",
+      "example_sentence": "My head hurts when I have a fever.",
+      "example_sentence_zh": "发烧时我的头会疼。",
       "essential": true
     },
     {
@@ -38,8 +38,8 @@
       "pronunciation": "/ˈrʌni nəʊz/",
       "partOfSpeech": "phrase",
       "chinese": "流鼻涕",
-      "example_sentence": "The doctor said runny nose is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「流鼻涕」这个词。",
+      "example_sentence": "A runny nose is a common sign of a cold.",
+      "example_sentence_zh": "流鼻涕是感冒的常见症状。",
       "essential": true
     },
     {
@@ -48,8 +48,8 @@
       "pronunciation": "/suːn/",
       "partOfSpeech": "adv.",
       "chinese": "很快；马上",
-      "example_sentence": "The doctor said soon is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「很快」这个词。",
+      "example_sentence": "I hope you feel better soon.",
+      "example_sentence_zh": "希望你很快好起来。",
       "essential": true
     },
     {
@@ -58,8 +58,8 @@
       "pronunciation": "/ˈfiːvə(r)/",
       "partOfSpeech": "n.",
       "chinese": "发烧；发热",
-      "example_sentence": "The doctor said fever is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「发烧」这个词。",
+      "example_sentence": "He had a high fever last night.",
+      "example_sentence_zh": "他昨晚发高烧了。",
       "essential": true
     },
     {
@@ -68,8 +68,8 @@
       "pronunciation": "/kɒf/",
       "partOfSpeech": "n. & v.",
       "chinese": "咳嗽",
-      "example_sentence": "The doctor said cough is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「咳嗽」这个词。",
+      "example_sentence": "Drink warm water if you have a cough.",
+      "example_sentence_zh": "如果咳嗽就喝温水。",
       "essential": true
     },
     {
@@ -78,8 +78,8 @@
       "pronunciation": "/dɪˈskʌs/",
       "partOfSpeech": "v.",
       "chinese": "讨论；商量",
-      "example_sentence": "The doctor said discuss is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「讨论」这个词。",
+      "example_sentence": "Let's discuss how to stay healthy at school.",
+      "example_sentence_zh": "我们来讨论如何在学校保持健康。",
       "essential": true
     },
     {
@@ -88,8 +88,8 @@
       "pronunciation": "/ˈdaɪət/",
       "partOfSpeech": "n.",
       "chinese": "日常饮食",
-      "example_sentence": "The doctor said diet is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「日常饮食」这个词。",
+      "example_sentence": "A balanced diet helps you grow strong.",
+      "example_sentence_zh": "均衡的饮食帮助你强壮成长。",
       "essential": true
     },
     {
@@ -98,8 +98,8 @@
       "pronunciation": "/steɪ ʌp/",
       "partOfSpeech": "phrase",
       "chinese": "熬夜",
-      "example_sentence": "The doctor said stay up is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「熬夜」这个词。",
+      "example_sentence": "Don't stay up too late on school nights.",
+      "example_sentence_zh": "上学日晚上不要熬夜太晚。",
       "essential": true
     },
     {
@@ -108,8 +108,8 @@
       "pronunciation": "/kraɪ/",
       "partOfSpeech": "v.",
       "chinese": "哭；哭泣",
-      "example_sentence": "The doctor said cry is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「哭」这个词。",
+      "example_sentence": "The baby cried because she felt ill.",
+      "example_sentence_zh": "宝宝因为不舒服哭了。",
       "essential": true
     },
     {
@@ -118,8 +118,8 @@
       "pronunciation": "/əˈnʌðə(r)/",
       "partOfSpeech": "adj. & pron.",
       "chinese": "另一；不同的（人或事物）",
-      "example_sentence": "The doctor said another is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「另一」这个词。",
+      "example_sentence": "Would you like another glass of warm water?",
+      "example_sentence_zh": "你要再来一杯温水吗？",
       "essential": true
     },
     {
@@ -128,8 +128,8 @@
       "pronunciation": "/kɔːl/",
       "partOfSpeech": "v.",
       "chinese": "（给……）打电话",
-      "example_sentence": "The doctor said call is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「（给……）打电话」这个词。",
+      "example_sentence": "Call the doctor if you still feel ill tomorrow.",
+      "example_sentence_zh": "如果明天还是不舒服就打电话给医生。",
       "essential": true
     },
     {
@@ -138,8 +138,8 @@
       "pronunciation": "/ˈiːmeɪl/",
       "partOfSpeech": "n. & v.",
       "chinese": "电子邮件",
-      "example_sentence": "The doctor said email is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「电子邮件」这个词。",
+      "example_sentence": "Mum sent an email to my teacher this morning.",
+      "example_sentence_zh": "妈妈今天早上给老师发了一封电子邮件。",
       "essential": true
     },
     {
@@ -148,8 +148,8 @@
       "pronunciation": "/ʌnˈhæpi/",
       "partOfSpeech": "adj.",
       "chinese": "不快乐的；难过的",
-      "example_sentence": "The doctor said unhappy is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「不快乐的」这个词。",
+      "example_sentence": "He was unhappy because he missed the football game.",
+      "example_sentence_zh": "他因为错过足球赛而难过。",
       "essential": true
     },
     {
@@ -158,8 +158,8 @@
       "pronunciation": "/ɡlɑːs/",
       "partOfSpeech": "n.",
       "chinese": "一杯（的量）；玻璃",
-      "example_sentence": "The doctor said glass is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「一杯（的量）」这个词。",
+      "example_sentence": "Drink a glass of warm milk before bed.",
+      "example_sentence_zh": "睡前喝一杯温牛奶。",
       "essential": true
     },
     {
@@ -168,8 +168,8 @@
       "pronunciation": "/meɪ/",
       "partOfSpeech": "modal v.",
       "chinese": "也许；可能",
-      "example_sentence": "The doctor said may is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「也许」这个词。",
+      "example_sentence": "You may rest at home today.",
+      "example_sentence_zh": "你今天可以在家休息。",
       "essential": true
     },
     {
@@ -178,8 +178,8 @@
       "pronunciation": "/æd/",
       "partOfSpeech": "v.",
       "chinese": "补充说；增加",
-      "example_sentence": "The doctor said add is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「补充说」这个词。",
+      "example_sentence": "The nurse added, \"Get plenty of sleep.\"",
+      "example_sentence_zh": "护士补充说：\"要多睡觉。\"",
       "essential": true
     },
     {
@@ -188,8 +188,8 @@
       "pronunciation": "/ˈvɪdiəʊ/",
       "partOfSpeech": "n.",
       "chinese": "视频；录像",
-      "example_sentence": "The doctor said video is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「视频」这个词。",
+      "example_sentence": "The doctor shared a short health video with our class.",
+      "example_sentence_zh": "医生和我们班分享了一个健康小视频。",
       "essential": true
     },
     {
@@ -198,8 +198,8 @@
       "pronunciation": "/ˈbetə(r)/",
       "partOfSpeech": "adj.",
       "chinese": "舒畅些的；（病势）好转的",
-      "example_sentence": "The doctor said better is important for a healthy life.",
-      "example_sentence_zh": "我们在英语课上学习了「舒畅些的」这个词。",
+      "example_sentence": "I feel much better after a good rest.",
+      "example_sentence_zh": "好好休息后我感觉好多了。",
       "essential": true
     }
   ]
