@@ -7,6 +7,14 @@
       "title": "What famous landmarks do you know?",
       "activities": [
         {
+          "id": "A0",
+          "type": "dialogue",
+          "title": "Listen first",
+          "subtitle": "Choose the best answer",
+          "textbookRef": "p.4",
+          "listeningId": 4
+        },
+        {
           "id": "A1",
           "type": "dialogue",
           "title": "Let's talk",
@@ -34,7 +42,7 @@
           "title": "Let's learn",
           "subtitle": "Landmarks photo show",
           "textbookRef": "p.5",
-          "wordIds": [2, 3, 6, 7, 18, 19, 20, 21, 22, 23],
+          "wordIds": [2, 3, 20, 21, 22, 23],
           "sentences": [
             "Amy walked around the Palace Museum for hours.",
             "Mike visited the Hong Kong-Zhuhai-Macao Bridge.",
@@ -103,6 +111,40 @@
         },
         {
           "id": "B3",
+          "type": "vocab_block",
+          "title": "Let's learn",
+          "subtitle": "Holiday photo show",
+          "textbookRef": "p.7",
+          "wordIds": [6, 9, 10, 11, 12, 13, 14],
+          "sentences": [
+            "Binbin and Xinxin went to the village nearby. They saw beautiful flowers.",
+            "Sarah went to Wuhan. She ate hot dry noodles.",
+            "Amy took a trip to Shanghai. The view from the tower was great!",
+            "Chen Jie took a trip to Singapore City. She took nice photos there."
+          ]
+        },
+        {
+          "id": "B4",
+          "type": "speak_prompts",
+          "title": "Make up a story",
+          "subtitle": "Build a trip story in a group",
+          "textbookRef": "p.7",
+          "instruction": "Take turns adding sentences to make up a story about a trip. Use the past tense.",
+          "sampleDialogue": [
+            { "speaker": "Student 1", "text": "Last week my family took a trip to a village nearby." },
+            { "speaker": "Student 2", "text": "It was warm and sunny." },
+            { "speaker": "Student 3", "text": "We saw many ducks and ate fresh fruit there." },
+            { "speaker": "Student 4", "text": "We …" }
+          ],
+          "prompts": [
+            "Where did you go?",
+            "What was the weather like?",
+            "What did you see or eat?",
+            "How did you feel?"
+          ]
+        },
+        {
+          "id": "B5",
           "type": "reading",
           "title": "Read and write",
           "subtitle": "Jinggang Mountains travel reviews",
@@ -124,12 +166,77 @@
           ]
         },
         {
-          "id": "B4",
+          "id": "B6",
           "type": "spell_quiz",
           "title": "Unit check",
           "subtitle": "Spell the essential words",
           "textbookRef": "p.8",
           "instruction": "Spell all essential vocabulary from this unit. Get every word right to finish the unit check."
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Project & reading time",
+      "activities": [
+        {
+          "id": "C1",
+          "type": "speak_prompts",
+          "title": "Make a holiday scrapbook",
+          "subtitle": "Project",
+          "textbookRef": "p.10",
+          "instruction": "Work in groups. Collect photos from your holidays. Write a caption for each place and make a scrapbook to share in class.",
+          "prompts": [
+            "Choose 3–4 holiday photos.",
+            "Write one sentence for each photo (Where did you go? What did you do?)",
+            "Design your scrapbook cover and present it to the class."
+          ],
+          "sampleDialogue": [
+            { "speaker": "Teacher", "text": "Who had a special trip over the holidays?" },
+            { "speaker": "Student", "text": "I took a trip to Guangzhou and visited the Guangdong Science Centre." }
+          ]
+        },
+        {
+          "id": "C2",
+          "type": "speak_prompts",
+          "title": "Write captions and talk",
+          "subtitle": "Guangzhou · Shaoxing · Mount Huangshan",
+          "textbookRef": "p.10",
+          "instruction": "Write captions for each place, then talk with a partner about your trips.",
+          "sampleDialogue": [
+            { "speaker": "John", "text": "Where did you go, Zhang Peng and Amy?" },
+            { "speaker": "Zhang Peng", "text": "I took a trip to Guangzhou." },
+            { "speaker": "Amy", "text": "What did you do?" },
+            { "speaker": "John", "text": "I went to Hangzhou and Shaoxing. I went to visit the former home of Lu Xun. He was a famous writer." },
+            { "speaker": "Zhang Peng", "text": "Yes, he was. He wrote a lot of great books." }
+          ],
+          "substitutions": [
+            "Guangzhou — Guangdong Science Centre",
+            "Shaoxing — Lu Xun's former home",
+            "Mount Huangshan — Guest-Greeting Pine"
+          ]
+        },
+        {
+          "id": "C3",
+          "type": "reading",
+          "title": "Reading time",
+          "subtitle": "Landmarks you shouldn't miss!",
+          "textbookRef": "p.12",
+          "instruction": "Read the two travel posts. Which place would you like to visit? Why?",
+          "paragraphs": [
+            "Eye-opening findings in Sanxingdui",
+            "My last trip to Sanxingdui was great! In the Sanxingdui Museum, I saw strange masks, the \"big guy\" statue and a life-size \"fruit\" tree lamp.",
+            "Some believed people from Sanxingdui were aliens. But it's not true. They might eat hotpot three thousand years ago, just like we do today.",
+            "— Chen Li, history teacher",
+            "The pearl of Hangzhou",
+            "I visited the West Lake last autumn. On the first night, my friends and I watched the moon rising from a boat on the lake. We ate mooncakes and drank Longjing tea. The next day we walked along the lake. It was such a nice trip.",
+            "— Jessica, nurse"
+          ],
+          "questions": [
+            "What did Chen Li see in the Sanxingdui Museum?",
+            "What did Jessica do on the West Lake at night?",
+            "Which landmark post sounds more interesting to you? Why?"
+          ]
         }
       ]
     }

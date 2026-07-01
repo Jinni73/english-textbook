@@ -88,6 +88,39 @@
           "correctIndex": 1
         }
       ]
+    },
+    {
+      "id": 4,
+      "title": "Amazing places",
+      "subtitle": "Section A · Listen (before Let's talk)",
+      "instruction": "Zhang Peng is talking with Peter. Listen and choose.",
+      "speakers": [
+        { "id": "zhang_peng", "name": "Zhang Peng", "voice": "en-GB-RyanNeural" },
+        { "id": "peter", "name": "Peter", "voice": "en-GB-ThomasNeural" }
+      ],
+      "lines": [
+        { "speaker": "peter", "text": "Hi, Zhang Peng! Nice to see you on Saturday." },
+        {
+          "speaker": "zhang_peng",
+          "text": "Hi, Peter! Oh — excuse me. My phone is ringing. I'll answer the call first."
+        },
+        { "speaker": "zhang_peng", "text": "Hello? … OK, I see. Thanks. Bye!" },
+        { "speaker": "peter", "text": "No problem. I'll wait for you." }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What day is it?",
+          "options": ["Saturday", "Sunday", "Friday"],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What will Zhang Peng do now?",
+          "options": ["He'll meet a friend.", "He'll answer a call.", "He'll have a class."],
+          "correctIndex": 1
+        }
+      ]
     }
   ]
 }

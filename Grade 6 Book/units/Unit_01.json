@@ -8,8 +8,8 @@
       "pronunciation": "/wɒz/",
       "partOfSpeech": "v.",
       "chinese": "（be 的第一和第三人称单数过去式）",
-      "example_sentence": "My trip to Xi'an was amazing last summer.",
-      "example_sentence_zh": "我去年夏天去西安的旅行棒极了。",
+      "example_sentence": "It was great! I climbed the Great Wall.",
+      "example_sentence_zh": "太棒了！我爬了长城。",
       "essential": true
     },
     {
@@ -18,8 +18,8 @@
       "pronunciation": "/klaɪm/",
       "partOfSpeech": "v.",
       "chinese": "攀登；爬",
-      "example_sentence": "Zhang Peng climbed the Great Wall last weekend.",
-      "example_sentence_zh": "张鹏上周末爬了长城。",
+      "example_sentence": "It was great! I climbed the Great Wall.",
+      "example_sentence_zh": "太棒了！我爬了长城。",
       "essential": true
     },
     {
@@ -28,8 +28,8 @@
       "pronunciation": "/ˈkɪləmiːtə(r)/",
       "partOfSpeech": "n.",
       "chinese": "千米；公里（= km）",
-      "example_sentence": "The Hong Kong-Zhuhai-Macao Bridge is 55 kilometres long.",
-      "example_sentence_zh": "港珠澳大桥全长55公里。",
+      "example_sentence": "Yes, it is! It's 21,000 kilometres in all.",
+      "example_sentence_zh": "是的！它全长两万一千公里。",
       "essential": true
     },
     {
@@ -38,8 +38,8 @@
       "pronunciation": "/ˈdʒɪndʒəbred haʊs/",
       "partOfSpeech": "phrase",
       "chinese": "姜饼屋",
-      "example_sentence": "Peter visited the gingerbread house in New Zealand.",
-      "example_sentence_zh": "彼得在新西兰参观了姜饼屋。",
+      "example_sentence": "I visited the \"Gingerbread House\" last Saturday.",
+      "example_sentence_zh": "我上周六参观了「姜饼屋」。",
       "essential": true
     },
     {
@@ -48,8 +48,8 @@
       "pronunciation": "/send/",
       "partOfSpeech": "v.",
       "chinese": "邮寄；发送",
-      "example_sentence": "Please send me some pictures from your trip.",
-      "example_sentence_zh": "请把你旅行时的照片发给我。",
+      "example_sentence": "Please send me some pictures.",
+      "example_sentence_zh": "请发一些照片给我。",
       "essential": true
     },
     {
@@ -58,8 +58,8 @@
       "pronunciation": "/ɡəʊ/",
       "partOfSpeech": "v.",
       "chinese": "去；走（过去式 went）",
-      "example_sentence": "I went to Xi'an with my family over the holidays.",
-      "example_sentence_zh": "假期里我和家人一起去了西安。",
+      "example_sentence": "I went to Xi'an with my family.",
+      "example_sentence_zh": "我和家人一起去了西安。",
       "essential": true
     },
     {
@@ -68,8 +68,8 @@
       "pronunciation": "/ˈθaʊznd/",
       "partOfSpeech": "num.",
       "chinese": "一千",
-      "example_sentence": "There are over seven thousand clay warriors in Xi'an.",
-      "example_sentence_zh": "西安有七千多个陶俑。",
+      "example_sentence": "There are over seven thousand clay warriors and one hundred horses.",
+      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。",
       "essential": true
     },
     {
@@ -78,8 +78,8 @@
       "pronunciation": "/kleɪ/",
       "partOfSpeech": "n.",
       "chinese": "黏土；陶土",
-      "example_sentence": "The Terracotta Warriors are made of clay.",
-      "example_sentence_zh": "兵马俑是用黏土做的。",
+      "example_sentence": "There are over seven thousand clay warriors and one hundred horses.",
+      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。",
       "essential": true
     },
     {
@@ -88,8 +88,8 @@
       "pronunciation": "/siː/",
       "partOfSpeech": "v.",
       "chinese": "看见（过去式 saw）",
-      "example_sentence": "We went to see the Terracotta Warriors in the museum.",
-      "example_sentence_zh": "我们去博物馆看了兵马俑。",
+      "example_sentence": "Then we went to see the Terracotta Warriors.",
+      "example_sentence_zh": "然后我们去看了兵马俑。",
       "essential": true
     },
     {
@@ -98,8 +98,8 @@
       "pronunciation": "/ˈvɪlɪdʒ/",
       "partOfSpeech": "n.",
       "chinese": "村庄；村镇",
-      "example_sentence": "We walked around an old village near the museum.",
-      "example_sentence_zh": "我们在博物馆附近的一个古老村庄里散步。",
+      "example_sentence": "Binbin and Xinxin went to the village nearby.",
+      "example_sentence_zh": "斌斌和欣欣去了附近的村庄。",
       "essential": true
     },
     {
@@ -108,8 +108,8 @@
       "pronunciation": "/iːt/",
       "partOfSpeech": "v.",
       "chinese": "吃（过去式 ate）",
-      "example_sentence": "We ate some famous Xi'an noodles for lunch.",
-      "example_sentence_zh": "我们午餐吃了西安有名的面条。",
+      "example_sentence": "We ate some famous Xi'an noodles.",
+      "example_sentence_zh": "我们吃了西安有名的面条。",
       "essential": true
     },
     {
@@ -118,8 +118,8 @@
       "pronunciation": "/draɪ/",
       "partOfSpeech": "adj.",
       "chinese": "干的",
-      "example_sentence": "The weather was hot and dry in Dunhuang.",
-      "example_sentence_zh": "敦煌的天气又热又干燥。",
+      "example_sentence": "Sarah went to Wuhan. She ate hot dry noodles.",
+      "example_sentence_zh": "萨拉去了武汉，她吃了热干面。",
       "essential": true
     },
     {
@@ -128,8 +128,8 @@
       "pronunciation": "/teɪk/",
       "partOfSpeech": "v.",
       "chinese": "做（某个动作）；带（过去式 took）",
-      "example_sentence": "We took many photos on the old city wall.",
-      "example_sentence_zh": "我们在古城墙上拍了很多照片。",
+      "example_sentence": "Amy took a trip to Shanghai.",
+      "example_sentence_zh": "埃米去上海旅行了。",
       "essential": true
     },
     {
@@ -138,8 +138,8 @@
       "pronunciation": "/vjuː/",
       "partOfSpeech": "n.",
       "chinese": "景色",
-      "example_sentence": "The view from the city wall was wonderful.",
-      "example_sentence_zh": "城墙上的景色美极了。",
+      "example_sentence": "The view from the tower was great!",
+      "example_sentence_zh": "从塔上看到的景色棒极了！",
       "essential": true
     },
     {
@@ -148,8 +148,8 @@
       "pronunciation": "/ɪnˈspaɪərɪŋ/",
       "partOfSpeech": "adj.",
       "chinese": "鼓舞人心的",
-      "example_sentence": "The story of the Red Army is inspiring.",
-      "example_sentence_zh": "红军的故事鼓舞人心。",
+      "example_sentence": "The stories were really inspiring.",
+      "example_sentence_zh": "这些故事真的很鼓舞人心。",
       "essential": true
     },
     {
@@ -158,8 +158,8 @@
       "pronunciation": "/ˌbæmˈbuː/",
       "partOfSpeech": "n.",
       "chinese": "竹；竹子",
-      "example_sentence": "Bamboo grows quickly in the south of China.",
-      "example_sentence_zh": "竹子在中国南方生长得很快。",
+      "example_sentence": "We took many photos of the bamboo forest and beautiful waterfalls.",
+      "example_sentence_zh": "我们拍了很多竹海和美丽瀑布的照片。",
       "essential": true
     },
     {
@@ -168,8 +168,8 @@
       "pronunciation": "/ˈpʌmpkɪn/",
       "partOfSpeech": "n.",
       "chinese": "南瓜",
-      "example_sentence": "We carved a pumpkin at the autumn festival.",
-      "example_sentence_zh": "我们在秋季节日里刻了一个南瓜。",
+      "example_sentence": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
+      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。",
       "essential": true
     },
     {
@@ -178,8 +178,8 @@
       "pronunciation": "/ˈrestrɒnt/",
       "partOfSpeech": "n.",
       "chinese": "餐馆；餐厅",
-      "example_sentence": "We had dinner at a small restaurant in the old city.",
-      "example_sentence_zh": "我们在老城的一家小餐馆吃了晚饭。",
+      "example_sentence": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
+      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。",
       "essential": true
     },
     {
@@ -188,8 +188,8 @@
       "pronunciation": "/ˈeəpɔːt/",
       "partOfSpeech": "n.",
       "chinese": "机场",
-      "example_sentence": "We waited for our flight at the airport.",
-      "example_sentence_zh": "我们在机场等候航班。",
+      "example_sentence": "The Jinggang Mountains are only about 1.5 hours from the airport by bus.",
+      "example_sentence_zh": "乘巴士从机场到井冈山大约只要 1.5 小时。",
       "essential": true
     },
     {
@@ -198,8 +198,8 @@
       "pronunciation": "/ˌnjuː ˈziːlənd/",
       "partOfSpeech": "n.",
       "chinese": "新西兰",
-      "example_sentence": "Peter's gingerbread house is in New Zealand.",
-      "example_sentence_zh": "彼得的姜饼屋在新西兰。"
+      "example_sentence": "It's a beautiful train station in New Zealand.",
+      "example_sentence_zh": "它是新西兰一座漂亮的火车站。"
     },
     {
       "id": 21,
@@ -207,8 +207,8 @@
       "pronunciation": "/ˌhɒŋ ˌkɒŋ ˌʒuː ˌhaɪ ˌməˈkaʊ ˈbrɪdʒ/",
       "partOfSpeech": "n.",
       "chinese": "港珠澳大桥",
-      "example_sentence": "Mike visited the Hong Kong-Zhuhai-Macao Bridge last summer.",
-      "example_sentence_zh": "迈克去年夏天参观了港珠澳大桥。"
+      "example_sentence": "Mike visited the Hong Kong-Zhuhai-Macao Bridge.",
+      "example_sentence_zh": "迈克参观了港珠澳大桥。"
     },
     {
       "id": 22,
@@ -216,8 +216,8 @@
       "pronunciation": "/ˈpærɪs/",
       "partOfSpeech": "n.",
       "chinese": "巴黎",
-      "example_sentence": "Liu Jia's family travelled to Paris for the holiday.",
-      "example_sentence_zh": "刘佳一家假期去了巴黎旅行。"
+      "example_sentence": "Liu Jia's family travelled to Paris and visited the Eiffel Tower.",
+      "example_sentence_zh": "刘佳一家去了巴黎，参观了埃菲尔铁塔。"
     },
     {
       "id": 23,
@@ -225,8 +225,8 @@
       "pronunciation": "/ˈaɪfəl ˈtaʊə(r)/",
       "partOfSpeech": "n.",
       "chinese": "埃菲尔铁塔",
-      "example_sentence": "They visited the Eiffel Tower on their first day in Paris.",
-      "example_sentence_zh": "他们在巴黎的第一天参观了埃菲尔铁塔。"
+      "example_sentence": "Liu Jia's family travelled to Paris and visited the Eiffel Tower.",
+      "example_sentence_zh": "刘佳一家去了巴黎，参观了埃菲尔铁塔。"
     },
     {
       "id": 24,
@@ -234,8 +234,8 @@
       "pronunciation": "/ˌterəˈkɒtə ˈwɒriəz/",
       "partOfSpeech": "n.",
       "chinese": "兵马俑",
-      "example_sentence": "Binbin saw the Terracotta Warriors with his family.",
-      "example_sentence_zh": "斌斌和家人一起看了兵马俑。"
+      "example_sentence": "Then we went to see the Terracotta Warriors.",
+      "example_sentence_zh": "然后我们去看了兵马俑。"
     },
     {
       "id": 25,
@@ -243,8 +243,8 @@
       "pronunciation": "/dʒɪŋˈɡæŋʃæn ˌrevəˈluːʃn mjuˈziːəm/",
       "partOfSpeech": "n.",
       "chinese": "井冈山革命博物馆",
-      "example_sentence": "We learned about history at the Jinggangshan Revolution Museum.",
-      "example_sentence_zh": "我们在井冈山革命博物馆学习了历史。"
+      "example_sentence": "My trip to the Jinggangshan Revolution Museum was amazing!",
+      "example_sentence_zh": "我去井冈山革命博物馆的旅行棒极了！"
     },
     {
       "id": 26,
@@ -252,8 +252,8 @@
       "pronunciation": "/ðə red ˈɑːmi/",
       "partOfSpeech": "n.",
       "chinese": "红军",
-      "example_sentence": "The museum tells stories about the Red Army.",
-      "example_sentence_zh": "博物馆讲述了红军的故事。"
+      "example_sentence": "The volunteers told great stories about the Red Army.",
+      "example_sentence_zh": "志愿者们讲了关于红军的精彩故事。"
     }
   ]
 }
