@@ -19,8 +19,7 @@
       "partOfSpeech": "v.",
       "chinese": "攀登；爬",
       "example_sentence": "It was great! I climbed the Great Wall.",
-      "example_sentence_zh": "太棒了！我爬了长城。",
-      "essential": true
+      "example_sentence_zh": "太棒了！我爬了长城。"
     },
     {
       "id": 3,
@@ -29,8 +28,7 @@
       "partOfSpeech": "n.",
       "chinese": "千米；公里（= km）",
       "example_sentence": "Yes, it is! It's 21,000 kilometres in all.",
-      "example_sentence_zh": "是的！它全长两万一千公里。",
-      "essential": true
+      "example_sentence_zh": "是的！它全长两万一千公里。"
     },
     {
       "id": 4,
@@ -39,8 +37,7 @@
       "partOfSpeech": "phrase",
       "chinese": "姜饼屋",
       "example_sentence": "I visited the \"Gingerbread House\" last Saturday.",
-      "example_sentence_zh": "我上周六参观了「姜饼屋」。",
-      "essential": true
+      "example_sentence_zh": "我上周六参观了「姜饼屋」。"
     },
     {
       "id": 5,
@@ -49,8 +46,7 @@
       "partOfSpeech": "v.",
       "chinese": "邮寄；发送",
       "example_sentence": "Please send me some pictures.",
-      "example_sentence_zh": "请发一些照片给我。",
-      "essential": true
+      "example_sentence_zh": "请发一些照片给我。"
     },
     {
       "id": 6,
@@ -69,8 +65,7 @@
       "partOfSpeech": "num.",
       "chinese": "一千",
       "example_sentence": "There are over seven thousand clay warriors and one hundred horses.",
-      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。",
-      "essential": true
+      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。"
     },
     {
       "id": 8,
@@ -79,8 +74,7 @@
       "partOfSpeech": "n.",
       "chinese": "黏土；陶土",
       "example_sentence": "There are over seven thousand clay warriors and one hundred horses.",
-      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。",
-      "essential": true
+      "example_sentence_zh": "有七千多个陶俑和一百匹陶马。"
     },
     {
       "id": 9,
@@ -99,8 +93,7 @@
       "partOfSpeech": "n.",
       "chinese": "村庄；村镇",
       "example_sentence": "Binbin and Xinxin went to the village nearby.",
-      "example_sentence_zh": "斌斌和欣欣去了附近的村庄。",
-      "essential": true
+      "example_sentence_zh": "斌斌和欣欣去了附近的村庄。"
     },
     {
       "id": 11,
@@ -119,8 +112,7 @@
       "partOfSpeech": "adj.",
       "chinese": "干的",
       "example_sentence": "Sarah went to Wuhan. She ate hot dry noodles.",
-      "example_sentence_zh": "萨拉去了武汉，她吃了热干面。",
-      "essential": true
+      "example_sentence_zh": "萨拉去了武汉，她吃了热干面。"
     },
     {
       "id": 13,
@@ -139,8 +131,7 @@
       "partOfSpeech": "n.",
       "chinese": "景色",
       "example_sentence": "The view from the tower was great!",
-      "example_sentence_zh": "从塔上看到的景色棒极了！",
-      "essential": true
+      "example_sentence_zh": "从塔上看到的景色棒极了！"
     },
     {
       "id": 15,
@@ -149,8 +140,7 @@
       "partOfSpeech": "adj.",
       "chinese": "鼓舞人心的",
       "example_sentence": "The stories were really inspiring.",
-      "example_sentence_zh": "这些故事真的很鼓舞人心。",
-      "essential": true
+      "example_sentence_zh": "这些故事真的很鼓舞人心。"
     },
     {
       "id": 16,
@@ -159,8 +149,7 @@
       "partOfSpeech": "n.",
       "chinese": "竹；竹子",
       "example_sentence": "We took many photos of the bamboo forest and beautiful waterfalls.",
-      "example_sentence_zh": "我们拍了很多竹海和美丽瀑布的照片。",
-      "essential": true
+      "example_sentence_zh": "我们拍了很多竹海和美丽瀑布的照片。"
     },
     {
       "id": 17,
@@ -169,8 +158,7 @@
       "partOfSpeech": "n.",
       "chinese": "南瓜",
       "example_sentence": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
-      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。",
-      "essential": true
+      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。"
     },
     {
       "id": 18,
@@ -179,8 +167,7 @@
       "partOfSpeech": "n.",
       "chinese": "餐馆；餐厅",
       "example_sentence": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
-      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。",
-      "essential": true
+      "example_sentence_zh": "我们还在一家不错的餐馆里品尝了美味的南瓜汤和红米饭。"
     },
     {
       "id": 19,
@@ -189,8 +176,7 @@
       "partOfSpeech": "n.",
       "chinese": "机场",
       "example_sentence": "The Jinggang Mountains are only about 1.5 hours from the airport by bus.",
-      "example_sentence_zh": "乘巴士从机场到井冈山大约只要 1.5 小时。",
-      "essential": true
+      "example_sentence_zh": "乘巴士从机场到井冈山大约只要 1.5 小时。"
     },
     {
       "id": 20,

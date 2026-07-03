@@ -9,8 +9,7 @@
       "partOfSpeech": "n.",
       "chinese": "能；能量",
       "example_sentence": "Solar panels turn sunlight into power.",
-      "example_sentence_zh": "太阳能电池板把阳光转化为电能。",
-      "essential": true
+      "example_sentence_zh": "太阳能电池板把阳光转化为电能。"
     },
     {
       "id": 2,
@@ -19,8 +18,7 @@
       "partOfSpeech": "n.",
       "chinese": "电",
       "example_sentence": "Turn off the lights to save electricity.",
-      "example_sentence_zh": "关灯可以省电。",
-      "essential": true
+      "example_sentence_zh": "关灯可以省电。"
     },
     {
       "id": 3,
@@ -29,8 +27,7 @@
       "partOfSpeech": "adj.",
       "chinese": "太阳的",
       "example_sentence": "We use solar energy to heat water.",
-      "example_sentence_zh": "我们用太阳能来加热水。",
-      "essential": true
+      "example_sentence_zh": "我们用太阳能来加热水。"
     },
     {
       "id": 4,
@@ -39,8 +36,7 @@
       "partOfSpeech": "n.",
       "chinese": "类型；种类",
       "example_sentence": "Wind is another type of clean energy.",
-      "example_sentence_zh": "风是另一种清洁能源。",
-      "essential": true
+      "example_sentence_zh": "风是另一种清洁能源。"
     },
     {
       "id": 5,
@@ -49,8 +45,7 @@
       "partOfSpeech": "n.",
       "chinese": "能源",
       "example_sentence": "We need to save energy at home and at school.",
-      "example_sentence_zh": "我们需要在家里和学校节约能源。",
-      "essential": true
+      "example_sentence_zh": "我们需要在家里和学校节约能源。"
     },
     {
       "id": 6,
@@ -59,8 +54,7 @@
       "partOfSpeech": "n.",
       "chinese": "来源",
       "example_sentence": "The sun is an important energy source.",
-      "example_sentence_zh": "太阳是重要的能源来源。",
-      "essential": true
+      "example_sentence_zh": "太阳是重要的能源来源。"
     },
     {
       "id": 7,
@@ -79,8 +73,7 @@
       "partOfSpeech": "v. & n.",
       "chinese": "加热；（使）变暖；热量",
       "example_sentence": "We use electricity to heat our home in winter.",
-      "example_sentence_zh": "冬天我们用电来供暖。",
-      "essential": true
+      "example_sentence_zh": "冬天我们用电来供暖。"
     },
     {
       "id": 9,
@@ -109,8 +102,7 @@
       "partOfSpeech": "n.",
       "chinese": "资源",
       "example_sentence": "Water is a precious natural resource.",
-      "example_sentence_zh": "水是珍贵的自然资源。",
-      "essential": true
+      "example_sentence_zh": "水是珍贵的自然资源。"
     },
     {
       "id": 12,
@@ -119,8 +111,7 @@
       "partOfSpeech": "phrase",
       "chinese": "用完",
       "example_sentence": "Fossil fuels may run out one day.",
-      "example_sentence_zh": "化石燃料总有一天会用完。",
-      "essential": true
+      "example_sentence_zh": "化石燃料总有一天会用完。"
     },
     {
       "id": 13,
@@ -129,8 +120,7 @@
       "partOfSpeech": "adj.",
       "chinese": "不多；很少（比较级 fewer）",
       "example_sentence": "Few people unplug chargers when they are not in use.",
-      "example_sentence_zh": "很少有人不用充电器时会拔掉插头。",
-      "essential": true
+      "example_sentence_zh": "很少有人不用充电器时会拔掉插头。"
     },
     {
       "id": 14,
@@ -139,8 +129,7 @@
       "partOfSpeech": "v.",
       "chinese": "（使）不同；改变",
       "example_sentence": "Small habits can change how much energy we use.",
-      "example_sentence_zh": "小习惯能改变我们的用电量。",
-      "essential": true
+      "example_sentence_zh": "小习惯能改变我们的用电量。"
     },
     {
       "id": 15,
@@ -149,8 +138,7 @@
       "partOfSpeech": "adj.",
       "chinese": "迅速的；快的",
       "example_sentence": "Take a quick shower to save water and energy.",
-      "example_sentence_zh": "快淋浴可以节约用水和能源。",
-      "essential": true
+      "example_sentence_zh": "快淋浴可以节约用水和能源。"
     },
     {
       "id": 16,
@@ -159,8 +147,7 @@
       "partOfSpeech": "n.",
       "chinese": "淋浴",
       "example_sentence": "A five-minute shower uses less water.",
-      "example_sentence_zh": "五分钟淋浴用的水更少。",
-      "essential": true
+      "example_sentence_zh": "五分钟淋浴用的水更少。"
     },
     {
       "id": 17,
@@ -169,8 +156,7 @@
       "partOfSpeech": "v.",
       "chinese": "拔掉……的电源插头",
       "example_sentence": "Please unplug the TV when you leave the room.",
-      "example_sentence_zh": "离开房间时请拔掉电视插头。",
-      "essential": true
+      "example_sentence_zh": "离开房间时请拔掉电视插头。"
     },
     {
       "id": 18,
@@ -179,8 +165,7 @@
       "partOfSpeech": "n.",
       "chinese": "差别；不同（之处）",
       "example_sentence": "Turning off the air conditioner makes a big difference.",
-      "example_sentence_zh": "关掉空调有很大作用。",
-      "essential": true
+      "example_sentence_zh": "关掉空调有很大作用。"
     },
     {
       "id": 19,
@@ -189,8 +174,7 @@
       "partOfSpeech": "v.",
       "chinese": "减少",
       "example_sentence": "We can reduce waste by reusing bottles.",
-      "example_sentence_zh": "重复使用瓶子可以减少浪费。",
-      "essential": true
+      "example_sentence_zh": "重复使用瓶子可以减少浪费。"
     },
     {
       "id": 20,
@@ -199,8 +183,7 @@
       "partOfSpeech": "n.",
       "chinese": "空调机",
       "example_sentence": "Do not leave the air conditioner on all day.",
-      "example_sentence_zh": "不要整天开着空调。",
-      "essential": true
+      "example_sentence_zh": "不要整天开着空调。"
     },
     {
       "id": 21,
@@ -209,8 +192,7 @@
       "partOfSpeech": "v.",
       "chinese": "驾驶；开车",
       "example_sentence": "Walking to school is greener than driving every day.",
-      "example_sentence_zh": "走路上学比每天开车更环保。",
-      "essential": true
+      "example_sentence_zh": "走路上学比每天开车更环保。"
     },
     {
       "id": 22,
@@ -219,8 +201,7 @@
       "partOfSpeech": "v.",
       "chinese": "再次使用；重复使用",
       "example_sentence": "I reuse my water bottle instead of buying a new one.",
-      "example_sentence_zh": "我重复使用水瓶而不是买新的。",
-      "essential": true
+      "example_sentence_zh": "我重复使用水瓶而不是买新的。"
     },
     {
       "id": 23,
@@ -229,8 +210,7 @@
       "partOfSpeech": "adj.",
       "chinese": "自己的",
       "example_sentence": "She grows vegetables in her own small garden.",
-      "example_sentence_zh": "她在自己的小花园里种蔬菜。",
-      "essential": true
+      "example_sentence_zh": "她在自己的小花园里种蔬菜。"
     },
     {
       "id": 24,
@@ -239,8 +219,7 @@
       "partOfSpeech": "n.",
       "chinese": "集市；市场",
       "example_sentence": "We bought fresh fruit at the local market.",
-      "example_sentence_zh": "我们在当地集市买了新鲜水果。",
-      "essential": true
+      "example_sentence_zh": "我们在当地集市买了新鲜水果。"
     },
     {
       "id": 25,
@@ -249,8 +228,7 @@
       "partOfSpeech": "n.",
       "chinese": "瓶子",
       "example_sentence": "Wash the bottle and use it again.",
-      "example_sentence_zh": "把瓶子洗干净再用一次。",
-      "essential": true
+      "example_sentence_zh": "把瓶子洗干净再用一次。"
     },
     {
       "id": 26,
@@ -269,8 +247,7 @@
       "partOfSpeech": "adj.",
       "chinese": "有用的；有益的",
       "example_sentence": "Solar power is useful in sunny places.",
-      "example_sentence_zh": "太阳能在阳光充足的地方很有用。",
-      "essential": true
+      "example_sentence_zh": "太阳能在阳光充足的地方很有用。"
     },
     {
       "id": 28,
@@ -289,8 +266,7 @@
       "partOfSpeech": "n.",
       "chinese": "一面；一边",
       "example_sentence": "Plant trees on both sides of the road.",
-      "example_sentence_zh": "在路两边种树。",
-      "essential": true
+      "example_sentence_zh": "在路两边种树。"
     }
   ]
 }

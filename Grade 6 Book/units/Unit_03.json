@@ -39,8 +39,7 @@
       "partOfSpeech": "phrase",
       "chinese": "流鼻涕",
       "example_sentence": "A runny nose is a common sign of a cold.",
-      "example_sentence_zh": "流鼻涕是感冒的常见症状。",
-      "essential": true
+      "example_sentence_zh": "流鼻涕是感冒的常见症状。"
     },
     {
       "id": 5,
@@ -49,8 +48,7 @@
       "partOfSpeech": "adv.",
       "chinese": "很快；马上",
       "example_sentence": "I hope you feel better soon.",
-      "example_sentence_zh": "希望你很快好起来。",
-      "essential": true
+      "example_sentence_zh": "希望你很快好起来。"
     },
     {
       "id": 6,
@@ -59,8 +57,7 @@
       "partOfSpeech": "n.",
       "chinese": "发烧；发热",
       "example_sentence": "He had a high fever last night.",
-      "example_sentence_zh": "他昨晚发高烧了。",
-      "essential": true
+      "example_sentence_zh": "他昨晚发高烧了。"
     },
     {
       "id": 7,
@@ -69,8 +66,7 @@
       "partOfSpeech": "n. & v.",
       "chinese": "咳嗽",
       "example_sentence": "Drink warm water if you have a cough.",
-      "example_sentence_zh": "如果咳嗽就喝温水。",
-      "essential": true
+      "example_sentence_zh": "如果咳嗽就喝温水。"
     },
     {
       "id": 8,
@@ -79,8 +75,7 @@
       "partOfSpeech": "v.",
       "chinese": "讨论；商量",
       "example_sentence": "Let's discuss how to stay healthy at school.",
-      "example_sentence_zh": "我们来讨论如何在学校保持健康。",
-      "essential": true
+      "example_sentence_zh": "我们来讨论如何在学校保持健康。"
     },
     {
       "id": 9,
@@ -89,8 +84,7 @@
       "partOfSpeech": "n.",
       "chinese": "日常饮食",
       "example_sentence": "A balanced diet helps you grow strong.",
-      "example_sentence_zh": "均衡的饮食帮助你强壮成长。",
-      "essential": true
+      "example_sentence_zh": "均衡的饮食帮助你强壮成长。"
     },
     {
       "id": 10,
@@ -99,8 +93,7 @@
       "partOfSpeech": "phrase",
       "chinese": "熬夜",
       "example_sentence": "Don't stay up too late on school nights.",
-      "example_sentence_zh": "上学日晚上不要熬夜太晚。",
-      "essential": true
+      "example_sentence_zh": "上学日晚上不要熬夜太晚。"
     },
     {
       "id": 11,
@@ -119,8 +112,7 @@
       "partOfSpeech": "adj. & pron.",
       "chinese": "另一；不同的（人或事物）",
       "example_sentence": "Would you like another glass of warm water?",
-      "example_sentence_zh": "你要再来一杯温水吗？",
-      "essential": true
+      "example_sentence_zh": "你要再来一杯温水吗？"
     },
     {
       "id": 13,
@@ -149,8 +141,7 @@
       "partOfSpeech": "adj.",
       "chinese": "不快乐的；难过的",
       "example_sentence": "He was unhappy because he missed the football game.",
-      "example_sentence_zh": "他因为错过足球赛而难过。",
-      "essential": true
+      "example_sentence_zh": "他因为错过足球赛而难过。"
     },
     {
       "id": 16,
@@ -159,8 +150,7 @@
       "partOfSpeech": "n.",
       "chinese": "一杯（的量）；玻璃",
       "example_sentence": "Drink a glass of warm milk before bed.",
-      "example_sentence_zh": "睡前喝一杯温牛奶。",
-      "essential": true
+      "example_sentence_zh": "睡前喝一杯温牛奶。"
     },
     {
       "id": 17,
@@ -179,8 +169,7 @@
       "partOfSpeech": "v.",
       "chinese": "补充说；增加",
       "example_sentence": "The nurse added, \"Get plenty of sleep.\"",
-      "example_sentence_zh": "护士补充说：\"要多睡觉。\"",
-      "essential": true
+      "example_sentence_zh": "护士补充说：\"要多睡觉。\""
     },
     {
       "id": 19,
@@ -189,8 +178,7 @@
       "partOfSpeech": "n.",
       "chinese": "视频；录像",
       "example_sentence": "The doctor shared a short health video with our class.",
-      "example_sentence_zh": "医生和我们班分享了一个健康小视频。",
-      "essential": true
+      "example_sentence_zh": "医生和我们班分享了一个健康小视频。"
     },
     {
       "id": 20,
@@ -199,8 +187,7 @@
       "partOfSpeech": "adj.",
       "chinese": "舒畅些的；（病势）好转的",
       "example_sentence": "I feel much better after a good rest.",
-      "example_sentence_zh": "好好休息后我感觉好多了。",
-      "essential": true
+      "example_sentence_zh": "好好休息后我感觉好多了。"
     }
   ]
 }

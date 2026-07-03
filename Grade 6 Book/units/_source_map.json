@@ -2,38 +2,45 @@
   "book": "Grade 6 Book (2024 PEP, 2026秋)",
   "sourcePdf": "26秋六上人教英语教材.pdf",
   "appendix": "Appendix 2 · Words in each unit (pp. 81–84)",
-  "generatedAt": "2026-07-01T07:27:57.197Z",
-  "note": "Curated from OCR + manual review; example sentences in grade6-examples.mjs",
+  "generatedAt": "2026-07-03T09:45:43.143Z",
+  "essentialRule": "essential: true only for words marked * in the appendix (2022课标二级词)",
+  "note": "Curated from textbook photos; example sentences in grade6-examples.mjs",
   "units": [
     {
       "unit": 1,
       "title": "Unit 1 · Amazing places",
-      "wordCount": 26
+      "wordCount": 26,
+      "essentialCount": 5
     },
     {
       "unit": 2,
       "title": "Unit 2 · Getting together",
-      "wordCount": 25
+      "wordCount": 25,
+      "essentialCount": 10
     },
     {
       "unit": 3,
       "title": "Unit 3 · Healthy life",
-      "wordCount": 20
+      "wordCount": 20,
+      "essentialCount": 7
     },
     {
       "unit": 4,
       "title": "Unit 4 · Managing money well",
-      "wordCount": 18
+      "wordCount": 18,
+      "essentialCount": 6
     },
     {
       "unit": 5,
       "title": "Unit 5 · Exploring space",
-      "wordCount": 29
+      "wordCount": 29,
+      "essentialCount": 8
     },
     {
       "unit": 6,
       "title": "Unit 6 · Energy, nature and us",
-      "wordCount": 29
+      "wordCount": 29,
+      "essentialCount": 5
     }
   ]
 }

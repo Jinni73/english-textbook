@@ -9,8 +9,7 @@
       "partOfSpeech": "n.",
       "chinese": "行星",
       "example_sentence": "Earth is the planet we live on.",
-      "example_sentence_zh": "地球是我们居住的行星。",
-      "essential": true
+      "example_sentence_zh": "地球是我们居住的行星。"
     },
     {
       "id": 2,
@@ -29,8 +28,7 @@
       "partOfSpeech": "n.",
       "chinese": "天；天空",
       "example_sentence": "At night the sky is full of stars.",
-      "example_sentence_zh": "夜晚的天空布满星星。",
-      "essential": true
+      "example_sentence_zh": "夜晚的天空布满星星。"
     },
     {
       "id": 4,
@@ -39,8 +37,7 @@
       "partOfSpeech": "n.",
       "chinese": "白天",
       "example_sentence": "We can sometimes see the Moon even in the daytime.",
-      "example_sentence_zh": "有时白天也能看到月亮。",
-      "essential": true
+      "example_sentence_zh": "有时白天也能看到月亮。"
     },
     {
       "id": 5,
@@ -49,8 +46,7 @@
       "partOfSpeech": "n.",
       "chinese": "云",
       "example_sentence": "Thick clouds covered the sky before the rain.",
-      "example_sentence_zh": "下雨前厚厚的云遮住了天空。",
-      "essential": true
+      "example_sentence_zh": "下雨前厚厚的云遮住了天空。"
     },
     {
       "id": 6,
@@ -89,8 +85,7 @@
       "partOfSpeech": "n.",
       "chinese": "外层空间；外太空",
       "example_sentence": "Satellites move around Earth in outer space.",
-      "example_sentence_zh": "卫星在外层空间绕地球运行。",
-      "essential": true
+      "example_sentence_zh": "卫星在外层空间绕地球运行。"
     },
     {
       "id": 10,
@@ -99,8 +94,7 @@
       "partOfSpeech": "n.",
       "chinese": "空间站",
       "example_sentence": "Chinese taikonauts work on the space station.",
-      "example_sentence_zh": "中国航天员在空间站工作。",
-      "essential": true
+      "example_sentence_zh": "中国航天员在空间站工作。"
     },
     {
       "id": 11,
@@ -109,8 +103,7 @@
       "partOfSpeech": "n.",
       "chinese": "大海；海洋",
       "example_sentence": "Most of Earth's surface is covered by ocean.",
-      "example_sentence_zh": "地球表面大部分被海洋覆盖。",
-      "essential": true
+      "example_sentence_zh": "地球表面大部分被海洋覆盖。"
     },
     {
       "id": 12,
@@ -119,8 +112,7 @@
       "partOfSpeech": "n.",
       "chinese": "（玻璃）弹子",
       "example_sentence": "He compared Mars to a red marble in his science report.",
-      "example_sentence_zh": "他在科学报告里把火星比作一颗红色弹子。",
-      "essential": true
+      "example_sentence_zh": "他在科学报告里把火星比作一颗红色弹子。"
     },
     {
       "id": 13,
@@ -129,8 +121,7 @@
       "partOfSpeech": "n.",
       "chinese": "人造卫星",
       "example_sentence": "This satellite sends signals back to Earth.",
-      "example_sentence_zh": "这颗人造卫星向地球发回信号。",
-      "essential": true
+      "example_sentence_zh": "这颗人造卫星向地球发回信号。"
     },
     {
       "id": 14,
@@ -139,8 +130,7 @@
       "partOfSpeech": "n.",
       "chinese": "土壤",
       "example_sentence": "Scientists studied soil samples from Mars.",
-      "example_sentence_zh": "科学家研究了来自火星的土壤样本。",
-      "essential": true
+      "example_sentence_zh": "科学家研究了来自火星的土壤样本。"
     },
     {
       "id": 15,
@@ -149,8 +139,7 @@
       "partOfSpeech": "n.",
       "chinese": "火星",
       "example_sentence": "The rover landed safely on Mars.",
-      "example_sentence_zh": "探测器安全降落在火星上。",
-      "essential": true
+      "example_sentence_zh": "探测器安全降落在火星上。"
     },
     {
       "id": 16,
@@ -159,8 +148,7 @@
       "partOfSpeech": "n.",
       "chinese": "外星生物",
       "example_sentence": "The story is about an alien from another planet.",
-      "example_sentence_zh": "这个故事讲的是来自另一颗行星的外星生物。",
-      "essential": true
+      "example_sentence_zh": "这个故事讲的是来自另一颗行星的外星生物。"
     },
     {
       "id": 17,
@@ -169,8 +157,7 @@
       "partOfSpeech": "n.",
       "chinese": "日出",
       "example_sentence": "They watched the sunrise through the station window.",
-      "example_sentence_zh": "他们透过空间站窗户观看了日出。",
-      "essential": true
+      "example_sentence_zh": "他们透过空间站窗户观看了日出。"
     },
     {
       "id": 18,
@@ -179,8 +166,7 @@
       "partOfSpeech": "n.",
       "chinese": "探测器",
       "example_sentence": "The Mars rover explored the red soil.",
-      "example_sentence_zh": "火星探测器探索了红色的土壤。",
-      "essential": true
+      "example_sentence_zh": "火星探测器探索了红色的土壤。"
     },
     {
       "id": 19,
@@ -189,8 +175,7 @@
       "partOfSpeech": "prep.",
       "chinese": "朝；进入",
       "example_sentence": "The spaceship flew into outer space.",
-      "example_sentence_zh": "宇宙飞船飞入了外太空。",
-      "essential": true
+      "example_sentence_zh": "宇宙飞船飞入了外太空。"
     },
     {
       "id": 20,
@@ -199,8 +184,7 @@
       "partOfSpeech": "n.",
       "chinese": "望远镜",
       "example_sentence": "We used a telescope to watch the stars last night.",
-      "example_sentence_zh": "我们昨晚用望远镜观察星星。",
-      "essential": true
+      "example_sentence_zh": "我们昨晚用望远镜观察星星。"
     },
     {
       "id": 21,
@@ -219,8 +203,7 @@
       "partOfSpeech": "n.",
       "chinese": "宇宙飞船",
       "example_sentence": "The taikonaut returned to Earth in a spaceship.",
-      "example_sentence_zh": "航天员乘坐宇宙飞船返回地球。",
-      "essential": true
+      "example_sentence_zh": "航天员乘坐宇宙飞船返回地球。"
     },
     {
       "id": 23,
@@ -239,8 +222,7 @@
       "partOfSpeech": "n.",
       "chinese": "中国航天员",
       "example_sentence": "The Chinese taikonaut showed us life in space.",
-      "example_sentence_zh": "中国航天员向我们展示了太空生活。",
-      "essential": true
+      "example_sentence_zh": "中国航天员向我们展示了太空生活。"
     },
     {
       "id": 25,
@@ -249,8 +231,7 @@
       "partOfSpeech": "n.",
       "chinese": "（一块）布；织物",
       "example_sentence": "Astronauts use a special cloth to clean the station.",
-      "example_sentence_zh": "航天员用特殊的布清洁空间站。",
-      "essential": true
+      "example_sentence_zh": "航天员用特殊的布清洁空间站。"
     },
     {
       "id": 26,
@@ -259,8 +240,7 @@
       "partOfSpeech": "n.",
       "chinese": "牙膏",
       "example_sentence": "Even a tube of toothpaste floats in space.",
-      "example_sentence_zh": "在太空中连一管牙膏都会漂浮。",
-      "essential": true
+      "example_sentence_zh": "在太空中连一管牙膏都会漂浮。"
     },
     {
       "id": 27,
@@ -279,8 +259,7 @@
       "partOfSpeech": "n.",
       "chinese": "日落",
       "example_sentence": "The sunset looked amazing from the space station.",
-      "example_sentence_zh": "从空间站看日落美极了。",
-      "essential": true
+      "example_sentence_zh": "从空间站看日落美极了。"
     },
     {
       "id": 29,

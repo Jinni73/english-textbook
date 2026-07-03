@@ -19,8 +19,7 @@
       "partOfSpeech": "n.",
       "chinese": "零花钱",
       "example_sentence": "I get pocket money from my parents each week.",
-      "example_sentence_zh": "我每周从父母那里得到零花钱。",
-      "essential": true
+      "example_sentence_zh": "我每周从父母那里得到零花钱。"
     },
     {
       "id": 3,
@@ -39,8 +38,7 @@
       "partOfSpeech": "n.",
       "chinese": "商品",
       "example_sentence": "The shop sells many kinds of goods.",
-      "example_sentence_zh": "这家商店卖各种各样的商品。",
-      "essential": true
+      "example_sentence_zh": "这家商店卖各种各样的商品。"
     },
     {
       "id": 5,
@@ -59,8 +57,7 @@
       "partOfSpeech": "n.",
       "chinese": "服务",
       "example_sentence": "The shop offers good service to its customers.",
-      "example_sentence_zh": "这家商店为顾客提供良好的服务。",
-      "essential": true
+      "example_sentence_zh": "这家商店为顾客提供良好的服务。"
     },
     {
       "id": 7,
@@ -69,8 +66,7 @@
       "partOfSpeech": "n.",
       "chinese": "理发；发型",
       "example_sentence": "A haircut costs twenty yuan at this barber shop.",
-      "example_sentence_zh": "在这家理发店理发要二十元。",
-      "essential": true
+      "example_sentence_zh": "在这家理发店理发要二十元。"
     },
     {
       "id": 8,
@@ -79,8 +75,7 @@
       "partOfSpeech": "n.",
       "chinese": "显微镜",
       "example_sentence": "I want to save up for a small microscope.",
-      "example_sentence_zh": "我想攒钱买一台小显微镜。",
-      "essential": true
+      "example_sentence_zh": "我想攒钱买一台小显微镜。"
     },
     {
       "id": 9,
@@ -89,8 +84,7 @@
       "partOfSpeech": "adj.",
       "chinese": "幸运的",
       "example_sentence": "I was lucky to find the book on sale.",
-      "example_sentence_zh": "我很幸运在打折时找到了那本书。",
-      "essential": true
+      "example_sentence_zh": "我很幸运在打折时找到了那本书。"
     },
     {
       "id": 10,
@@ -99,8 +93,7 @@
       "partOfSpeech": "phrase",
       "chinese": "攒钱",
       "example_sentence": "She saved up for three months to buy a film ticket.",
-      "example_sentence_zh": "她攒了三个月的钱买了一张电影票。",
-      "essential": true
+      "example_sentence_zh": "她攒了三个月的钱买了一张电影票。"
     },
     {
       "id": 11,
@@ -109,8 +102,7 @@
       "partOfSpeech": "n.",
       "chinese": "特价销售；出售",
       "example_sentence": "There is a big sale at the bookshop today.",
-      "example_sentence_zh": "书店今天有大促销。",
-      "essential": true
+      "example_sentence_zh": "书店今天有大促销。"
     },
     {
       "id": 12,
@@ -119,8 +111,7 @@
       "partOfSpeech": "n.",
       "chinese": "票",
       "example_sentence": "He used his pocket money to buy a film ticket.",
-      "example_sentence_zh": "他用零花钱买了一张电影票。",
-      "essential": true
+      "example_sentence_zh": "他用零花钱买了一张电影票。"
     },
     {
       "id": 13,
@@ -129,8 +120,7 @@
       "partOfSpeech": "v.",
       "chinese": "管理",
       "example_sentence": "It is important to manage your money well.",
-      "example_sentence_zh": "妥善管理金钱很重要。",
-      "essential": true
+      "example_sentence_zh": "妥善管理金钱很重要。"
     },
     {
       "id": 14,
@@ -159,8 +149,7 @@
       "partOfSpeech": "n.",
       "chinese": "罐子",
       "example_sentence": "He keeps his pocket money in a glass jar.",
-      "example_sentence_zh": "他把零花钱放在一个玻璃罐里。",
-      "essential": true
+      "example_sentence_zh": "他把零花钱放在一个玻璃罐里。"
     },
     {
       "id": 17,
@@ -179,8 +168,7 @@
       "partOfSpeech": "phrase",
       "chinese": "例如",
       "example_sentence": "I save for big things — for example, a microscope.",
-      "example_sentence_zh": "我为大件东西存钱——例如，一台显微镜。",
-      "essential": true
+      "example_sentence_zh": "我为大件东西存钱——例如，一台显微镜。"
     }
   ]
 }
