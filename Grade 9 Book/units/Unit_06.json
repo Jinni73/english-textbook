@@ -1,0 +1,442 @@
+{
+  "unit": 6,
+  "title": "Unit 6 · Space",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "beyond",
+      "pronunciation": "/bɪˈjɒnd/",
+      "partOfSpeech": "prep. & adv.",
+      "chinese": "超出；在……较远的一边；在（或向）更远处",
+      "example_sentence": "Telescopes let us see worlds beyond our own planet.",
+      "example_sentence_zh": "望远镜让我们看见地球以外的世界。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "mission",
+      "pronunciation": "/ˈmɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "任务；使命",
+      "example_sentence": "The Mars rover mission searches for signs of ancient water.",
+      "example_sentence_zh": "火星探测器任务在寻找古代水的痕迹。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "telescope",
+      "pronunciation": "/ˈtelɪskəʊp/",
+      "partOfSpeech": "n.",
+      "chinese": "望远镜",
+      "example_sentence": "Astronomers aimed the telescope at Proxima Centauri last night.",
+      "example_sentence_zh": "天文学家昨晚把望远镜对准比邻星。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "rover",
+      "pronunciation": "/ˈrəʊvə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "探测器；漫游者",
+      "example_sentence": "The rover rolled slowly across the red dust of Mars.",
+      "example_sentence_zh": "探测器缓缓驶过火星的红色尘土。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "manned",
+      "pronunciation": "/mænd/",
+      "partOfSpeech": "adj.",
+      "chinese": "需人操作的",
+      "example_sentence": "The first manned mission to the Moon amazed people worldwide.",
+      "example_sentence_zh": "首次载人登月任务震惊了全世界。",
+      "essential": true
+    },
+    {
+      "id": 6,
+      "english": "maintain",
+      "pronunciation": "/meɪnˈteɪn/",
+      "partOfSpeech": "v.",
+      "chinese": "维修；保持",
+      "example_sentence": "Engineers maintain the spacecraft so systems stay reliable in orbit.",
+      "example_sentence_zh": "工程师维护飞船，让系统在轨道上保持可靠。",
+      "essential": true
+    },
+    {
+      "id": 7,
+      "english": "launch",
+      "pronunciation": "/lɔːntʃ/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "发射；发起",
+      "example_sentence": "Weather delayed the rocket launch by twenty-four hours.",
+      "example_sentence_zh": "天气让火箭发射推迟了二十四小时。"
+    },
+    {
+      "id": 8,
+      "english": "weightless",
+      "pronunciation": "/ˈweɪtləs/",
+      "partOfSpeech": "adj.",
+      "chinese": "失重的；无重量的",
+      "example_sentence": "Astronauts feel weightless when the craft falls freely around Earth.",
+      "example_sentence_zh": "飞行器绕地球自由下落时，宇航员会感到失重。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "movement",
+      "pronunciation": "/ˈmuːvmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "运动；活动",
+      "example_sentence": "Even small movement can drift tools away in zero gravity.",
+      "example_sentence_zh": "在零重力下，轻微动作也会把工具飘走。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "asleep",
+      "pronunciation": "/əˈsliːp/",
+      "partOfSpeech": "adj.",
+      "chinese": "睡着的（的）",
+      "example_sentence": "Tired crew members must tie themselves so they do not float asleep.",
+      "example_sentence_zh": "疲惫的乘员必须把自己系好，以免睡着时飘走。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "fall asleep",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "入睡",
+      "example_sentence": "It is hard to fall asleep with sunrise every ninety minutes in orbit.",
+      "example_sentence_zh": "在轨道上每九十分钟一次日出，很难入睡。"
+    },
+    {
+      "id": 12,
+      "english": "tie",
+      "pronunciation": "/taɪ/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "系上；束紧；领带",
+      "example_sentence": "Crew tie sleeping bags to the wall before lights go out.",
+      "example_sentence_zh": "熄灯前，乘员把睡袋系在舱壁上。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "geology",
+      "pronunciation": "/dʒiˈɒlədʒi/",
+      "partOfSpeech": "n.",
+      "chinese": "地质；地质学",
+      "example_sentence": "The rover studies geology to learn how Mars formed.",
+      "example_sentence_zh": "探测器研究地质以了解火星如何形成。"
+    },
+    {
+      "id": 14,
+      "english": "satellite",
+      "pronunciation": "/ˈsætəlaɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "人造卫星；卫星",
+      "example_sentence": "A weather satellite sends images of storms back to Earth.",
+      "example_sentence_zh": "气象卫星把风暴图像传回地球。"
+    },
+    {
+      "id": 15,
+      "english": "crazy",
+      "pronunciation": "/ˈkreɪzi/",
+      "partOfSpeech": "adj.",
+      "chinese": "疯狂的；不理智的",
+      "example_sentence": "It sounds crazy, but Voyager still sends signals after decades.",
+      "example_sentence_zh": "听起来很疯狂，但旅行者号几十年后仍在发信号。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "human being",
+      "pronunciation": "",
+      "partOfSpeech": "n.",
+      "chinese": "人；人类",
+      "example_sentence": "No human being has set foot on Mars yet.",
+      "example_sentence_zh": "还没有人类踏上火星。"
+    },
+    {
+      "id": 17,
+      "english": "require",
+      "pronunciation": "/rɪˈkwaɪə(r)/",
+      "partOfSpeech": "v.",
+      "chinese": "需要；要求",
+      "example_sentence": "Long missions require careful planning for food and air.",
+      "example_sentence_zh": "长期任务需要仔细规划食物和空气。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "rocket",
+      "pronunciation": "/ˈrɒkɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "火箭",
+      "example_sentence": "The rocket lifted the unmanned probe beyond Earth's atmosphere.",
+      "example_sentence_zh": "火箭把无人探测器送出地球大气层。",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "cancel",
+      "pronunciation": "/ˈkænsl/",
+      "partOfSpeech": "v.",
+      "chinese": "取消；终止",
+      "example_sentence": "Officials cancel launches if wind near the pad is too strong.",
+      "example_sentence_zh": "发射台附近风太大时，官员会取消发射。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "publish",
+      "pronunciation": "/ˈpʌblɪʃ/",
+      "partOfSpeech": "v.",
+      "chinese": "刊登；出版",
+      "example_sentence": "Scientists publish rover data so students can study real Mars rocks.",
+      "example_sentence_zh": "科学家公布探测器数据，让学生研究真实的火星岩石。",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "exoplanet",
+      "pronunciation": "/ˈeksəʊˌplænɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "系外行星",
+      "example_sentence": "Each new exoplanet discovery raises questions about life beyond the Sun.",
+      "example_sentence_zh": "每发现一颗系外行星，都会引发关于太阳系外生命的疑问。"
+    },
+    {
+      "id": 22,
+      "english": "solar",
+      "pronunciation": "/ˈsəʊlə(r)/",
+      "partOfSpeech": "adj.",
+      "chinese": "太阳的；太阳能的",
+      "example_sentence": "Solar panels on the station capture energy from the Sun.",
+      "example_sentence_zh": "空间站的太阳能板捕获太阳的能量。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "god",
+      "pronunciation": "/ɡɒd/",
+      "partOfSpeech": "n.",
+      "chinese": "神",
+      "example_sentence": "Ancient stories named constellations after gods in the sky.",
+      "example_sentence_zh": "古代故事用天上的神祇为星座命名。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "mysterious",
+      "pronunciation": "/mɪˈstɪəriəs/",
+      "partOfSpeech": "adj.",
+      "chinese": "神秘的；奇怪的",
+      "example_sentence": "The dark side of the Moon once seemed mysterious to early astronomers.",
+      "example_sentence_zh": "月球背面对早期天文学家曾显得神秘。",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "spacecraft",
+      "pronunciation": "/ˈspeɪskrɑːft/",
+      "partOfSpeech": "n.",
+      "chinese": "宇宙飞船",
+      "example_sentence": "The crowded spacecraft carried supplies for a six-month stay.",
+      "example_sentence_zh": "拥挤的飞船载着六个月驻留的补给。",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "in case",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "以防万一",
+      "example_sentence": "Pack extra batteries in case the rover loses power on Mars.",
+      "example_sentence_zh": "多带备用电池，以防探测器在火星上断电。"
+    },
+    {
+      "id": 27,
+      "english": "board",
+      "pronunciation": "/bɔːd/",
+      "partOfSpeech": "n.",
+      "chinese": "板；牌子",
+      "example_sentence": "A warning board listed every tool allowed on board the ship.",
+      "example_sentence_zh": "警示牌列出了飞船上允许携带的每件工具。",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "on board",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在船（或火车、飞机）上",
+      "example_sentence": "There are six astronauts on board the space station today.",
+      "example_sentence_zh": "今天空间站上共有六名宇航员。"
+    },
+    {
+      "id": 29,
+      "english": "billion",
+      "pronunciation": "/ˈbɪljən/",
+      "partOfSpeech": "num.",
+      "chinese": "十亿",
+      "example_sentence": "Our galaxy holds hundreds of billions of stars.",
+      "example_sentence_zh": "我们的星系拥有数千亿颗恒星。",
+      "essential": true
+    },
+    {
+      "id": 30,
+      "english": "trillion",
+      "pronunciation": "/ˈtrɪljən/",
+      "partOfSpeech": "num.",
+      "chinese": "万亿；兆",
+      "example_sentence": "Distances in space are often measured in trillions of metres.",
+      "example_sentence_zh": "太空距离常以万亿米计。",
+      "essential": true
+    },
+    {
+      "id": 31,
+      "english": "completely",
+      "pronunciation": "/kəmˈpliːtli/",
+      "partOfSpeech": "adv.",
+      "chinese": "彻底地；完全地",
+      "example_sentence": "Earth looks completely blue when viewed from orbit.",
+      "example_sentence_zh": "从轨道上看，地球完全是蓝色的。",
+      "essential": true
+    },
+    {
+      "id": 32,
+      "english": "cooperate",
+      "pronunciation": "/kəʊˈɒpəreɪt/",
+      "partOfSpeech": "v.",
+      "chinese": "合作；协作",
+      "example_sentence": "Countries cooperate to operate the International Space Station.",
+      "example_sentence_zh": "各国合作运营国际空间站。",
+      "essential": true
+    },
+    {
+      "id": 33,
+      "english": "cooperate with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "合作；协作；配合",
+      "example_sentence": "NASA cooperates with other agencies to survey Mars.",
+      "example_sentence_zh": "美国国家航空航天局与其他机构合作探测火星。"
+    },
+    {
+      "id": 34,
+      "english": "set foot on",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "访问；参观（某地）",
+      "example_sentence": "Ann dreamed of the day humans would set foot on Mars.",
+      "example_sentence_zh": "安梦想着人类踏上火星的那一天。"
+    },
+    {
+      "id": 35,
+      "english": "galaxy",
+      "pronunciation": "/ˈɡæləksi/",
+      "partOfSpeech": "n.",
+      "chinese": "星系",
+      "example_sentence": "Voyager is heading toward the edge of our galaxy.",
+      "example_sentence_zh": "旅行者号正朝我们星系的边缘飞去。",
+      "essential": true
+    },
+    {
+      "id": 36,
+      "english": "unmanned",
+      "pronunciation": "/ˌʌnˈmænd/",
+      "partOfSpeech": "adj.",
+      "chinese": "无（需）人操作的",
+      "example_sentence": "Unmanned craft reached Mars long before manned flights were planned.",
+      "example_sentence_zh": "在计划载人飞行之前，无人飞行器就已到达火星。",
+      "essential": true
+    },
+    {
+      "id": 37,
+      "english": "craft",
+      "pronunciation": "/krɑːft/",
+      "partOfSpeech": "n.",
+      "chinese": "技艺；工艺；飞行器；船",
+      "example_sentence": "The landing craft touched down softly on the dusty plain.",
+      "example_sentence_zh": "着陆器轻轻降落在尘土平原上。",
+      "essential": true
+    },
+    {
+      "id": 38,
+      "english": "spaceship",
+      "pronunciation": "/ˈspeɪsʃɪp/",
+      "partOfSpeech": "n.",
+      "chinese": "（航天）飞船",
+      "example_sentence": "The spaceship circled Earth before firing engines toward the Moon.",
+      "example_sentence_zh": "飞船绕地球一圈后点火飞向月球。",
+      "essential": true
+    },
+    {
+      "id": 39,
+      "english": "survey",
+      "pronunciation": "/ˈsɜːveɪ/",
+      "partOfSpeech": "n.",
+      "chinese": "测绘；民意调查",
+      "example_sentence": "The orbital survey mapped valleys that might once hold water.",
+      "example_sentence_zh": "轨道测绘绘制了可能曾存水的谷地。",
+      "essential": true
+    },
+    {
+      "id": 40,
+      "english": "crowded",
+      "pronunciation": "/ˈkraʊdɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "人（太）多的；拥挤的",
+      "example_sentence": "The crowded control room cheered when the probe sent its first photo.",
+      "example_sentence_zh": "探测器传来第一张照片时，拥挤的控制室欢呼起来。",
+      "essential": true
+    },
+    {
+      "id": 41,
+      "english": "operate",
+      "pronunciation": "/ˈɒpəreɪt/",
+      "partOfSpeech": "v.",
+      "chinese": "操作；运行",
+      "example_sentence": "Specialists operate the telescope from a room far from the dome.",
+      "example_sentence_zh": "专家在远离圆顶的房间操作望远镜。",
+      "essential": true
+    },
+    {
+      "id": 42,
+      "english": "Mars",
+      "pronunciation": "/mɑːz/",
+      "partOfSpeech": "n.",
+      "chinese": "火星",
+      "example_sentence": "Mars appears red because iron-rich dust covers its surface.",
+      "example_sentence_zh": "火星呈红色，因为富含铁的尘土覆盖其表面。"
+    },
+    {
+      "id": 43,
+      "english": "Voyager",
+      "pronunciation": "/ˈvɔɪɪdʒə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "旅行者1号探测器",
+      "example_sentence": "Voyager carries a golden record of sounds from Earth.",
+      "example_sentence_zh": "旅行者号携带着一张记录地球声音的金唱片。"
+    },
+    {
+      "id": 44,
+      "english": "Proxima Centauri",
+      "pronunciation": "/ˈprɒksɪmə senˈtɔːri/",
+      "partOfSpeech": "n.",
+      "chinese": "比邻星",
+      "example_sentence": "Proxima Centauri is the nearest star beyond our solar system.",
+      "example_sentence_zh": "比邻星是太阳系外最近的恒星。"
+    },
+    {
+      "id": 45,
+      "english": "Ann",
+      "pronunciation": "/æn/",
+      "partOfSpeech": "n.",
+      "chinese": "安",
+      "example_sentence": "Ann wrote a report on how rovers cooperate with satellites in orbit.",
+      "example_sentence_zh": "安写了一份关于探测器如何与轨道卫星协作的报告。"
+    }
+  ]
+}

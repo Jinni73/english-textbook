@@ -1,0 +1,623 @@
+{
+  "unit": 4,
+  "title": "Unit 4 · Feelings and memory",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "position",
+      "pronunciation": "/pəˈzɪʃn/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "位置；地方；安置；使处于",
+      "example_sentence": "She changed the position of the photo on her memory board.",
+      "example_sentence_zh": "她调整了记忆板上那张照片的位置。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "sadness",
+      "pronunciation": "/ˈsædnəs/",
+      "partOfSpeech": "n.",
+      "chinese": "悲伤",
+      "example_sentence": "A wave of sadness hit him when the old song ended.",
+      "example_sentence_zh": "老歌结束时，一阵悲伤涌上心头。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "run out (of sth)",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "用完；耗尽",
+      "example_sentence": "I ran out of time before I could finish the memory quiz.",
+      "example_sentence_zh": "我还没做完记忆测验时间就耗尽了。"
+    },
+    {
+      "id": 4,
+      "english": "react",
+      "pronunciation": "/riˈækt/",
+      "partOfSpeech": "v.",
+      "chinese": "作出反应；回应",
+      "example_sentence": "How did you react when you heard your grandpa's voice on the tape?",
+      "example_sentence_zh": "听到磁带里爷爷的声音时你作何反应？",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "mix up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "混淆；弄乱",
+      "example_sentence": "Do not mix up the dates of the two family picnics.",
+      "example_sentence_zh": "别把两次家庭野餐的日期搞混了。"
+    },
+    {
+      "id": 6,
+      "english": "put sth to good use",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "有效使用（或利用）某物",
+      "example_sentence": "She put her old diary to good use by turning entries into a story.",
+      "example_sentence_zh": "她把旧日记好好利用，把条目改成了故事。"
+    },
+    {
+      "id": 7,
+      "english": "chain",
+      "pronunciation": "/tʃeɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "链条",
+      "example_sentence": "Each happy memory formed a chain that led back to childhood.",
+      "example_sentence_zh": "每一段快乐回忆连成链，引回童年。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "stable",
+      "pronunciation": "/ˈsteɪbl/",
+      "partOfSpeech": "adj.",
+      "chinese": "稳定的；稳固的",
+      "example_sentence": "A stable routine helps long-term memories settle in.",
+      "example_sentence_zh": "稳定的作息有助于长期记忆沉淀。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "lecture",
+      "pronunciation": "/ˈlektʃə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "讲座；讲课",
+      "example_sentence": "The lecture on memory tricks kept the whole hall awake.",
+      "example_sentence_zh": "关于记忆技巧的讲座让全场都精神集中。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "retell",
+      "pronunciation": "/ˌriːˈtel/",
+      "partOfSpeech": "v.",
+      "chinese": "复述",
+      "example_sentence": "Retell the story in your own words to fix it in memory.",
+      "example_sentence_zh": "用自己的话复述故事，才能把它牢牢记住。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "memorize",
+      "pronunciation": "/ˈmeməraɪz/",
+      "partOfSpeech": "v.",
+      "chinese": "记住；记忆",
+      "example_sentence": "It is easier to memorize a list when you link each item to a picture.",
+      "example_sentence_zh": "把每项和图片联系起来，背清单会更容易。"
+    },
+    {
+      "id": 12,
+      "english": "tick",
+      "pronunciation": "/tɪk/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "给……打钩；对号；钩号",
+      "example_sentence": "Tick each name you can recall without looking at your notes.",
+      "example_sentence_zh": "不看书本能想起的名字就打个钩。"
+    },
+    {
+      "id": 13,
+      "english": "grandson",
+      "pronunciation": "/ˈɡrænsʌn/",
+      "partOfSpeech": "n.",
+      "chinese": "孙子；外孙",
+      "example_sentence": "The grandson recorded his grandma singing an old opera aria.",
+      "example_sentence_zh": "孙子录下了奶奶唱的一段老歌剧咏叹调。",
+      "essential": true
+    },
+    {
+      "id": 14,
+      "english": "go through",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "经历；仔细查看",
+      "example_sentence": "We went through every ticket stub saved since last summer.",
+      "example_sentence_zh": "我们把去年夏天留存的每张票根都翻了一遍。"
+    },
+    {
+      "id": 15,
+      "english": "happen to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "发生于；使遭遇",
+      "example_sentence": "What happened to the wallet you lost at the airport?",
+      "example_sentence_zh": "你在机场丢的钱包后来怎么样了？"
+    },
+    {
+      "id": 16,
+      "english": "keep (...) in mind",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "记在心中；记住",
+      "example_sentence": "Keep in mind that feelings can colour how we remember events.",
+      "example_sentence_zh": "请记住，情绪会影响我们怎样回忆事件。"
+    },
+    {
+      "id": 17,
+      "english": "case",
+      "pronunciation": "/keɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "情况；事实",
+      "example_sentence": "In this case, a vivid image helped her recall the address.",
+      "example_sentence_zh": "在这种情况下，一幅鲜明画面帮她想起了地址。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "in sb's case",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "就某人的情况而言",
+      "example_sentence": "In Johnny's case, music unlocked memories he thought were gone.",
+      "example_sentence_zh": "就约翰尼而言，音乐唤起了他以为已消失的记忆。"
+    },
+    {
+      "id": 19,
+      "english": "opera",
+      "pronunciation": "/ˈɒprə/",
+      "partOfSpeech": "n.",
+      "chinese": "歌剧；歌剧团",
+      "example_sentence": "Hearing the opera again brought tears and distant joy.",
+      "example_sentence_zh": "再听那出歌剧，泪水与遥远的喜悦一同涌来。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "ticket",
+      "pronunciation": "/ˈtɪkɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "入场券；票",
+      "example_sentence": "He found a faded ticket from their first picnic together.",
+      "example_sentence_zh": "他找到了他们第一次野餐时那张褪色的票。",
+      "essential": true
+    },
+    {
+      "id": 21,
+      "english": "wallet",
+      "pronunciation": "/ˈwɒlɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "钱包",
+      "example_sentence": "Inside the wallet was a photo that explained her sudden sadness.",
+      "example_sentence_zh": "钱包里有一张照片，解释了她突然的悲伤。",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "picnic",
+      "pronunciation": "/ˈpɪknɪk/",
+      "partOfSpeech": "n.",
+      "chinese": "野餐",
+      "example_sentence": "The picnic by the grapevine is still her favourite memory.",
+      "example_sentence_zh": "葡萄藤旁的野餐仍是她最喜欢的回忆。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "pardon",
+      "pronunciation": "/ˈpɑːdn/",
+      "partOfSpeech": "v. & interj.",
+      "chinese": "原谅；请再说一遍；抱歉",
+      "example_sentence": "Pardon me—I forgot where we parked near the mall.",
+      "example_sentence_zh": "抱歉——我忘了我们在商场附近把车停哪儿了。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "airport",
+      "pronunciation": "/ˈeəpɔːt/",
+      "partOfSpeech": "n.",
+      "chinese": "机场",
+      "example_sentence": "The airport announcement triggered a memory of saying goodbye.",
+      "example_sentence_zh": "机场的广播触发了告别的回忆。",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "gunshot",
+      "pronunciation": "/ˈɡʌnʃɒt/",
+      "partOfSpeech": "n.",
+      "chinese": "枪声；（射出的）炮弹",
+      "example_sentence": "A gunshot in the film made him recall a scary news report.",
+      "example_sentence_zh": "电影里的枪声让他想起一则可怕的新闻报道。",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "grown-up",
+      "pronunciation": "/ˌɡrəʊn ˈʌp/",
+      "partOfSpeech": "adj.",
+      "chinese": "成年的",
+      "example_sentence": "As a grown-up, Rick still keeps his childhood notebook.",
+      "example_sentence_zh": "长大成人后，里克仍保存着童年的笔记本。",
+      "essential": true
+    },
+    {
+      "id": 27,
+      "english": "recall",
+      "pronunciation": "/rɪˈkɔːl/",
+      "partOfSpeech": "v.",
+      "chinese": "回忆起；回想起",
+      "example_sentence": "I cannot recall the password I wrote on this page.",
+      "example_sentence_zh": "我想不起写在这一页上的密码了。",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "grapevine",
+      "pronunciation": "/ˈɡreɪpvaɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "葡萄藤；葡萄树",
+      "example_sentence": "Climbing the grapevine behind the house became a summer memory.",
+      "example_sentence_zh": "爬屋后葡萄藤成了夏天的记忆。",
+      "essential": true
+    },
+    {
+      "id": 29,
+      "english": "boost",
+      "pronunciation": "/buːst/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "促进；使增长；帮助；增长",
+      "example_sentence": "Sharing stories with friends can boost your mood and memory.",
+      "example_sentence_zh": "和朋友分享故事能提升情绪，也有助记忆。",
+      "essential": true
+    },
+    {
+      "id": 30,
+      "english": "to start with",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "首先",
+      "example_sentence": "To start with, write down five facts you remember clearly.",
+      "example_sentence_zh": "首先，写下你清楚记得的五条事实。"
+    },
+    {
+      "id": 31,
+      "english": "short-term",
+      "pronunciation": "/ˌʃɔːt ˈtɜːm/",
+      "partOfSpeech": "adj.",
+      "chinese": "短期的",
+      "example_sentence": "Phone numbers live in short-term memory unless you repeat them.",
+      "example_sentence_zh": "电话号码留在短期记忆里，除非你反复念。"
+    },
+    {
+      "id": 32,
+      "english": "long-term",
+      "pronunciation": "/ˌlɒŋ ˈtɜːm/",
+      "partOfSpeech": "adj.",
+      "chinese": "长期的",
+      "example_sentence": "Family photos help move moments into long-term memory.",
+      "example_sentence_zh": "家庭照片有助于把瞬间存入长期记忆。"
+    },
+    {
+      "id": 33,
+      "english": "technique",
+      "pronunciation": "/tekˈniːk/",
+      "partOfSpeech": "n.",
+      "chinese": "技巧",
+      "example_sentence": "The mind-map technique made the long passage easy to retell.",
+      "example_sentence_zh": "思维导图技巧让长段落变得容易复述。"
+    },
+    {
+      "id": 34,
+      "english": "passage",
+      "pronunciation": "/ˈpæsɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "段落；走廊",
+      "example_sentence": "Read the passage once, then close the book and outline it.",
+      "example_sentence_zh": "读一遍段落，合上书再写出纲要。",
+      "essential": true
+    },
+    {
+      "id": 35,
+      "english": "likely",
+      "pronunciation": "/ˈlaɪkli/",
+      "partOfSpeech": "adj.",
+      "chinese": "可能的",
+      "example_sentence": "You are more likely to remember words tied to strong feelings.",
+      "example_sentence_zh": "与强烈情感相关的词更可能被记住。",
+      "essential": true
+    },
+    {
+      "id": 36,
+      "english": "wear out",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "使疲乏；磨损",
+      "example_sentence": "Cramming all night will wear out your brain before the test.",
+      "example_sentence_zh": "通宵死记硬背会在考试前把大脑拖垮。"
+    },
+    {
+      "id": 37,
+      "english": "discuss",
+      "pronunciation": "/dɪˈskʌs/",
+      "partOfSpeech": "v.",
+      "chinese": "讨论；谈论；商量",
+      "example_sentence": "We discussed which memory tricks worked best in our group.",
+      "example_sentence_zh": "我们讨论了小组里哪种记忆窍门最有效。",
+      "essential": true
+    },
+    {
+      "id": 38,
+      "english": "image",
+      "pronunciation": "/ˈɪmɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "图像；形象",
+      "example_sentence": "Create a silly image for each item on your shopping list.",
+      "example_sentence_zh": "给购物清单上的每项编一个滑稽画面。",
+      "essential": true
+    },
+    {
+      "id": 39,
+      "english": "graph",
+      "pronunciation": "/ɡræf/",
+      "partOfSpeech": "n.",
+      "chinese": "图；图表",
+      "example_sentence": "The graph shows how recall drops without review.",
+      "example_sentence_zh": "图表显示不复习时回忆率如何下降。",
+      "essential": true
+    },
+    {
+      "id": 40,
+      "english": "view",
+      "pronunciation": "/vjuː/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "观看；观点；视野",
+      "example_sentence": "From his view, forgetting names is normal under stress.",
+      "example_sentence_zh": "在他看来，压力下忘名很正常。",
+      "essential": true
+    },
+    {
+      "id": 41,
+      "english": "effective",
+      "pronunciation": "/ɪˈfektɪv/",
+      "partOfSpeech": "adj.",
+      "chinese": "有效的",
+      "example_sentence": "Spaced review is an effective way to keep facts in mind.",
+      "example_sentence_zh": "间隔复习是保持记忆的有效方法。",
+      "essential": true
+    },
+    {
+      "id": 42,
+      "english": "engine",
+      "pronunciation": "/ˈendʒɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "发动机",
+      "example_sentence": "Sleep is like an engine that clears and stores new memories.",
+      "example_sentence_zh": "睡眠像引擎，清理并储存新记忆。",
+      "essential": true
+    },
+    {
+      "id": 43,
+      "english": "fuel",
+      "pronunciation": "/ˈfjuːəl/",
+      "partOfSpeech": "n.",
+      "chinese": "燃料",
+      "example_sentence": "Emotion can fuel a memory so it stays bright for years.",
+      "example_sentence_zh": "情感能为记忆供能，让它亮好多年。",
+      "essential": true
+    },
+    {
+      "id": 44,
+      "english": "address",
+      "pronunciation": "/əˈdres/",
+      "partOfSpeech": "n.",
+      "chinese": "地址",
+      "example_sentence": "She whispered the old address she had not visited in decades.",
+      "example_sentence_zh": "她低声念出几十年没去过的旧地址。",
+      "essential": true
+    },
+    {
+      "id": 45,
+      "english": "password",
+      "pronunciation": "/ˈpɑːswɜːd/",
+      "partOfSpeech": "n.",
+      "chinese": "密码；口令",
+      "example_sentence": "He wrote the password on a sticky note and hid it in his notebook.",
+      "example_sentence_zh": "他把密码写在便签上，夹在笔记本里。",
+      "essential": true
+    },
+    {
+      "id": 46,
+      "english": "account",
+      "pronunciation": "/əˈkaʊnt/",
+      "partOfSpeech": "n.",
+      "chinese": "账户；账目",
+      "example_sentence": "Her account of the day matched every detail in Bob's diary.",
+      "example_sentence_zh": "她对那天的叙述与鲍勃日记里的每个细节一致。",
+      "essential": true
+    },
+    {
+      "id": 47,
+      "english": "increase",
+      "pronunciation": "/ɪnˈkriːs/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "增长；增加",
+      "example_sentence": "Daily practice will increase the number of words you recall.",
+      "example_sentence_zh": "每天练习会增加你能回忆起的词数。",
+      "essential": true
+    },
+    {
+      "id": 48,
+      "english": "wild",
+      "pronunciation": "/waɪld/",
+      "partOfSpeech": "adj.",
+      "chinese": "野生的；自然生长的",
+      "example_sentence": "A wild squirrel stole a nut while we ate our picnic lunch.",
+      "example_sentence_zh": "我们野餐时，一只野松鼠偷走了一颗坚果。",
+      "essential": true
+    },
+    {
+      "id": 49,
+      "english": "blood",
+      "pronunciation": "/blʌd/",
+      "partOfSpeech": "n.",
+      "chinese": "血",
+      "example_sentence": "The story mentioned blood on the stage during the tragic opera.",
+      "example_sentence_zh": "故事提到悲剧歌剧里舞台上有血。",
+      "essential": true
+    },
+    {
+      "id": 50,
+      "english": "wound",
+      "pronunciation": "/wuːnd/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "伤口；创伤；使受伤",
+      "example_sentence": "Old wounds surfaced when she reread the letter in her wallet.",
+      "example_sentence_zh": "重读钱包里的信时，旧伤又浮上心头。",
+      "essential": true
+    },
+    {
+      "id": 51,
+      "english": "mall",
+      "pronunciation": "/mɔːl/",
+      "partOfSpeech": "n.",
+      "chinese": "购物商场",
+      "example_sentence": "They met at the mall and traded memories over milk tea.",
+      "example_sentence_zh": "他们在商场见面，边喝奶茶边交换回忆。",
+      "essential": true
+    },
+    {
+      "id": 52,
+      "english": "notebook",
+      "pronunciation": "/ˈnəʊtbʊk/",
+      "partOfSpeech": "n.",
+      "chinese": "笔记本；笔记本电脑",
+      "example_sentence": "Her notebook holds passwords, addresses, and little sketches.",
+      "example_sentence_zh": "她的笔记本里记着密码、地址和小速写。",
+      "essential": true
+    },
+    {
+      "id": 53,
+      "english": "squirrel",
+      "pronunciation": "/ˈskwɪrəl/",
+      "partOfSpeech": "n.",
+      "chinese": "松鼠",
+      "example_sentence": "Rick drew a squirrel to remember the word \"nut\" in his list.",
+      "example_sentence_zh": "里克画了一只松鼠来记清单里的 nut 这个词。"
+    },
+    {
+      "id": 54,
+      "english": "nut",
+      "pronunciation": "/nʌt/",
+      "partOfSpeech": "n.",
+      "chinese": "坚果",
+      "example_sentence": "Link each nut in the bowl to one fact you must memorize.",
+      "example_sentence_zh": "把碗里的每颗坚果对应一条必须记住的事实。"
+    },
+    {
+      "id": 55,
+      "english": "dolphin",
+      "pronunciation": "/ˈdɒlfɪn/",
+      "partOfSpeech": "n.",
+      "chinese": "海豚",
+      "example_sentence": "The dolphin show at the aquarium became Johnny's brightest memory.",
+      "example_sentence_zh": "水族馆的海豚表演成了约翰尼最鲜亮的记忆。"
+    },
+    {
+      "id": 56,
+      "english": "recognize",
+      "pronunciation": "/ˈrekəɡnaɪz/",
+      "partOfSpeech": "v.",
+      "chinese": "辨认出；认可",
+      "example_sentence": "I instantly recognized my cousin's voice on the old tape.",
+      "example_sentence_zh": "我立刻从旧磁带里认出了表弟的声音。",
+      "essential": true
+    },
+    {
+      "id": 57,
+      "english": "outline",
+      "pronunciation": "/ˈaʊtlaɪn/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "纲要；概述",
+      "example_sentence": "Outline the chapter before you try to retell it from memory.",
+      "example_sentence_zh": "先列章节纲要，再凭记忆复述。"
+    },
+    {
+      "id": 58,
+      "english": "fully",
+      "pronunciation": "/ˈfʊli/",
+      "partOfSpeech": "adv.",
+      "chinese": "完全地",
+      "example_sentence": "Only when she felt safe could she fully recall the picnic day.",
+      "example_sentence_zh": "只有感到安全时，她才能完全想起野餐那天。",
+      "essential": true
+    },
+    {
+      "id": 59,
+      "english": "divide",
+      "pronunciation": "/dɪˈvaɪd/",
+      "partOfSpeech": "v.",
+      "chinese": "（把……）分成",
+      "example_sentence": "Divide the long list into three groups by topic.",
+      "example_sentence_zh": "把长清单按主题分成三组。",
+      "essential": true
+    },
+    {
+      "id": 60,
+      "english": "divide sth into",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "把某物分为",
+      "example_sentence": "Divide the passage into four parts and summarize each.",
+      "example_sentence_zh": "把段落分成四部分并分别概括。"
+    },
+    {
+      "id": 61,
+      "english": "one-size-fits-all",
+      "pronunciation": "/ˌwʌn saɪz fɪts ˈɔːl/",
+      "partOfSpeech": "adj.",
+      "chinese": "通用的",
+      "example_sentence": "Memory training is not one-size-fits-all for every student.",
+      "example_sentence_zh": "记忆训练并非对每位学生都一刀切。"
+    },
+    {
+      "id": 62,
+      "english": "Rick",
+      "pronunciation": "/rɪk/",
+      "partOfSpeech": "n.",
+      "chinese": "里克",
+      "example_sentence": "Rick uses colour codes to remember dates and names.",
+      "example_sentence_zh": "里克用颜色编码来记日期和名字。"
+    },
+    {
+      "id": 63,
+      "english": "Johnny",
+      "pronunciation": "/ˈdʒɒni/",
+      "partOfSpeech": "n.",
+      "chinese": "约翰尼",
+      "example_sentence": "Johnny keeps opera tickets in a chain inside his desk drawer.",
+      "example_sentence_zh": "约翰尼把歌剧票用链子串着放在书桌抽屉里。"
+    },
+    {
+      "id": 64,
+      "english": "Bob",
+      "pronunciation": "/bɒb/",
+      "partOfSpeech": "n.",
+      "chinese": "鲍勃",
+      "example_sentence": "Bob wrote a graph in his notebook showing his recall scores.",
+      "example_sentence_zh": "鲍勃在笔记本里画了一张回忆得分图表。"
+    }
+  ]
+}

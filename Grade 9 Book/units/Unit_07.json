@@ -1,0 +1,586 @@
+{
+  "unit": 7,
+  "title": "Unit 7 · Music",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "rhythm",
+      "pronunciation": "/ˈrɪðəm/",
+      "partOfSpeech": "n.",
+      "chinese": "节奏；韵律",
+      "example_sentence": "Clap the rhythm before you sing the first line.",
+      "example_sentence_zh": "唱第一句前先拍出节奏。"
+    },
+    {
+      "id": 2,
+      "english": "folk",
+      "pronunciation": "/fəʊk/",
+      "partOfSpeech": "adj. & n.",
+      "chinese": "民间的；民间音乐；各位",
+      "example_sentence": "The folk song tells a story passed down for generations.",
+      "example_sentence_zh": "这首民歌讲述代代相传的故事。",
+      "essential": true
+    },
+    {
+      "id": 3,
+      "english": "traditional",
+      "pronunciation": "/trəˈdɪʃənl/",
+      "partOfSpeech": "adj.",
+      "chinese": "传统的；习俗的",
+      "example_sentence": "Traditional instruments opened the school music festival.",
+      "example_sentence_zh": "传统乐器拉开了学校音乐节序幕。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "pop",
+      "pronunciation": "/pɒp/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "流行音乐；蹦出",
+      "example_sentence": "Her favourite pop track has a chorus everyone can sing along to.",
+      "example_sentence_zh": "她最爱的流行歌有一段人人能跟着唱的副歌。"
+    },
+    {
+      "id": 5,
+      "english": "jazz",
+      "pronunciation": "/dʒæz/",
+      "partOfSpeech": "n.",
+      "chinese": "爵士乐",
+      "example_sentence": "Late-night jazz filled the café while students tapped their feet.",
+      "example_sentence_zh": "深夜爵士乐充满咖啡馆，学生们用脚打节拍。"
+    },
+    {
+      "id": 6,
+      "english": "rap",
+      "pronunciation": "/ræp/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "说唱乐；表演说唱乐",
+      "example_sentence": "He wrote a rap about studying hard and dreaming big.",
+      "example_sentence_zh": "他写了一段关于努力学习和远大梦想的 rap。"
+    },
+    {
+      "id": 7,
+      "english": "comment",
+      "pronunciation": "/ˈkɒment/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "评论；批评",
+      "example_sentence": "Please leave a kind comment after the online performance.",
+      "example_sentence_zh": "在线演出后请留下友善的评论。",
+      "essential": true
+    },
+    {
+      "id": 8,
+      "english": "sing along to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "随着唱",
+      "example_sentence": "The whole hall began to sing along to the golden oldie.",
+      "example_sentence_zh": "全场开始跟着那首金色老歌一起唱。"
+    },
+    {
+      "id": 9,
+      "english": "lyric",
+      "pronunciation": "/ˈlɪrɪk/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "歌词；抒情的",
+      "example_sentence": "Read the lyric slowly to catch the poet's mood.",
+      "example_sentence_zh": "慢慢读歌词，体会诗人的情绪。"
+    },
+    {
+      "id": 10,
+      "english": "electric",
+      "pronunciation": "/ɪˈlektrik/",
+      "partOfSpeech": "adj.",
+      "chinese": "电的；令人激动的",
+      "example_sentence": "The electric guitar solo brought the crowd to its feet.",
+      "example_sentence_zh": "电吉他独奏让观众站了起来。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "electric guitar",
+      "pronunciation": "",
+      "partOfSpeech": "n.",
+      "chinese": "电吉他",
+      "example_sentence": "Debbie borrowed an electric guitar for the school rock night.",
+      "example_sentence_zh": "黛比为学校摇滚之夜借了一把电吉他。"
+    },
+    {
+      "id": 12,
+      "english": "keyboard",
+      "pronunciation": "/ˈkiːbɔːd/",
+      "partOfSpeech": "n.",
+      "chinese": "电子琴；键盘",
+      "example_sentence": "Chopin's pieces sound rich even on a simple keyboard.",
+      "example_sentence_zh": "肖邦的曲子即使用简单电子琴也显得很丰满。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "trumpet",
+      "pronunciation": "/ˈtrʌmpɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "小号；喇叭",
+      "example_sentence": "A bright trumpet note signalled the start of the parade.",
+      "example_sentence_zh": "小号一声亮音宣告游行开始。"
+    },
+    {
+      "id": 14,
+      "english": "style",
+      "pronunciation": "/staɪl/",
+      "partOfSpeech": "n.",
+      "chinese": "风格；方式",
+      "example_sentence": "Each performer chose a different style for the same song.",
+      "example_sentence_zh": "同首歌每位演奏者选了不同风格。"
+    },
+    {
+      "id": 15,
+      "english": "performance",
+      "pronunciation": "/pəˈfɔːməns/",
+      "partOfSpeech": "n.",
+      "chinese": "演出；表演",
+      "example_sentence": "Clarice gave a performance that earned the highest rating.",
+      "example_sentence_zh": "克拉丽斯的演出获得了最高评分。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "golden",
+      "pronunciation": "/ˈɡəʊldən/",
+      "partOfSpeech": "adj.",
+      "chinese": "金色的",
+      "example_sentence": "Golden lights shone on the stage during the finale.",
+      "example_sentence_zh": "压轴时金色灯光洒在舞台上。"
+    },
+    {
+      "id": 17,
+      "english": "lover",
+      "pronunciation": "/ˈlʌvə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "情人；爱好者",
+      "example_sentence": "As a music lover, he collects tapes of live concerts.",
+      "example_sentence_zh": "作为音乐爱好者，他收藏现场音乐会磁带。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "romantic",
+      "pronunciation": "/rəʊˈmæntɪk/",
+      "partOfSpeech": "adj.",
+      "chinese": "浪漫的；爱情的",
+      "example_sentence": "Schumann wrote romantic pieces filled with deep feeling.",
+      "example_sentence_zh": "舒曼写了充满深情的浪漫作品。",
+      "essential": true
+    },
+    {
+      "id": 19,
+      "english": "performer",
+      "pronunciation": "/pəˈfɔːmə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "演奏者；表演者",
+      "example_sentence": "The performer bowed while the audience tapped their feet.",
+      "example_sentence_zh": "演奏者鞠躬时，观众用脚打着节拍。",
+      "essential": true
+    },
+    {
+      "id": 20,
+      "english": "dance to",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "随着跳舞",
+      "example_sentence": "Couples dance to folk tunes at the town fair.",
+      "example_sentence_zh": "集市上情侣随着民间曲调跳舞。"
+    },
+    {
+      "id": 21,
+      "english": "purple",
+      "pronunciation": "/ˈpɜːpl/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "紫色；紫色的",
+      "example_sentence": "Purple stage lights matched the mood of the ballad.",
+      "example_sentence_zh": "紫色舞台灯配合了民谣的气氛。",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "poet",
+      "pronunciation": "/ˈpəʊɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "诗人",
+      "example_sentence": "The poet set his words to a gentle melody.",
+      "example_sentence_zh": "诗人把文字配上了温柔的旋律。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "policewoman",
+      "pronunciation": "/pəˈliːswʊmən/",
+      "partOfSpeech": "n.",
+      "chinese": "女警察",
+      "example_sentence": "A policewoman directed traffic outside the concert hall.",
+      "example_sentence_zh": "一名女警察在音乐厅外指挥交通。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "deaf",
+      "pronunciation": "/def/",
+      "partOfSpeech": "adj.",
+      "chinese": "聋的",
+      "example_sentence": "The deaf pianist felt rhythm through the floorboards.",
+      "example_sentence_zh": "那位聋人钢琴家通过地板感受节奏。",
+      "essential": true
+    },
+    {
+      "id": 25,
+      "english": "composer",
+      "pronunciation": "/kəmˈpəʊzə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "作曲家",
+      "example_sentence": "The composer revised the score until every bar felt right.",
+      "example_sentence_zh": "作曲家改谱直到每一小节都恰到好处。"
+    },
+    {
+      "id": 26,
+      "english": "electronic",
+      "pronunciation": "/ˌɪlekˈtrɒnɪk/",
+      "partOfSpeech": "adj.",
+      "chinese": "电子的",
+      "example_sentence": "Electronic sounds blended with trumpet and drums.",
+      "example_sentence_zh": "电子音效与小号和鼓融合在一起。",
+      "essential": true
+    },
+    {
+      "id": 27,
+      "english": "download",
+      "pronunciation": "/ˌdaʊnˈləʊd/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "下载；已下载的数据资料",
+      "example_sentence": "Download the track legally before you sing it in class.",
+      "example_sentence_zh": "在课堂上唱之前请合法下载音轨。",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "rating",
+      "pronunciation": "/ˈreɪtɪŋ/",
+      "partOfSpeech": "n.",
+      "chinese": "评分；等级",
+      "example_sentence": "The new album received a five-star rating online.",
+      "example_sentence_zh": "新专辑在网上获得五星评分。",
+      "essential": true
+    },
+    {
+      "id": 29,
+      "english": "hats off (to sb)",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "（向某人）表示敬佩",
+      "example_sentence": "Hats off to the gifted pianist who played from memory.",
+      "example_sentence_zh": "向凭记忆演奏的有天赋钢琴家致敬。"
+    },
+    {
+      "id": 30,
+      "english": "genius",
+      "pronunciation": "/ˈdʒiːniəs/",
+      "partOfSpeech": "n.",
+      "chinese": "天才人物；天赋",
+      "example_sentence": "Many call Chopin a genius of the piano.",
+      "example_sentence_zh": "许多人称肖邦是钢琴天才。",
+      "essential": true
+    },
+    {
+      "id": 31,
+      "english": "pianist",
+      "pronunciation": "/ˈpiːənɪst/",
+      "partOfSpeech": "n.",
+      "chinese": "钢琴家；钢琴演奏者",
+      "example_sentence": "The young pianist travelled from Poland to study in Vienna.",
+      "example_sentence_zh": "年轻钢琴家从波兰赴维也纳学习。",
+      "essential": true
+    },
+    {
+      "id": 32,
+      "english": "gifted",
+      "pronunciation": "/ˈɡɪftɪd/",
+      "partOfSpeech": "adj.",
+      "chinese": "有才能的；有天赋的",
+      "example_sentence": "Gifted students still need daily practice on their instrument.",
+      "example_sentence_zh": "有天赋的学生仍须每天练乐器。",
+      "essential": true
+    },
+    {
+      "id": 33,
+      "english": "outdo",
+      "pronunciation": "/ˌaʊtˈduː/",
+      "partOfSpeech": "v.",
+      "chinese": "胜过",
+      "example_sentence": "She tried to outdo her last performance with a harder piece.",
+      "example_sentence_zh": "她选更难曲目，想超越上次演出。"
+    },
+    {
+      "id": 34,
+      "english": "widen",
+      "pronunciation": "/ˈwaɪdn/",
+      "partOfSpeech": "v.",
+      "chinese": "拓宽；（使）扩展",
+      "example_sentence": "Travel can widen your taste in music and art.",
+      "example_sentence_zh": "旅行能拓宽你在音乐与艺术上的品味。",
+      "essential": true
+    },
+    {
+      "id": 35,
+      "english": "soul",
+      "pronunciation": "/səʊl/",
+      "partOfSpeech": "n.",
+      "chinese": "真挚情感；灵魂",
+      "example_sentence": "Soul music carries emotion straight to the listener's heart.",
+      "example_sentence_zh": "灵魂乐把情感直送进听众心里。"
+    },
+    {
+      "id": 36,
+      "english": "look down on",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "轻视；蔑视",
+      "example_sentence": "Never look down on folk songs—they hold a nation's memory.",
+      "example_sentence_zh": "别轻视民歌——它们承载民族记忆。"
+    },
+    {
+      "id": 37,
+      "english": "Polish",
+      "pronunciation": "/ˈpəʊlɪʃ/",
+      "partOfSpeech": "adj. & n.",
+      "chinese": "波兰的；波兰人；波兰语",
+      "example_sentence": "He spoke Polish at home and English at school.",
+      "example_sentence_zh": "他在家说波兰语，在学校说英语。"
+    },
+    {
+      "id": 38,
+      "english": "characteristic",
+      "pronunciation": "/ˌkærəktəˈrɪstɪk/",
+      "partOfSpeech": "n. & adj.",
+      "chinese": "特征；品质；典型的；独特的",
+      "example_sentence": "Long lyrical lines are a characteristic of Chopin's style.",
+      "example_sentence_zh": "悠长的抒情线条是肖邦风格的特征。",
+      "essential": true
+    },
+    {
+      "id": 39,
+      "english": "valuable",
+      "pronunciation": "/ˈvæljuəbl/",
+      "partOfSpeech": "adj.",
+      "chinese": "宝贵的；贵重的",
+      "example_sentence": "Her valuable collection includes tapes of rare live jazz.",
+      "example_sentence_zh": "她珍贵的收藏里有稀有现场爵士磁带。",
+      "essential": true
+    },
+    {
+      "id": 40,
+      "english": "proudly",
+      "pronunciation": "/ˈpraʊdli/",
+      "partOfSpeech": "adv.",
+      "chinese": "自豪地；壮观地",
+      "example_sentence": "The choir proudly sang the school song at the funeral service.",
+      "example_sentence_zh": "合唱团在葬礼上自豪地唱了校歌。",
+      "essential": true
+    },
+    {
+      "id": 41,
+      "english": "funeral",
+      "pronunciation": "/ˈfjuːnərəl/",
+      "partOfSpeech": "n.",
+      "chinese": "葬礼",
+      "example_sentence": "Mourners heard a quiet piano piece at the funeral.",
+      "example_sentence_zh": "吊唁者在葬礼上听到一首轻柔钢琴曲。"
+    },
+    {
+      "id": 42,
+      "english": "young and old",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "老老少少",
+      "example_sentence": "Young and old danced together when the band played pop hits.",
+      "example_sentence_zh": "乐队演奏流行金曲时，老老少少一起跳舞。"
+    },
+    {
+      "id": 43,
+      "english": "profession",
+      "pronunciation": "/prəˈfeʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "职业；行业",
+      "example_sentence": "Teaching music became her profession after years on stage.",
+      "example_sentence_zh": "多年舞台生涯后，教音乐成了她的职业。"
+    },
+    {
+      "id": 44,
+      "english": "contribution",
+      "pronunciation": "/ˌkɒntrɪˈbjuːʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "贡献；捐款",
+      "example_sentence": "Chopin's contribution to piano music is still studied today.",
+      "example_sentence_zh": "肖邦对钢琴音乐的贡献至今仍被研究。"
+    },
+    {
+      "id": 45,
+      "english": "cartoon",
+      "pronunciation": "/kɑːˈtuːn/",
+      "partOfSpeech": "n.",
+      "chinese": "动画片；漫画",
+      "example_sentence": "The cartoon used a rap song to explain music history.",
+      "example_sentence_zh": "动画片用一首 rap 讲解音乐史。",
+      "essential": true
+    },
+    {
+      "id": 46,
+      "english": "fair",
+      "pronunciation": "/feə(r)/",
+      "partOfSpeech": "adj. & n.",
+      "chinese": "公平的；合理的；露天游乐场；集市",
+      "example_sentence": "The summer fair featured folk bands from nearby towns.",
+      "example_sentence_zh": "夏日集市有附近城镇的民间乐队。",
+      "essential": true
+    },
+    {
+      "id": 47,
+      "english": "fair and square",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "光明正大",
+      "example_sentence": "The jury picked the winner fair and square after every performance.",
+      "example_sentence_zh": "评委在每场演出后光明正大地选出了胜者。"
+    },
+    {
+      "id": 48,
+      "english": "tape",
+      "pronunciation": "/teɪp/",
+      "partOfSpeech": "n.",
+      "chinese": "磁带；录像带",
+      "example_sentence": "He found an old tape of his schoolmate singing at a talent show.",
+      "example_sentence_zh": "他找到一盘旧磁带，录的是同学在才艺赛上的演唱。",
+      "essential": true
+    },
+    {
+      "id": 49,
+      "english": "tap",
+      "pronunciation": "/tæp/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "用（手指或脚）打节拍；轻敲；水龙头；轻拍",
+      "example_sentence": "Tap your finger on the desk to keep time with the rhythm.",
+      "example_sentence_zh": "用手指在桌上轻敲以跟上节奏。",
+      "essential": true
+    },
+    {
+      "id": 50,
+      "english": "tap one's feet",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "用脚打节拍",
+      "example_sentence": "Everyone began to tap their feet when the drums kicked in.",
+      "example_sentence_zh": "鼓点一起，大家就开始用脚打节拍。"
+    },
+    {
+      "id": 51,
+      "english": "champion",
+      "pronunciation": "/ˈtʃæmpiən/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "冠军；捍卫",
+      "example_sentence": "The champion returned home to a parade in her honour.",
+      "example_sentence_zh": "冠军回家时，人们为她举行了游行庆祝。",
+      "essential": true
+    },
+    {
+      "id": 52,
+      "english": "finger",
+      "pronunciation": "/ˈfɪŋɡə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "手指",
+      "example_sentence": "Move each finger independently to play the fast passage.",
+      "example_sentence_zh": "每个手指独立运动才能弹好快速乐段。",
+      "essential": true
+    },
+    {
+      "id": 53,
+      "english": "schoolmate",
+      "pronunciation": "/ˈskuːlmeɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "同学",
+      "example_sentence": "My schoolmate and I downloaded the same practice track.",
+      "example_sentence_zh": "我和同学下载了同一首练习曲。"
+    },
+    {
+      "id": 54,
+      "english": "nowadays",
+      "pronunciation": "/ˈnaʊədeɪz/",
+      "partOfSpeech": "adv.",
+      "chinese": "现在；目前",
+      "example_sentence": "Nowadays many performers share live clips on social media.",
+      "example_sentence_zh": "如今许多演奏者在社交媒体分享现场片段。",
+      "essential": true
+    },
+    {
+      "id": 55,
+      "english": "imagination",
+      "pronunciation": "/ɪˌmædʒɪˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "想象力；想象",
+      "example_sentence": "Use your imagination to picture the scene behind the lyric.",
+      "example_sentence_zh": "用想象力想象歌词背后的场景。",
+      "essential": true
+    },
+    {
+      "id": 56,
+      "english": "Clarice",
+      "pronunciation": "/ˈklærɪs/",
+      "partOfSpeech": "n.",
+      "chinese": "克拉丽斯",
+      "example_sentence": "Clarice chose a romantic ballad for the final round.",
+      "example_sentence_zh": "克拉丽斯在决赛选了一首浪漫民谣。"
+    },
+    {
+      "id": 57,
+      "english": "Debbie",
+      "pronunciation": "/ˈdebi/",
+      "partOfSpeech": "n.",
+      "chinese": "黛比",
+      "example_sentence": "Debbie commented that the trumpet section was too loud.",
+      "example_sentence_zh": "黛比评论说小号声部太响了。"
+    },
+    {
+      "id": 58,
+      "english": "Robert Schumann",
+      "pronunciation": "/ˈrɒbət ˈʃuːmən/",
+      "partOfSpeech": "n.",
+      "chinese": "罗伯特·舒曼",
+      "example_sentence": "Robert Schumann encouraged young Chopin in Vienna.",
+      "example_sentence_zh": "罗伯特·舒曼在维也纳鼓励年轻的肖邦。"
+    },
+    {
+      "id": 59,
+      "english": "Frédéric Chopin",
+      "pronunciation": "/ˈfredərɪk ˈʃəʊpæn/",
+      "partOfSpeech": "n.",
+      "chinese": "弗雷德里克·肖邦",
+      "example_sentence": "Frédéric Chopin composed mostly for the piano.",
+      "example_sentence_zh": "弗雷德里克·肖邦的作品主要为钢琴而作。"
+    },
+    {
+      "id": 60,
+      "english": "Poland",
+      "pronunciation": "/ˈpəʊlənd/",
+      "partOfSpeech": "n.",
+      "chinese": "波兰",
+      "example_sentence": "Poland celebrates Chopin with concerts and statues.",
+      "example_sentence_zh": "波兰用音乐会和雕像纪念肖邦。"
+    },
+    {
+      "id": 61,
+      "english": "Vienna",
+      "pronunciation": "/viˈenə/",
+      "partOfSpeech": "n.",
+      "chinese": "维也纳（奥地利首都）",
+      "example_sentence": "Vienna was a centre of European music in the nineteenth century.",
+      "example_sentence_zh": "十九世纪维也纳是欧洲音乐中心。"
+    }
+  ]
+}

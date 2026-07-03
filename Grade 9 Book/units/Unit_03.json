@@ -1,5 +1,543 @@
 {
   "unit": 3,
-  "title": "Unit 3",
-  "vocabulary": []
+  "title": "Unit 3 · Learning better",
+  "vocabulary": [
+    {
+      "id": 1,
+      "english": "learner",
+      "pronunciation": "/ˈlɜːnə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "学习者",
+      "example_sentence": "Every learner in our English club shares one useful tip each week.",
+      "example_sentence_zh": "英语俱乐部里每位学习者每周分享一条实用技巧。",
+      "essential": true
+    },
+    {
+      "id": 2,
+      "english": "flashcard",
+      "pronunciation": "/ˈflæʃkɑːd/",
+      "partOfSpeech": "n.",
+      "chinese": "（学习用）卡片；抽认卡",
+      "example_sentence": "She made flashcards for the twenty hardest words in Unit 3.",
+      "example_sentence_zh": "她为第三单元里最难的二十个词做了抽认卡。"
+    },
+    {
+      "id": 3,
+      "english": "project",
+      "pronunciation": "/ˈprɒdʒekt/",
+      "partOfSpeech": "n.",
+      "chinese": "计划；项目",
+      "example_sentence": "Our group project is to record a short English podcast.",
+      "example_sentence_zh": "我们的小组项目是录制一段简短的英语播客。",
+      "essential": true
+    },
+    {
+      "id": 4,
+      "english": "website",
+      "pronunciation": "/ˈwebsaɪt/",
+      "partOfSpeech": "n.",
+      "chinese": "网站",
+      "example_sentence": "This website offers free listening exercises for beginners.",
+      "example_sentence_zh": "这个网站为初学者提供免费听力练习。",
+      "essential": true
+    },
+    {
+      "id": 5,
+      "english": "hands-on",
+      "pronunciation": "/ˌhændz ˈɒn/",
+      "partOfSpeech": "adj.",
+      "chinese": "动手的；实际操作的",
+      "example_sentence": "The hands-on activity helped us remember new grammar faster.",
+      "example_sentence_zh": "这次动手活动帮助我们更快记住新语法。"
+    },
+    {
+      "id": 6,
+      "english": "experiment",
+      "pronunciation": "/ɪkˈsperɪmənt/",
+      "partOfSpeech": "n.",
+      "chinese": "实验；试验",
+      "example_sentence": "We ran a small experiment to see which study method worked best.",
+      "example_sentence_zh": "我们做了一个小实验，看哪种学习方法最有效。"
+    },
+    {
+      "id": 7,
+      "english": "look up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "查阅；检查",
+      "example_sentence": "Look up any word you do not know while reading aloud.",
+      "example_sentence_zh": "朗读时遇到不认识的词就查一查。"
+    },
+    {
+      "id": 8,
+      "english": "dictionary",
+      "pronunciation": "/ˈdɪkʃənri/",
+      "partOfSpeech": "n.",
+      "chinese": "词典；字典",
+      "example_sentence": "Keep a dictionary open when you write your first draft.",
+      "example_sentence_zh": "写初稿时把词典放在手边。",
+      "essential": true
+    },
+    {
+      "id": 9,
+      "english": "aloud",
+      "pronunciation": "/əˈlaʊd/",
+      "partOfSpeech": "adv.",
+      "chinese": "出声地；大声地",
+      "example_sentence": "Reading aloud for ten minutes improved my pronunciation.",
+      "example_sentence_zh": "大声朗读十分钟改善了我的发音。",
+      "essential": true
+    },
+    {
+      "id": 10,
+      "english": "dialogue",
+      "pronunciation": "/ˈdaɪəlɒɡ/",
+      "partOfSpeech": "n.",
+      "chinese": "对话；对白",
+      "example_sentence": "We practised the dialogue in pairs before class.",
+      "example_sentence_zh": "课前我们两人一组练习了这段对话。",
+      "essential": true
+    },
+    {
+      "id": 11,
+      "english": "suit",
+      "pronunciation": "/suːt/",
+      "partOfSpeech": "v. & n.",
+      "chinese": "适合；有利于；套装",
+      "example_sentence": "Short videos suit learners who have only fifteen minutes a day.",
+      "example_sentence_zh": "短视频适合每天只有十五分钟的学习者。",
+      "essential": true
+    },
+    {
+      "id": 12,
+      "english": "general",
+      "pronunciation": "/ˈdʒenrəl/",
+      "partOfSpeech": "adj.",
+      "chinese": "总的；大体的",
+      "example_sentence": "In general, daily review beats one long session on Sunday.",
+      "example_sentence_zh": "总的来说，每天复习胜过周日一次长跑。",
+      "essential": true
+    },
+    {
+      "id": 13,
+      "english": "in general",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "总的来说；通常",
+      "example_sentence": "In general, learners who write notes remember more.",
+      "example_sentence_zh": "总的来说，做笔记的学习者记得更多。"
+    },
+    {
+      "id": 14,
+      "english": "speed",
+      "pronunciation": "/spiːd/",
+      "partOfSpeech": "n. & v.",
+      "chinese": "速度；加速；促进",
+      "example_sentence": "Do not speed through the text without understanding it.",
+      "example_sentence_zh": "不要不求甚解地快速读完课文。",
+      "essential": true
+    },
+    {
+      "id": 15,
+      "english": "grammar",
+      "pronunciation": "/ˈɡræmə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "语法",
+      "example_sentence": "Grammar becomes easier when you see it in real sentences.",
+      "example_sentence_zh": "在真实句子里看语法会更容易。",
+      "essential": true
+    },
+    {
+      "id": 16,
+      "english": "podcast",
+      "pronunciation": "/ˈpɒdkɑːst/",
+      "partOfSpeech": "n.",
+      "chinese": "播客",
+      "example_sentence": "I listen to one English podcast on my way to school.",
+      "example_sentence_zh": "上学路上我会听一集英语播客。"
+    },
+    {
+      "id": 17,
+      "english": "zero",
+      "pronunciation": "/ˈzɪərəʊ/",
+      "partOfSpeech": "num.",
+      "chinese": "零；最低程度",
+      "example_sentence": "Start from zero shame—every expert was once a beginner.",
+      "example_sentence_zh": "从零开始不必羞愧——专家也曾是新手。",
+      "essential": true
+    },
+    {
+      "id": 18,
+      "english": "come across",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "（偶然）遇见；发现",
+      "example_sentence": "I came across a helpful article about memory techniques.",
+      "example_sentence_zh": "我偶然看到一篇关于记忆技巧的有用文章。"
+    },
+    {
+      "id": 19,
+      "english": "step by step",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "逐步地；循序渐进地",
+      "example_sentence": "Learn new words step by step instead of cramming fifty at once.",
+      "example_sentence_zh": "新词要循序渐进地学，不要一次硬背五十个。"
+    },
+    {
+      "id": 20,
+      "english": "build up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "增加；加强；创建",
+      "example_sentence": "Reading a little each night will build up your vocabulary.",
+      "example_sentence_zh": "每晚读一点会逐步积累你的词汇量。"
+    },
+    {
+      "id": 21,
+      "english": "actively",
+      "pronunciation": "/ˈæktɪvli/",
+      "partOfSpeech": "adv.",
+      "chinese": "积极地",
+      "example_sentence": "Actively ask questions when you do not understand a rule.",
+      "example_sentence_zh": "不懂规则时要主动提问。",
+      "essential": true
+    },
+    {
+      "id": 22,
+      "english": "enjoyable",
+      "pronunciation": "/ɪnˈdʒɔɪəbl/",
+      "partOfSpeech": "adj.",
+      "chinese": "有乐趣的；使人快乐的",
+      "example_sentence": "Finding an enjoyable book makes study feel less like work.",
+      "example_sentence_zh": "找到一本有趣的书会让学习不那么像苦差。",
+      "essential": true
+    },
+    {
+      "id": 23,
+      "english": "strategy",
+      "pronunciation": "/ˈstrætədʒi/",
+      "partOfSpeech": "n.",
+      "chinese": "策略",
+      "example_sentence": "My best strategy is to review flashcards before breakfast.",
+      "example_sentence_zh": "我最好的策略是早饭前复习抽认卡。",
+      "essential": true
+    },
+    {
+      "id": 24,
+      "english": "put off",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "推迟；拖延",
+      "example_sentence": "Do not put off your speaking practice until the night before the test.",
+      "example_sentence_zh": "别把口语练习拖到考试前一晚。"
+    },
+    {
+      "id": 25,
+      "english": "correct",
+      "pronunciation": "/kəˈrekt/",
+      "partOfSpeech": "adj.",
+      "chinese": "正确的；恰当的",
+      "example_sentence": "Check whether your answer is correct before moving on.",
+      "example_sentence_zh": "先确认答案是否正确再继续。",
+      "essential": true
+    },
+    {
+      "id": 26,
+      "english": "suggest",
+      "pronunciation": "/səˈdʒest/",
+      "partOfSpeech": "v.",
+      "chinese": "建议；提议",
+      "example_sentence": "The teacher suggests we record ourselves and listen back.",
+      "example_sentence_zh": "老师建议我们录下自己的朗读再回听。",
+      "essential": true
+    },
+    {
+      "id": 27,
+      "english": "method",
+      "pronunciation": "/ˈmeθəd/",
+      "partOfSpeech": "n.",
+      "chinese": "方法",
+      "example_sentence": "Try another method if copying words ten times bores you.",
+      "example_sentence_zh": "如果抄写十遍让你厌烦，就换种方法。",
+      "essential": true
+    },
+    {
+      "id": 28,
+      "english": "summarize",
+      "pronunciation": "/ˈsʌməraɪz/",
+      "partOfSpeech": "v.",
+      "chinese": "总结；概括",
+      "example_sentence": "Summarize each paragraph in one sentence in your notebook.",
+      "example_sentence_zh": "在笔记本里用一句话概括每一段。"
+    },
+    {
+      "id": 29,
+      "english": "growth",
+      "pronunciation": "/ɡrəʊθ/",
+      "partOfSpeech": "n.",
+      "chinese": "成长；增加",
+      "example_sentence": "Steady growth matters more than a perfect score on one quiz.",
+      "example_sentence_zh": "稳步进步比一次测验满分更重要。",
+      "essential": true
+    },
+    {
+      "id": 30,
+      "english": "mindset",
+      "pronunciation": "/ˈmaɪndset/",
+      "partOfSpeech": "n.",
+      "chinese": "观念模式",
+      "example_sentence": "A growth mindset helps you learn from mistakes.",
+      "example_sentence_zh": "成长型思维帮你从错误中学习。",
+      "essential": true
+    },
+    {
+      "id": 31,
+      "english": "material",
+      "pronunciation": "/məˈtɪəriəl/",
+      "partOfSpeech": "n.",
+      "chinese": "材料",
+      "example_sentence": "Choose study material that matches your current level.",
+      "example_sentence_zh": "选择与你当前水平匹配的学习材料。",
+      "essential": true
+    },
+    {
+      "id": 32,
+      "english": "in part",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "在某种程度上；部分地",
+      "example_sentence": "His success came in part from reading every day.",
+      "example_sentence_zh": "他的成功部分来自每天阅读。"
+    },
+    {
+      "id": 33,
+      "english": "guidance",
+      "pronunciation": "/ˈɡaɪdns/",
+      "partOfSpeech": "n.",
+      "chinese": "指导",
+      "example_sentence": "Ask the teacher for guidance on how to plan your review.",
+      "example_sentence_zh": "向老师请教如何规划复习。",
+      "essential": true
+    },
+    {
+      "id": 34,
+      "english": "feedback",
+      "pronunciation": "/ˈfiːdbæk/",
+      "partOfSpeech": "n.",
+      "chinese": "反馈的意见",
+      "example_sentence": "Useful feedback tells you exactly what to improve.",
+      "example_sentence_zh": "有用的反馈会明确指出该改进什么。"
+    },
+    {
+      "id": 35,
+      "english": "addition",
+      "pronunciation": "/əˈdɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "添加；加法",
+      "example_sentence": "In addition to the textbook, we use online quizzes.",
+      "example_sentence_zh": "除了课本，我们还用在线小测。",
+      "essential": true
+    },
+    {
+      "id": 36,
+      "english": "in addition",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "另外；此外",
+      "example_sentence": "In addition, we keep a list of words we often misspell.",
+      "example_sentence_zh": "此外，我们还列了一张常拼错词的清单。"
+    },
+    {
+      "id": 37,
+      "english": "resource",
+      "pronunciation": "/rɪˈsɔːs/",
+      "partOfSpeech": "n.",
+      "chinese": "资源；资料",
+      "example_sentence": "The school library is a quiet resource for self-study.",
+      "example_sentence_zh": "学校图书馆是自学的好资源。",
+      "essential": true
+    },
+    {
+      "id": 38,
+      "english": "textbook",
+      "pronunciation": "/ˈtekstbʊk/",
+      "partOfSpeech": "n.",
+      "chinese": "教科书；课本",
+      "example_sentence": "Mark new words in the textbook as you read each unit.",
+      "example_sentence_zh": "读每个单元时在课本里标出新词。"
+    },
+    {
+      "id": 39,
+      "english": "advantage",
+      "pronunciation": "/ədˈvɑːntɪdʒ/",
+      "partOfSpeech": "n.",
+      "chinese": "优势；优点",
+      "example_sentence": "Bilingual subtitles give you an advantage when watching films.",
+      "example_sentence_zh": "双语字幕让你看电影时更有优势。",
+      "essential": true
+    },
+    {
+      "id": 40,
+      "english": "take advantage of",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "利用",
+      "example_sentence": "Take advantage of the free tutoring hour after school.",
+      "example_sentence_zh": "利用课后免费的辅导时间。"
+    },
+    {
+      "id": 41,
+      "english": "efficiently",
+      "pronunciation": "/ɪˈfɪʃntli/",
+      "partOfSpeech": "adv.",
+      "chinese": "效率高地",
+      "example_sentence": "Plan your tasks so you can study efficiently after dinner.",
+      "example_sentence_zh": "规划好任务，以便晚饭后高效学习。"
+    },
+    {
+      "id": 42,
+      "english": "valley",
+      "pronunciation": "/ˈvæli/",
+      "partOfSpeech": "n.",
+      "chinese": "山谷；溪谷",
+      "example_sentence": "The story described a quiet valley where the boy read every evening.",
+      "example_sentence_zh": "故事描写了一个男孩每晚读书的安静山谷。"
+    },
+    {
+      "id": 43,
+      "english": "pronunciation",
+      "pronunciation": "/prəˌnʌnsiˈeɪʃn/",
+      "partOfSpeech": "n.",
+      "chinese": "发音；读音",
+      "example_sentence": "Slow down and focus on pronunciation when you read aloud.",
+      "example_sentence_zh": "朗读时放慢速度，专注发音。",
+      "essential": true
+    },
+    {
+      "id": 44,
+      "english": "click",
+      "pronunciation": "/klɪk/",
+      "partOfSpeech": "v.",
+      "chinese": "（用鼠标或在触摸板上）点击；（使）发出咔嗒声",
+      "example_sentence": "Click the speaker icon to hear the word again.",
+      "example_sentence_zh": "点击喇叭图标再听一遍单词。",
+      "essential": true
+    },
+    {
+      "id": 45,
+      "english": "magazine",
+      "pronunciation": "/ˌmæɡəˈziːn/",
+      "partOfSpeech": "n.",
+      "chinese": "杂志；期刊",
+      "example_sentence": "She borrowed an English magazine from the reading corner.",
+      "example_sentence_zh": "她从阅读角借了一本英语杂志。",
+      "essential": true
+    },
+    {
+      "id": 46,
+      "english": "open up",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "chinese": "打开；开放",
+      "example_sentence": "Travel can open up new reasons to learn a language.",
+      "example_sentence_zh": "旅行会让人更有动力学语言。"
+    },
+    {
+      "id": 47,
+      "english": "shelf",
+      "pronunciation": "/ʃelf/",
+      "partOfSpeech": "n.",
+      "chinese": "（墙壁、书橱等的）架子；搁板",
+      "example_sentence": "Put finished workbooks on the top shelf of your desk.",
+      "example_sentence_zh": "把做完的练习册放在书桌顶层。",
+      "essential": true
+    },
+    {
+      "id": 48,
+      "english": "schoolwork",
+      "pronunciation": "/ˈskuːlwɜːk/",
+      "partOfSpeech": "n.",
+      "chinese": "学校作业",
+      "example_sentence": "Finish schoolwork early so you have time for extra reading.",
+      "example_sentence_zh": "早点完成作业，才有时间额外阅读。",
+      "essential": true
+    },
+    {
+      "id": 49,
+      "english": "print",
+      "pronunciation": "/prɪnt/",
+      "partOfSpeech": "v.",
+      "chinese": "打印",
+      "example_sentence": "Print the checklist and tick each task you complete.",
+      "example_sentence_zh": "打印清单，完成一项勾一项。",
+      "essential": true
+    },
+    {
+      "id": 50,
+      "english": "newspaper",
+      "pronunciation": "/ˈnjuːzpeɪpə(r)/",
+      "partOfSpeech": "n.",
+      "chinese": "报纸",
+      "example_sentence": "Skim the headlines in an English newspaper every morning.",
+      "example_sentence_zh": "每天早晨浏览英文报纸标题。",
+      "essential": true
+    },
+    {
+      "id": 51,
+      "english": "e-book",
+      "pronunciation": "/ˈiː bʊk/",
+      "partOfSpeech": "n.",
+      "chinese": "电子书",
+      "example_sentence": "The e-book lets you look up words with one tap.",
+      "example_sentence_zh": "电子书让你一点就能查词。",
+      "essential": true
+    },
+    {
+      "id": 52,
+      "english": "recent",
+      "pronunciation": "/ˈriːsnt/",
+      "partOfSpeech": "adj.",
+      "chinese": "最近的；最新的",
+      "example_sentence": "A recent study shows short breaks help memory.",
+      "example_sentence_zh": "最近一项研究表明短暂休息有助于记忆。",
+      "essential": true
+    },
+    {
+      "id": 53,
+      "english": "Frank",
+      "pronunciation": "/fræŋk/",
+      "partOfSpeech": "n.",
+      "chinese": "弗兰克",
+      "example_sentence": "Frank shared his note-taking system with the class.",
+      "example_sentence_zh": "弗兰克向全班分享了他的笔记方法。"
+    },
+    {
+      "id": 54,
+      "english": "HSK",
+      "pronunciation": "",
+      "partOfSpeech": "n.",
+      "chinese": "汉语水平考试",
+      "example_sentence": "Some classmates take HSK while also preparing for English exams.",
+      "example_sentence_zh": "有些同学在准备英语考试的同时也考汉语水平考试。"
+    },
+    {
+      "id": 55,
+      "english": "Cathy",
+      "pronunciation": "/ˈkæθi/",
+      "partOfSpeech": "n.",
+      "chinese": "凯茜",
+      "example_sentence": "Cathy leads our weekly pronunciation practice group.",
+      "example_sentence_zh": "凯茜带领我们每周的发音练习小组。"
+    },
+    {
+      "id": 56,
+      "english": "Terry",
+      "pronunciation": "/ˈteri/",
+      "partOfSpeech": "n.",
+      "chinese": "特里；特丽",
+      "example_sentence": "Terry posted a list of useful learning websites on the board.",
+      "example_sentence_zh": "特里在布告栏上贴了一份有用的学习网站清单。"
+    }
+  ]
 }
