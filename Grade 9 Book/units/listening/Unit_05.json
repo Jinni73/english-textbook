@@ -1,0 +1,186 @@
+{
+  "unit": 5,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Power of Ideas",
+      "subtitle": "Section A, 1b and 1c · Conversation 1",
+      "speakers": [
+        {
+          "id": "guide_1",
+          "name": "Guide 1",
+          "voice": "en-GB-ThomasNeural"
+        },
+        {
+          "id": "ella",
+          "name": "Ella",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "guide_1",
+          "text": "Welcome to the International Exhibition of Inventions! Over here, we have Super See from Germany."
+        },
+        {
+          "speaker": "ella",
+          "text": "They look like sunglasses. What are they used for?"
+        },
+        {
+          "speaker": "guide_1",
+          "text": "They're for people who can't see well. They don't find normal glasses helpful."
+        },
+        {
+          "speaker": "ella",
+          "text": "How do they help people to see?"
+        },
+        {
+          "speaker": "guide_1",
+          "text": "Well, a mini-camera is connected to the front of the glasses. It makes everything look larger. Words can also be turned into sound."
+        },
+        {
+          "speaker": "ella",
+          "text": "Cool! So they can help people watch TV and read books."
+        },
+        {
+          "speaker": "guide_1",
+          "text": "Yes. They can also control the colour and picture."
+        },
+        {
+          "speaker": "ella",
+          "text": "Amazing!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Power of Ideas",
+      "subtitle": "Section A, 1b and 1c · Conversation 2",
+      "speakers": [
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "guide_2",
+          "name": "Guide 2",
+          "voice": "en-GB-ThomasNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "teng_fei",
+          "text": "What smells so delicious?"
+        },
+        {
+          "speaker": "guide_2",
+          "text": "Come and have a try. Smart Cook from China is cooking some food."
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Really? How does it work?"
+        },
+        {
+          "speaker": "guide_2",
+          "text": "It's simple! Put food like carrots and onions in the cup on the top of the machine. Then press this button. All the food is cut and fried. The oil and salt are also added by the machine itself."
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Fantastic! How many kinds of dishes can it make?"
+        },
+        {
+          "speaker": "guide_2",
+          "text": "Hundreds! It has an app with many recipes."
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Great! With this robot, my mother can take a break from cooking."
+        },
+        {
+          "speaker": "guide_2",
+          "text": "How nice of you to think so. I'm sure your mother will love it."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Power of Ideas",
+      "subtitle": "Section A, 2a, 2b and 2c",
+      "speakers": [
+        {
+          "id": "ella",
+          "name": "Ella",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "han_lin",
+          "name": "Han Lin",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "ella",
+          "text": "Hi, Han Lin! Did you go to the International Exhibition of Inventions last weekend?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Yes, some amazing inventions were shown from all over the world."
+        },
+        {
+          "speaker": "ella",
+          "text": "What invention did you like the most?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Oh, the 3D printer was amazing."
+        },
+        {
+          "speaker": "ella",
+          "text": "Why?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Almost everything under the sun can be made by it."
+        },
+        {
+          "speaker": "ella",
+          "text": "Really? Like what?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Well, all kinds of everyday objects. Toys, chairs, tables, and even houses can all be made by the 3D printer."
+        },
+        {
+          "speaker": "ella",
+          "text": "That's cool!"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Yeah. And in medicine for example, arms and legs, even hearts can be created by the 3D printer."
+        },
+        {
+          "speaker": "ella",
+          "text": "That's great! How does it work?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Well, first, the object is designed on a computer. Then, a file is created and sent to the 3D printer. The 3D printer reads the file, and after that, the object is produced by building up plastic."
+        },
+        {
+          "speaker": "ella",
+          "text": "Is only plastic used?"
+        },
+        {
+          "speaker": "han_lin",
+          "text": "No, other materials can also be used to produce things. It can even make food."
+        },
+        {
+          "speaker": "ella",
+          "text": "Oh, really? I'd love to try 3D-printed food!"
+        }
+      ]
+    }
+  ]
+}

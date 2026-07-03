@@ -1,0 +1,168 @@
+{
+  "unit": 7,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Feel the Rhythm",
+      "subtitle": "Section A, 1b and 1c",
+      "speakers": [
+        {
+          "id": "han_lin",
+          "name": "Han Lin",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "clarice",
+          "name": "Clarice",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "jack",
+          "name": "Jack",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "debbie",
+          "name": "Debbie",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "han_lin",
+          "text": "Hey, everyone! The New Year School Concert is around the corner. We want to find out what kind of music everyone likes. How about you, Teng Fei?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "I love traditional music that tells a story, for example, folk music."
+        },
+        {
+          "speaker": "clarice",
+          "text": "Really? Folk music is a little old-fashioned to me."
+        },
+        {
+          "speaker": "han_lin",
+          "text": "So, what kind of music do you like, Clarice?"
+        },
+        {
+          "speaker": "clarice",
+          "text": "Of course it's rock. I like music that I can dance to."
+        },
+        {
+          "speaker": "han_lin",
+          "text": "What about you, Jack?"
+        },
+        {
+          "speaker": "jack",
+          "text": "Well, to me, rock is too loud. I need something that has a strong rhythm like rap. Wouldn't you agree, Debbie?"
+        },
+        {
+          "speaker": "debbie",
+          "text": "No, in fact, I wouldn't. I just don't get rap."
+        },
+        {
+          "speaker": "han_lin",
+          "text": "Then what kind of music do you like?"
+        },
+        {
+          "speaker": "debbie",
+          "text": "I prefer music that I can sing along to, so it's pop for me."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Feel the Rhythm",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "debbie",
+          "name": "Debbie",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "jack",
+          "name": "Jack",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "clarice",
+          "name": "Clarice",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "teng_fei",
+          "text": "Hey, guys! Have you heard the news?"
+        },
+        {
+          "speaker": "debbie",
+          "text": "No. What?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "The Chinese Dragon band is going to perform at our New Year School Concert!"
+        },
+        {
+          "speaker": "debbie",
+          "text": "Oh, great!"
+        },
+        {
+          "speaker": "jack",
+          "text": "I love their music!"
+        },
+        {
+          "speaker": "clarice",
+          "text": "Me too! I like the fact that they mix rock, pop, and traditional Chinese music to make a new style."
+        },
+        {
+          "speaker": "debbie",
+          "text": "Yes, it's amazing to hear the erhu and pipa being played together with the keyboard and electric guitar."
+        },
+        {
+          "speaker": "jack",
+          "text": "Yeah, I like musicians who are creative."
+        },
+        {
+          "speaker": "clarice",
+          "text": "So do I! And the lead singer Bob Wu has a voice that I could listen to all day!"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Do you think they'll play Horse Racing?"
+        },
+        {
+          "speaker": "debbie",
+          "text": "They should! It's a piece which everyone loves!"
+        },
+        {
+          "speaker": "jack",
+          "text": "Oh, I just remembered!"
+        },
+        {
+          "speaker": "clarice",
+          "text": "What?"
+        },
+        {
+          "speaker": "jack",
+          "text": "I've got a T-shirt which has the band's name on the back!"
+        },
+        {
+          "speaker": "clarice",
+          "text": "Cool! You should wear it to the concert!"
+        }
+      ]
+    }
+  ]
+}

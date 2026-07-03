@@ -1,0 +1,166 @@
+{
+  "unit": 2,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Inspiring People",
+      "subtitle": "Section A, 1b and 1c · Conversation 1",
+      "speakers": [
+        {
+          "id": "ms_gao",
+          "name": "Ms Gao",
+          "voice": "en-GB-SoniaNeural"
+        },
+        {
+          "id": "yaming",
+          "name": "Yaming",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "ms_gao",
+          "text": "Class, who do you admire the most? Yes, Yaming?"
+        },
+        {
+          "speaker": "yaming",
+          "text": "I really admire Yuan Longping. It was great of him to develop a new kind of rice and help reduce hunger."
+        },
+        {
+          "speaker": "ms_gao",
+          "text": "That's great! Yuan Longping also trained many people to do research on farming in China and other parts of the world. Who else inspires you? Yes, Peter?"
+        },
+        {
+          "speaker": "peter",
+          "text": "I admire Michael Faraday very much. It was amazing that he did scientific research in physics and chemistry even though he didn't receive a formal education."
+        },
+        {
+          "speaker": "ms_gao",
+          "text": "Yes, Michael Faraday dropped out of school at an early age, but he found every chance to study and became a great scientist. Thanks!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inspiring People",
+      "subtitle": "Section A, 1b and 1c · Conversation 2",
+      "speakers": [
+        {
+          "id": "ms_gao",
+          "name": "Ms Gao",
+          "voice": "en-GB-SoniaNeural"
+        },
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "emma",
+          "name": "Emma",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "ms_gao",
+          "text": "Who do your parents or grandparents admire? Do you know, Fu Xing?"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Yes, Ms Gao. My father loves history. He admires Sima Qian."
+        },
+        {
+          "speaker": "ms_gao",
+          "text": "Ah yes, the author of the book Shiji (Records of the Historian). He also played a big part in reviewing the Chinese calendar at that time."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Oh, I didn't know that. But I know he was the kind of person who never gave up."
+        },
+        {
+          "speaker": "ms_gao",
+          "text": "Right. It's always important to keep going in life. What about you, Emma?"
+        },
+        {
+          "speaker": "emma",
+          "text": "My grandma told me about Marie Curie, a great scientist. She made many important discoveries in physics and chemistry."
+        },
+        {
+          "speaker": "ms_gao",
+          "text": "Yes. I admire Madame Curie too! It was difficult for women to do that kind of work back in those days. And she won two Nobel Prizes!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Inspiring People",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        {
+          "id": "gina",
+          "name": "Gina",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "dad",
+          "name": "Dad",
+          "voice": "en-GB-ThomasNeural"
+        },
+        {
+          "id": "mum",
+          "name": "Mum",
+          "voice": "en-GB-SoniaNeural"
+        },
+        {
+          "id": "steve",
+          "name": "Steve",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "gina",
+          "text": "Dad, do you have a second? We need to do a survey of our family members about their most admired people. Can you help me, please?"
+        },
+        {
+          "speaker": "dad",
+          "text": "Sure. Go ahead."
+        },
+        {
+          "speaker": "gina",
+          "text": "OK, Dad. Who do you admire the most?"
+        },
+        {
+          "speaker": "dad",
+          "text": "For me, it has to be Isambard Brunel, a famous English engineer. He built the first British railways and many other important things such as bridges, ships, and tunnels. All these helped the UK develop into a modern nation."
+        },
+        {
+          "speaker": "gina",
+          "text": "Oh, I see. How about you, Mum?"
+        },
+        {
+          "speaker": "mum",
+          "text": "Well, I am really inspired by Florence Nightingale. She created modern nursing. It was wonderful of her to help us understand the need for cleaner hospitals to stop the spread of diseases."
+        },
+        {
+          "speaker": "gina",
+          "text": "That's nice. What about you, Steve?"
+        },
+        {
+          "speaker": "steve",
+          "text": "Isaac Newton, of course. It was so important that he developed modern physics! I also admire Alan Turing. You know the famous Turing test? It's so cool!"
+        },
+        {
+          "speaker": "gina",
+          "text": "Yes, I agree. He was a pioneer of computer science. Thanks, Steve."
+        }
+      ]
+    }
+  ]
+}

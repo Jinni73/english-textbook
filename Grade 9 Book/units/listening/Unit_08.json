@@ -1,0 +1,214 @@
+{
+  "unit": 8,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "More than a Game",
+      "subtitle": "Section A, 1b and 1c · Conversation 1",
+      "speakers": [
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "binbin",
+          "name": "Binbin",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "fu_xing",
+          "text": "Hi, guys. Sports Day is coming soon. We need to sign up for the tryouts by Friday. What do you think?"
+        },
+        {
+          "speaker": "peter",
+          "text": "Well, the 100 metres is usually exciting and everybody is looking forward to the 4x100-metre relay. I could sign up for both. What about you, Binbin?"
+        },
+        {
+          "speaker": "binbin",
+          "text": "I don't know. Neither is really suitable for me. I might not take part."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "But you like jogging. You could try the 1,500 metres."
+        },
+        {
+          "speaker": "binbin",
+          "text": "Well, maybe. How about you, Fu Xing?"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "I like the high jump, so I will try that."
+        },
+        {
+          "speaker": "peter",
+          "text": "Good idea!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "More than a Game",
+      "subtitle": "Section A, 1b and 1c · Conversation 2",
+      "speakers": [
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "peter",
+          "text": "Hi, Teng Fei. Have we found anybody who can join our 4x100-metre relay?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Hi, Peter. I was just about to tell you. Han Lin will join us. But for the fourth member, either Wang Yaming or Adam is a possible choice."
+        },
+        {
+          "speaker": "peter",
+          "text": "So, who do you prefer?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Both are quite fast. But Adam seems quite busy already ... I'll go with Wang Yaming. And we need to start training soon!"
+        },
+        {
+          "speaker": "peter",
+          "text": "No problem. The team looks great!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "More than a Game",
+      "subtitle": "Section A, 1b and 1c · Conversation 3",
+      "speakers": [
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "meimei",
+          "name": "Meimei",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "peter",
+          "text": "Everybody is so excited about Sports Day. What events are you taking part in, Meimei?"
+        },
+        {
+          "speaker": "meimei",
+          "text": "I'm really not much of an athlete."
+        },
+        {
+          "speaker": "peter",
+          "text": "Oh, that's OK."
+        },
+        {
+          "speaker": "meimei",
+          "text": "Yes, no problem at all. Ms Gao made me the school photographer and reporter."
+        },
+        {
+          "speaker": "peter",
+          "text": "Cool! You can get a closer look at every event. What are you looking forward to the most?"
+        },
+        {
+          "speaker": "meimei",
+          "text": "Hmm, the 4x100-metre relay and the team pull-up competition."
+        },
+        {
+          "speaker": "peter",
+          "text": "Me too. The team pull-up competition sounds like so much fun."
+        },
+        {
+          "speaker": "meimei",
+          "text": "Yes! I can't wait!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "More than a Game",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        {
+          "id": "meimei",
+          "name": "Meimei",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "adam",
+          "name": "Adam",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "meimei",
+          "text": "Hello, everyone! Finally here comes the exciting 4x100-metre relay! I'm Song Meimei."
+        },
+        {
+          "speaker": "adam",
+          "text": "This is Adam. Welcome to the 4x100-metre relay."
+        },
+        {
+          "speaker": "meimei",
+          "text": "Look. The runners are at the starting line. The race is about to start."
+        },
+        {
+          "speaker": "adam",
+          "text": "They're off! Wang Yaming for Class 1 takes the lead."
+        },
+        {
+          "speaker": "meimei",
+          "text": "He passes the baton to Peter. Peter keeps the lead. Now for the handoff to Han Lin."
+        },
+        {
+          "speaker": "adam",
+          "text": "Oh, no! Peter drops the baton! Han Lin picks it up! But the other runners run past him."
+        },
+        {
+          "speaker": "meimei",
+          "text": "Li Lei takes the lead now. Wait a minute! Han Lin is making up ground on Li Lei."
+        },
+        {
+          "speaker": "adam",
+          "text": "Here comes the final handoff. Li Lei passes the baton to Xie Tao. Han Lin passes the baton to Teng Fei."
+        },
+        {
+          "speaker": "meimei",
+          "text": "And here's Teng Fei and Xie Tao side by side! They cross the line together!"
+        },
+        {
+          "speaker": "adam",
+          "text": "But who won?"
+        },
+        {
+          "speaker": "meimei",
+          "text": "The judges are looking at the video to decide who the winner is. Let's wait for their final decision! Oh! The winner is Teng Fei!"
+        },
+        {
+          "speaker": "adam",
+          "text": "Congratulations to Class 1!"
+        }
+      ]
+    }
+  ]
+}

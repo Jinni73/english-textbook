@@ -1,0 +1,204 @@
+{
+  "unit": 3,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Smart Learning",
+      "subtitle": "Section A, 1b and 1c · Conversation 1",
+      "speakers": [
+        {
+          "id": "lisa",
+          "name": "Lisa",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "lisa",
+          "text": "Teng Fei, you always do well in maths. How do you study for it?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "For me, I think the best way is to do maths problems. I found a learning app for that. Let me show you."
+        },
+        {
+          "speaker": "lisa",
+          "text": "Cool! How does it work?"
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "You begin by taking a test. It will find your weak points. Then it gives exercises to work on them."
+        },
+        {
+          "speaker": "lisa",
+          "text": "Oh, good. That's smart."
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "Exactly!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smart Learning",
+      "subtitle": "Section A, 1b and 1c · Conversation 2",
+      "speakers": [
+        {
+          "id": "adam",
+          "name": "Adam",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "adam",
+          "text": "Hi, Fu Xing. I wonder if you could help me with my history study. You always get good marks in history. How do you do it?"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Sure, Adam. I study by taking notes a lot."
+        },
+        {
+          "speaker": "adam",
+          "text": "What do you mean by that?"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Well, for historical events, I usually make a timeline and test myself on the key points. I like using mind maps. I think they can help me better understand historical events."
+        },
+        {
+          "speaker": "adam",
+          "text": "Sounds interesting. Thanks!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Smart Learning",
+      "subtitle": "Conversation 3",
+      "speakers": [
+        {
+          "id": "ella",
+          "name": "Ella",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "ella",
+          "text": "What is your secret to learning physics well, Peter?"
+        },
+        {
+          "speaker": "peter",
+          "text": "Well, Ella, I like doing hands-on experiments."
+        },
+        {
+          "speaker": "ella",
+          "text": "How does that help?"
+        },
+        {
+          "speaker": "peter",
+          "text": "You know, everything in physics connects with something in real life. By doing hands-on experiments, I can see that connection."
+        },
+        {
+          "speaker": "ella",
+          "text": "Wow, I see! Many famous physicists also started doing experiments when they were young."
+        },
+        {
+          "speaker": "peter",
+          "text": "Exactly!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Smart Learning",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        {
+          "id": "mr_smith",
+          "name": "Mr Smith",
+          "voice": "en-GB-ThomasNeural"
+        },
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "teng_fei",
+          "name": "Teng Fei",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "yaming",
+          "name": "Yaming",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "meimei",
+          "name": "Meimei",
+          "voice": "en-GB-LibbyNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "mr_smith",
+          "text": "Welcome to the English club! Today's question is: What are some good ways to learn English?"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "I like to learn new words by using flashcards."
+        },
+        {
+          "speaker": "mr_smith",
+          "text": "Yes, flashcards are easy to carry around and let you review the words."
+        },
+        {
+          "speaker": "teng_fei",
+          "text": "It's also good to note down useful expressions and word groups."
+        },
+        {
+          "speaker": "mr_smith",
+          "text": "Right. It's helpful to put words into meaningful groups. I also want to know whether you read English books outside class."
+        },
+        {
+          "speaker": "yaming",
+          "text": "Yes. I like reading a lot, both in English and Chinese."
+        },
+        {
+          "speaker": "mr_smith",
+          "text": "Good. I believe reading is important for learning in general."
+        },
+        {
+          "speaker": "meimei",
+          "text": "I like reading too. But I can't read very fast."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "I guess maybe you need to read books that suit your English level."
+        },
+        {
+          "speaker": "mr_smith",
+          "text": "Yes, choose something interesting and easy to read. Read something every day and read widely. The more you read, the faster and better you'll become. Any other ideas?"
+        }
+      ]
+    }
+  ]
+}

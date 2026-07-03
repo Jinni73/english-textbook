@@ -1,0 +1,192 @@
+{
+  "unit": 4,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Our Memory",
+      "subtitle": "Section A, 1b and 1c",
+      "speakers": [
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "mum",
+          "name": "Mum",
+          "voice": "en-GB-SoniaNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "peter",
+          "text": "Hi, Mum."
+        },
+        {
+          "speaker": "mum",
+          "text": "Hi, Peter. What's up?"
+        },
+        {
+          "speaker": "peter",
+          "text": "I can't remember what things you asked me to buy."
+        },
+        {
+          "speaker": "mum",
+          "text": "OK, so tell me what you've got so far."
+        },
+        {
+          "speaker": "peter",
+          "text": "Let me see ... butter, milk, eggs, flour, ..."
+        },
+        {
+          "speaker": "mum",
+          "text": "Flour? That's not what I asked you to buy."
+        },
+        {
+          "speaker": "peter",
+          "text": "Oh, OK. I'll put it back."
+        },
+        {
+          "speaker": "mum",
+          "text": "Did you buy any sugar? It's running out."
+        },
+        {
+          "speaker": "peter",
+          "text": "Right! I wonder how I forgot about the sugar."
+        },
+        {
+          "speaker": "mum",
+          "text": "And don't forget to buy strawberries. I'm going to make a strawberry cake, remember?"
+        },
+        {
+          "speaker": "peter",
+          "text": "Oh, yeah! Anything else, Mum?"
+        },
+        {
+          "speaker": "mum",
+          "text": "One more thing, darling. Next time, take a shopping list!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Our Memory",
+      "subtitle": "Section A, 1d and 1e",
+      "speakers": [
+        {
+          "id": "billy",
+          "name": "Billy",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "billy",
+          "text": "Morning, Fu Xing. Sorry I forgot your birthday yesterday."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Oh, that's OK, Billy. But you're forgetting quite a lot recently. Is everything OK?"
+        },
+        {
+          "speaker": "billy",
+          "text": "Yes, fine, thanks. I don't know why I am so forgetful."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Maybe you're too busy. Can I help you with anything?"
+        },
+        {
+          "speaker": "billy",
+          "text": "Thanks. You are a good friend ... Oh no! I left my homework at home! I need to go back!"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Go! I'll meet you at the school hall then."
+        },
+        {
+          "speaker": "billy",
+          "text": "Right, Professor Green's lecture on how to improve your memory."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "You'd better hurry up. It will begin at 9:00."
+        },
+        {
+          "speaker": "billy",
+          "text": "Oh, no. I thought it was 9:30!"
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Oh Billy, you really should go to that lecture on time!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Our Memory",
+      "subtitle": "Section A, 2b and 2c",
+      "speakers": [
+        {
+          "id": "billy",
+          "name": "Billy",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "fu_xing",
+          "name": "Fu Xing",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "professor",
+          "name": "Professor",
+          "voice": "en-GB-ThomasNeural"
+        },
+        {
+          "id": "peter",
+          "name": "Peter",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "billy",
+          "text": "Professor, I don't quite understand what you said about linking knowledge."
+        },
+        {
+          "speaker": "professor",
+          "text": "Well, knowledge is like a chain, and new knowledge is best remembered by linking it with old knowledge. The more links you create, the more you remember."
+        },
+        {
+          "speaker": "fu_xing",
+          "text": "Professor, I often get some words mixed up, like \"kitchen\" and \"chicken\"."
+        },
+        {
+          "speaker": "professor",
+          "text": "Pay attention to details. Study how they are different from each other. You can also create a picture for each word in your mind."
+        },
+        {
+          "speaker": "peter",
+          "text": "Hello, Professor, could you tell me why it is much easier to forget things to buy than to forget how to ride a bike?"
+        },
+        {
+          "speaker": "professor",
+          "text": "Scientists are still working on this mystery. For one thing, the memory of how to ride a bike is probably stored in a more stable area of our brain."
+        },
+        {
+          "speaker": "peter",
+          "text": "There are so many mysteries about our brain!"
+        },
+        {
+          "speaker": "professor",
+          "text": "Exactly! And at your age, your brain is developing fast, so put it to good use!"
+        }
+      ]
+    }
+  ]
+}

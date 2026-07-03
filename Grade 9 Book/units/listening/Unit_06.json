@@ -1,0 +1,114 @@
+{
+  "unit": 6,
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Beyond Earth",
+      "subtitle": "Section A, 1b and 1c",
+      "speakers": [
+        {
+          "id": "news_reader",
+          "name": "News reader",
+          "voice": "en-GB-ThomasNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "news_reader",
+          "text": "China's new space programme was made public today. Exploration of the planet Mars and the moon will be continued. China's Zhurong rover successfully landed on Mars in 2021, and it is hoped that a manned mission to the moon will follow around 2030."
+        },
+        {
+          "speaker": "news_reader",
+          "text": "China has announced that more astronauts will be sent to the Tiangong Space Station. Since the Space Station was completed in 2022, it has been used to do research on biology, medicine, and materials. It will also continue its cooperation with Germany, Italy, and Russia on scientific research."
+        },
+        {
+          "speaker": "news_reader",
+          "text": "Hello! We have more news about space telescopes. The China Space Station Telescope (CSST), also known as Xuntian, will be sent to space around 2026. This huge and modern telescope weighs about 15,550 kilograms. It is designed to move along with Tiangong space station, so it can be more easily maintained and repaired. It is expected to help people explore more areas in space."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Beyond Earth",
+      "subtitle": "Section A, 2a, 2b and 2c",
+      "speakers": [
+        {
+          "id": "ms_wang",
+          "name": "Ms Wang",
+          "voice": "en-GB-SoniaNeural"
+        },
+        {
+          "id": "anna",
+          "name": "Anna",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "mike",
+          "name": "Mike",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "julie",
+          "name": "Julie",
+          "voice": "en-GB-LibbyNeural"
+        },
+        {
+          "id": "david",
+          "name": "David",
+          "voice": "en-GB-RyanNeural"
+        },
+        {
+          "id": "li_hua",
+          "name": "Li Hua",
+          "voice": "en-GB-RyanNeural"
+        }
+      ],
+      "lines": [
+        {
+          "speaker": "ms_wang",
+          "text": "All right. So, we've done some experiments. Now it's time for questions."
+        },
+        {
+          "speaker": "anna",
+          "text": "Hi, Ms Wang! I want to know how it feels to be weightless."
+        },
+        {
+          "speaker": "ms_wang",
+          "text": "Oh, it's so much fun! I can turn around easily! You see, I can move everywhere by just pushing against the wall!"
+        },
+        {
+          "speaker": "mike",
+          "text": "Ms Wang, what does Earth look like from the space station?"
+        },
+        {
+          "speaker": "ms_wang",
+          "text": "It looks like a huge shining ball. It's really beautiful."
+        },
+        {
+          "speaker": "julie",
+          "text": "Ms Wang, I want to know how you eat up there."
+        },
+        {
+          "speaker": "ms_wang",
+          "text": "Nice question. Well, all our food is prepared on Earth and kept in bags. We have over 120 dishes to choose from."
+        },
+        {
+          "speaker": "david",
+          "text": "What's difficult about living in space?"
+        },
+        {
+          "speaker": "ms_wang",
+          "text": "Well, it's a little hard to fall asleep. We have to be tied down so we don't fly away!"
+        },
+        {
+          "speaker": "li_hua",
+          "text": "Do you get bored? Will you be visited by other astronauts?"
+        },
+        {
+          "speaker": "ms_wang",
+          "text": "It's never boring in space. Actually, two astronauts will arrive next month. It's very exciting."
+        }
+      ]
+    }
+  ]
+}
