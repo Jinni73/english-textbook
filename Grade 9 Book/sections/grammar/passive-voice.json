@@ -1,0 +1,466 @@
+{
+  "id": "passive-voice",
+  "bookId": "grade-9",
+  "title": "Passive Voice",
+  "titleZh": "被动语态",
+  "order": 1,
+  "summary": "When the subject receives the action, use the passive voice: auxiliary be + past participle of a transitive verb.",
+  "summaryZh": "主语是动作的承受者时用被动语态：助动词 be + 及物动词的过去分词。",
+  "lessons": [
+    {
+      "id": "passive-concept",
+      "type": "concept",
+      "title": "Active vs Passive",
+      "titleZh": "主动语态和被动语态",
+      "bodyZh": "英语动词有两种语态。主动语态中主语是动作的执行者；被动语态中主语是动作的承受者。",
+      "pairs": [
+        {
+          "active": "Many people speak English.",
+          "passive": "English is spoken by many people.",
+          "noteZh": "执行者 many people → 承受者 English"
+        },
+        {
+          "active": "Alexander Bell invented the telephone in 1876.",
+          "passive": "The telephone was invented by Alexander Bell in 1876.",
+          "noteZh": "执行者 Alexander Bell → 承受者 The telephone"
+        }
+      ]
+    },
+    {
+      "id": "passive-formation",
+      "type": "formation",
+      "title": "How to form the passive",
+      "titleZh": "被动语态的构成",
+      "formula": "be + past participle",
+      "formulaZh": "助动词 be + 及物动词的过去分词（-ed 形式）",
+      "noteZh": "助动词 be 随人称、数和时态变化。",
+      "tenseTable": {
+        "verb": "ask",
+        "rows": [
+          {
+            "tenseZh": "一般现在时",
+            "affirmative": "I am asked … / He is asked … / They are asked …",
+            "negative": "I am not asked … / He is not asked …",
+            "interrogative": "Am I asked …? / Is he asked …?"
+          },
+          {
+            "tenseZh": "一般过去时",
+            "affirmative": "I was asked … / He was asked … / They were asked …",
+            "negative": "I was not asked …",
+            "interrogative": "Was I asked …? / Were they asked …?"
+          },
+          {
+            "tenseZh": "一般将来时",
+            "affirmative": "I / He / They will be asked …",
+            "negative": "… will not be asked …",
+            "interrogative": "Will I / he / they be asked …?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "passive-usage",
+      "type": "usage",
+      "title": "When to use the passive",
+      "titleZh": "被动语态的用法",
+      "rules": [
+        {
+          "textZh": "不知道或不必说明动作执行者时，或需要强调动作的承受者时。",
+          "textEn": "When the doer is unknown or unnecessary, or when the receiver needs emphasis."
+        },
+        {
+          "textZh": "科技报道、新闻等正式文体中更常见，有助于篇章衔接。",
+          "textEn": "Common in formal writing such as science and news reports."
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "pv-ex-01",
+      "text": "A mini-camera is connected to the front of the glasses.",
+      "highlight": "is connected to",
+      "noteZh": "一般现在时被动",
+      "unitRef": {
+        "unit": 5
+      }
+    },
+    {
+      "id": "pv-ex-02",
+      "text": "Some of the old buildings were destroyed in the earthquake.",
+      "highlight": "were destroyed",
+      "noteZh": "一般过去时被动"
+    },
+    {
+      "id": "pv-ex-03",
+      "text": "More astronauts will be sent to the space station.",
+      "highlight": "will be sent to",
+      "noteZh": "一般将来时被动",
+      "unitRef": {
+        "unit": 6
+      }
+    },
+    {
+      "id": "pv-ex-04",
+      "text": "The moon will be visited by tourists one day.",
+      "highlight": "will be visited by",
+      "noteZh": "强调承受者 the moon"
+    }
+  ],
+  "practice": {
+    "instruction": "Fill in the missing passive phrase for each sentence.",
+    "instructionZh": "为每句话填入缺失的被动语态部分。",
+    "questions": [
+      {
+        "id": "pv-p01",
+        "order": 1,
+        "sentence": "This book was written by an author.",
+        "blank": "was written by",
+        "sentenceBefore": "This book ",
+        "sentenceAfter": " an author.",
+        "blankRole": "passive_phrase",
+        "hintZh": "一般过去时被动：was + 过去分词",
+        "options": [
+          {
+            "id": "a",
+            "text": "was written by",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "is written by",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "wrote",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "was writing",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p02",
+        "order": 2,
+        "sentence": "This painting was created by a famous artist.",
+        "blank": "was created by",
+        "sentenceBefore": "This painting ",
+        "sentenceAfter": " a famous artist.",
+        "blankRole": "passive_phrase",
+        "hintZh": "主语 painting 是承受者",
+        "options": [
+          {
+            "id": "a",
+            "text": "was created by",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "is created by",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "created",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "was creating",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p03",
+        "order": 3,
+        "sentence": "This meal was cooked by a chef.",
+        "blank": "was cooked by",
+        "sentenceBefore": "This meal ",
+        "sentenceAfter": " a chef.",
+        "blankRole": "passive_phrase",
+        "hintZh": "一般过去时被动",
+        "options": [
+          {
+            "id": "a",
+            "text": "was cooked by",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "is cooked by",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "cooked",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "was cooking",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p04",
+        "order": 4,
+        "sentence": "This hill is covered with beautiful flowers.",
+        "blank": "is covered with",
+        "sentenceBefore": "This hill ",
+        "sentenceAfter": " beautiful flowers.",
+        "blankRole": "passive_phrase",
+        "hintZh": "用 with 表示“被……覆盖”",
+        "options": [
+          {
+            "id": "a",
+            "text": "is covered with",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "was covered with",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "covers",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "is covering",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p05",
+        "order": 5,
+        "sentence": "English is spoken in many countries.",
+        "blank": "is spoken",
+        "sentenceBefore": "English ",
+        "sentenceAfter": " in many countries.",
+        "blankRole": "passive_phrase",
+        "hintZh": "一般现在时被动，无需 by",
+        "options": [
+          {
+            "id": "a",
+            "text": "is spoken",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "was spoken",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "speaks",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "is speaking",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p06",
+        "order": 6,
+        "sentence": "The telephone was invented by Alexander Bell in 1876.",
+        "blank": "was invented by",
+        "sentenceBefore": "The telephone ",
+        "sentenceAfter": " Alexander Bell in 1876.",
+        "blankRole": "passive_phrase",
+        "hintZh": "课本主动/被动转化例句",
+        "options": [
+          {
+            "id": "a",
+            "text": "was invented by",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "is invented by",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "invented",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "was inventing",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p07",
+        "order": 7,
+        "sentence": "More astronauts will be sent to the space station.",
+        "blank": "will be sent to",
+        "sentenceBefore": "More astronauts ",
+        "sentenceAfter": " the space station.",
+        "blankRole": "passive_phrase",
+        "hintZh": "一般将来时被动",
+        "options": [
+          {
+            "id": "a",
+            "text": "will be sent to",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "are sent to",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "will send",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "sent to",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p08",
+        "order": 8,
+        "sentence": "The old buildings were destroyed in the earthquake.",
+        "blank": "were destroyed",
+        "sentenceBefore": "The old buildings ",
+        "sentenceAfter": " in the earthquake.",
+        "blankRole": "passive_phrase",
+        "hintZh": "复数主语用 were",
+        "options": [
+          {
+            "id": "a",
+            "text": "were destroyed",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "was destroyed",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "c",
+            "text": "destroyed",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "are destroying",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p09",
+        "order": 9,
+        "sentence": "The moon will be visited by tourists one day.",
+        "blank": "will be visited by",
+        "sentenceBefore": "The moon ",
+        "sentenceAfter": " tourists one day.",
+        "blankRole": "passive_phrase",
+        "hintZh": "强调 the moon 是承受者",
+        "options": [
+          {
+            "id": "a",
+            "text": "will be visited by",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "is visited by",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "will visit",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "visited by",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "pv-p10",
+        "order": 10,
+        "sentence": "A mini-camera is connected to the front of the glasses.",
+        "blank": "is connected to",
+        "sentenceBefore": "A mini-camera ",
+        "sentenceAfter": " the front of the glasses.",
+        "blankRole": "passive_phrase",
+        "hintZh": "Unit 5 课文句",
+        "options": [
+          {
+            "id": "a",
+            "text": "is connected to",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "was connected to",
+            "correct": false,
+            "distractorType": "wrong_tense"
+          },
+          {
+            "id": "c",
+            "text": "connects",
+            "correct": false,
+            "distractorType": "active_voice"
+          },
+          {
+            "id": "d",
+            "text": "is connecting",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      }
+    ]
+  }
+}

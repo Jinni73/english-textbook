@@ -1,0 +1,27 @@
+{
+  "bookId": "grade-9",
+  "title": "Grammar",
+  "titleZh": "语法",
+  "textbookRef": "Grammar pp. 104–105",
+  "updatedAt": "2026-07-03",
+  "topics": [
+    {
+      "id": "passive-voice",
+      "title": "Passive Voice",
+      "titleZh": "被动语态",
+      "order": 1
+    },
+    {
+      "id": "object-clauses",
+      "title": "Object Clauses",
+      "titleZh": "宾语从句",
+      "order": 2
+    },
+    {
+      "id": "relative-clauses",
+      "title": "Relative Clauses",
+      "titleZh": "关系从句（定语从句）",
+      "order": 3
+    }
+  ]
+}

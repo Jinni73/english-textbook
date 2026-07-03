@@ -1,0 +1,484 @@
+{
+  "id": "object-clauses",
+  "bookId": "grade-9",
+  "title": "Object Clauses",
+  "titleZh": "宾语从句",
+  "order": 2,
+  "summary": "An object clause functions as the object in a complex sentence. Common conjunctions include that, if, whether, and wh- words.",
+  "summaryZh": "宾语从句在复合句中作宾语。常见关联词有 that、if、whether 以及 what、who、when 等疑问词。",
+  "lessons": [
+    {
+      "id": "object-concept",
+      "type": "concept",
+      "title": "What is an object clause?",
+      "titleZh": "什么是宾语从句",
+      "bodyZh": "宾语从句放在及物动词或介词之后，说明“什么”或“是否”。从句要用陈述语序，不用疑问语序。",
+      "examples": [
+        {
+          "text": "I believe (that) reading is important.",
+          "noteZh": "that 可省略"
+        },
+        {
+          "text": "Can you tell me who she is?",
+          "noteZh": "陈述语序 who she is，不说 who is she"
+        }
+      ]
+    },
+    {
+      "id": "object-formation",
+      "type": "formation",
+      "title": "Common conjunctions",
+      "titleZh": "常见关联词",
+      "conjunctionGroups": [
+        {
+          "labelZh": "that（口语中常省略）",
+          "conjunctions": [
+            "that"
+          ],
+          "examples": [
+            "Mary thinks (that) the teams were just fantastic.",
+            "I believe (that) reading is important for learning."
+          ]
+        },
+        {
+          "labelZh": "if / whether（口语中 if 更常见）",
+          "conjunctions": [
+            "if",
+            "whether"
+          ],
+          "examples": [
+            "I wonder if / whether there will be races again next year.",
+            "I want to know whether you read English books outside class."
+          ]
+        },
+        {
+          "labelZh": "who, what, which, when, where, how, why",
+          "conjunctions": [
+            "who",
+            "what",
+            "which",
+            "when",
+            "where",
+            "how",
+            "why"
+          ],
+          "examples": [
+            "Can you tell me who she is?",
+            "He cannot remember what he ate for breakfast.",
+            "I want to know how memory works."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "object-usage",
+      "type": "usage",
+      "title": "Word order",
+      "titleZh": "语序要点",
+      "rules": [
+        {
+          "textZh": "宾语从句用陈述语序：who she is ✓，who is she ✗",
+          "textEn": "Use statement word order inside the clause."
+        },
+        {
+          "textZh": "that 在口语或非正式文体中常省略。",
+          "textEn": "that is often omitted in spoken or informal English."
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "oc-ex-01",
+      "text": "I wonder if you could help me with my history study.",
+      "highlight": "if you could help me with my history study",
+      "noteZh": "if 引导宾语从句",
+      "unitRef": {
+        "unit": 3
+      }
+    },
+    {
+      "id": "oc-ex-02",
+      "text": "I want to know whether you read English books outside class.",
+      "highlight": "whether you read English books outside class",
+      "noteZh": "whether 引导",
+      "unitRef": {
+        "unit": 3
+      }
+    },
+    {
+      "id": "oc-ex-03",
+      "text": "I want to know how memory works.",
+      "highlight": "how memory works",
+      "noteZh": "how + 陈述语序",
+      "unitRef": {
+        "unit": 4
+      }
+    },
+    {
+      "id": "oc-ex-04",
+      "text": "I don't know why I am so forgetful.",
+      "highlight": "why I am so forgetful",
+      "noteZh": "why 引导",
+      "unitRef": {
+        "unit": 4
+      }
+    }
+  ],
+  "practice": {
+    "instruction": "Fill in the missing object clause for each sentence.",
+    "instructionZh": "为每句话填入缺失的宾语从句部分。",
+    "questions": [
+      {
+        "id": "oc-p01",
+        "order": 1,
+        "sentence": "Mary thinks that the teams were just fantastic.",
+        "blank": "that the teams were just fantastic",
+        "sentenceBefore": "Mary thinks ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "that 引导，陈述语序",
+        "options": [
+          {
+            "id": "a",
+            "text": "that the teams were just fantastic",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "if the teams were just fantastic",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "c",
+            "text": "that were the teams just fantastic",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "who the teams were just fantastic",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p02",
+        "order": 2,
+        "sentence": "I believe that reading is important for learning.",
+        "blank": "that reading is important for learning",
+        "sentenceBefore": "I believe ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "that 可省略，但此处保留",
+        "options": [
+          {
+            "id": "a",
+            "text": "that reading is important for learning",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "if reading is important for learning",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "c",
+            "text": "that is reading important for learning",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "what reading is important for learning",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p03",
+        "order": 3,
+        "sentence": "I wonder if there will be races again next year.",
+        "blank": "if there will be races again next year",
+        "sentenceBefore": "I wonder ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "if 表示“是否”",
+        "options": [
+          {
+            "id": "a",
+            "text": "if there will be races again next year",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "that there will be races again next year",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "c",
+            "text": "if will there be races again next year",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "who there will be races again next year",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p04",
+        "order": 4,
+        "sentence": "I want to know whether you read English books outside class.",
+        "blank": "whether you read English books outside class",
+        "sentenceBefore": "I want to know ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "whether 引导是否从句",
+        "options": [
+          {
+            "id": "a",
+            "text": "whether you read English books outside class",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "that you read English books outside class",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "c",
+            "text": "whether do you read English books outside class",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "who you read English books outside class",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p05",
+        "order": 5,
+        "sentence": "I wonder if you could help me with my history study.",
+        "blank": "if you could help me with my history study",
+        "sentenceBefore": "I wonder ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "Unit 3 听力原句",
+        "options": [
+          {
+            "id": "a",
+            "text": "if you could help me with my history study",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "whether you could help me with my history study",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "c",
+            "text": "if could you help me with my history study",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "that you could help me with my history study",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p06",
+        "order": 6,
+        "sentence": "Can you tell me who she is?",
+        "blank": "who she is",
+        "sentenceBefore": "Can you tell me ",
+        "sentenceAfter": "?",
+        "blankRole": "object_clause",
+        "hintZh": "陈述语序 who she is",
+        "options": [
+          {
+            "id": "a",
+            "text": "who she is",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who is she",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "if she is",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "d",
+            "text": "what she is",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p07",
+        "order": 7,
+        "sentence": "He cannot remember what he ate for breakfast.",
+        "blank": "what he ate for breakfast",
+        "sentenceBefore": "He cannot remember ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "what 作从句宾语",
+        "options": [
+          {
+            "id": "a",
+            "text": "what he ate for breakfast",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "what did he eat for breakfast",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "that he ate for breakfast",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "d",
+            "text": "who he ate for breakfast",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p08",
+        "order": 8,
+        "sentence": "Excuse me, do you know when the bookstore closes?",
+        "blank": "when the bookstore closes",
+        "sentenceBefore": "Excuse me, do you know ",
+        "sentenceAfter": "?",
+        "blankRole": "object_clause",
+        "hintZh": "when + 陈述语序",
+        "options": [
+          {
+            "id": "a",
+            "text": "when the bookstore closes",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "when does the bookstore close",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "if the bookstore closes",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "d",
+            "text": "that the bookstore closes",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p09",
+        "order": 9,
+        "sentence": "I want to know how memory works.",
+        "blank": "how memory works",
+        "sentenceBefore": "I want to know ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "Unit 4 主题句",
+        "options": [
+          {
+            "id": "a",
+            "text": "how memory works",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "how does memory work",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "if memory works",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "d",
+            "text": "what memory works",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      },
+      {
+        "id": "oc-p10",
+        "order": 10,
+        "sentence": "I don't know why I am so forgetful.",
+        "blank": "why I am so forgetful",
+        "sentenceBefore": "I don't know ",
+        "sentenceAfter": ".",
+        "blankRole": "object_clause",
+        "hintZh": "why 引导原因从句",
+        "options": [
+          {
+            "id": "a",
+            "text": "why I am so forgetful",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "why am I so forgetful",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "if I am so forgetful",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          },
+          {
+            "id": "d",
+            "text": "that I am so forgetful",
+            "correct": false,
+            "distractorType": "wrong_conjunction"
+          }
+        ]
+      }
+    ]
+  }
+}

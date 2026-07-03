@@ -1,0 +1,468 @@
+{
+  "id": "relative-clauses",
+  "bookId": "grade-9",
+  "title": "Relative Clauses",
+  "titleZh": "关系从句（定语从句）",
+  "order": 3,
+  "summary": "A relative clause modifies a noun (the antecedent). Restrictive relative clauses use that, which, or who.",
+  "summaryZh": "关系从句修饰名词（先行词）。限定性关系从句常用 that、which、who 引导。",
+  "lessons": [
+    {
+      "id": "relative-concept",
+      "type": "concept",
+      "title": "What is a relative clause?",
+      "titleZh": "什么是关系从句",
+      "bodyZh": "关系从句放在被修饰的名词之后，说明“什么样的”。先行词是被修饰的名词；关系代词 that / which / who 在从句中可作主语或宾语。",
+      "examples": [
+        {
+          "text": "I like musicians who are creative.",
+          "noteZh": "先行词 musicians，who 指人"
+        },
+        {
+          "text": "I prefer music that touches me.",
+          "noteZh": "先行词 music，that 指物"
+        }
+      ]
+    },
+    {
+      "id": "relative-formation",
+      "type": "formation",
+      "title": "Relative pronouns",
+      "titleZh": "关系代词",
+      "pronounTable": [
+        {
+          "pronoun": "that",
+          "refersToZh": "指人或指物",
+          "asSubject": "I prefer music that touches me.",
+          "asObject": "That's the only thing (that) I can do now.",
+          "objectOmittable": true
+        },
+        {
+          "pronoun": "which",
+          "refersToZh": "指物",
+          "asSubject": "The song which uses the violin and the erhu is my favourite.",
+          "asObject": "He is listening to the music (which) he downloaded just now.",
+          "objectOmittable": true
+        },
+        {
+          "pronoun": "who",
+          "refersToZh": "指人",
+          "asSubject": "He is the kind of man who never gives up.",
+          "asObject": "The man (who) we met at the library is our new teacher.",
+          "objectOmittable": true
+        }
+      ],
+      "noteZh": "非正式语境中，关系代词作宾语时常可省略。"
+    },
+    {
+      "id": "relative-usage",
+      "type": "usage",
+      "title": "Subject vs object",
+      "titleZh": "作主语与作宾语",
+      "rules": [
+        {
+          "textZh": "关系代词在从句中作主语时不可省略。",
+          "textEn": "Do not omit the pronoun when it is the subject of the clause."
+        },
+        {
+          "textZh": "关系代词在从句中作宾语时，口语中常省略。",
+          "textEn": "The pronoun is often omitted when it is the object."
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "rc-ex-01",
+      "text": "I love traditional music that tells a story.",
+      "highlight": "that tells a story",
+      "noteZh": "that 作主语",
+      "unitRef": {
+        "unit": 7
+      }
+    },
+    {
+      "id": "rc-ex-02",
+      "text": "I like musicians who are creative.",
+      "highlight": "who are creative",
+      "noteZh": "who 指人",
+      "unitRef": {
+        "unit": 7
+      }
+    },
+    {
+      "id": "rc-ex-03",
+      "text": "It's a piece which everyone loves!",
+      "highlight": "which everyone loves",
+      "noteZh": "which 作宾语",
+      "unitRef": {
+        "unit": 7
+      }
+    },
+    {
+      "id": "rc-ex-04",
+      "text": "They are looking for somebody who can join the relay.",
+      "highlight": "who can join the relay",
+      "noteZh": "Unit 8 听力",
+      "unitRef": {
+        "unit": 8
+      }
+    }
+  ],
+  "practice": {
+    "instruction": "Fill in the missing relative clause for each sentence.",
+    "instructionZh": "为每句话填入缺失的关系从句部分。",
+    "questions": [
+      {
+        "id": "rc-p01",
+        "order": 1,
+        "sentence": "I prefer music that touches me.",
+        "blank": "that touches me",
+        "sentenceBefore": "I prefer music ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "that 指物，作主语",
+        "options": [
+          {
+            "id": "a",
+            "text": "that touches me",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who touches me",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "that me touches",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "which touch me",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          }
+        ]
+      },
+      {
+        "id": "rc-p02",
+        "order": 2,
+        "sentence": "I love traditional music that tells a story.",
+        "blank": "that tells a story",
+        "sentenceBefore": "I love traditional music ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "Unit 7 原句",
+        "options": [
+          {
+            "id": "a",
+            "text": "that tells a story",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who tells a story",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "that tell a story",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "d",
+            "text": "which tells a story",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          }
+        ]
+      },
+      {
+        "id": "rc-p03",
+        "order": 3,
+        "sentence": "I like music that I can dance to.",
+        "blank": "that I can dance to",
+        "sentenceBefore": "I like music ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "that 作宾语，可省略",
+        "options": [
+          {
+            "id": "a",
+            "text": "that I can dance to",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who I can dance to",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "that can I dance to",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "which I can dances to",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "rc-p04",
+        "order": 4,
+        "sentence": "The song which uses the violin and the erhu is my favourite.",
+        "blank": "which uses the violin and the erhu",
+        "sentenceBefore": "The song ",
+        "sentenceAfter": " is my favourite.",
+        "blankRole": "relative_clause",
+        "hintZh": "which 指物，作主语",
+        "options": [
+          {
+            "id": "a",
+            "text": "which uses the violin and the erhu",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who uses the violin and the erhu",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "which use the violin and the erhu",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "d",
+            "text": "that use the violin and the erhu",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          }
+        ]
+      },
+      {
+        "id": "rc-p05",
+        "order": 5,
+        "sentence": "He is listening to the music which he downloaded just now.",
+        "blank": "which he downloaded just now",
+        "sentenceBefore": "He is listening to the music ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "which 作宾语",
+        "options": [
+          {
+            "id": "a",
+            "text": "which he downloaded just now",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who he downloaded just now",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "which did he download just now",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "d",
+            "text": "which he download just now",
+            "correct": false,
+            "distractorType": "wrong_form"
+          }
+        ]
+      },
+      {
+        "id": "rc-p06",
+        "order": 6,
+        "sentence": "He is the kind of man who never gives up.",
+        "blank": "who never gives up",
+        "sentenceBefore": "He is the kind of man ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "who 指人，作主语",
+        "options": [
+          {
+            "id": "a",
+            "text": "who never gives up",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "which never gives up",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "who never give up",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "d",
+            "text": "that never give up",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          }
+        ]
+      },
+      {
+        "id": "rc-p07",
+        "order": 7,
+        "sentence": "I like musicians who are creative.",
+        "blank": "who are creative",
+        "sentenceBefore": "I like musicians ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "课本例句",
+        "options": [
+          {
+            "id": "a",
+            "text": "who are creative",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "which are creative",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "who is creative",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "d",
+            "text": "that are creative",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          }
+        ]
+      },
+      {
+        "id": "rc-p08",
+        "order": 8,
+        "sentence": "The man who we met at the library is our new teacher.",
+        "blank": "who we met at the library",
+        "sentenceBefore": "The man ",
+        "sentenceAfter": " is our new teacher.",
+        "blankRole": "relative_clause",
+        "hintZh": "who 作宾语",
+        "options": [
+          {
+            "id": "a",
+            "text": "who we met at the library",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who met we at the library",
+            "correct": false,
+            "distractorType": "wrong_order"
+          },
+          {
+            "id": "c",
+            "text": "which we met at the library",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "d",
+            "text": "who did we meet at the library",
+            "correct": false,
+            "distractorType": "wrong_order"
+          }
+        ]
+      },
+      {
+        "id": "rc-p09",
+        "order": 9,
+        "sentence": "It's a piece which everyone loves!",
+        "blank": "which everyone loves",
+        "sentenceBefore": "It's a piece ",
+        "sentenceAfter": "!",
+        "blankRole": "relative_clause",
+        "hintZh": "which 指物",
+        "options": [
+          {
+            "id": "a",
+            "text": "which everyone loves",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "who everyone loves",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "which everyone love",
+            "correct": false,
+            "distractorType": "wrong_agreement"
+          },
+          {
+            "id": "d",
+            "text": "which loves everyone",
+            "correct": false,
+            "distractorType": "wrong_meaning"
+          }
+        ]
+      },
+      {
+        "id": "rc-p10",
+        "order": 10,
+        "sentence": "They are looking for somebody who can join the relay.",
+        "blank": "who can join the relay",
+        "sentenceBefore": "They are looking for somebody ",
+        "sentenceAfter": ".",
+        "blankRole": "relative_clause",
+        "hintZh": "Unit 8 主题",
+        "options": [
+          {
+            "id": "a",
+            "text": "who can join the relay",
+            "correct": true
+          },
+          {
+            "id": "b",
+            "text": "which can join the relay",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          },
+          {
+            "id": "c",
+            "text": "who can joins the relay",
+            "correct": false,
+            "distractorType": "wrong_form"
+          },
+          {
+            "id": "d",
+            "text": "that can join the relay",
+            "correct": false,
+            "distractorType": "wrong_pronoun"
+          }
+        ]
+      }
+    ]
+  }
+}
