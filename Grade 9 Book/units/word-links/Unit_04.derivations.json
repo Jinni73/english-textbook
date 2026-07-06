@@ -1,0 +1,286 @@
+{
+  "unit": 4,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "2": {
+      "vocabularyId": 2,
+      "english": "sadness",
+      "root": "sad",
+      "derivatives": [
+        {
+          "form": "sad",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "unhappy",
+          "glossZh": "悲伤的",
+          "exampleSentence": "She felt sad after the film.",
+          "show": true
+        },
+        {
+          "form": "sadly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a sad way",
+          "glossZh": "悲伤地",
+          "exampleSentence": "He shook his head sadly.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "4": {
+      "vocabularyId": 4,
+      "english": "react",
+      "root": "react",
+      "derivatives": [
+        {
+          "form": "reaction",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a response to something",
+          "glossZh": "反应",
+          "exampleSentence": "What was your reaction to the news?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "8": {
+      "vocabularyId": 8,
+      "english": "stable",
+      "root": "stable",
+      "derivatives": [
+        {
+          "form": "stability",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the state of being stable",
+          "glossZh": "稳定",
+          "exampleSentence": "Sleep helps emotional stability.",
+          "show": true
+        },
+        {
+          "form": "stabilize",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to make stable",
+          "glossZh": "使稳定",
+          "exampleSentence": "A routine can stabilize memory.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "retell",
+      "root": "tell",
+      "derivatives": [
+        {
+          "form": "tell",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to say information",
+          "glossZh": "讲述",
+          "exampleSentence": "Tell me what happened.",
+          "show": true
+        },
+        {
+          "form": "retelling",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "telling again in new words",
+          "glossZh": "复述",
+          "exampleSentence": "Retelling helps memory.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "26": {
+      "vocabularyId": 26,
+      "english": "grown-up",
+      "root": "grow",
+      "derivatives": [
+        {
+          "form": "grow",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to become older or larger",
+          "glossZh": "成长",
+          "exampleSentence": "Children grow fast.",
+          "show": true
+        },
+        {
+          "form": "grown",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "fully developed",
+          "glossZh": "成熟的",
+          "exampleSentence": "He is a grown man now.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "35": {
+      "vocabularyId": 35,
+      "english": "likely",
+      "root": "like",
+      "derivatives": [
+        {
+          "form": "unlikely",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "not probable",
+          "glossZh": "不太可能的",
+          "exampleSentence": "Rain is unlikely today.",
+          "show": true
+        },
+        {
+          "form": "likelihood",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "how likely something is",
+          "glossZh": "可能性",
+          "exampleSentence": "What is the likelihood of success?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "37": {
+      "vocabularyId": 37,
+      "english": "discuss",
+      "root": "discuss",
+      "derivatives": [
+        {
+          "form": "discussion",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a talk about a topic",
+          "glossZh": "讨论",
+          "exampleSentence": "We had a long discussion.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "41": {
+      "vocabularyId": 41,
+      "english": "effective",
+      "root": "effect",
+      "derivatives": [
+        {
+          "form": "effect",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a result",
+          "glossZh": "效果",
+          "exampleSentence": "The medicine had a strong effect.",
+          "show": true
+        },
+        {
+          "form": "effectively",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in an effective way",
+          "glossZh": "有效地",
+          "exampleSentence": "Study effectively each day.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "47": {
+      "vocabularyId": 47,
+      "english": "increase",
+      "root": "increase",
+      "derivatives": [
+        {
+          "form": "increasing",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "becoming larger",
+          "glossZh": "增长的",
+          "exampleSentence": "There is an increasing need for review.",
+          "show": true
+        },
+        {
+          "form": "increasingly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "more and more",
+          "glossZh": "越来越",
+          "exampleSentence": "Apps are increasingly helpful.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "56": {
+      "vocabularyId": 56,
+      "english": "recognize",
+      "root": "recognize",
+      "derivatives": [
+        {
+          "form": "recognition",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "knowing someone or something again",
+          "glossZh": "认出；认可",
+          "exampleSentence": "Face recognition is useful on phones.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "58": {
+      "vocabularyId": 58,
+      "english": "fully",
+      "root": "full",
+      "derivatives": [
+        {
+          "form": "full",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "complete; containing as much as possible",
+          "glossZh": "满的；完全的",
+          "exampleSentence": "The bus is full.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "59": {
+      "vocabularyId": 59,
+      "english": "divide",
+      "root": "divide",
+      "derivatives": [
+        {
+          "form": "division",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "separating into parts",
+          "glossZh": "分开；除法",
+          "exampleSentence": "Division of work saved time.",
+          "show": true
+        },
+        {
+          "form": "divided",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "separated into parts",
+          "glossZh": "分开的",
+          "exampleSentence": "The class was divided into pairs.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

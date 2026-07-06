@@ -1,0 +1,269 @@
+{
+  "unit": 6,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "8": {
+      "vocabularyId": 8,
+      "english": "weightless",
+      "root": "weight",
+      "derivatives": [
+        {
+          "form": "weight",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "how heavy something is",
+          "glossZh": "重量",
+          "exampleSentence": "What is your bag’s weight?",
+          "show": true
+        },
+        {
+          "form": "weigh",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to measure weight",
+          "glossZh": "称重",
+          "exampleSentence": "Astronauts weigh themselves differently in space.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "9": {
+      "vocabularyId": 9,
+      "english": "movement",
+      "root": "move",
+      "derivatives": [
+        {
+          "form": "move",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to change position",
+          "glossZh": "移动",
+          "exampleSentence": "Push the wall and you move.",
+          "show": true
+        },
+        {
+          "form": "moving",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "in motion",
+          "glossZh": "移动的",
+          "exampleSentence": "The moving camera recorded Earth.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "asleep",
+      "root": "sleep",
+      "derivatives": [
+        {
+          "form": "sleep",
+          "pos": "v. & n.",
+          "relation": "root",
+          "glossEn": "to rest with eyes closed",
+          "glossZh": "睡觉",
+          "exampleSentence": "It is hard to sleep in space.",
+          "show": true
+        },
+        {
+          "form": "sleepy",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "ready for sleep",
+          "glossZh": "困倦的",
+          "exampleSentence": "I feel sleepy after lunch.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "17": {
+      "vocabularyId": 17,
+      "english": "require",
+      "root": "require",
+      "derivatives": [
+        {
+          "form": "requirement",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something needed",
+          "glossZh": "要求",
+          "exampleSentence": "Safety is a basic requirement.",
+          "show": true
+        },
+        {
+          "form": "required",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "needed",
+          "glossZh": "必需的",
+          "exampleSentence": "Training is required for astronauts.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "20": {
+      "vocabularyId": 20,
+      "english": "publish",
+      "root": "publish",
+      "derivatives": [
+        {
+          "form": "publisher",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a company that publishes books",
+          "glossZh": "出版商",
+          "exampleSentence": "The publisher printed the science magazine.",
+          "show": true
+        },
+        {
+          "form": "publication",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something published",
+          "glossZh": "出版物；发表",
+          "exampleSentence": "Her article is a new publication.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "24": {
+      "vocabularyId": 24,
+      "english": "mysterious",
+      "root": "mystery",
+      "derivatives": [
+        {
+          "form": "mystery",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "something hard to explain",
+          "glossZh": "神秘；谜",
+          "exampleSentence": "Space still holds many mysteries.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "31": {
+      "vocabularyId": 31,
+      "english": "completely",
+      "root": "complete",
+      "derivatives": [
+        {
+          "form": "complete",
+          "pos": "adj. & v.",
+          "relation": "root",
+          "glossEn": "finished; to finish",
+          "glossZh": "完成；完全的",
+          "exampleSentence": "The station was completed in 2022.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "32": {
+      "vocabularyId": 32,
+      "english": "cooperate",
+      "root": "cooperate",
+      "derivatives": [
+        {
+          "form": "cooperation",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "working together",
+          "glossZh": "合作",
+          "exampleSentence": "International cooperation is important in space.",
+          "show": true
+        },
+        {
+          "form": "cooperative",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "willing to work with others",
+          "glossZh": "合作的",
+          "exampleSentence": "The teams are cooperative.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "36": {
+      "vocabularyId": 36,
+      "english": "unmanned",
+      "root": "manned",
+      "derivatives": [
+        {
+          "form": "manned",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "operated by people",
+          "glossZh": "有人操作的",
+          "exampleSentence": "A manned mission needs training.",
+          "show": true
+        },
+        {
+          "form": "man",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to operate with people",
+          "glossZh": "配备人员",
+          "exampleSentence": "Crew members man the station.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "40": {
+      "vocabularyId": 40,
+      "english": "crowded",
+      "root": "crowd",
+      "derivatives": [
+        {
+          "form": "crowd",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a large group of people",
+          "glossZh": "人群",
+          "exampleSentence": "A crowd watched the launch.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "41": {
+      "vocabularyId": 41,
+      "english": "operate",
+      "root": "operate",
+      "derivatives": [
+        {
+          "form": "operation",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the way something works",
+          "glossZh": "操作；运行",
+          "exampleSentence": "Safe operation of rockets matters.",
+          "show": true
+        },
+        {
+          "form": "operator",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who operates a machine",
+          "glossZh": "操作员",
+          "exampleSentence": "The operator checked the controls.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

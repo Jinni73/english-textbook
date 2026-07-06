@@ -235,15 +235,36 @@
       "questions": [
         {
           "id": 1,
-          "prompt": "Name three everyday objects Han Lin mentions."
+          "prompt": "Which everyday objects does Han Lin mention?",
+          "options": [
+            "Toys, chairs, tables, and even houses",
+            "Only flashcards",
+            "Only sand and soil",
+            "Only newspapers"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 2,
-          "prompt": "What medical example does Han Lin give?"
+          "prompt": "What medical example does Han Lin give?",
+          "options": [
+            "Arms, legs, and even hearts",
+            "Only glasses frames",
+            "Only plastic bags",
+            "Only engines"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 3,
-          "prompt": "What is the first step in using a 3D printer?"
+          "prompt": "What is the first step in using a 3D printer?",
+          "options": [
+            "Design the object on a computer",
+            "Buy flour and sugar",
+            "Plant bushes",
+            "Book a concert ticket"
+          ],
+          "correctIndex": 0
         }
       ]
     }

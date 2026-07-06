@@ -1,0 +1,356 @@
+{
+  "unit": 5,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "1": {
+      "vocabularyId": 1,
+      "english": "invention",
+      "root": "invent",
+      "derivatives": [
+        {
+          "form": "invent",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to create something new",
+          "glossZh": "发明",
+          "exampleSentence": "Who invented the wheel?",
+          "show": true
+        },
+        {
+          "form": "inventor",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who invents",
+          "glossZh": "发明家",
+          "exampleSentence": "The inventor shared his idea.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "12": {
+      "vocabularyId": 12,
+      "english": "produce",
+      "root": "produce",
+      "derivatives": [
+        {
+          "form": "product",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something produced",
+          "glossZh": "产品",
+          "exampleSentence": "This product is made of plastic.",
+          "show": true
+        },
+        {
+          "form": "production",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the act of producing",
+          "glossZh": "生产",
+          "exampleSentence": "Production needs energy.",
+          "show": true
+        },
+        {
+          "form": "producer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person or company that produces",
+          "glossZh": "生产者",
+          "exampleSentence": "China is a major producer of cameras.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "15": {
+      "vocabularyId": 15,
+      "english": "printer",
+      "root": "print",
+      "derivatives": [
+        {
+          "form": "print",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to make text or images on paper",
+          "glossZh": "打印",
+          "exampleSentence": "Print your homework.",
+          "show": true
+        },
+        {
+          "form": "printed",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "produced by a printer",
+          "glossZh": "印刷的",
+          "exampleSentence": "A printed page is easy to mark.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "16": {
+      "vocabularyId": 16,
+      "english": "invent",
+      "root": "invent",
+      "derivatives": [
+        {
+          "form": "invention",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something invented",
+          "glossZh": "发明",
+          "exampleSentence": "This invention changes cooking.",
+          "show": true
+        },
+        {
+          "form": "inventor",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who invents",
+          "glossZh": "发明家",
+          "exampleSentence": "She hopes to be an inventor.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "22": {
+      "vocabularyId": 22,
+      "english": "complete",
+      "root": "complete",
+      "derivatives": [
+        {
+          "form": "completely",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "totally; fully",
+          "glossZh": "完全地",
+          "exampleSentence": "The task is completely finished.",
+          "show": true
+        },
+        {
+          "form": "completion",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the act of finishing",
+          "glossZh": "完成",
+          "exampleSentence": "Completion of the project took a year.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "29": {
+      "vocabularyId": 29,
+      "english": "reality",
+      "root": "real",
+      "derivatives": [
+        {
+          "form": "real",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "true; not imagined",
+          "glossZh": "真实的",
+          "exampleSentence": "Virtual tools feel almost real.",
+          "show": true
+        },
+        {
+          "form": "really",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in fact; truly",
+          "glossZh": "真正地",
+          "exampleSentence": "Is the robot really cooking?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "31": {
+      "vocabularyId": 31,
+      "english": "responsible",
+      "root": "responsible",
+      "derivatives": [
+        {
+          "form": "responsibility",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a duty to care for something",
+          "glossZh": "责任",
+          "exampleSentence": "We have a responsibility to use technology wisely.",
+          "show": true
+        },
+        {
+          "form": "responsibly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a responsible way",
+          "glossZh": "负责任地",
+          "exampleSentence": "Use AI tools responsibly.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "33": {
+      "vocabularyId": 33,
+      "english": "rapid",
+      "root": "rapid",
+      "derivatives": [
+        {
+          "form": "rapidly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "very quickly",
+          "glossZh": "迅速地",
+          "exampleSentence": "Technology changes rapidly.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "40": {
+      "vocabularyId": 40,
+      "english": "expensive",
+      "root": "expense",
+      "derivatives": [
+        {
+          "form": "expense",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "the cost of something",
+          "glossZh": "费用",
+          "exampleSentence": "Travel is a big expense.",
+          "show": true
+        },
+        {
+          "form": "inexpensively",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "cheaply",
+          "glossZh": "便宜地",
+          "exampleSentence": "You can print notes inexpensively.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "46": {
+      "vocabularyId": 46,
+      "english": "suitable",
+      "root": "suit",
+      "derivatives": [
+        {
+          "form": "suit",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to be right for someone",
+          "glossZh": "适合",
+          "exampleSentence": "This tool suits beginners.",
+          "show": true
+        },
+        {
+          "form": "suitably",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a suitable way",
+          "glossZh": "合适地",
+          "exampleSentence": "Choose a suitably simple app.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "56": {
+      "vocabularyId": 56,
+      "english": "rapidly",
+      "root": "rapid",
+      "derivatives": [
+        {
+          "form": "rapid",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "very fast",
+          "glossZh": "迅速的",
+          "exampleSentence": "There has been rapid progress.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "60": {
+      "vocabularyId": 60,
+      "english": "production",
+      "root": "produce",
+      "derivatives": [
+        {
+          "form": "produce",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to make something",
+          "glossZh": "生产",
+          "exampleSentence": "Factories produce plastic parts.",
+          "show": true
+        },
+        {
+          "form": "product",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something made",
+          "glossZh": "产品",
+          "exampleSentence": "New products appear at the exhibition.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "61": {
+      "vocabularyId": 61,
+      "english": "gradually",
+      "root": "gradual",
+      "derivatives": [
+        {
+          "form": "gradual",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "happening slowly",
+          "glossZh": "逐渐的",
+          "exampleSentence": "Progress is gradual.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "62": {
+      "vocabularyId": 62,
+      "english": "widely",
+      "root": "wide",
+      "derivatives": [
+        {
+          "form": "wide",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "having a large width",
+          "glossZh": "宽的；广泛的",
+          "exampleSentence": "The invention is in wide use.",
+          "show": true
+        },
+        {
+          "form": "widen",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to make wider",
+          "glossZh": "拓宽",
+          "exampleSentence": "Travel can widen your mind.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

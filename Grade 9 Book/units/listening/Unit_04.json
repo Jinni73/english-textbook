@@ -252,15 +252,36 @@
       "questions": [
         {
           "id": 1,
-          "prompt": "How is new knowledge best remembered, according to the professor?"
+          "prompt": "How is new knowledge best remembered, according to the professor?",
+          "options": [
+            "By linking it with old knowledge",
+            "By forgetting everything old",
+            "By reading only once",
+            "By avoiding practice"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 2,
-          "prompt": "What example of mixed-up words does Fu Xing give?"
+          "prompt": "What example of mixed-up words does Fu Xing give?",
+          "options": [
+            "Kitchen and chicken",
+            "Butter and sugar",
+            "Bike and ball",
+            "Sun and moon"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 3,
-          "prompt": "Why is riding a bike easier to remember than a shopping list?"
+          "prompt": "Why might riding a bike be easier to remember than things to buy?",
+          "options": [
+            "Bike memory may be stored in a more stable area of the brain",
+            "Shopping lists are always wrong",
+            "Bikes are heavier",
+            "Professors dislike shops"
+          ],
+          "correctIndex": 0
         }
       ]
     }

@@ -1,0 +1,338 @@
+{
+  "unit": 7,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "3": {
+      "vocabularyId": 3,
+      "english": "traditional",
+      "root": "tradition",
+      "derivatives": [
+        {
+          "form": "tradition",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a custom passed down",
+          "glossZh": "传统",
+          "exampleSentence": "Folk music is part of tradition.",
+          "show": true
+        },
+        {
+          "form": "traditionally",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "according to tradition",
+          "glossZh": "传统上",
+          "exampleSentence": "Erhu is traditionally used in Chinese music.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "7": {
+      "vocabularyId": 7,
+      "english": "comment",
+      "root": "comment",
+      "derivatives": [
+        {
+          "form": "commentary",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "spoken description of an event",
+          "glossZh": "解说；评论",
+          "exampleSentence": "We listened to the sports commentary.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "electric",
+      "root": "electric",
+      "derivatives": [
+        {
+          "form": "electricity",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "power from electric current",
+          "glossZh": "电",
+          "exampleSentence": "The guitar needs electricity.",
+          "show": true
+        },
+        {
+          "form": "electronic",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "using electronic parts",
+          "glossZh": "电子的",
+          "exampleSentence": "Electronic keyboards are popular.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "15": {
+      "vocabularyId": 15,
+      "english": "performance",
+      "root": "perform",
+      "derivatives": [
+        {
+          "form": "perform",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to present music or a play",
+          "glossZh": "表演",
+          "exampleSentence": "The band will perform tonight.",
+          "show": true
+        },
+        {
+          "form": "performer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who performs",
+          "glossZh": "表演者",
+          "exampleSentence": "Bob Wu is a great performer.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "17": {
+      "vocabularyId": 17,
+      "english": "lover",
+      "root": "love",
+      "derivatives": [
+        {
+          "form": "love",
+          "pos": "v. & n.",
+          "relation": "root",
+          "glossEn": "to like very much",
+          "glossZh": "爱",
+          "exampleSentence": "I love pop music.",
+          "show": true
+        },
+        {
+          "form": "lovely",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "beautiful; pleasant",
+          "glossZh": "可爱的",
+          "exampleSentence": "What a lovely song!",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "19": {
+      "vocabularyId": 19,
+      "english": "performer",
+      "root": "perform",
+      "derivatives": [
+        {
+          "form": "perform",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to entertain an audience",
+          "glossZh": "表演",
+          "exampleSentence": "They perform rock and folk.",
+          "show": true
+        },
+        {
+          "form": "performance",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an act of performing",
+          "glossZh": "演出",
+          "exampleSentence": "The performance was amazing.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "22": {
+      "vocabularyId": 22,
+      "english": "poet",
+      "root": "poem",
+      "derivatives": [
+        {
+          "form": "poem",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a piece of writing with rhythm",
+          "glossZh": "诗",
+          "exampleSentence": "She wrote a short poem.",
+          "show": true
+        },
+        {
+          "form": "poetry",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "poems as a form of art",
+          "glossZh": "诗歌",
+          "exampleSentence": "Poetry and music often mix.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "26": {
+      "vocabularyId": 26,
+      "english": "electronic",
+      "root": "electric",
+      "derivatives": [
+        {
+          "form": "electric",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "using electricity",
+          "glossZh": "电的",
+          "exampleSentence": "An electric guitar is loud.",
+          "show": true
+        },
+        {
+          "form": "electricity",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "electrical power",
+          "glossZh": "电",
+          "exampleSentence": "No electricity, no keyboard.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "31": {
+      "vocabularyId": 31,
+      "english": "pianist",
+      "root": "piano",
+      "derivatives": [
+        {
+          "form": "piano",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a keyboard instrument",
+          "glossZh": "钢琴",
+          "exampleSentence": "She practises piano daily.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "32": {
+      "vocabularyId": 32,
+      "english": "gifted",
+      "root": "gift",
+      "derivatives": [
+        {
+          "form": "gift",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a natural ability; a present",
+          "glossZh": "天赋；礼物",
+          "exampleSentence": "He has a gift for music.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "34": {
+      "vocabularyId": 34,
+      "english": "widen",
+      "root": "wide",
+      "derivatives": [
+        {
+          "form": "wide",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "broad",
+          "glossZh": "宽的",
+          "exampleSentence": "Music can open a wide world.",
+          "show": true
+        },
+        {
+          "form": "widely",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "by many people",
+          "glossZh": "广泛地",
+          "exampleSentence": "The song is widely known.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "39": {
+      "vocabularyId": 39,
+      "english": "valuable",
+      "root": "value",
+      "derivatives": [
+        {
+          "form": "value",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "worth; to think important",
+          "glossZh": "价值；重视",
+          "exampleSentence": "I value creativity in music.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "40": {
+      "vocabularyId": 40,
+      "english": "proudly",
+      "root": "proud",
+      "derivatives": [
+        {
+          "form": "proud",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "feeling pleased about something",
+          "glossZh": "自豪的",
+          "exampleSentence": "We are proud of our band.",
+          "show": true
+        },
+        {
+          "form": "pride",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a feeling of being proud",
+          "glossZh": "自豪",
+          "exampleSentence": "Pride filled the hall after the show.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "55": {
+      "vocabularyId": 55,
+      "english": "imagination",
+      "root": "imagine",
+      "derivatives": [
+        {
+          "form": "imagine",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to form a picture in the mind",
+          "glossZh": "想象",
+          "exampleSentence": "Imagine dancing to the music.",
+          "show": true
+        },
+        {
+          "form": "imaginative",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "good at inventing ideas",
+          "glossZh": "富有想象力的",
+          "exampleSentence": "Imaginative lyrics tell stories.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

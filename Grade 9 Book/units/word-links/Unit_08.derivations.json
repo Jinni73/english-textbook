@@ -1,0 +1,347 @@
+{
+  "unit": 8,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "5": {
+      "vocabularyId": 5,
+      "english": "competition",
+      "root": "compete",
+      "derivatives": [
+        {
+          "form": "compete",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to take part in a contest",
+          "glossZh": "参加比赛",
+          "exampleSentence": "I will compete in the relay.",
+          "show": true
+        },
+        {
+          "form": "competitor",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who competes",
+          "glossZh": "参赛者",
+          "exampleSentence": "Each competitor trained hard.",
+          "show": true
+        },
+        {
+          "form": "competitive",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "wanting to win",
+          "glossZh": "有竞争力的",
+          "exampleSentence": "Sports Day is the most competitive week.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "9": {
+      "vocabularyId": 9,
+      "english": "judge",
+      "root": "judge",
+      "derivatives": [
+        {
+          "form": "judgment",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an official decision",
+          "glossZh": "判决；判断",
+          "exampleSentence": "The judgment came from the video.",
+          "show": true
+        },
+        {
+          "form": "judging",
+          "pos": "v.",
+          "relation": "participle",
+          "glossEn": "deciding the winner",
+          "glossZh": "评判",
+          "exampleSentence": "The judges are judging the final.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "runner",
+      "root": "run",
+      "derivatives": [
+        {
+          "form": "run",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to move fast on foot",
+          "glossZh": "跑",
+          "exampleSentence": "Run as fast as you can.",
+          "show": true
+        },
+        {
+          "form": "running",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the sport of running",
+          "glossZh": "跑步",
+          "exampleSentence": "Running keeps me fit.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "11": {
+      "vocabularyId": 11,
+      "english": "advertisement",
+      "root": "advertise",
+      "derivatives": [
+        {
+          "form": "advertise",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to tell people about a product",
+          "glossZh": "做广告",
+          "exampleSentence": "They advertise Sports Day on posters.",
+          "show": true
+        },
+        {
+          "form": "advertising",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the business of ads",
+          "glossZh": "广告（业）",
+          "exampleSentence": "School advertising helps teams get members.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "13": {
+      "vocabularyId": 13,
+      "english": "smooth",
+      "root": "smooth",
+      "derivatives": [
+        {
+          "form": "smoothly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "without problems",
+          "glossZh": "顺利地",
+          "exampleSentence": "Pass the baton smoothly.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "18": {
+      "vocabularyId": 18,
+      "english": "amaze",
+      "root": "amaze",
+      "derivatives": [
+        {
+          "form": "amazing",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "causing great surprise",
+          "glossZh": "令人惊叹的",
+          "exampleSentence": "The final was amazing.",
+          "show": true
+        },
+        {
+          "form": "amazement",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "great surprise",
+          "glossZh": "惊奇",
+          "exampleSentence": "The crowd watched in amazement.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "20": {
+      "vocabularyId": 20,
+      "english": "truly",
+      "root": "true",
+      "derivatives": [
+        {
+          "form": "true",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "real; correct",
+          "glossZh": "真实的",
+          "exampleSentence": "A true champion stays humble.",
+          "show": true
+        },
+        {
+          "form": "truth",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "what is true",
+          "glossZh": "真相",
+          "exampleSentence": "Video shows the truth of the finish.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "28": {
+      "vocabularyId": 28,
+      "english": "compete",
+      "root": "compete",
+      "derivatives": [
+        {
+          "form": "competition",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an event where people try to win",
+          "glossZh": "比赛",
+          "exampleSentence": "The competition was close.",
+          "show": true
+        },
+        {
+          "form": "competitor",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "someone who competes",
+          "glossZh": "参赛者",
+          "exampleSentence": "Every competitor shook hands.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "31": {
+      "vocabularyId": 31,
+      "english": "dramatic",
+      "root": "drama",
+      "derivatives": [
+        {
+          "form": "drama",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "an exciting event; a play",
+          "glossZh": "戏剧；戏剧性事件",
+          "exampleSentence": "The last lap was pure drama.",
+          "show": true
+        },
+        {
+          "form": "dramatically",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a dramatic way",
+          "glossZh": "戏剧性地",
+          "exampleSentence": "The lead changed dramatically.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "33": {
+      "vocabularyId": 33,
+      "english": "talented",
+      "root": "talent",
+      "derivatives": [
+        {
+          "form": "talent",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a natural skill",
+          "glossZh": "才能",
+          "exampleSentence": "He has talent for the high jump.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "42": {
+      "vocabularyId": 42,
+      "english": "pride",
+      "root": "proud",
+      "derivatives": [
+        {
+          "form": "proud",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "pleased and satisfied",
+          "glossZh": "自豪的",
+          "exampleSentence": "Our class is proud of Teng Fei.",
+          "show": true
+        },
+        {
+          "form": "proudly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a proud way",
+          "glossZh": "自豪地",
+          "exampleSentence": "They proudly held the medal.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "44": {
+      "vocabularyId": 44,
+      "english": "deeply",
+      "root": "deep",
+      "derivatives": [
+        {
+          "form": "deep",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "going far down; strong",
+          "glossZh": "深的",
+          "exampleSentence": "We felt deep pride.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "47": {
+      "vocabularyId": 47,
+      "english": "satisfy",
+      "root": "satisfy",
+      "derivatives": [
+        {
+          "form": "satisfaction",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a happy feeling about results",
+          "glossZh": "满意",
+          "exampleSentence": "Finishing the race brings satisfaction.",
+          "show": true
+        },
+        {
+          "form": "satisfied",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "pleased",
+          "glossZh": "满意的",
+          "exampleSentence": "The coach looked satisfied.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "52": {
+      "vocabularyId": 52,
+      "english": "crowd",
+      "root": "crowd",
+      "derivatives": [
+        {
+          "form": "crowded",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "full of people",
+          "glossZh": "拥挤的",
+          "exampleSentence": "The stadium was crowded.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

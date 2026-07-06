@@ -149,15 +149,36 @@
       "questions": [
         {
           "id": 1,
-          "prompt": "How does Ms Wang describe being weightless?"
+          "prompt": "How does Ms Wang describe being weightless?",
+          "options": [
+            "Fun — she can turn and move by pushing against the wall",
+            "Boring and silent",
+            "Heavy and slow",
+            "Too cold to move"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 2,
-          "prompt": "What does Earth look like from the space station?"
+          "prompt": "What does Earth look like from the space station?",
+          "options": [
+            "A huge shining ball",
+            "A small dark room",
+            "A long tunnel",
+            "A plastic toy"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 3,
-          "prompt": "Why do astronauts have to be tied down to sleep?"
+          "prompt": "Why do astronauts have to be tied down to sleep?",
+          "options": [
+            "So they don’t fly away",
+            "So they can cook food",
+            "So cameras work better",
+            "So rockets start"
+          ],
+          "correctIndex": 0
         }
       ]
     }

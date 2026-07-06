@@ -1,47 +1,284 @@
 {
   "unit": 1,
   "bookId": "grade-9",
-  "updatedAt": "2026-06-18",
-  "sources": ["manual"],
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
   "entries": {
-    "12": {
-      "vocabularyId": 12,
-      "english": "government",
-      "root": "govern",
+    "11": {
+      "vocabularyId": 11,
+      "english": "sandy",
+      "root": "sand",
       "derivatives": [
         {
-          "form": "govern",
-          "pos": "v.",
+          "form": "sand",
+          "pos": "n.",
           "relation": "root",
-          "glossEn": "to officially control and manage a country, region, or organization",
-          "glossZh": "统治；管理；治理",
-          "exampleSentence": "Elected officials govern the country on behalf of the people.",
+          "glossEn": "fine grains of rock",
+          "glossZh": "沙子",
+          "exampleSentence": "Children played on the warm sand.",
+          "show": true
+        },
+        {
+          "form": "sandstorm",
+          "pos": "n.",
+          "relation": "compound",
+          "glossEn": "a storm of blowing sand",
+          "glossZh": "沙尘暴",
+          "exampleSentence": "Sandstorms used to hit the village often.",
           "show": true
         }
       ],
       "reviewed": true
     },
-    "19": {
-      "vocabularyId": 19,
-      "english": "attraction",
-      "root": "attract",
+    "13": {
+      "vocabularyId": 13,
+      "english": "support",
+      "root": "support",
       "derivatives": [
         {
-          "form": "attract",
-          "pos": "v.",
-          "relation": "root",
-          "glossEn": "to draw something toward; to cause interest or appeal",
-          "glossZh": "吸引；引起",
-          "exampleSentence": "Bright colors attract many tourists to the small coastal town.",
+          "form": "supporter",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who supports someone",
+          "glossZh": "支持者",
+          "exampleSentence": "She is a strong supporter of public libraries.",
           "show": true
         },
         {
-          "form": "attractive",
+          "form": "supporting",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "giving help or backing",
+          "glossZh": "支持的",
+          "exampleSentence": "He played a supporting role in the play.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "20": {
+      "vocabularyId": 20,
+      "english": "product",
+      "root": "produce",
+      "derivatives": [
+        {
+          "form": "produce",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to make or grow something",
+          "glossZh": "生产；制造",
+          "exampleSentence": "The factory produces phone cases.",
+          "show": true
+        },
+        {
+          "form": "production",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the act of producing",
+          "glossZh": "生产",
+          "exampleSentence": "Production has doubled this year.",
+          "show": true
+        },
+        {
+          "form": "productive",
           "pos": "adj.",
           "relation": "derivation",
-          "glossEn": "having the quality of attracting; pleasing or appealing",
-          "glossZh": "有吸引力的；迷人的",
-          "exampleSentence": "The museum offers an attractive display of ancient pottery.",
+          "glossEn": "able to produce a lot",
+          "glossZh": "多产的；高效的",
+          "exampleSentence": "It was a productive study session.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "21": {
+      "vocabularyId": 21,
+      "english": "greatly",
+      "root": "great",
+      "derivatives": [
+        {
+          "form": "great",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "very large or important",
+          "glossZh": "伟大的；巨大的",
+          "exampleSentence": "We made great progress last term.",
+          "show": true
+        },
+        {
+          "form": "greatness",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the quality of being great",
+          "glossZh": "伟大",
+          "exampleSentence": "His greatness comes from hard work.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "29": {
+      "vocabularyId": 29,
+      "english": "wide",
+      "root": "wide",
+      "derivatives": [
+        {
+          "form": "widely",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "by many people; broadly",
+          "glossZh": "广泛地",
+          "exampleSentence": "The news is widely known.",
+          "show": true
+        },
+        {
+          "form": "widen",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to make or become wider",
+          "glossZh": "加宽",
+          "exampleSentence": "They plan to widen the road.",
+          "show": true
+        },
+        {
+          "form": "width",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "how wide something is",
+          "glossZh": "宽度",
+          "exampleSentence": "What is the width of the table?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "36": {
+      "vocabularyId": 36,
+      "english": "convenient",
+      "root": "convenient",
+      "derivatives": [
+        {
+          "form": "convenience",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the quality of being convenient",
+          "glossZh": "便利",
+          "exampleSentence": "Online shopping offers great convenience.",
+          "show": true
+        },
+        {
+          "form": "conveniently",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a convenient way",
+          "glossZh": "方便地",
+          "exampleSentence": "The shop is conveniently located.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "41": {
+      "vocabularyId": 41,
+      "english": "manager",
+      "root": "manage",
+      "derivatives": [
+        {
+          "form": "manage",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to control or run something",
+          "glossZh": "管理",
+          "exampleSentence": "She manages a small team.",
+          "show": true
+        },
+        {
+          "form": "management",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the control of a business",
+          "glossZh": "管理",
+          "exampleSentence": "Good management saves time.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "44": {
+      "vocabularyId": 44,
+      "english": "villager",
+      "root": "village",
+      "derivatives": [
+        {
+          "form": "village",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a small community",
+          "glossZh": "村庄",
+          "exampleSentence": "They live in a quiet village.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "48": {
+      "vocabularyId": 48,
+      "english": "lead",
+      "root": "lead",
+      "derivatives": [
+        {
+          "form": "leader",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who leads",
+          "glossZh": "领导者",
+          "exampleSentence": "She became a team leader.",
+          "show": true
+        },
+        {
+          "form": "leading",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "most important; first",
+          "glossZh": "领先的",
+          "exampleSentence": "He is a leading scientist.",
+          "show": true
+        },
+        {
+          "form": "leadership",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the skill of leading",
+          "glossZh": "领导力",
+          "exampleSentence": "Leadership requires courage.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "51": {
+      "vocabularyId": 51,
+      "english": "discussion",
+      "root": "discuss",
+      "derivatives": [
+        {
+          "form": "discuss",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to talk about something",
+          "glossZh": "讨论",
+          "exampleSentence": "Let us discuss the plan.",
+          "show": true
+        },
+        {
+          "form": "discussing",
+          "pos": "v.",
+          "relation": "participle",
+          "glossEn": "talking about something",
+          "glossZh": "讨论（进行时）",
+          "exampleSentence": "They are discussing tomorrow’s trip.",
           "show": true
         }
       ],

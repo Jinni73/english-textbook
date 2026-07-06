@@ -278,15 +278,36 @@
       "questions": [
         {
           "id": 1,
-          "prompt": "What does Fu Xing use to learn new words?"
+          "prompt": "What does Fu Xing use to learn new words?",
+          "options": [
+            "Flashcards",
+            "Mind maps only",
+            "A timeline",
+            "A shopping list"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 2,
-          "prompt": "What does Teng Fei suggest noting down?"
+          "prompt": "What does Teng Fei suggest noting down?",
+          "options": [
+            "Useful expressions and word groups",
+            "Only Chinese translations",
+            "Maths formulas",
+            "Bus times"
+          ],
+          "correctIndex": 0
         },
         {
           "id": 3,
-          "prompt": "What reading advice does Mr Smith give Meimei?"
+          "prompt": "What reading advice does Mr Smith give Meimei?",
+          "options": [
+            "Choose interesting books at her level and read every day",
+            "Only read very hard books",
+            "Never read outside class",
+            "Read one book a year"
+          ],
+          "correctIndex": 0
         }
       ]
     }

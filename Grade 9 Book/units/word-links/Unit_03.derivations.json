@@ -1,0 +1,277 @@
+{
+  "unit": 3,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "1": {
+      "vocabularyId": 1,
+      "english": "learner",
+      "root": "learn",
+      "derivatives": [
+        {
+          "form": "learn",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to gain knowledge",
+          "glossZh": "学习",
+          "exampleSentence": "I learn English every morning.",
+          "show": true
+        },
+        {
+          "form": "learning",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the process of learning",
+          "glossZh": "学习",
+          "exampleSentence": "Learning takes practice.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "21": {
+      "vocabularyId": 21,
+      "english": "actively",
+      "root": "active",
+      "derivatives": [
+        {
+          "form": "active",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "doing things; busy",
+          "glossZh": "积极的",
+          "exampleSentence": "She is an active learner.",
+          "show": true
+        },
+        {
+          "form": "activity",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something you do",
+          "glossZh": "活动",
+          "exampleSentence": "Reading is my favourite activity.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "22": {
+      "vocabularyId": 22,
+      "english": "enjoyable",
+      "root": "enjoy",
+      "derivatives": [
+        {
+          "form": "enjoy",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to like doing something",
+          "glossZh": "享受；喜欢",
+          "exampleSentence": "I enjoy listening to podcasts.",
+          "show": true
+        },
+        {
+          "form": "enjoyment",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "pleasure from something",
+          "glossZh": "乐趣",
+          "exampleSentence": "Reading gives me enjoyment.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "25": {
+      "vocabularyId": 25,
+      "english": "correct",
+      "root": "correct",
+      "derivatives": [
+        {
+          "form": "correction",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a change that fixes a mistake",
+          "glossZh": "改正",
+          "exampleSentence": "Please check the correction.",
+          "show": true
+        },
+        {
+          "form": "correctly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a correct way",
+          "glossZh": "正确地",
+          "exampleSentence": "Spell the word correctly.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "26": {
+      "vocabularyId": 26,
+      "english": "suggest",
+      "root": "suggest",
+      "derivatives": [
+        {
+          "form": "suggestion",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an idea offered",
+          "glossZh": "建议",
+          "exampleSentence": "That is a useful suggestion.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "29": {
+      "vocabularyId": 29,
+      "english": "growth",
+      "root": "grow",
+      "derivatives": [
+        {
+          "form": "grow",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to become larger",
+          "glossZh": "成长；增长",
+          "exampleSentence": "Plants grow in spring.",
+          "show": true
+        },
+        {
+          "form": "growing",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "becoming larger",
+          "glossZh": "增长的",
+          "exampleSentence": "There is a growing interest in reading.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "33": {
+      "vocabularyId": 33,
+      "english": "guidance",
+      "root": "guide",
+      "derivatives": [
+        {
+          "form": "guide",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "to show the way; a person who guides",
+          "glossZh": "指导；导游",
+          "exampleSentence": "Ask a teacher to guide you.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "35": {
+      "vocabularyId": 35,
+      "english": "addition",
+      "root": "add",
+      "derivatives": [
+        {
+          "form": "add",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to put something with another",
+          "glossZh": "添加",
+          "exampleSentence": "Add sugar to the tea.",
+          "show": true
+        },
+        {
+          "form": "additional",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "extra",
+          "glossZh": "额外的",
+          "exampleSentence": "We need additional practice.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "39": {
+      "vocabularyId": 39,
+      "english": "advantage",
+      "root": "advantage",
+      "derivatives": [
+        {
+          "form": "advantageous",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "helpful or useful",
+          "glossZh": "有利的",
+          "exampleSentence": "Bilingual notes are advantageous.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "43": {
+      "vocabularyId": 43,
+      "english": "pronunciation",
+      "root": "pronounce",
+      "derivatives": [
+        {
+          "form": "pronounce",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to say a word correctly",
+          "glossZh": "发音",
+          "exampleSentence": "How do you pronounce this word?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "49": {
+      "vocabularyId": 49,
+      "english": "print",
+      "root": "print",
+      "derivatives": [
+        {
+          "form": "printer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a machine that prints",
+          "glossZh": "打印机",
+          "exampleSentence": "The printer is out of paper.",
+          "show": true
+        },
+        {
+          "form": "printed",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "produced by printing",
+          "glossZh": "印刷的",
+          "exampleSentence": "I prefer a printed checklist.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "52": {
+      "vocabularyId": 52,
+      "english": "recent",
+      "root": "recent",
+      "derivatives": [
+        {
+          "form": "recently",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "not long ago",
+          "glossZh": "最近",
+          "exampleSentence": "I recently started a podcast.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}

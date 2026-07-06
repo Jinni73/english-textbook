@@ -1,0 +1,398 @@
+{
+  "unit": 2,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "sources": [
+    "manual"
+  ],
+  "entries": {
+    "2": {
+      "vocabularyId": 2,
+      "english": "admire",
+      "root": "admire",
+      "derivatives": [
+        {
+          "form": "admirable",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "deserving admiration",
+          "glossZh": "令人钦佩的",
+          "exampleSentence": "Her honesty is truly admirable.",
+          "show": true
+        },
+        {
+          "form": "admiration",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a feeling of respect",
+          "glossZh": "钦佩",
+          "exampleSentence": "I have great admiration for teachers.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "3": {
+      "vocabularyId": 3,
+      "english": "historian",
+      "root": "history",
+      "derivatives": [
+        {
+          "form": "history",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "the study of past events",
+          "glossZh": "历史",
+          "exampleSentence": "He studies Chinese history.",
+          "show": true
+        },
+        {
+          "form": "historical",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "connected with history",
+          "glossZh": "历史的",
+          "exampleSentence": "It is a historical novel.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "4": {
+      "vocabularyId": 4,
+      "english": "researcher",
+      "root": "research",
+      "derivatives": [
+        {
+          "form": "research",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "careful study to find facts",
+          "glossZh": "研究",
+          "exampleSentence": "She does research on memory.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "5": {
+      "vocabularyId": 5,
+      "english": "chemist",
+      "root": "chemistry",
+      "derivatives": [
+        {
+          "form": "chemistry",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "the science of substances",
+          "glossZh": "化学",
+          "exampleSentence": "Chemistry is her favourite subject.",
+          "show": true
+        },
+        {
+          "form": "chemical",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "relating to chemistry",
+          "glossZh": "化学的",
+          "exampleSentence": "Chemical changes happen in labs.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "6": {
+      "vocabularyId": 6,
+      "english": "physicist",
+      "root": "physics",
+      "derivatives": [
+        {
+          "form": "physics",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "the science of matter and energy",
+          "glossZh": "物理",
+          "exampleSentence": "Physics explains how light works.",
+          "show": true
+        },
+        {
+          "form": "physical",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "relating to the body or physics",
+          "glossZh": "身体的；物理的",
+          "exampleSentence": "He needs more physical exercise.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "7": {
+      "vocabularyId": 7,
+      "english": "hunger",
+      "root": "hunger",
+      "derivatives": [
+        {
+          "form": "hungry",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "feeling the need for food",
+          "glossZh": "饥饿的",
+          "exampleSentence": "I feel hungry after PE class.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "11": {
+      "vocabularyId": 11,
+      "english": "discovery",
+      "root": "discover",
+      "derivatives": [
+        {
+          "form": "discover",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to find something new",
+          "glossZh": "发现",
+          "exampleSentence": "Scientists discover new stars.",
+          "show": true
+        },
+        {
+          "form": "discoverer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who discovers",
+          "glossZh": "发现者",
+          "exampleSentence": "The discoverer of penicillin saved many lives.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "13": {
+      "vocabularyId": 13,
+      "english": "wounded",
+      "root": "wound",
+      "derivatives": [
+        {
+          "form": "wound",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "an injury; to injure",
+          "glossZh": "伤口；使受伤",
+          "exampleSentence": "The doctor cleaned the wound.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "21": {
+      "vocabularyId": 21,
+      "english": "admirable",
+      "root": "admire",
+      "derivatives": [
+        {
+          "form": "admire",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to respect and like",
+          "glossZh": "钦佩",
+          "exampleSentence": "I admire her courage.",
+          "show": true
+        },
+        {
+          "form": "admiration",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a feeling of respect",
+          "glossZh": "钦佩",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "28": {
+      "vocabularyId": 28,
+      "english": "brave",
+      "root": "brave",
+      "derivatives": [
+        {
+          "form": "bravery",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "courageous behaviour",
+          "glossZh": "勇敢",
+          "exampleSentence": "His bravery saved the child.",
+          "show": true
+        },
+        {
+          "form": "bravely",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a brave way",
+          "glossZh": "勇敢地",
+          "exampleSentence": "She bravely asked for help.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "35": {
+      "vocabularyId": 35,
+      "english": "scientific",
+      "root": "science",
+      "derivatives": [
+        {
+          "form": "science",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "study of the natural world",
+          "glossZh": "科学",
+          "exampleSentence": "Science changes our daily lives.",
+          "show": true
+        },
+        {
+          "form": "scientist",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who does science",
+          "glossZh": "科学家",
+          "exampleSentence": "Marie Curie was a great scientist.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "42": {
+      "vocabularyId": 42,
+      "english": "collection",
+      "root": "collect",
+      "derivatives": [
+        {
+          "form": "collect",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to bring things together",
+          "glossZh": "收集",
+          "exampleSentence": "I collect stamps.",
+          "show": true
+        },
+        {
+          "form": "collector",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who collects",
+          "glossZh": "收藏者",
+          "exampleSentence": "He is a coin collector.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "44": {
+      "vocabularyId": 44,
+      "english": "exploration",
+      "root": "explore",
+      "derivatives": [
+        {
+          "form": "explore",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to travel and learn about a place",
+          "glossZh": "探索",
+          "exampleSentence": "We will explore the museum.",
+          "show": true
+        },
+        {
+          "form": "explorer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who explores",
+          "glossZh": "探险家",
+          "exampleSentence": "Famous explorers sailed across oceans.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "52": {
+      "vocabularyId": 52,
+      "english": "inventor",
+      "root": "invent",
+      "derivatives": [
+        {
+          "form": "invent",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to create something new",
+          "glossZh": "发明",
+          "exampleSentence": "Who invented the light bulb?",
+          "show": true
+        },
+        {
+          "form": "invention",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "something invented",
+          "glossZh": "发明",
+          "exampleSentence": "The phone is a useful invention.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "54": {
+      "vocabularyId": 54,
+      "english": "thinker",
+      "root": "think",
+      "derivatives": [
+        {
+          "form": "think",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to use the mind",
+          "glossZh": "思考",
+          "exampleSentence": "Think carefully before you answer.",
+          "show": true
+        },
+        {
+          "form": "thought",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an idea in the mind",
+          "glossZh": "想法",
+          "exampleSentence": "That is an interesting thought.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "57": {
+      "vocabularyId": 57,
+      "english": "kindness",
+      "root": "kind",
+      "derivatives": [
+        {
+          "form": "kind",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "friendly and helpful",
+          "glossZh": "善良的",
+          "exampleSentence": "Be kind to your classmates.",
+          "show": true
+        },
+        {
+          "form": "kindly",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a kind way",
+          "glossZh": "友善地",
+          "exampleSentence": "She kindly shared her notes.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    }
+  }
+}
