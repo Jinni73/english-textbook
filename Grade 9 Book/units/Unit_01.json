@@ -299,7 +299,7 @@
       "partOfSpeech": "n. & v.",
       "chinese": "交通路线；联系；连接",
       "example_sentence": "The railway links the port to the capital.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "铁路将港口与首都连接起来。"
     },
     {
@@ -309,7 +309,7 @@
       "partOfSpeech": "n.",
       "chinese": "港口",
       "example_sentence": "Goods from abroad arrive at the port every day.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "来自国外的货物每天抵达港口。"
     },
     {
@@ -339,7 +339,7 @@
       "partOfSpeech": "n. & v.",
       "chinese": "优势；益处；使受益",
       "example_sentence": "The new railway will benefit local villagers.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "新铁路将使当地村民受益。"
     },
     {
@@ -469,7 +469,7 @@
       "partOfSpeech": "n.",
       "chinese": "奇迹",
       "example_sentence": "Many people called the recovery a miracle.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "许多人把这次康复称为奇迹。"
     },
     {
@@ -489,7 +489,7 @@
       "partOfSpeech": "adj.",
       "chinese": "低年级的；初级的",
       "example_sentence": "She teaches in a junior school near the railway station.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "她在火车站附近的一所初中任教。"
     },
     {
@@ -499,7 +499,7 @@
       "partOfSpeech": "n.",
       "chinese": "公寓",
       "example_sentence": "Many workers rent a flat close to the port.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "许多工人在港口附近租公寓。"
     },
     {
@@ -509,7 +509,7 @@
       "partOfSpeech": "n.",
       "chinese": "讨论",
       "example_sentence": "The class had a lively discussion about Kenya's development.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "全班就肯尼亚的发展进行了热烈的讨论。"
     },
     {

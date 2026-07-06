@@ -16,7 +16,7 @@ Book page ≈ PDF page − 8.
 | word-links compounds | ✅ U1–8 (~34 entries) |
 | Grammar sections | ✅ passive / object / relative clauses |
 | Reading Plus | ❌ not in app |
-| Essential (`*`) calibration | ⚠️ audit script ready; manual PDF check pending |
+| Essential (appendix **bold**) | 🔄 U1 calibrated; U2–8 pending |
 | PDF tooling / source map | ✅ `_source_map.json` + `grade9:pdf-pages` |
 
 ---
@@ -48,12 +48,17 @@ App: optional **Action** column on `fill_table`; new **`fill_blanks`** type.
 
 Scripts: `grade9-listening-fill-exercises.mjs` merged by `grade9-listening-*.mjs`.
 
-## Phase 3 — Vocabulary audit (next)
+## Phase 3 — Vocabulary audit (in progress)
 
-- [x] `scripts/audit-grade9-vocab.mjs` — counts + audio gaps
-- [ ] Manual cross-check appendix pages 107–120 vs `Unit_XX.json`
-- [ ] Add missing headwords + `essential` from `*` markers
-- [ ] Regenerate audio for new/changed entries
+Textbook marks 重点词汇 in **bold**, not `*`.
+
+- [x] Render appendix PDF pages 107–122 → `.tmp/grade9-pdf/`
+- [x] OCR → `.tmp/grade9-vocab-ocr/` (tesseract eng)
+- [x] `scripts/audit-grade9-vocab.mjs` — JSON vs OCR headword coverage
+- [x] Unit 1: no missing headwords; `essential` calibrated from appendix bold
+- [x] Scripts: `grade9-essential-data.mjs` + `apply-grade9-essential.mjs`
+- [ ] Units 2–8: calibrate `essential` from appendix bold
+- [ ] Regenerate audio only if headwords added
 
 ## Phase 4 — word-links compounds ✅
 
@@ -76,5 +81,5 @@ Scripts: `grade9-listening-fill-exercises.mjs` merged by `grade9-listening-*.mjs
 
 ## Execution order
 
-**Done:** P0 → P5 derivations (20/unit)  
-**Next:** P3 manual appendix cross-check · commit/push as needed · optional Reading Plus
+**Done:** P0–P2, P4, P5 · P3 OCR + Unit 1 essential  
+**Next:** Finish P3 essentials for U2–8 · optional Reading Plus
