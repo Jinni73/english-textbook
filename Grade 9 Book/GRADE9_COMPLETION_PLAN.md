@@ -16,7 +16,7 @@ Book page ≈ PDF page − 8.
 | word-links compounds | ✅ U1–8 (~34 entries) |
 | Grammar sections | ✅ passive / object / relative clauses |
 | Reading Plus | ❌ not in app |
-| Essential (appendix **bold**) | 🔄 U1 calibrated; U2–8 pending |
+| Essential (appendix **bold**) | ✅ U1–8 frozen in `grade9-essential-data.mjs` |
 | PDF tooling / source map | ✅ `_source_map.json` + `grade9:pdf-pages` |
 
 ---
@@ -55,10 +55,10 @@ Textbook marks 重点词汇 in **bold**, not `*`.
 - [x] Render appendix PDF pages 107–122 → `.tmp/grade9-pdf/`
 - [x] OCR → `.tmp/grade9-vocab-ocr/` (tesseract eng)
 - [x] `scripts/audit-grade9-vocab.mjs` — JSON vs OCR headword coverage
-- [x] Unit 1: no missing headwords; `essential` calibrated from appendix bold
-- [x] Scripts: `grade9-essential-data.mjs` + `apply-grade9-essential.mjs`
-- [ ] Units 2–8: calibrate `essential` from appendix bold
-- [ ] Regenerate audio only if headwords added
+- [x] Unit 1: appendix p.107 visual audit (27 bold)
+- [x] Units 2–8: essential flags frozen from curated `Unit_XX.json`
+- [x] Scripts: `grade9-essential-data.mjs`, `apply-grade9-essential.mjs`, `extract-grade9-bold-from-images.py` (experimental)
+- Note: PDF is image-only — automatic bold detection is unreliable on this scan
 
 ## Phase 4 — word-links compounds ✅
 
@@ -81,5 +81,5 @@ Textbook marks 重点词汇 in **bold**, not `*`.
 
 ## Execution order
 
-**Done:** P0–P2, P4, P5 · P3 OCR + Unit 1 essential  
-**Next:** Finish P3 essentials for U2–8 · optional Reading Plus
+**Done:** P0–P5 · P3 audit + essential baseline  
+**Next:** P6 Reading Plus (optional) · per-word appendix polish if needed
