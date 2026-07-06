@@ -1,0 +1,79 @@
+{
+  "unit": 7,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "12": {
+      "vocabularyId": 12,
+      "english": "keyboard",
+      "parts": [
+        {
+          "form": "key",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a button you press on an instrument or computer",
+          "glossZh": "键",
+          "color": "teal"
+        },
+        {
+          "form": "board",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a flat surface holding keys or controls",
+          "glossZh": "板",
+          "color": "orange"
+        }
+      ],
+      "note": "From key + board — a set of keys for typing or playing music.",
+      "reviewed": true
+    },
+    "27": {
+      "vocabularyId": 27,
+      "english": "download",
+      "parts": [
+        {
+          "form": "down",
+          "role": "modifier",
+          "pos": "adv.",
+          "glossEn": "from a higher place or system to a lower one",
+          "glossZh": "向下",
+          "color": "teal"
+        },
+        {
+          "form": "load",
+          "role": "head",
+          "pos": "v.",
+          "glossEn": "to put data or goods onto a system",
+          "glossZh": "装载；载入",
+          "color": "orange"
+        }
+      ],
+      "note": "From down + load — copy a file from the internet to your device.",
+      "reviewed": true
+    },
+    "53": {
+      "vocabularyId": 53,
+      "english": "schoolmate",
+      "parts": [
+        {
+          "form": "school",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a place where children learn",
+          "glossZh": "学校",
+          "color": "teal"
+        },
+        {
+          "form": "mate",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a friend or companion",
+          "glossZh": "伙伴；同伴",
+          "color": "orange"
+        }
+      ],
+      "note": "From school + mate — someone who goes to the same school as you.",
+      "reviewed": true
+    }
+  }
+}

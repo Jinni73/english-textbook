@@ -225,7 +225,7 @@
       "id": 3,
       "title": "The Changing World",
       "subtitle": "Section A, 2b and 2c",
-      "instruction": "Listen to Bob's conversation with Li Rui's grandpa. Then answer the questions.",
+      "instruction": "Listen to Bob's conversation with Li Rui's grandpa. Complete the table about how the town changed.",
       "speakers": [
         {
           "id": "bob",
@@ -285,7 +285,113 @@
           "id": 3,
           "prompt": "How did they plant the bushes at the beginning?"
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_table",
+        "columnLabels": {
+          "past": "Past",
+          "action": "Action",
+          "present": "Present"
+        },
+        "rows": [
+          {
+            "id": 1,
+            "past": {
+              "before": "There used to be ",
+              "after": " all the time.",
+              "answers": [
+                "sandstorms"
+              ]
+            },
+            "action": {
+              "before": "They found a small ",
+              "after": " with long roots.",
+              "answers": [
+                "bush"
+              ]
+            },
+            "present": {
+              "before": "There are fewer ",
+              "after": " now.",
+              "answers": [
+                "sandstorms"
+              ]
+            }
+          },
+          {
+            "id": 2,
+            "past": {
+              "before": "The fields were getting ",
+              "after": " and smaller.",
+              "answers": [
+                "smaller"
+              ]
+            },
+            "action": {
+              "before": "They began planting it in sandy ",
+              "after": ".",
+              "answers": [
+                "areas"
+              ]
+            },
+            "present": {
+              "before": "The corn fields are ",
+              "after": ".",
+              "answers": [
+                "huge"
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "past": {
+              "before": "At the beginning, locals worked by ",
+              "after": ".",
+              "answers": [
+                "hand"
+              ]
+            },
+            "action": {
+              "before": "The government provided ",
+              "after": ".",
+              "answers": [
+                "support"
+              ]
+            },
+            "present": {
+              "before": "The environment is getting ",
+              "after": ".",
+              "answers": [
+                "better"
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "past": {
+              "before": "The hills were covered with ",
+              "after": ".",
+              "answers": [
+                "sand"
+              ]
+            },
+            "action": {
+              "before": "Later, they had ",
+              "after": " to help.",
+              "answers": [
+                "machines"
+              ]
+            },
+            "present": {
+              "before": "They have planted many bushes and ",
+              "after": " since then.",
+              "answers": [
+                "trees"
+              ]
+            }
+          }
+        ]
+      }
     }
   ]
 }

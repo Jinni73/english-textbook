@@ -180,7 +180,52 @@
           ],
           "correctIndex": 0
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_blanks",
+        "items": [
+          {
+            "id": 1,
+            "before": "Earth looks like a huge shining ",
+            "after": ".",
+            "answers": [
+              "ball"
+            ]
+          },
+          {
+            "id": 2,
+            "before": "Food is prepared on Earth and kept in ",
+            "after": ".",
+            "answers": [
+              "bags"
+            ]
+          },
+          {
+            "id": 3,
+            "before": "They have over ",
+            "after": " dishes to choose from.",
+            "answers": [
+              "120"
+            ]
+          },
+          {
+            "id": 4,
+            "before": "Astronauts have to be tied down so they do not ",
+            "after": " away.",
+            "answers": [
+              "fly"
+            ]
+          },
+          {
+            "id": 5,
+            "before": "",
+            "after": " astronauts will arrive next month.",
+            "answers": [
+              "Two"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

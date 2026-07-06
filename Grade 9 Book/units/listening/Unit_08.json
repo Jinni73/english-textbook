@@ -284,27 +284,59 @@
           "text": "Congratulations to Class 1!"
         }
       ],
-      "instruction": "Listen to the 4×100-metre relay commentary. What happened in the race?",
+      "instruction": "Listen to the live sports report. Circle T for true or F for false.",
       "questions": [
         {
           "id": 1,
-          "prompt": "Who dropped the baton?",
+          "prompt": "Wang Yaming took the lead first.",
           "options": [
-            "Peter",
-            "Han Lin",
-            "Teng Fei",
-            "Wang Yaming"
+            "True",
+            "False"
           ],
           "correctIndex": 0
         },
         {
           "id": 2,
-          "prompt": "Who won the race?",
+          "prompt": "Peter kept the lead over other runners.",
           "options": [
-            "Teng Fei (Class 1)",
-            "Xie Tao",
-            "Han Lin alone",
-            "It was not decided"
+            "True",
+            "False"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "prompt": "Peter performed a smooth handoff to Han Lin.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 4,
+          "prompt": "Li Lei was making up ground on Han Lin.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "prompt": "Teng Fei was trying to catch up with Xie Tao.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 6,
+          "prompt": "Teng Fei's team were the champions.",
+          "options": [
+            "True",
+            "False"
           ],
           "correctIndex": 0
         }

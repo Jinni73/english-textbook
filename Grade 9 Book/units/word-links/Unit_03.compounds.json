@@ -1,0 +1,175 @@
+{
+  "unit": 3,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "2": {
+      "vocabularyId": 2,
+      "english": "flashcard",
+      "parts": [
+        {
+          "form": "flash",
+          "role": "modifier",
+          "pos": "v.",
+          "glossEn": "to show something quickly",
+          "glossZh": "闪现；快速出示",
+          "color": "teal"
+        },
+        {
+          "form": "card",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a small piece of stiff paper",
+          "glossZh": "卡片",
+          "color": "orange"
+        }
+      ],
+      "note": "From flash + card — a small card used for quick review while learning.",
+      "reviewed": true
+    },
+    "4": {
+      "vocabularyId": 4,
+      "english": "website",
+      "parts": [
+        {
+          "form": "web",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "short for World Wide Web; the internet",
+          "glossZh": "网络（Web 的简称）",
+          "color": "teal"
+        },
+        {
+          "form": "site",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a place; a location on the internet",
+          "glossZh": "地点；站点",
+          "color": "orange"
+        }
+      ],
+      "note": "From web + site — a set of pages on the internet.",
+      "reviewed": true
+    },
+    "5": {
+      "vocabularyId": 5,
+      "english": "hands-on",
+      "parts": [
+        {
+          "form": "hands",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "parts of the body used to hold and make things",
+          "glossZh": "手",
+          "color": "teal"
+        },
+        {
+          "form": "on",
+          "role": "head",
+          "pos": "prep.",
+          "glossEn": "in contact with; actively involved",
+          "glossZh": "在……上；参与",
+          "color": "orange"
+        }
+      ],
+      "note": "From hands + on — learning by doing things yourself.",
+      "reviewed": true
+    },
+    "38": {
+      "vocabularyId": 38,
+      "english": "textbook",
+      "parts": [
+        {
+          "form": "text",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "written words in a book or article",
+          "glossZh": "课文；文本",
+          "color": "teal"
+        },
+        {
+          "form": "book",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a set of printed pages bound together",
+          "glossZh": "书",
+          "color": "orange"
+        }
+      ],
+      "note": "From text + book — a book used for studying a subject.",
+      "reviewed": true
+    },
+    "48": {
+      "vocabularyId": 48,
+      "english": "schoolwork",
+      "parts": [
+        {
+          "form": "school",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a place where children learn",
+          "glossZh": "学校",
+          "color": "teal"
+        },
+        {
+          "form": "work",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "tasks or study you must do",
+          "glossZh": "工作；作业",
+          "color": "orange"
+        }
+      ],
+      "note": "From school + work — tasks and homework from school.",
+      "reviewed": true
+    },
+    "50": {
+      "vocabularyId": 50,
+      "english": "newspaper",
+      "parts": [
+        {
+          "form": "news",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "information about recent events",
+          "glossZh": "新闻",
+          "color": "teal"
+        },
+        {
+          "form": "paper",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "thin material used for writing or printing",
+          "glossZh": "纸",
+          "color": "orange"
+        }
+      ],
+      "note": "From news + paper — printed pages with news stories.",
+      "reviewed": true
+    },
+    "51": {
+      "vocabularyId": 51,
+      "english": "e-book",
+      "parts": [
+        {
+          "form": "e",
+          "role": "modifier",
+          "pos": "prefix",
+          "glossEn": "short for electronic",
+          "glossZh": "电子的（electronic 的缩写）",
+          "color": "teal"
+        },
+        {
+          "form": "book",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a set of written pages or text for reading",
+          "glossZh": "书",
+          "color": "orange"
+        }
+      ],
+      "note": "From e- + book — a book read on a screen.",
+      "reviewed": true
+    }
+  }
+}

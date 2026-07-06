@@ -1,0 +1,55 @@
+{
+  "unit": 2,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "16": {
+      "vocabularyId": 16,
+      "english": "airway",
+      "parts": [
+        {
+          "form": "air",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the mixture of gases we breathe",
+          "glossZh": "空气",
+          "color": "teal"
+        },
+        {
+          "form": "way",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a route or path for travel",
+          "glossZh": "路；道路",
+          "color": "orange"
+        }
+      ],
+      "note": "From air + way — a route that planes fly along.",
+      "reviewed": true
+    },
+    "51": {
+      "vocabularyId": 51,
+      "english": "woodwork",
+      "parts": [
+        {
+          "form": "wood",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the hard material that trees are made of",
+          "glossZh": "木头；木材",
+          "color": "teal"
+        },
+        {
+          "form": "work",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "skill or activity; things made by skill",
+          "glossZh": "工作；制品",
+          "color": "orange"
+        }
+      ],
+      "note": "From wood + work — skill or products made from wood.",
+      "reviewed": true
+    }
+  }
+}

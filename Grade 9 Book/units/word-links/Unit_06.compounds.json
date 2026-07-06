@@ -1,0 +1,55 @@
+{
+  "unit": 6,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "25": {
+      "vocabularyId": 25,
+      "english": "spacecraft",
+      "parts": [
+        {
+          "form": "space",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the area beyond Earth's atmosphere",
+          "glossZh": "太空；宇宙空间",
+          "color": "teal"
+        },
+        {
+          "form": "craft",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a vehicle for travel, especially in air or water",
+          "glossZh": "飞行器；船",
+          "color": "orange"
+        }
+      ],
+      "note": "From space + craft — a vehicle designed to travel in space.",
+      "reviewed": true
+    },
+    "38": {
+      "vocabularyId": 38,
+      "english": "spaceship",
+      "parts": [
+        {
+          "form": "space",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the area beyond Earth's atmosphere",
+          "glossZh": "太空；宇宙空间",
+          "color": "teal"
+        },
+        {
+          "form": "ship",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a large vehicle for travel",
+          "glossZh": "船；飞船",
+          "color": "orange"
+        }
+      ],
+      "note": "From space + ship — a ship that travels in space.",
+      "reviewed": true
+    }
+  }
+}

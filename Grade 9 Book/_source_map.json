@@ -1,0 +1,25 @@
+{
+  "book": "Grade 9 Book (2024 PEP, 2026秋)",
+  "sourcePdf": "26秋人教英语9上清晰彩版(1).pdf",
+  "sourcePdfHint": "User copy at ~/Desktop/26秋人教英语9上清晰彩版(1).pdf — do not commit PDF to git",
+  "pdfPageOffset": 8,
+  "appendix": {
+    "listeningScripts": "p.94–103",
+    "grammar": "p.104+",
+    "vocabularyInEachUnit": "p.107–122",
+    "vocabularyAZ": "p.123+",
+    "irregularVerbs": "p.128+",
+    "readingPlus": "p.81+"
+  },
+  "units": [
+    { "unit": 1, "title": "The Changing World", "bookStartPage": 1 },
+    { "unit": 2, "title": "Inspiring People", "bookStartPage": 11 },
+    { "unit": 3, "title": "Smart Learning", "bookStartPage": 21 },
+    { "unit": 4, "title": "Our Memory", "bookStartPage": 31 },
+    { "unit": 5, "title": "Power of Ideas", "bookStartPage": 41 },
+    { "unit": 6, "title": "Beyond Earth", "bookStartPage": 51 },
+    { "unit": 7, "title": "Feel the Rhythm", "bookStartPage": 61 },
+    { "unit": 8, "title": "More than a Game", "bookStartPage": 71 }
+  ],
+  "generatedAt": "2026-07-06"
+}

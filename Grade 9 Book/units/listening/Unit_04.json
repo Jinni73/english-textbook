@@ -283,7 +283,36 @@
           ],
           "correctIndex": 0
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_blanks",
+        "items": [
+          {
+            "id": 1,
+            "before": "",
+            "after": " is like a chain, and new knowledge is best remembered by linking it with old knowledge.",
+            "answers": [
+              "Knowledge"
+            ]
+          },
+          {
+            "id": 2,
+            "before": "Pay attention to ",
+            "after": ". Study how they are different from each other.",
+            "answers": [
+              "details"
+            ]
+          },
+          {
+            "id": 3,
+            "before": "Scientists are still working on this ",
+            "after": ". Such memory is probably stored in a more stable area of our brain.",
+            "answers": [
+              "mystery"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

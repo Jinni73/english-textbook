@@ -234,7 +234,44 @@
           ],
           "correctIndex": 0
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_blanks",
+        "items": [
+          {
+            "id": 1,
+            "before": "They mix rock, pop, and traditional Chinese music to make a new ",
+            "after": ".",
+            "answers": [
+              "style"
+            ]
+          },
+          {
+            "id": 2,
+            "before": "You can hear the erhu and pipa with the keyboard and electric ",
+            "after": ".",
+            "answers": [
+              "guitar"
+            ]
+          },
+          {
+            "id": 3,
+            "before": "The lead singer Bob Wu has a voice listeners love all ",
+            "after": ".",
+            "answers": [
+              "day"
+            ]
+          },
+          {
+            "id": 4,
+            "before": "They should play ",
+            "after": " — everyone loves it.",
+            "answers": [
+              "Horse Racing"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

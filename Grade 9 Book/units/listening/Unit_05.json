@@ -266,7 +266,45 @@
           ],
           "correctIndex": 0
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_blanks",
+        "items": [
+          {
+            "id": 1,
+            "before": "The object is ",
+            "after": " on the computer.",
+            "answers": [
+              "designed"
+            ]
+          },
+          {
+            "id": 2,
+            "before": "A file is ",
+            "after": " to the 3D printer.",
+            "answers": [
+              "sent"
+            ]
+          },
+          {
+            "id": 3,
+            "before": "The file is ",
+            "after": " by the 3D printer.",
+            "answers": [
+              "read"
+            ]
+          },
+          {
+            "id": 4,
+            "before": "The object is ",
+            "after": " by building up plastic.",
+            "answers": [
+              "produced",
+              "created"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

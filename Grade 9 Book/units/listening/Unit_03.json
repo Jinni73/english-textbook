@@ -309,7 +309,44 @@
           ],
           "correctIndex": 0
         }
-      ]
+      ],
+      "exercise": {
+        "type": "fill_blanks",
+        "items": [
+          {
+            "id": 1,
+            "before": "Today's question: What are some good ways to learn ",
+            "after": "?",
+            "answers": [
+              "English"
+            ]
+          },
+          {
+            "id": 2,
+            "before": "Learn new words by using ",
+            "after": ".",
+            "answers": [
+              "flashcards"
+            ]
+          },
+          {
+            "id": 3,
+            "before": "Note down useful expressions and ",
+            "after": " groups.",
+            "answers": [
+              "word"
+            ]
+          },
+          {
+            "id": 4,
+            "before": "Read ",
+            "after": " every day and read widely.",
+            "answers": [
+              "something"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

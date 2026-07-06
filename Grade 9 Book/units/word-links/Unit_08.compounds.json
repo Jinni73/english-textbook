@@ -1,0 +1,103 @@
+{
+  "unit": 8,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "1": {
+      "vocabularyId": 1,
+      "english": "pull-up",
+      "parts": [
+        {
+          "form": "pull",
+          "role": "modifier",
+          "pos": "v.",
+          "glossEn": "to move something towards you with force",
+          "glossZh": "拉",
+          "color": "teal"
+        },
+        {
+          "form": "up",
+          "role": "head",
+          "pos": "adv.",
+          "glossEn": "to a higher position",
+          "glossZh": "向上",
+          "color": "orange"
+        }
+      ],
+      "note": "From pull + up — an exercise where you pull your body up on a bar.",
+      "reviewed": true
+    },
+    "3": {
+      "vocabularyId": 3,
+      "english": "shot-put",
+      "parts": [
+        {
+          "form": "shot",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a heavy metal ball thrown in athletics",
+          "glossZh": "铅球",
+          "color": "teal"
+        },
+        {
+          "form": "put",
+          "role": "head",
+          "pos": "v.",
+          "glossEn": "to place or throw something in a controlled way",
+          "glossZh": "投；放",
+          "color": "orange"
+        }
+      ],
+      "note": "From shot + put — an athletics event of throwing a heavy ball.",
+      "reviewed": true
+    },
+    "6": {
+      "vocabularyId": 6,
+      "english": "tryout",
+      "parts": [
+        {
+          "form": "try",
+          "role": "modifier",
+          "pos": "v.",
+          "glossEn": "to attempt or test something",
+          "glossZh": "尝试；试验",
+          "color": "teal"
+        },
+        {
+          "form": "out",
+          "role": "head",
+          "pos": "adv.",
+          "glossEn": "to the end; fully",
+          "glossZh": "出；彻底",
+          "color": "orange"
+        }
+      ],
+      "note": "From try + out — a test or selection session for a team or event.",
+      "reviewed": true
+    },
+    "7": {
+      "vocabularyId": 7,
+      "english": "handoff",
+      "parts": [
+        {
+          "form": "hand",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the part of the body at the end of the arm",
+          "glossZh": "手",
+          "color": "teal"
+        },
+        {
+          "form": "off",
+          "role": "head",
+          "pos": "adv.",
+          "glossEn": "away from; transferring to another",
+          "glossZh": "离开；交接",
+          "color": "orange"
+        }
+      ],
+      "note": "From hand + off — passing the baton from one runner to the next.",
+      "reviewed": true
+    }
+  }
+}

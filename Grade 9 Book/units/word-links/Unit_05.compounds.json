@@ -1,0 +1,79 @@
+{
+  "unit": 5,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "6": {
+      "vocabularyId": 6,
+      "english": "sunglasses",
+      "parts": [
+        {
+          "form": "sun",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the star that gives Earth light and heat",
+          "glossZh": "太阳",
+          "color": "teal"
+        },
+        {
+          "form": "glasses",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "lenses worn in front of the eyes",
+          "glossZh": "眼镜",
+          "color": "orange"
+        }
+      ],
+      "note": "From sun + glasses — dark glasses that protect the eyes from sunlight.",
+      "reviewed": true
+    },
+    "30": {
+      "vocabularyId": 30,
+      "english": "papermaking",
+      "parts": [
+        {
+          "form": "paper",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "thin material used for writing or printing",
+          "glossZh": "纸",
+          "color": "teal"
+        },
+        {
+          "form": "making",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "the process of creating something",
+          "glossZh": "制造；制作",
+          "color": "orange"
+        }
+      ],
+      "note": "From paper + making — the industry or skill of making paper.",
+      "reviewed": true
+    },
+    "42": {
+      "vocabularyId": 42,
+      "english": "workshop",
+      "parts": [
+        {
+          "form": "work",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "activity involving effort or skill",
+          "glossZh": "工作",
+          "color": "teal"
+        },
+        {
+          "form": "shop",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a place where work is done or things are made",
+          "glossZh": "车间；作坊",
+          "color": "orange"
+        }
+      ],
+      "note": "From work + shop — a room or building where things are made or repaired.",
+      "reviewed": true
+    }
+  }
+}

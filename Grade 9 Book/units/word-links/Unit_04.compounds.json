@@ -1,0 +1,127 @@
+{
+  "unit": 4,
+  "bookId": "grade-9",
+  "updatedAt": "2026-07-06",
+  "entries": {
+    "24": {
+      "vocabularyId": 24,
+      "english": "airport",
+      "parts": [
+        {
+          "form": "air",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "the sky or air travel",
+          "glossZh": "空中；航空",
+          "color": "teal"
+        },
+        {
+          "form": "port",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a place where vehicles arrive and leave",
+          "glossZh": "港口；站",
+          "color": "orange"
+        }
+      ],
+      "note": "From air + port — a place where planes take off and land.",
+      "reviewed": true
+    },
+    "26": {
+      "vocabularyId": 26,
+      "english": "grown-up",
+      "parts": [
+        {
+          "form": "grown",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "fully developed; adult",
+          "glossZh": "长大的；成熟的",
+          "color": "teal"
+        },
+        {
+          "form": "up",
+          "role": "head",
+          "pos": "adv.",
+          "glossEn": "to a higher or older state",
+          "glossZh": "向上；长大",
+          "color": "orange"
+        }
+      ],
+      "note": "From grown + up — an adult person.",
+      "reviewed": true
+    },
+    "31": {
+      "vocabularyId": 31,
+      "english": "short-term",
+      "parts": [
+        {
+          "form": "short",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "lasting only a little time",
+          "glossZh": "短的",
+          "color": "teal"
+        },
+        {
+          "form": "term",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a period of time",
+          "glossZh": "期限；时期",
+          "color": "orange"
+        }
+      ],
+      "note": "From short + term — lasting only a short time.",
+      "reviewed": true
+    },
+    "32": {
+      "vocabularyId": 32,
+      "english": "long-term",
+      "parts": [
+        {
+          "form": "long",
+          "role": "modifier",
+          "pos": "adj.",
+          "glossEn": "lasting a great amount of time",
+          "glossZh": "长的；长期的",
+          "color": "teal"
+        },
+        {
+          "form": "term",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a period of time",
+          "glossZh": "期限；时期",
+          "color": "orange"
+        }
+      ],
+      "note": "From long + term — lasting for a long time.",
+      "reviewed": true
+    },
+    "52": {
+      "vocabularyId": 52,
+      "english": "notebook",
+      "parts": [
+        {
+          "form": "note",
+          "role": "modifier",
+          "pos": "n.",
+          "glossEn": "a short piece of writing to help you remember",
+          "glossZh": "笔记；便条",
+          "color": "teal"
+        },
+        {
+          "form": "book",
+          "role": "head",
+          "pos": "n.",
+          "glossEn": "a set of paper pages bound together",
+          "glossZh": "本子；书",
+          "color": "orange"
+        }
+      ],
+      "note": "From note + book — a book for writing notes (also: a small laptop).",
+      "reviewed": true
+    }
+  }
+}
