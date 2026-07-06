@@ -42,6 +42,31 @@
           "speaker": "teng_fei",
           "text": "Exactly!"
         }
+      ],
+      "instruction": "Listen to the conversation. How does Teng Fei study for maths?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What does Teng Fei use to study maths?",
+          "options": [
+            "A learning app",
+            "Flashcards",
+            "A podcast",
+            "A dictionary only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What does the app do after the test?",
+          "options": [
+            "It gives exercises for weak points",
+            "It plays a podcast",
+            "It prints a magazine",
+            "It skips grammar"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -80,6 +105,31 @@
         {
           "speaker": "adam",
           "text": "Sounds interesting. Thanks!"
+        }
+      ],
+      "instruction": "Listen to Adam and Fu Xing. How does Fu Xing study history?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How does Fu Xing mainly study history?",
+          "options": [
+            "By taking notes",
+            "By watching TV",
+            "By printing newspapers",
+            "By skipping timelines"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What tools does Fu Xing mention?",
+          "options": [
+            "Timelines and mind maps",
+            "Flashcards only",
+            "A website only",
+            "E-books only"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -123,6 +173,31 @@
         {
           "speaker": "peter",
           "text": "Exactly!"
+        }
+      ],
+      "instruction": "Listen to Ella and Peter. What is Peter’s secret to learning physics?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How does Peter like to learn physics?",
+          "options": [
+            "Hands-on experiments",
+            "Reading newspapers",
+            "Memorizing grammar",
+            "Using flashcards only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Why does Peter do experiments?",
+          "options": [
+            "To see how physics connects with real life",
+            "To avoid dialogue practice",
+            "To print textbooks",
+            "To speed through homework"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -197,6 +272,21 @@
         {
           "speaker": "mr_smith",
           "text": "Yes, choose something interesting and easy to read. Read something every day and read widely. The more you read, the faster and better you'll become. Any other ideas?"
+        }
+      ],
+      "instruction": "Listen to the English club discussion. What good ways to learn English are mentioned?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What does Fu Xing use to learn new words?"
+        },
+        {
+          "id": 2,
+          "prompt": "What does Teng Fei suggest noting down?"
+        },
+        {
+          "id": 3,
+          "prompt": "What reading advice does Mr Smith give Meimei?"
         }
       ]
     }

@@ -25,6 +25,42 @@
           "speaker": "news_reader",
           "text": "Hello! We have more news about space telescopes. The China Space Station Telescope (CSST), also known as Xuntian, will be sent to space around 2026. This huge and modern telescope weighs about 15,550 kilograms. It is designed to move along with Tiangong space station, so it can be more easily maintained and repaired. It is expected to help people explore more areas in space."
         }
+      ],
+      "instruction": "Listen to the news report. Complete your notes about China’s space programme.",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "When did China’s Zhurong rover land on Mars?",
+          "options": [
+            "2021",
+            "2022",
+            "2026",
+            "2030"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "When was the Tiangong Space Station completed?",
+          "options": [
+            "2022",
+            "2021",
+            "2026",
+            "2030"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "prompt": "When will the CSST (Xuntian) telescope be sent to space?",
+          "options": [
+            "Around 2026",
+            "Around 2021",
+            "Around 2030",
+            "Around 2019"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -107,6 +143,21 @@
         {
           "speaker": "ms_wang",
           "text": "It's never boring in space. Actually, two astronauts will arrive next month. It's very exciting."
+        }
+      ],
+      "instruction": "Listen to students’ questions for Ms Wang on the space station. Answer the questions.",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How does Ms Wang describe being weightless?"
+        },
+        {
+          "id": 2,
+          "prompt": "What does Earth look like from the space station?"
+        },
+        {
+          "id": 3,
+          "prompt": "Why do astronauts have to be tied down to sleep?"
         }
       ]
     }

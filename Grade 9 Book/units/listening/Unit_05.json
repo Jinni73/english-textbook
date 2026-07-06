@@ -50,6 +50,31 @@
           "speaker": "ella",
           "text": "Amazing!"
         }
+      ],
+      "instruction": "Listen at the inventions exhibition. What are Super See glasses used for?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who are Super See glasses for?",
+          "options": [
+            "People who cannot see well",
+            "People who cook food",
+            "People who print houses",
+            "People who need a dictionary"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What can the glasses do with words?",
+          "options": [
+            "Turn them into sound",
+            "Delete them",
+            "Print them",
+            "Translate to Chinese only"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -100,6 +125,31 @@
         {
           "speaker": "guide_2",
           "text": "How nice of you to think so. I'm sure your mother will love it."
+        }
+      ],
+      "instruction": "Listen about Smart Cook. How does the machine work?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where do you put the food?",
+          "options": [
+            "In the cup on top",
+            "Under the table",
+            "In a newspaper",
+            "On a shelf only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "How many kinds of dishes can Smart Cook make?",
+          "options": [
+            "Hundreds",
+            "Only one",
+            "About ten",
+            "None"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -179,6 +229,21 @@
         {
           "speaker": "ella",
           "text": "Oh, really? I'd love to try 3D-printed food!"
+        }
+      ],
+      "instruction": "Listen to Ella and Han Lin. What can a 3D printer make?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Name three everyday objects Han Lin mentions."
+        },
+        {
+          "id": 2,
+          "prompt": "What medical example does Han Lin give?"
+        },
+        {
+          "id": 3,
+          "prompt": "What is the first step in using a 3D printer?"
         }
       ]
     }

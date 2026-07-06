@@ -51,6 +51,31 @@
           "speaker": "peter",
           "text": "Good idea!"
         }
+      ],
+      "instruction": "Listen to the Sports Day conversation. What events might the students try?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What event will Fu Xing try?",
+          "options": [
+            "The high jump",
+            "The 100 metres",
+            "The 1,500 metres",
+            "The relay only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What does Fu Xing suggest for Binbin?",
+          "options": [
+            "The 1,500 metres",
+            "The high jump",
+            "No events",
+            "Basketball"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -89,6 +114,31 @@
         {
           "speaker": "peter",
           "text": "No problem. The team looks great!"
+        }
+      ],
+      "instruction": "Listen to Peter and Teng Fei. Who will join the 4×100-metre relay?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who has already agreed to join the relay?",
+          "options": [
+            "Han Lin",
+            "Adam",
+            "Meimei",
+            "Binbin"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Who will be the fourth runner?",
+          "options": [
+            "Wang Yaming",
+            "Adam",
+            "Binbin",
+            "Meimei"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -140,6 +190,31 @@
         {
           "speaker": "meimei",
           "text": "Yes! I can't wait!"
+        }
+      ],
+      "instruction": "Listen to Peter and Meimei. What is Meimei’s role on Sports Day?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What job did Ms Gao give Meimei?",
+          "options": [
+            "School photographer and reporter",
+            "Relay runner",
+            "High jump judge",
+            "Team coach"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Which events is Meimei most looking forward to?",
+          "options": [
+            "The 4×100-metre relay and the team pull-up competition",
+            "The high jump only",
+            "The 1,500 metres",
+            "Basketball"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -207,6 +282,31 @@
         {
           "speaker": "adam",
           "text": "Congratulations to Class 1!"
+        }
+      ],
+      "instruction": "Listen to the 4×100-metre relay commentary. What happened in the race?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who dropped the baton?",
+          "options": [
+            "Peter",
+            "Han Lin",
+            "Teng Fei",
+            "Wang Yaming"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Who won the race?",
+          "options": [
+            "Teng Fei (Class 1)",
+            "Xie Tao",
+            "Han Lin alone",
+            "It was not decided"
+          ],
+          "correctIndex": 0
         }
       ]
     }

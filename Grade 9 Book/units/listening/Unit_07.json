@@ -73,6 +73,42 @@
           "speaker": "debbie",
           "text": "I prefer music that I can sing along to, so it's pop for me."
         }
+      ],
+      "instruction": "Listen to the survey about music. What kind of music does each student like?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What kind of music does Teng Fei like?",
+          "options": [
+            "Traditional folk music",
+            "Rock",
+            "Rap",
+            "Pop only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What kind of music does Clarice like?",
+          "options": [
+            "Rock",
+            "Folk music",
+            "Rap",
+            "Classical only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "prompt": "What kind of music does Debbie prefer?",
+          "options": [
+            "Pop she can sing along to",
+            "Rock",
+            "Rap",
+            "Folk music"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -161,6 +197,21 @@
         {
           "speaker": "clarice",
           "text": "Cool! You should wear it to the concert!"
+        }
+      ],
+      "instruction": "Listen to the students talk about the Chinese Dragon band. Answer the questions.",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Where is the band going to perform?"
+        },
+        {
+          "id": 2,
+          "prompt": "What instruments are played together in their music?"
+        },
+        {
+          "id": 3,
+          "prompt": "Which piece does Debbie think they should play?"
         }
       ]
     }

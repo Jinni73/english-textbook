@@ -43,6 +43,31 @@
           "speaker": "ms_gao",
           "text": "Yes, Michael Faraday dropped out of school at an early age, but he found every chance to study and became a great scientist. Thanks!"
         }
+      ],
+      "instruction": "Listen to the classroom conversations. Match each speaker with the person they admire.",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who does Yaming admire?",
+          "options": [
+            "Yuan Longping",
+            "Michael Faraday",
+            "Sima Qian",
+            "Marie Curie"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Who does Peter admire?",
+          "options": [
+            "Yuan Longping",
+            "Michael Faraday",
+            "Sima Qian",
+            "Marie Curie"
+          ],
+          "correctIndex": 1
+        }
       ]
     },
     {
@@ -94,6 +119,31 @@
         {
           "speaker": "ms_gao",
           "text": "Yes. I admire Madame Curie too! It was difficult for women to do that kind of work back in those days. And she won two Nobel Prizes!"
+        }
+      ],
+      "instruction": "Listen again. Who do Fu Xing’s father and Emma’s grandmother admire?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who does Fu Xing’s father admire?",
+          "options": [
+            "Sima Qian",
+            "Marie Curie",
+            "Yuan Longping",
+            "Isaac Newton"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Who does Emma’s grandmother admire?",
+          "options": [
+            "Sima Qian",
+            "Marie Curie",
+            "Florence Nightingale",
+            "Alan Turing"
+          ],
+          "correctIndex": 1
         }
       ]
     },
@@ -159,6 +209,42 @@
         {
           "speaker": "gina",
           "text": "Yes, I agree. He was a pioneer of computer science. Thanks, Steve."
+        }
+      ],
+      "instruction": "Listen to Gina’s family survey. Who does each family member admire?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "Who does Dad admire?",
+          "options": [
+            "Isambard Brunel",
+            "Florence Nightingale",
+            "Isaac Newton",
+            "Alan Turing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "Who does Mum admire?",
+          "options": [
+            "Isambard Brunel",
+            "Florence Nightingale",
+            "Isaac Newton",
+            "Marie Curie"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 3,
+          "prompt": "Who does Steve admire (besides Alan Turing)?",
+          "options": [
+            "Isaac Newton",
+            "Michael Faraday",
+            "Sima Qian",
+            "Yuan Longping"
+          ],
+          "correctIndex": 0
         }
       ]
     }

@@ -66,6 +66,42 @@
           "speaker": "mum",
           "text": "One more thing, darling. Next time, take a shopping list!"
         }
+      ],
+      "instruction": "Listen to Peter and his mum. What was Peter asked to buy, and what did he forget?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What did Peter wrongly put in his basket?",
+          "options": [
+            "Flour",
+            "Sugar",
+            "Strawberries",
+            "Butter"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What was running out at home?",
+          "options": [
+            "Sugar",
+            "Milk",
+            "Eggs",
+            "Butter"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "prompt": "What is Mum going to make?",
+          "options": [
+            "A strawberry cake",
+            "Bread",
+            "Soup",
+            "A sandwich"
+          ],
+          "correctIndex": 0
+        }
       ]
     },
     {
@@ -124,6 +160,31 @@
         {
           "speaker": "fu_xing",
           "text": "Oh Billy, you really should go to that lecture on time!"
+        }
+      ],
+      "instruction": "Listen to Billy and Fu Xing. What problems does Billy have?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "What did Billy forget yesterday?",
+          "options": [
+            "Fu Xing's birthday",
+            "His homework",
+            "The lecture",
+            "The shopping list"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "prompt": "What time does Professor Green’s lecture begin?",
+          "options": [
+            "9:00",
+            "9:30",
+            "8:30",
+            "10:00"
+          ],
+          "correctIndex": 0
         }
       ]
     },
@@ -185,6 +246,21 @@
         {
           "speaker": "professor",
           "text": "Exactly! And at your age, your brain is developing fast, so put it to good use!"
+        }
+      ],
+      "instruction": "Listen to the lecture. What advice does the professor give about memory?",
+      "questions": [
+        {
+          "id": 1,
+          "prompt": "How is new knowledge best remembered, according to the professor?"
+        },
+        {
+          "id": 2,
+          "prompt": "What example of mixed-up words does Fu Xing give?"
+        },
+        {
+          "id": 3,
+          "prompt": "Why is riding a bike easier to remember than a shopping list?"
         }
       ]
     }
