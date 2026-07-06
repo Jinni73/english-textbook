@@ -32,6 +32,23 @@
       ],
       "reviewed": true
     },
+    "2": {
+      "vocabularyId": 2,
+      "english": "camera",
+      "root": "camera",
+      "derivatives": [
+        {
+          "form": "cameraman",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who operates a camera",
+          "glossZh": "摄影师",
+          "exampleSentence": "The cameraman filmed the exhibition.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "12": {
       "vocabularyId": 12,
       "english": "produce",
@@ -62,6 +79,23 @@
           "glossEn": "a person or company that produces",
           "glossZh": "生产者",
           "exampleSentence": "China is a major producer of cameras.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "14": {
+      "vocabularyId": 14,
+      "english": "plastic",
+      "root": "plastic",
+      "derivatives": [
+        {
+          "form": "plasticity",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "ability to be shaped",
+          "glossZh": "可塑性",
+          "exampleSentence": "Clay has plasticity when wet.",
           "show": true
         }
       ],
@@ -145,6 +179,32 @@
       ],
       "reviewed": true
     },
+    "27": {
+      "vocabularyId": 27,
+      "english": "tourism",
+      "root": "tour",
+      "derivatives": [
+        {
+          "form": "tour",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "a journey for pleasure",
+          "glossZh": "旅行；游览",
+          "exampleSentence": "We took a tour of the tunnel.",
+          "show": true
+        },
+        {
+          "form": "tourist",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who travels for pleasure",
+          "glossZh": "游客",
+          "exampleSentence": "Tourists visit the invention show.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "29": {
       "vocabularyId": 29,
       "english": "reality",
@@ -214,6 +274,32 @@
       ],
       "reviewed": true
     },
+    "34": {
+      "vocabularyId": 34,
+      "english": "shape",
+      "root": "shape",
+      "derivatives": [
+        {
+          "form": "shaped",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "given a particular form",
+          "glossZh": "成形的",
+          "exampleSentence": "The clay was shaped into a bowl.",
+          "show": true
+        },
+        {
+          "form": "shapeless",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "without a clear shape",
+          "glossZh": "无定形的",
+          "exampleSentence": "The blob looked shapeless at first.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "40": {
       "vocabularyId": 40,
       "english": "expensive",
@@ -235,6 +321,58 @@
           "glossEn": "cheaply",
           "glossZh": "便宜地",
           "exampleSentence": "You can print notes inexpensively.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "41": {
+      "vocabularyId": 41,
+      "english": "officer",
+      "root": "office",
+      "derivatives": [
+        {
+          "form": "office",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a room or building for work",
+          "glossZh": "办公室",
+          "exampleSentence": "She works in a government office.",
+          "show": true
+        },
+        {
+          "form": "official",
+          "pos": "n. & adj.",
+          "relation": "derivation",
+          "glossEn": "a person in authority; formal",
+          "glossZh": "官员；正式的",
+          "exampleSentence": "An official checked the files.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "44": {
+      "vocabularyId": 44,
+      "english": "ideal",
+      "root": "ideal",
+      "derivatives": [
+        {
+          "form": "ideally",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in the best possible way",
+          "glossZh": "理想地",
+          "exampleSentence": "Ideally, the machine runs quietly.",
+          "show": true
+        },
+        {
+          "form": "idealistic",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "believing in high principles",
+          "glossZh": "理想主义的",
+          "exampleSentence": "Young inventors are often idealistic.",
           "show": true
         }
       ],

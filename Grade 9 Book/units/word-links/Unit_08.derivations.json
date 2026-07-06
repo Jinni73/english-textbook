@@ -188,6 +188,32 @@
       ],
       "reviewed": true
     },
+    "27": {
+      "vocabularyId": 27,
+      "english": "bouldering",
+      "root": "boulder",
+      "derivatives": [
+        {
+          "form": "boulder",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a large rock",
+          "glossZh": "巨石",
+          "exampleSentence": "Bouldering is climbing on large rocks.",
+          "show": true
+        },
+        {
+          "form": "bouldery",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "full of boulders",
+          "glossZh": "多巨石的",
+          "exampleSentence": "The bouldery cliff challenged climbers.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "28": {
       "vocabularyId": 28,
       "english": "compete",
@@ -257,6 +283,84 @@
       ],
       "reviewed": true
     },
+    "36": {
+      "vocabularyId": 36,
+      "english": "gold",
+      "root": "gold",
+      "derivatives": [
+        {
+          "form": "golden",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "made of gold; excellent",
+          "glossZh": "金色的；极好的",
+          "exampleSentence": "She won a golden medal.",
+          "show": true
+        },
+        {
+          "form": "goldfish",
+          "pos": "n.",
+          "relation": "compound",
+          "glossEn": "a small orange fish",
+          "glossZh": "金鱼",
+          "exampleSentence": "A goldfish swam in the bowl.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "37": {
+      "vocabularyId": 37,
+      "english": "medal",
+      "root": "medal",
+      "derivatives": [
+        {
+          "form": "medallist",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who wins a medal",
+          "glossZh": "奖牌获得者",
+          "exampleSentence": "The medallist smiled on the podium.",
+          "show": true
+        },
+        {
+          "form": "medallion",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a large medal or pendant",
+          "glossZh": "大奖章",
+          "exampleSentence": "He wore a medallion on his chest.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "41": {
+      "vocabularyId": 41,
+      "english": "citizen",
+      "root": "city",
+      "derivatives": [
+        {
+          "form": "city",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a large town",
+          "glossZh": "城市",
+          "exampleSentence": "Every citizen should know the rules.",
+          "show": true
+        },
+        {
+          "form": "citizenship",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the status of being a citizen",
+          "glossZh": "公民身份",
+          "exampleSentence": "Citizenship brings duties and rights.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "42": {
       "vocabularyId": 42,
       "english": "pride",
@@ -300,6 +404,32 @@
       ],
       "reviewed": true
     },
+    "46": {
+      "vocabularyId": 46,
+      "english": "master",
+      "root": "master",
+      "derivatives": [
+        {
+          "form": "mastery",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "great skill or knowledge",
+          "glossZh": "精通；掌握",
+          "exampleSentence": "Mastery of the high jump takes years.",
+          "show": true
+        },
+        {
+          "form": "masterpiece",
+          "pos": "n.",
+          "relation": "compound",
+          "glossEn": "a work of outstanding skill",
+          "glossZh": "杰作",
+          "exampleSentence": "Her relay run was a masterpiece.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "47": {
       "vocabularyId": 47,
       "english": "satisfy",
@@ -321,6 +451,32 @@
           "glossEn": "pleased",
           "glossZh": "满意的",
           "exampleSentence": "The coach looked satisfied.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "51": {
+      "vocabularyId": 51,
+      "english": "drown",
+      "root": "drown",
+      "derivatives": [
+        {
+          "form": "drowned",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "killed by water",
+          "glossZh": "溺死的",
+          "exampleSentence": "Never swim where others have drowned.",
+          "show": true
+        },
+        {
+          "form": "drowning",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "death by being underwater",
+          "glossZh": "溺水",
+          "exampleSentence": "Lifeguards prevent drowning.",
           "show": true
         }
       ],

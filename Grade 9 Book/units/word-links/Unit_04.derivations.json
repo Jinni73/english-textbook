@@ -6,6 +6,32 @@
     "manual"
   ],
   "entries": {
+    "1": {
+      "vocabularyId": 1,
+      "english": "position",
+      "root": "position",
+      "derivatives": [
+        {
+          "form": "positioning",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the way something is placed",
+          "glossZh": "定位；布置",
+          "exampleSentence": "Good positioning helps memory.",
+          "show": true
+        },
+        {
+          "form": "reposition",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to move to a new position",
+          "glossZh": "重新定位",
+          "exampleSentence": "Reposition the picture in your mind.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "2": {
       "vocabularyId": 2,
       "english": "sadness",
@@ -49,6 +75,23 @@
       ],
       "reviewed": true
     },
+    "7": {
+      "vocabularyId": 7,
+      "english": "chain",
+      "root": "chain",
+      "derivatives": [
+        {
+          "form": "chained",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "linked like a chain",
+          "glossZh": "用链锁住的；连锁的",
+          "exampleSentence": "Ideas can be chained together.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "8": {
       "vocabularyId": 8,
       "english": "stable",
@@ -75,6 +118,32 @@
       ],
       "reviewed": true
     },
+    "9": {
+      "vocabularyId": 9,
+      "english": "lecture",
+      "root": "lecture",
+      "derivatives": [
+        {
+          "form": "lecturer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who gives lectures",
+          "glossZh": "讲师",
+          "exampleSentence": "The lecturer explained memory tricks.",
+          "show": true
+        },
+        {
+          "form": "lecturing",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "giving lectures",
+          "glossZh": "讲课",
+          "exampleSentence": "Lecturing requires clear examples.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "10": {
       "vocabularyId": 10,
       "english": "retell",
@@ -96,6 +165,118 @@
           "glossEn": "telling again in new words",
           "glossZh": "复述",
           "exampleSentence": "Retelling helps memory.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "13": {
+      "vocabularyId": 13,
+      "english": "grandson",
+      "root": "grand",
+      "derivatives": [
+        {
+          "form": "grand",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "important; of a grandparent generation",
+          "glossZh": "宏伟的；隔代的",
+          "exampleSentence": "My grandpa told a grand story.",
+          "show": true
+        },
+        {
+          "form": "granddaughter",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a daughter of your son or daughter",
+          "glossZh": "孙女；外孙女",
+          "exampleSentence": "His granddaughter visits every week.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "19": {
+      "vocabularyId": 19,
+      "english": "opera",
+      "root": "opera",
+      "derivatives": [
+        {
+          "form": "operatic",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "relating to opera",
+          "glossZh": "歌剧的",
+          "exampleSentence": "She loves operatic singing.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "21": {
+      "vocabularyId": 21,
+      "english": "wallet",
+      "root": "case",
+      "derivatives": [
+        {
+          "form": "case",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a container or example",
+          "glossZh": "箱子；情况",
+          "exampleSentence": "Keep your cards in a case.",
+          "show": true
+        },
+        {
+          "form": "encase",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to cover completely",
+          "glossZh": "包住",
+          "exampleSentence": "The phone is encased in plastic.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "22": {
+      "vocabularyId": 22,
+      "english": "picnic",
+      "root": "picnic",
+      "derivatives": [
+        {
+          "form": "picnicker",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person on a picnic",
+          "glossZh": "野餐者",
+          "exampleSentence": "Picnickers sat on the grass.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "25": {
+      "vocabularyId": 25,
+      "english": "gunshot",
+      "root": "gun",
+      "derivatives": [
+        {
+          "form": "gun",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a weapon that shoots bullets",
+          "glossZh": "枪",
+          "exampleSentence": "The loud gunshot startled everyone.",
+          "show": true
+        },
+        {
+          "form": "gunfire",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the sound of guns firing",
+          "glossZh": "枪声",
+          "exampleSentence": "Gunfire echoed in the film.",
           "show": true
         }
       ],

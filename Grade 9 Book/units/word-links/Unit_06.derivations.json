@@ -6,6 +6,127 @@
     "manual"
   ],
   "entries": {
+    "1": {
+      "vocabularyId": 1,
+      "english": "beyond",
+      "root": "yond",
+      "derivatives": [
+        {
+          "form": "yonder",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "over there; at a distance",
+          "glossZh": "那边的",
+          "exampleSentence": "Look at the hills yonder beyond the town.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "2": {
+      "vocabularyId": 2,
+      "english": "mission",
+      "root": "mission",
+      "derivatives": [
+        {
+          "form": "commission",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an official group or task",
+          "glossZh": "委员会；委托",
+          "exampleSentence": "The space commission planned the launch.",
+          "show": true
+        },
+        {
+          "form": "missionary",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person sent on a mission",
+          "glossZh": "特派员；传教士",
+          "exampleSentence": "A missionary spirit drives exploration.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "3": {
+      "vocabularyId": 3,
+      "english": "telescope",
+      "root": "scope",
+      "derivatives": [
+        {
+          "form": "scope",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "the range of view or study",
+          "glossZh": "范围；视野",
+          "exampleSentence": "The telescope widens our scope of space.",
+          "show": true
+        },
+        {
+          "form": "microscope",
+          "pos": "n.",
+          "relation": "compound",
+          "glossEn": "an instrument for tiny objects",
+          "glossZh": "显微镜",
+          "exampleSentence": "A microscope shows small worlds.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "5": {
+      "vocabularyId": 5,
+      "english": "manned",
+      "root": "man",
+      "derivatives": [
+        {
+          "form": "man",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "an adult male human",
+          "glossZh": "男人",
+          "exampleSentence": "A manned mission needs trained astronauts.",
+          "show": true
+        },
+        {
+          "form": "unmanned",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "without people on board",
+          "glossZh": "无人（驾驶）的",
+          "exampleSentence": "An unmanned rover explored Mars.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "6": {
+      "vocabularyId": 6,
+      "english": "maintain",
+      "root": "maintain",
+      "derivatives": [
+        {
+          "form": "maintenance",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "keeping something in good condition",
+          "glossZh": "维护；保养",
+          "exampleSentence": "Regular maintenance keeps telescopes working.",
+          "show": true
+        },
+        {
+          "form": "maintainer",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who maintains",
+          "glossZh": "维护人员",
+          "exampleSentence": "A maintainer repaired the station.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "8": {
       "vocabularyId": 8,
       "english": "weightless",
@@ -84,6 +205,32 @@
       ],
       "reviewed": true
     },
+    "12": {
+      "vocabularyId": 12,
+      "english": "tie",
+      "root": "tie",
+      "derivatives": [
+        {
+          "form": "tied",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "fastened with a rope or knot",
+          "glossZh": "被绑住的",
+          "exampleSentence": "Astronauts are tied down to sleep.",
+          "show": true
+        },
+        {
+          "form": "untie",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to undo a knot",
+          "glossZh": "解开",
+          "exampleSentence": "Untie the rope carefully.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "17": {
       "vocabularyId": 17,
       "english": "require",
@@ -110,6 +257,49 @@
       ],
       "reviewed": true
     },
+    "18": {
+      "vocabularyId": 18,
+      "english": "rocket",
+      "root": "rocket",
+      "derivatives": [
+        {
+          "form": "rocketry",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the science of rockets",
+          "glossZh": "火箭学",
+          "exampleSentence": "Rocketry advanced quickly last century.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "19": {
+      "vocabularyId": 19,
+      "english": "cancel",
+      "root": "cancel",
+      "derivatives": [
+        {
+          "form": "cancellation",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "the act of cancelling",
+          "glossZh": "取消",
+          "exampleSentence": "Flight cancellation disappointed fans.",
+          "show": true
+        },
+        {
+          "form": "cancelled",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "called off",
+          "glossZh": "被取消的",
+          "exampleSentence": "The launch was cancelled due to weather.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "20": {
       "vocabularyId": 20,
       "english": "publish",
@@ -131,6 +321,32 @@
           "glossEn": "something published",
           "glossZh": "出版物；发表",
           "exampleSentence": "Her article is a new publication.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "22": {
+      "vocabularyId": 22,
+      "english": "solar",
+      "root": "solar",
+      "derivatives": [
+        {
+          "form": "solar system",
+          "pos": "n.",
+          "relation": "phrase",
+          "glossEn": "the sun and planets around it",
+          "glossZh": "太阳系",
+          "exampleSentence": "Earth is part of the solar system.",
+          "show": true
+        },
+        {
+          "form": "solar power",
+          "pos": "n.",
+          "relation": "phrase",
+          "glossEn": "energy from the sun",
+          "glossZh": "太阳能",
+          "exampleSentence": "Solar power lights the station.",
           "show": true
         }
       ],

@@ -6,6 +6,49 @@
     "manual"
   ],
   "entries": {
+    "6": {
+      "vocabularyId": 6,
+      "english": "shortage",
+      "root": "short",
+      "derivatives": [
+        {
+          "form": "short",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "not long; not enough",
+          "glossZh": "短的；不足的",
+          "exampleSentence": "We had a short break.",
+          "show": true
+        },
+        {
+          "form": "shorten",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to make shorter",
+          "glossZh": "缩短",
+          "exampleSentence": "They shortened the route.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "soil",
+      "root": "soil",
+      "derivatives": [
+        {
+          "form": "soiled",
+          "pos": "adj.",
+          "relation": "participle",
+          "glossEn": "made dirty",
+          "glossZh": "弄脏的",
+          "exampleSentence": "His shoes were soiled after the rain.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "11": {
       "vocabularyId": 11,
       "english": "sandy",
@@ -27,6 +70,32 @@
           "glossEn": "a storm of blowing sand",
           "glossZh": "沙尘暴",
           "exampleSentence": "Sandstorms used to hit the village often.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "12": {
+      "vocabularyId": 12,
+      "english": "government",
+      "root": "govern",
+      "derivatives": [
+        {
+          "form": "govern",
+          "pos": "v.",
+          "relation": "root",
+          "glossEn": "to control a country or area",
+          "glossZh": "统治；管理",
+          "exampleSentence": "Leaders govern the nation.",
+          "show": true
+        },
+        {
+          "form": "governor",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who governs",
+          "glossZh": "州长；总督",
+          "exampleSentence": "The governor visited the town.",
           "show": true
         }
       ],
@@ -119,6 +188,101 @@
       ],
       "reviewed": true
     },
+    "22": {
+      "vocabularyId": 22,
+      "english": "socialist",
+      "root": "social",
+      "derivatives": [
+        {
+          "form": "social",
+          "pos": "adj.",
+          "relation": "root",
+          "glossEn": "relating to society",
+          "glossZh": "社会的",
+          "exampleSentence": "Social change takes time.",
+          "show": true
+        },
+        {
+          "form": "socialism",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "a political system",
+          "glossZh": "社会主义",
+          "exampleSentence": "They studied socialism in history class.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "24": {
+      "vocabularyId": 24,
+      "english": "housing",
+      "root": "house",
+      "derivatives": [
+        {
+          "form": "house",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a building to live in",
+          "glossZh": "房子",
+          "exampleSentence": "New housing was built near the river.",
+          "show": true
+        },
+        {
+          "form": "household",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "all the people living in one home",
+          "glossZh": "家庭；住户",
+          "exampleSentence": "Each household received support.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "25": {
+      "vocabularyId": 25,
+      "english": "digital",
+      "root": "digit",
+      "derivatives": [
+        {
+          "form": "digit",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a number from 0 to 9",
+          "glossZh": "数字",
+          "exampleSentence": "Enter each digit carefully.",
+          "show": true
+        },
+        {
+          "form": "digitally",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "using digital technology",
+          "glossZh": "以数字方式",
+          "exampleSentence": "Payments are made digitally now.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "27": {
+      "vocabularyId": 27,
+      "english": "dirt",
+      "root": "dirt",
+      "derivatives": [
+        {
+          "form": "dirty",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "not clean",
+          "glossZh": "脏的",
+          "exampleSentence": "Wash your dirty hands.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "29": {
       "vocabularyId": 29,
       "english": "wide",
@@ -154,6 +318,32 @@
       ],
       "reviewed": true
     },
+    "32": {
+      "vocabularyId": 32,
+      "english": "capital",
+      "root": "capital",
+      "derivatives": [
+        {
+          "form": "capitalize",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to use an opportunity fully",
+          "glossZh": "充分利用",
+          "exampleSentence": "We must capitalize on this chance.",
+          "show": true
+        },
+        {
+          "form": "capitalism",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an economic system",
+          "glossZh": "资本主义",
+          "exampleSentence": "The book explains capitalism simply.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "36": {
       "vocabularyId": 36,
       "english": "convenient",
@@ -175,6 +365,58 @@
           "glossEn": "in a convenient way",
           "glossZh": "方便地",
           "exampleSentence": "The shop is conveniently located.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "37": {
+      "vocabularyId": 37,
+      "english": "business",
+      "root": "business",
+      "derivatives": [
+        {
+          "form": "businessman",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a man who works in business",
+          "glossZh": "商人",
+          "exampleSentence": "Her father is a businessman.",
+          "show": true
+        },
+        {
+          "form": "businesswoman",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a woman who works in business",
+          "glossZh": "女商人",
+          "exampleSentence": "The businesswoman opened a new shop.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "38": {
+      "vocabularyId": 38,
+      "english": "ease",
+      "root": "ease",
+      "derivatives": [
+        {
+          "form": "easy",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "not difficult",
+          "glossZh": "容易的",
+          "exampleSentence": "The test was easy for her.",
+          "show": true
+        },
+        {
+          "form": "easily",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "without difficulty",
+          "glossZh": "容易地",
+          "exampleSentence": "She easily finished the work.",
           "show": true
         }
       ],

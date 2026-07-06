@@ -32,6 +32,144 @@
       ],
       "reviewed": true
     },
+    "3": {
+      "vocabularyId": 3,
+      "english": "project",
+      "root": "project",
+      "derivatives": [
+        {
+          "form": "projection",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "an estimate of future results",
+          "glossZh": "预测；投影",
+          "exampleSentence": "Sales projection looks good.",
+          "show": true
+        },
+        {
+          "form": "projector",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a machine that projects images",
+          "glossZh": "投影仪",
+          "exampleSentence": "The projector needs a new bulb.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "8": {
+      "vocabularyId": 8,
+      "english": "dictionary",
+      "root": "dict",
+      "derivatives": [
+        {
+          "form": "dictation",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "writing down what someone says",
+          "glossZh": "听写",
+          "exampleSentence": "We had an English dictation.",
+          "show": true
+        },
+        {
+          "form": "predict",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to say what will happen",
+          "glossZh": "预测",
+          "exampleSentence": "Can you predict the result?",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "10": {
+      "vocabularyId": 10,
+      "english": "dialogue",
+      "root": "dialogue",
+      "derivatives": [
+        {
+          "form": "dialog",
+          "pos": "n.",
+          "relation": "variant",
+          "glossEn": "a conversation in a book or film",
+          "glossZh": "对话（美式拼写）",
+          "exampleSentence": "Read the dialog aloud.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "12": {
+      "vocabularyId": 12,
+      "english": "general",
+      "root": "general",
+      "derivatives": [
+        {
+          "form": "generally",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "usually; in most cases",
+          "glossZh": "通常；普遍地",
+          "exampleSentence": "People generally like music.",
+          "show": true
+        },
+        {
+          "form": "generate",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to produce or create",
+          "glossZh": "产生；生成",
+          "exampleSentence": "Wind can generate electricity.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "14": {
+      "vocabularyId": 14,
+      "english": "speed",
+      "root": "speed",
+      "derivatives": [
+        {
+          "form": "speedy",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "fast",
+          "glossZh": "快速的",
+          "exampleSentence": "We hope for a speedy recovery.",
+          "show": true
+        },
+        {
+          "form": "speeding",
+          "pos": "n.",
+          "relation": "derivation",
+          "glossEn": "driving faster than allowed",
+          "glossZh": "超速行驶",
+          "exampleSentence": "Speeding is dangerous.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "15": {
+      "vocabularyId": 15,
+      "english": "grammar",
+      "root": "grammar",
+      "derivatives": [
+        {
+          "form": "grammatical",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "relating to grammar",
+          "glossZh": "语法的",
+          "exampleSentence": "Check the grammatical structure.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "21": {
       "vocabularyId": 21,
       "english": "actively",
@@ -84,6 +222,32 @@
       ],
       "reviewed": true
     },
+    "23": {
+      "vocabularyId": 23,
+      "english": "strategy",
+      "root": "strategy",
+      "derivatives": [
+        {
+          "form": "strategic",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "planned for a purpose",
+          "glossZh": "战略的；关键的",
+          "exampleSentence": "Reading is a strategic skill.",
+          "show": true
+        },
+        {
+          "form": "strategist",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who plans strategy",
+          "glossZh": "战略家",
+          "exampleSentence": "A good strategist studies patterns.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "25": {
       "vocabularyId": 25,
       "english": "correct",
@@ -122,6 +286,23 @@
           "glossEn": "an idea offered",
           "glossZh": "建议",
           "exampleSentence": "That is a useful suggestion.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "27": {
+      "vocabularyId": 27,
+      "english": "method",
+      "root": "method",
+      "derivatives": [
+        {
+          "form": "methodical",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "done in a careful ordered way",
+          "glossZh": "有条理的",
+          "exampleSentence": "She is methodical in her notes.",
           "show": true
         }
       ],

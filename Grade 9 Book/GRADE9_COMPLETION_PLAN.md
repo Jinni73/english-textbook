@@ -12,7 +12,7 @@ Book page ≈ PDF page − 8.
 | Listening MC questions | ✅ Units 1–8 graded/open prompts |
 | Listening fill-table / blanks | ✅ Units 1, 3–7 fill exercises; U8 T/F MC |
 | Unit titles | ✅ Textbook names U1–8 |
-| word-links derivations | ✅ 103 families (10–16/unit) |
+| word-links derivations | ✅ 160 families (20/unit) |
 | word-links compounds | ✅ U1–8 (~34 entries) |
 | Grammar sections | ✅ passive / object / relative clauses |
 | Reading Plus | ❌ not in app |
@@ -61,10 +61,10 @@ Scripts: `grade9-listening-fill-exercises.mjs` merged by `grade9-listening-*.mjs
 - [x] Scripts: `grade9-compounds-data.mjs` + `npm run grade9:compounds`
 - Coverage: U1 (8, existing) · U2 (2) · U3 (7) · U4 (5) · U5 (3) · U6 (2) · U7 (3) · U8 (4)
 
-## Phase 5 — Expand derivations
+## Phase 5 — Expand derivations ✅
 
-- [ ] Grow `grade9-derivations-data.mjs` toward ~20 families/unit
-- [ ] Prioritise remaining essential headwords
+- [x] Grow `grade9-derivations-data.mjs` to 20 families/unit (160 total)
+- [ ] Prioritise remaining essential headwords without families (ongoing polish)
 
 ## Phase 6 — Optional / later
 
@@ -76,5 +76,5 @@ Scripts: `grade9-listening-fill-exercises.mjs` merged by `grade9-listening-*.mjs
 
 ## Execution order
 
-**Done:** P0 → P1 → P2 → P3 script → P4 compounds  
-**Next:** P5 derivations expansion · manual P3 appendix cross-check · commit/push when ready
+**Done:** P0 → P5 derivations (20/unit)  
+**Next:** P3 manual appendix cross-check · commit/push as needed · optional Reading Plus

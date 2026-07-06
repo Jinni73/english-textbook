@@ -6,6 +6,32 @@
     "manual"
   ],
   "entries": {
+    "2": {
+      "vocabularyId": 2,
+      "english": "folk",
+      "root": "folk",
+      "derivatives": [
+        {
+          "form": "folklore",
+          "pos": "n.",
+          "relation": "compound",
+          "glossEn": "traditional stories and customs",
+          "glossZh": "民间传说",
+          "exampleSentence": "Folk songs come from folklore.",
+          "show": true
+        },
+        {
+          "form": "folksy",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "simple and friendly like folk culture",
+          "glossZh": "质朴亲切的",
+          "exampleSentence": "The tune has a folksy feel.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "3": {
       "vocabularyId": 3,
       "english": "traditional",
@@ -127,6 +153,32 @@
       ],
       "reviewed": true
     },
+    "18": {
+      "vocabularyId": 18,
+      "english": "romantic",
+      "root": "romance",
+      "derivatives": [
+        {
+          "form": "romance",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a love story; a feeling of love",
+          "glossZh": "浪漫；恋情",
+          "exampleSentence": "The song tells a romance.",
+          "show": true
+        },
+        {
+          "form": "romantically",
+          "pos": "adv.",
+          "relation": "derivation",
+          "glossEn": "in a romantic way",
+          "glossZh": "浪漫地",
+          "exampleSentence": "They danced romantically.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "19": {
       "vocabularyId": 19,
       "english": "performer",
@@ -205,6 +257,49 @@
       ],
       "reviewed": true
     },
+    "27": {
+      "vocabularyId": 27,
+      "english": "download",
+      "root": "load",
+      "derivatives": [
+        {
+          "form": "load",
+          "pos": "n. & v.",
+          "relation": "root",
+          "glossEn": "something carried; to put data on",
+          "glossZh": "负载；装载",
+          "exampleSentence": "The download finished loading.",
+          "show": true
+        },
+        {
+          "form": "upload",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to send data to the internet",
+          "glossZh": "上传",
+          "exampleSentence": "Upload the track to the cloud.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "30": {
+      "vocabularyId": 30,
+      "english": "genius",
+      "root": "genius",
+      "derivatives": [
+        {
+          "form": "ingenious",
+          "pos": "adj.",
+          "relation": "derivation",
+          "glossEn": "clever and original",
+          "glossZh": "巧妙的",
+          "exampleSentence": "The band used an ingenious mix.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "31": {
       "vocabularyId": 31,
       "english": "pianist",
@@ -265,6 +360,32 @@
       ],
       "reviewed": true
     },
+    "38": {
+      "vocabularyId": 38,
+      "english": "characteristic",
+      "root": "character",
+      "derivatives": [
+        {
+          "form": "character",
+          "pos": "n.",
+          "relation": "root",
+          "glossEn": "a quality; a person in a story",
+          "glossZh": "特征；人物",
+          "exampleSentence": "Rhythm is a characteristic of rap.",
+          "show": true
+        },
+        {
+          "form": "characterize",
+          "pos": "v.",
+          "relation": "derivation",
+          "glossEn": "to describe the qualities of",
+          "glossZh": "描述……的特征",
+          "exampleSentence": "Folk music characterizes local culture.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
     "39": {
       "vocabularyId": 39,
       "english": "valuable",
@@ -303,6 +424,23 @@
           "glossEn": "a feeling of being proud",
           "glossZh": "自豪",
           "exampleSentence": "Pride filled the hall after the show.",
+          "show": true
+        }
+      ],
+      "reviewed": true
+    },
+    "45": {
+      "vocabularyId": 45,
+      "english": "cartoon",
+      "root": "cartoon",
+      "derivatives": [
+        {
+          "form": "cartoonist",
+          "pos": "n.",
+          "relation": "agent",
+          "glossEn": "a person who draws cartoons",
+          "glossZh": "漫画家",
+          "exampleSentence": "The cartoonist drew a music poster.",
           "show": true
         }
       ],
