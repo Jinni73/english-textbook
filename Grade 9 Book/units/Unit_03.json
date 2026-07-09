@@ -19,7 +19,8 @@
       "partOfSpeech": "n.",
       "chinese": "（学习用）卡片；抽认卡",
       "example_sentence": "She made flashcards for the twenty hardest words in Unit 3.",
-      "example_sentence_zh": "她为第三单元里最难的二十个词做了抽认卡。"
+      "example_sentence_zh": "她为第三单元里最难的二十个词做了抽认卡。",
+      "essential": false
     },
     {
       "id": 3,
@@ -48,7 +49,8 @@
       "partOfSpeech": "adj.",
       "chinese": "动手的；实际操作的",
       "example_sentence": "The hands-on activity helped us remember new grammar faster.",
-      "example_sentence_zh": "这次动手活动帮助我们更快记住新语法。"
+      "example_sentence_zh": "这次动手活动帮助我们更快记住新语法。",
+      "essential": false
     },
     {
       "id": 6,
@@ -57,7 +59,8 @@
       "partOfSpeech": "n.",
       "chinese": "实验；试验",
       "example_sentence": "We ran a small experiment to see which study method worked best.",
-      "example_sentence_zh": "我们做了一个小实验，看哪种学习方法最有效。"
+      "example_sentence_zh": "我们做了一个小实验，看哪种学习方法最有效。",
+      "essential": false
     },
     {
       "id": 7,
@@ -66,7 +69,8 @@
       "partOfSpeech": "phrase",
       "chinese": "查阅；检查",
       "example_sentence": "Look up any word you do not know while reading aloud.",
-      "example_sentence_zh": "朗读时遇到不认识的词就查一查。"
+      "example_sentence_zh": "朗读时遇到不认识的词就查一查。",
+      "essential": false
     },
     {
       "id": 8,
@@ -125,7 +129,8 @@
       "partOfSpeech": "phrase",
       "chinese": "总的来说；通常",
       "example_sentence": "In general, learners who write notes remember more.",
-      "example_sentence_zh": "总的来说，做笔记的学习者记得更多。"
+      "example_sentence_zh": "总的来说，做笔记的学习者记得更多。",
+      "essential": false
     },
     {
       "id": 14,
@@ -154,7 +159,8 @@
       "partOfSpeech": "n.",
       "chinese": "播客",
       "example_sentence": "I listen to one English podcast on my way to school.",
-      "example_sentence_zh": "上学路上我会听一集英语播客。"
+      "example_sentence_zh": "上学路上我会听一集英语播客。",
+      "essential": false
     },
     {
       "id": 17,
@@ -173,7 +179,8 @@
       "partOfSpeech": "phrase",
       "chinese": "（偶然）遇见；发现",
       "example_sentence": "I came across a helpful article about memory techniques.",
-      "example_sentence_zh": "我偶然看到一篇关于记忆技巧的有用文章。"
+      "example_sentence_zh": "我偶然看到一篇关于记忆技巧的有用文章。",
+      "essential": false
     },
     {
       "id": 19,
@@ -182,7 +189,8 @@
       "partOfSpeech": "phrase",
       "chinese": "逐步地；循序渐进地",
       "example_sentence": "Learn new words step by step instead of cramming fifty at once.",
-      "example_sentence_zh": "新词要循序渐进地学，不要一次硬背五十个。"
+      "example_sentence_zh": "新词要循序渐进地学，不要一次硬背五十个。",
+      "essential": false
     },
     {
       "id": 20,
@@ -191,7 +199,8 @@
       "partOfSpeech": "phrase",
       "chinese": "增加；加强；创建",
       "example_sentence": "Reading a little each night will build up your vocabulary.",
-      "example_sentence_zh": "每晚读一点会逐步积累你的词汇量。"
+      "example_sentence_zh": "每晚读一点会逐步积累你的词汇量。",
+      "essential": true
     },
     {
       "id": 21,
@@ -230,7 +239,8 @@
       "partOfSpeech": "phrase",
       "chinese": "推迟；拖延",
       "example_sentence": "Do not put off your speaking practice until the night before the test.",
-      "example_sentence_zh": "别把口语练习拖到考试前一晚。"
+      "example_sentence_zh": "别把口语练习拖到考试前一晚。",
+      "essential": false
     },
     {
       "id": 25,
@@ -269,7 +279,8 @@
       "partOfSpeech": "v.",
       "chinese": "总结；概括",
       "example_sentence": "Summarize each paragraph in one sentence in your notebook.",
-      "example_sentence_zh": "在笔记本里用一句话概括每一段。"
+      "example_sentence_zh": "在笔记本里用一句话概括每一段。",
+      "essential": true
     },
     {
       "id": 29,
@@ -308,7 +319,8 @@
       "partOfSpeech": "phrase",
       "chinese": "在某种程度上；部分地",
       "example_sentence": "His success came in part from reading every day.",
-      "example_sentence_zh": "他的成功部分来自每天阅读。"
+      "example_sentence_zh": "他的成功部分来自每天阅读。",
+      "essential": false
     },
     {
       "id": 33,
@@ -327,7 +339,8 @@
       "partOfSpeech": "n.",
       "chinese": "反馈的意见",
       "example_sentence": "Useful feedback tells you exactly what to improve.",
-      "example_sentence_zh": "有用的反馈会明确指出该改进什么。"
+      "example_sentence_zh": "有用的反馈会明确指出该改进什么。",
+      "essential": true
     },
     {
       "id": 35,
@@ -346,7 +359,8 @@
       "partOfSpeech": "phrase",
       "chinese": "另外；此外",
       "example_sentence": "In addition, we keep a list of words we often misspell.",
-      "example_sentence_zh": "此外，我们还列了一张常拼错词的清单。"
+      "example_sentence_zh": "此外，我们还列了一张常拼错词的清单。",
+      "essential": false
     },
     {
       "id": 37,
@@ -365,7 +379,8 @@
       "partOfSpeech": "n.",
       "chinese": "教科书；课本",
       "example_sentence": "Mark new words in the textbook as you read each unit.",
-      "example_sentence_zh": "读每个单元时在课本里标出新词。"
+      "example_sentence_zh": "读每个单元时在课本里标出新词。",
+      "essential": true
     },
     {
       "id": 39,
@@ -384,7 +399,8 @@
       "partOfSpeech": "phrase",
       "chinese": "利用",
       "example_sentence": "Take advantage of the free tutoring hour after school.",
-      "example_sentence_zh": "利用课后免费的辅导时间。"
+      "example_sentence_zh": "利用课后免费的辅导时间。",
+      "essential": false
     },
     {
       "id": 41,
@@ -393,7 +409,8 @@
       "partOfSpeech": "adv.",
       "chinese": "效率高地",
       "example_sentence": "Plan your tasks so you can study efficiently after dinner.",
-      "example_sentence_zh": "规划好任务，以便晚饭后高效学习。"
+      "example_sentence_zh": "规划好任务，以便晚饭后高效学习。",
+      "essential": true
     },
     {
       "id": 42,
@@ -402,7 +419,8 @@
       "partOfSpeech": "n.",
       "chinese": "山谷；溪谷",
       "example_sentence": "The story described a quiet valley where the boy read every evening.",
-      "example_sentence_zh": "故事描写了一个男孩每晚读书的安静山谷。"
+      "example_sentence_zh": "故事描写了一个男孩每晚读书的安静山谷。",
+      "essential": true
     },
     {
       "id": 43,
@@ -441,7 +459,8 @@
       "partOfSpeech": "phrase",
       "chinese": "打开；开放",
       "example_sentence": "Travel can open up new reasons to learn a language.",
-      "example_sentence_zh": "旅行会让人更有动力学语言。"
+      "example_sentence_zh": "旅行会让人更有动力学语言。",
+      "essential": true
     },
     {
       "id": 47,
@@ -510,7 +529,8 @@
       "partOfSpeech": "n.",
       "chinese": "弗兰克",
       "example_sentence": "Frank shared his note-taking system with the class.",
-      "example_sentence_zh": "弗兰克向全班分享了他的笔记方法。"
+      "example_sentence_zh": "弗兰克向全班分享了他的笔记方法。",
+      "essential": false
     },
     {
       "id": 54,
@@ -519,7 +539,8 @@
       "partOfSpeech": "n.",
       "chinese": "汉语水平考试",
       "example_sentence": "Some classmates take HSK while also preparing for English exams.",
-      "example_sentence_zh": "有些同学在准备英语考试的同时也考汉语水平考试。"
+      "example_sentence_zh": "有些同学在准备英语考试的同时也考汉语水平考试。",
+      "essential": false
     },
     {
       "id": 55,
@@ -528,7 +549,8 @@
       "partOfSpeech": "n.",
       "chinese": "凯茜",
       "example_sentence": "Cathy leads our weekly pronunciation practice group.",
-      "example_sentence_zh": "凯茜带领我们每周的发音练习小组。"
+      "example_sentence_zh": "凯茜带领我们每周的发音练习小组。",
+      "essential": false
     },
     {
       "id": 56,
@@ -537,7 +559,8 @@
       "partOfSpeech": "n.",
       "chinese": "特里；特丽",
       "example_sentence": "Terry posted a list of useful learning websites on the board.",
-      "example_sentence_zh": "特里在布告栏上贴了一份有用的学习网站清单。"
+      "example_sentence_zh": "特里在布告栏上贴了一份有用的学习网站清单。",
+      "essential": false
     }
   ]
 }

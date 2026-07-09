@@ -19,7 +19,8 @@
       "partOfSpeech": "n.",
       "chinese": "接力赛",
       "example_sentence": "Our relay team practised the handoff until it was smooth.",
-      "example_sentence_zh": "接力队练习交接棒直到动作顺畅。"
+      "example_sentence_zh": "接力队练习交接棒直到动作顺畅。",
+      "essential": false
     },
     {
       "id": 3,
@@ -28,7 +29,8 @@
       "partOfSpeech": "n.",
       "chinese": "推铅球",
       "example_sentence": "She threw the shot-put farther after months of strength training.",
-      "example_sentence_zh": "经过数月力量训练，她把铅球推得更远了。"
+      "example_sentence_zh": "经过数月力量训练，她把铅球推得更远了。",
+      "essential": false
     },
     {
       "id": 4,
@@ -37,7 +39,8 @@
       "partOfSpeech": "n.",
       "chinese": "拳击（运动）",
       "example_sentence": "Boxing requires speed, strength, and calm under pressure.",
-      "example_sentence_zh": "拳击需要速度、力量和在压力下的冷静。"
+      "example_sentence_zh": "拳击需要速度、力量和在压力下的冷静。",
+      "essential": false
     },
     {
       "id": 5,
@@ -56,7 +59,8 @@
       "partOfSpeech": "n.",
       "chinese": "预赛；选拔赛",
       "example_sentence": "Only three students passed the tryout for the relay squad.",
-      "example_sentence_zh": "只有三名学生通过了接力队选拔赛。"
+      "example_sentence_zh": "只有三名学生通过了接力队选拔赛。",
+      "essential": false
     },
     {
       "id": 7,
@@ -65,7 +69,8 @@
       "partOfSpeech": "n.",
       "chinese": "接力棒交接",
       "example_sentence": "A clean handoff in the last leg won us the gold medal.",
-      "example_sentence_zh": "最后一棒干净的交接为我们赢得金牌。"
+      "example_sentence_zh": "最后一棒干净的交接为我们赢得金牌。",
+      "essential": false
     },
     {
       "id": 8,
@@ -74,7 +79,8 @@
       "partOfSpeech": "n.",
       "chinese": "接力棒",
       "example_sentence": "Drop the baton and the whole relay team loses time.",
-      "example_sentence_zh": "掉了接力棒，整队就会浪费时间。"
+      "example_sentence_zh": "掉了接力棒，整队就会浪费时间。",
+      "essential": false
     },
     {
       "id": 9,
@@ -113,7 +119,8 @@
       "partOfSpeech": "phrase",
       "chinese": "带头（做某事）",
       "example_sentence": "Our swimmer took the lead in the freestyle final.",
-      "example_sentence_zh": "我们的选手在自由泳决赛中率先领先。"
+      "example_sentence_zh": "我们的选手在自由泳决赛中率先领先。",
+      "essential": false
     },
     {
       "id": 13,
@@ -132,7 +139,8 @@
       "partOfSpeech": "phrase",
       "chinese": "逼近正在向前的人或物",
       "example_sentence": "The runner made up ground on the leader in the last fifty metres.",
-      "example_sentence_zh": "最后五十米，这名选手逼近了领先者。"
+      "example_sentence_zh": "最后五十米，这名选手逼近了领先者。",
+      "essential": false
     },
     {
       "id": 15,
@@ -141,7 +149,8 @@
       "partOfSpeech": "phrase",
       "chinese": "赶上；追上（某人）",
       "example_sentence": "She trained daily to catch up with the top boulderers.",
-      "example_sentence_zh": "她每天训练以赶上顶尖攀岩选手。"
+      "example_sentence_zh": "她每天训练以赶上顶尖攀岩选手。",
+      "essential": false
     },
     {
       "id": 16,
@@ -150,7 +159,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "（冰上动作的）花样；数字；人物；认为",
       "example_sentence": "The skater landed a difficult figure after a dramatic spin.",
-      "example_sentence_zh": "选手在精彩旋转后完成了高难度花样。"
+      "example_sentence_zh": "选手在精彩旋转后完成了高难度花样。",
+      "essential": false
     },
     {
       "id": 17,
@@ -159,7 +169,8 @@
       "partOfSpeech": "n.",
       "chinese": "花样滑冰",
       "example_sentence": "Figure skating combines dance, strength, and cold nerves.",
-      "example_sentence_zh": "花样滑冰结合舞蹈、力量与冷静。"
+      "example_sentence_zh": "花样滑冰结合舞蹈、力量与冷静。",
+      "essential": false
     },
     {
       "id": 18,
@@ -178,7 +189,8 @@
       "partOfSpeech": "n.",
       "chinese": "力量；体力",
       "example_sentence": "Core strength helps pull-ups and shot-put alike.",
-      "example_sentence_zh": "核心力量对引体向上和推铅球都有帮助。"
+      "example_sentence_zh": "核心力量对引体向上和推铅球都有帮助。",
+      "essential": false
     },
     {
       "id": 20,
@@ -207,7 +219,8 @@
       "partOfSpeech": "n.",
       "chinese": "典礼；仪式",
       "example_sentence": "Medals gleamed during the opening ceremony.",
-      "example_sentence_zh": "开幕式上奖牌闪闪发光。"
+      "example_sentence_zh": "开幕式上奖牌闪闪发光。",
+      "essential": false
     },
     {
       "id": 23,
@@ -236,7 +249,8 @@
       "partOfSpeech": "phrase",
       "chinese": "既不……也不……",
       "example_sentence": "Neither rain nor wind stopped the outdoor relay.",
-      "example_sentence_zh": "风雨都没阻止户外接力赛。"
+      "example_sentence_zh": "风雨都没阻止户外接力赛。",
+      "essential": false
     },
     {
       "id": 26,
@@ -245,7 +259,8 @@
       "partOfSpeech": "phrase",
       "chinese": "参加选拔；试用",
       "example_sentence": "Try out for the team if you love the sport.",
-      "example_sentence_zh": "若热爱这项运动，就去参加选拔。"
+      "example_sentence_zh": "若热爱这项运动，就去参加选拔。",
+      "essential": false
     },
     {
       "id": 27,
@@ -274,7 +289,8 @@
       "partOfSpeech": "n.",
       "chinese": "吉祥物",
       "example_sentence": "Bing Dwen Dwen became a beloved mascot worldwide.",
-      "example_sentence_zh": "冰墩墩成了全球喜爱的吉祥物。"
+      "example_sentence_zh": "冰墩墩成了全球喜爱的吉祥物。",
+      "essential": true
     },
     {
       "id": 30,
@@ -283,7 +299,8 @@
       "partOfSpeech": "n.",
       "chinese": "口号；格言",
       "example_sentence": "The team motto was \"Faster, stronger, together.\"",
-      "example_sentence_zh": "队伍口号是「更快、更强、一起」。"
+      "example_sentence_zh": "队伍口号是「更快、更强、一起」。",
+      "essential": false
     },
     {
       "id": 31,
@@ -302,7 +319,8 @@
       "partOfSpeech": "n.",
       "chinese": "自由式体育比赛",
       "example_sentence": "She set a record in the 100-metre freestyle.",
-      "example_sentence_zh": "她在百米自由泳中创造了纪录。"
+      "example_sentence_zh": "她在百米自由泳中创造了纪录。",
+      "essential": false
     },
     {
       "id": 33,
@@ -321,7 +339,8 @@
       "partOfSpeech": "phrase",
       "chinese": "惊奇地",
       "example_sentence": "The crowd watched in wonder as he cleared the high bar.",
-      "example_sentence_zh": "他越过横杆时，观众惊奇地注视着。"
+      "example_sentence_zh": "他越过横杆时，观众惊奇地注视着。",
+      "essential": false
     },
     {
       "id": 35,
@@ -330,7 +349,8 @@
       "partOfSpeech": "phrase",
       "chinese": "创造纪录",
       "example_sentence": "Usain Bolt set a record that stood for years.",
-      "example_sentence_zh": "尤塞恩·博尔特创造的纪录保持了很多年。"
+      "example_sentence_zh": "尤塞恩·博尔特创造的纪录保持了很多年。",
+      "essential": false
     },
     {
       "id": 36,
@@ -359,7 +379,8 @@
       "partOfSpeech": "n.",
       "chinese": "改革；变革",
       "example_sentence": "Sports reform opened new chances for athletes nationwide.",
-      "example_sentence_zh": "体育改革为全国运动员开辟了新机会。"
+      "example_sentence_zh": "体育改革为全国运动员开辟了新机会。",
+      "essential": false
     },
     {
       "id": 39,
@@ -368,7 +389,8 @@
       "partOfSpeech": "n.",
       "chinese": "改革开放",
       "example_sentence": "Reform and opening-up helped China host worldwide games.",
-      "example_sentence_zh": "改革开放帮助中国承办世界赛事。"
+      "example_sentence_zh": "改革开放帮助中国承办世界赛事。",
+      "essential": false
     },
     {
       "id": 40,
@@ -377,7 +399,8 @@
       "partOfSpeech": "adj. & adv.",
       "chinese": "世界范围的；在全世界；世界各地",
       "example_sentence": "The Olympics are watched worldwide every four years.",
-      "example_sentence_zh": "奥运会每四年在全球被观看。"
+      "example_sentence_zh": "奥运会每四年在全球被观看。",
+      "essential": false
     },
     {
       "id": 41,
@@ -406,7 +429,8 @@
       "partOfSpeech": "n.",
       "chinese": "和谐；和睦",
       "example_sentence": "Teams from many nations competed in harmony.",
-      "example_sentence_zh": "多国队伍在和谐中竞赛。"
+      "example_sentence_zh": "多国队伍在和谐中竞赛。",
+      "essential": false
     },
     {
       "id": 44,
@@ -425,7 +449,8 @@
       "partOfSpeech": "phrase",
       "chinese": "最好（或最有意思）的部分",
       "example_sentence": "The relay victory was the high point of our season.",
-      "example_sentence_zh": "接力胜利是我们本赛季的高潮。"
+      "example_sentence_zh": "接力胜利是我们本赛季的高潮。",
+      "essential": false
     },
     {
       "id": 46,
@@ -464,7 +489,8 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "希腊的；希腊人的；古希腊人；希腊人",
       "example_sentence": "Greek athletes honour traditions born in ancient games.",
-      "example_sentence_zh": "希腊运动员传承古代运动会留下的传统。"
+      "example_sentence_zh": "希腊运动员传承古代运动会留下的传统。",
+      "essential": true
     },
     {
       "id": 50,
@@ -473,7 +499,8 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "古罗马的；罗马的；罗马人；罗马字体",
       "example_sentence": "Roman arenas once hosted crowds as loud as today's stadiums.",
-      "example_sentence_zh": "罗马竞技场曾像如今体育场一样人声鼎沸。"
+      "example_sentence_zh": "罗马竞技场曾像如今体育场一样人声鼎沸。",
+      "essential": false
     },
     {
       "id": 51,
@@ -502,7 +529,8 @@
       "partOfSpeech": "n.",
       "chinese": "冰墩墩",
       "example_sentence": "Bing Dwen Dwen waved to children at the closing ceremony.",
-      "example_sentence_zh": "冰墩墩在闭幕式上向孩子们挥手。"
+      "example_sentence_zh": "冰墩墩在闭幕式上向孩子们挥手。",
+      "essential": false
     },
     {
       "id": 54,
@@ -511,7 +539,8 @@
       "partOfSpeech": "n.",
       "chinese": "尤塞恩·博尔特",
       "example_sentence": "Usain Bolt smiled before breaking another sprint record.",
-      "example_sentence_zh": "尤塞恩·博尔特在再破短跑纪录前露出了笑容。"
+      "example_sentence_zh": "尤塞恩·博尔特在再破短跑纪录前露出了笑容。",
+      "essential": false
     },
     {
       "id": 55,
@@ -520,7 +549,8 @@
       "partOfSpeech": "n.",
       "chinese": "希腊",
       "example_sentence": "Greece hosted the first modern Olympic Games in 1896.",
-      "example_sentence_zh": "希腊在1896年主办了首届现代奥运会。"
+      "example_sentence_zh": "希腊在1896年主办了首届现代奥运会。",
+      "essential": false
     },
     {
       "id": 56,
@@ -529,7 +559,8 @@
       "partOfSpeech": "n.",
       "chinese": "埃里克·穆桑巴尼",
       "example_sentence": "Eric Moussambani from Equatorial Guinea swam alone in his heat.",
-      "example_sentence_zh": "来自赤道几内亚的埃里克·穆桑巴尼独自游完了他的小组赛。"
+      "example_sentence_zh": "来自赤道几内亚的埃里克·穆桑巴尼独自游完了他的小组赛。",
+      "essential": false
     },
     {
       "id": 57,
@@ -538,7 +569,8 @@
       "partOfSpeech": "n.",
       "chinese": "赤道几内亚",
       "example_sentence": "Equatorial Guinea sent its first swimmer to the Olympic pool.",
-      "example_sentence_zh": "赤道几内亚首次向奥运泳池派出游泳选手。"
+      "example_sentence_zh": "赤道几内亚首次向奥运泳池派出游泳选手。",
+      "essential": false
     }
   ]
 }

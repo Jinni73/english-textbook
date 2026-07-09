@@ -9,7 +9,7 @@
       "partOfSpeech": "adj.",
       "chinese": "鼓舞人心的；激励的",
       "example_sentence": "Her inspiring speech encouraged the whole class.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "她鼓舞人心的演讲激励了全班同学。"
     },
     {
@@ -509,7 +509,7 @@
       "partOfSpeech": "n.",
       "chinese": "木工手艺",
       "example_sentence": "He learned woodwork before becoming a famous inventor.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "在成为著名发明家之前，他学过木工。"
     },
     {
@@ -559,7 +559,7 @@
       "partOfSpeech": "n.",
       "chinese": "王国",
       "example_sentence": "The ancient kingdom traded along the Silk Road.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "这个古老的王国沿丝绸之路进行贸易。"
     },
     {
@@ -589,7 +589,7 @@
       "partOfSpeech": "n.",
       "chinese": "人类",
       "example_sentence": "Scientific exploration has brought great benefits to all mankind.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "科学探索给全人类带来了巨大益处。"
     },
     {

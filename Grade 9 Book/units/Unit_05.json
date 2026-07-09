@@ -29,7 +29,8 @@
       "partOfSpeech": "n.",
       "chinese": "笔记本电脑",
       "example_sentence": "Her laptop stores hundreds of design files for the workshop.",
-      "example_sentence_zh": "她的笔记本电脑存着作坊里数百个设计文件。"
+      "example_sentence_zh": "她的笔记本电脑存着作坊里数百个设计文件。",
+      "essential": false
     },
     {
       "id": 4,
@@ -38,7 +39,8 @@
       "partOfSpeech": "n.",
       "chinese": "高速列车",
       "example_sentence": "The high-speed train from Lhasa crosses the Tanggula Pass in hours.",
-      "example_sentence_zh": "从拉萨出发的高铁几小时就穿越唐古拉山口。"
+      "example_sentence_zh": "从拉萨出发的高铁几小时就穿越唐古拉山口。",
+      "essential": false
     },
     {
       "id": 5,
@@ -47,7 +49,8 @@
       "partOfSpeech": "adj.",
       "chinese": "超级的；顶好的",
       "example_sentence": "The new printer is super fast at producing colour pages.",
-      "example_sentence_zh": "新打印机出彩色页面超级快。"
+      "example_sentence_zh": "新打印机出彩色页面超级快。",
+      "essential": false
     },
     {
       "id": 6,
@@ -56,7 +59,8 @@
       "partOfSpeech": "n.",
       "chinese": "墨镜",
       "example_sentence": "He wore sunglasses while testing the glider on a bright morning.",
-      "example_sentence_zh": "晴朗的早晨试滑翔机时他戴了墨镜。"
+      "example_sentence_zh": "晴朗的早晨试滑翔机时他戴了墨镜。",
+      "essential": false
     },
     {
       "id": 7,
@@ -65,7 +69,8 @@
       "partOfSpeech": "prefix",
       "chinese": "微型的；短的",
       "example_sentence": "A mini-button on the phone opens the camera in one tap.",
-      "example_sentence_zh": "手机上的迷你按钮一点就能打开相机。"
+      "example_sentence_zh": "手机上的迷你按钮一点就能打开相机。",
+      "essential": false
     },
     {
       "id": 8,
@@ -104,7 +109,8 @@
       "partOfSpeech": "phrase",
       "chinese": "许多；大量",
       "example_sentence": "Hundreds of workshops in Europe once copied books by hand.",
-      "example_sentence_zh": "欧洲曾有数百间作坊手工抄书。"
+      "example_sentence_zh": "欧洲曾有数百间作坊手工抄书。",
+      "essential": false
     },
     {
       "id": 12,
@@ -123,7 +129,8 @@
       "partOfSpeech": "n.",
       "chinese": "（计算机的）文件；文件夹",
       "example_sentence": "Save the invention report as a file before you print it.",
-      "example_sentence_zh": "打印前把发明报告存成文件。"
+      "example_sentence_zh": "打印前把发明报告存成文件。",
+      "essential": false
     },
     {
       "id": 14,
@@ -162,7 +169,8 @@
       "partOfSpeech": "phrase",
       "chinese": "全世界",
       "example_sentence": "Paper spread all over the world after traders carried the skill abroad.",
-      "example_sentence_zh": "商人把技艺带到海外后，纸张传遍了全世界。"
+      "example_sentence_zh": "商人把技艺带到海外后，纸张传遍了全世界。",
+      "essential": false
     },
     {
       "id": 18,
@@ -181,7 +189,8 @@
       "partOfSpeech": "phrase",
       "chinese": "应当做（某事）或是（某物）",
       "example_sentence": "Ink is supposed to stay on paper, not on your shirt.",
-      "example_sentence_zh": "墨水应该留在纸上，而不是沾在衬衫上。"
+      "example_sentence_zh": "墨水应该留在纸上，而不是沾在衬衫上。",
+      "essential": false
     },
     {
       "id": 20,
@@ -200,7 +209,8 @@
       "partOfSpeech": "adj.",
       "chinese": "冰硬的；冰封的",
       "example_sentence": "Frozen ground made tunnel work slow until pipes carried warm air.",
-      "example_sentence_zh": "冻土让隧道施工变慢，直到管道送来暖气。"
+      "example_sentence_zh": "冻土让隧道施工变慢，直到管道送来暖气。",
+      "essential": false
     },
     {
       "id": 22,
@@ -219,7 +229,8 @@
       "partOfSpeech": "n.",
       "chinese": "层；表层",
       "example_sentence": "Each layer of fibre makes handmade paper strong and thin.",
-      "example_sentence_zh": "每层纤维让手工纸又薄又结实。"
+      "example_sentence_zh": "每层纤维让手工纸又薄又结实。",
+      "essential": false
     },
     {
       "id": 24,
@@ -228,7 +239,8 @@
       "partOfSpeech": "v.",
       "chinese": "（使）融化；逐渐消失",
       "example_sentence": "Heat can melt plastic shapes back into liquid for moulding.",
-      "example_sentence_zh": "加热能把塑料形状再熔成液体以便塑形。"
+      "example_sentence_zh": "加热能把塑料形状再熔成液体以便塑形。",
+      "essential": false
     },
     {
       "id": 25,
@@ -237,7 +249,8 @@
       "partOfSpeech": "n.",
       "chinese": "管道；管子；烟斗",
       "example_sentence": "A pipe carried water to the papermaking workshop downstream.",
-      "example_sentence_zh": "管道把水引到下游的造纸作坊。"
+      "example_sentence_zh": "管道把水引到下游的造纸作坊。",
+      "essential": false
     },
     {
       "id": 26,
@@ -246,7 +259,8 @@
       "partOfSpeech": "n.",
       "chinese": "隧道；地下通道",
       "example_sentence": "Engineers dug a tunnel so trains could cross the high pass.",
-      "example_sentence_zh": "工程师挖了隧道，让列车能穿越高山隘口。"
+      "example_sentence_zh": "工程师挖了隧道，让列车能穿越高山隘口。",
+      "essential": false
     },
     {
       "id": 27,
@@ -265,7 +279,8 @@
       "partOfSpeech": "v.",
       "chinese": "获得；取得",
       "example_sentence": "Inventors gain fame when their creations change daily life.",
-      "example_sentence_zh": "发明改变日常生活时，发明者会赢得名声。"
+      "example_sentence_zh": "发明改变日常生活时，发明者会赢得名声。",
+      "essential": false
     },
     {
       "id": 29,
@@ -284,7 +299,8 @@
       "partOfSpeech": "n.",
       "chinese": "造纸工艺；造纸业",
       "example_sentence": "Papermaking workshops shaped the birth of printing in CE times.",
-      "example_sentence_zh": "造纸作坊促成了公元时代印刷术的诞生。"
+      "example_sentence_zh": "造纸作坊促成了公元时代印刷术的诞生。",
+      "essential": false
     },
     {
       "id": 31,
@@ -303,7 +319,8 @@
       "partOfSpeech": "phrase",
       "chinese": "引起某事",
       "example_sentence": "Cheap fibre was responsible for paper prices falling sharply.",
-      "example_sentence_zh": "廉价纤维导致纸价大幅下跌。"
+      "example_sentence_zh": "廉价纤维导致纸价大幅下跌。",
+      "essential": false
     },
     {
       "id": 33,
@@ -332,7 +349,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "青铜（的）；青铜色（的）",
       "example_sentence": "Bronze bells from ancient workshops still ring in museums.",
-      "example_sentence_zh": "古代作坊的青铜钟在博物馆里仍能敲响。"
+      "example_sentence_zh": "古代作坊的青铜钟在博物馆里仍能敲响。",
+      "essential": false
     },
     {
       "id": 36,
@@ -341,7 +359,8 @@
       "partOfSpeech": "n.",
       "chinese": "制品；陶器",
       "example_sentence": "Delicate stone ware travelled along trade routes to Arabia.",
-      "example_sentence_zh": "精致的石器沿商路传到阿拉伯地区。"
+      "example_sentence_zh": "精致的石器沿商路传到阿拉伯地区。",
+      "essential": false
     },
     {
       "id": 37,
@@ -350,7 +369,8 @@
       "partOfSpeech": "n.",
       "chinese": "石头；岩石",
       "example_sentence": "Stone wheels ground fibre before it entered the paper vat.",
-      "example_sentence_zh": "石磨在纤维入槽前把它磨碎。"
+      "example_sentence_zh": "石磨在纤维入槽前把它磨碎。",
+      "essential": false
     },
     {
       "id": 38,
@@ -359,7 +379,8 @@
       "partOfSpeech": "n.",
       "chinese": "黄麻纤维",
       "example_sentence": "Jute fibre from plant stems was once too coarse for fine paper.",
-      "example_sentence_zh": "茎上的黄麻纤维一度太粗，做不出好纸。"
+      "example_sentence_zh": "茎上的黄麻纤维一度太粗，做不出好纸。",
+      "essential": false
     },
     {
       "id": 39,
@@ -368,7 +389,8 @@
       "partOfSpeech": "n.",
       "chinese": "纤维；纤维素",
       "example_sentence": "Plant fibre soaked in liquid pulp became smooth sheets.",
-      "example_sentence_zh": "植物纤维在液体浆里泡软后变成平滑纸页。"
+      "example_sentence_zh": "植物纤维在液体浆里泡软后变成平滑纸页。",
+      "essential": false
     },
     {
       "id": 40,
@@ -397,7 +419,8 @@
       "partOfSpeech": "n.",
       "chinese": "作坊；讲习班",
       "example_sentence": "In the workshop, workers layered pulp and pressed it dry.",
-      "example_sentence_zh": "作坊里工人铺浆层并压干。"
+      "example_sentence_zh": "作坊里工人铺浆层并压干。",
+      "essential": false
     },
     {
       "id": 43,
@@ -406,7 +429,8 @@
       "partOfSpeech": "pron.",
       "chinese": "没有一个；毫无",
       "example_sentence": "None of the early gliders flew as far as the Wright brothers' plane.",
-      "example_sentence_zh": "早期滑翔机没有一架飞得像莱特兄弟的飞机那样远。"
+      "example_sentence_zh": "早期滑翔机没有一架飞得像莱特兄弟的飞机那样远。",
+      "essential": false
     },
     {
       "id": 44,
@@ -445,7 +469,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "液体；液体的",
       "example_sentence": "The pulp stayed liquid until workers lifted the screen.",
-      "example_sentence_zh": "纸浆保持液态，直到工人提起筛网。"
+      "example_sentence_zh": "纸浆保持液态，直到工人提起筛网。",
+      "essential": false
     },
     {
       "id": 48,
@@ -464,7 +489,8 @@
       "partOfSpeech": "n.",
       "chinese": "创造；作品",
       "example_sentence": "The Post-it note is a creation born from a failed strong glue.",
-      "example_sentence_zh": "便利贴这种创造来自一次失败强力胶的实验。"
+      "example_sentence_zh": "便利贴这种创造来自一次失败强力胶的实验。",
+      "essential": false
     },
     {
       "id": 50,
@@ -473,7 +499,8 @@
       "partOfSpeech": "phrase",
       "chinese": "后来；其后",
       "example_sentence": "Later on, Bell's telephone reached homes across Oakland.",
-      "example_sentence_zh": "后来，贝尔的电话进入了奥克兰千家万户。"
+      "example_sentence_zh": "后来，贝尔的电话进入了奥克兰千家万户。",
+      "essential": false
     },
     {
       "id": 51,
@@ -482,7 +509,8 @@
       "partOfSpeech": "phrase",
       "chinese": "（使）加速",
       "example_sentence": "Printing presses speed up the spread of ideas in Europe.",
-      "example_sentence_zh": "印刷机加快了思想在欧洲的传播。"
+      "example_sentence_zh": "印刷机加快了思想在欧洲的传播。",
+      "essential": false
     },
     {
       "id": 52,
@@ -491,7 +519,8 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "阿拉伯语的；阿拉伯语",
       "example_sentence": "Arabic traders helped move paper technology westward.",
-      "example_sentence_zh": "阿拉伯商人帮助把造纸技术向西传播。"
+      "example_sentence_zh": "阿拉伯商人帮助把造纸技术向西传播。",
+      "essential": false
     },
     {
       "id": 53,
@@ -500,7 +529,8 @@
       "partOfSpeech": "phrase",
       "chinese": "造成；导致",
       "example_sentence": "Better glue did not result in a strong bond—it result in sticky notes.",
-      "example_sentence_zh": "更好的胶没产生强黏合，却诞生了便利贴。"
+      "example_sentence_zh": "更好的胶没产生强黏合，却诞生了便利贴。",
+      "essential": false
     },
     {
       "id": 54,
@@ -509,7 +539,8 @@
       "partOfSpeech": "phrase",
       "chinese": "导致；造成",
       "example_sentence": "Cheaper books lead to more reading and wider education.",
-      "example_sentence_zh": "更便宜的书带来更多阅读与更广的教育。"
+      "example_sentence_zh": "更便宜的书带来更多阅读与更广的教育。",
+      "essential": false
     },
     {
       "id": 55,
@@ -518,7 +549,8 @@
       "partOfSpeech": "n.",
       "chinese": "起源；诞生",
       "example_sentence": "The birth of radio linked ships far from any shore.",
-      "example_sentence_zh": "无线电的诞生让远离海岸的船只也能联络。"
+      "example_sentence_zh": "无线电的诞生让远离海岸的船只也能联络。",
+      "essential": true
     },
     {
       "id": 56,
@@ -557,7 +589,8 @@
       "partOfSpeech": "adj.",
       "chinese": "黏（性）的；闷热的",
       "example_sentence": "Spencer Silver made a sticky adhesive that peeled off cleanly.",
-      "example_sentence_zh": "斯潘塞·西尔弗做出一种能干净揭下的黏性胶。"
+      "example_sentence_zh": "斯潘塞·西尔弗做出一种能干净揭下的黏性胶。",
+      "essential": false
     },
     {
       "id": 60,
@@ -596,7 +629,8 @@
       "partOfSpeech": "phrase",
       "chinese": "试图找到做某事的方法",
       "example_sentence": "Inventors are looking to build quieter high-speed trains.",
-      "example_sentence_zh": "发明者正设法打造更安静的高铁。"
+      "example_sentence_zh": "发明者正设法打造更安静的高铁。",
+      "essential": false
     },
     {
       "id": 64,
@@ -605,7 +639,8 @@
       "partOfSpeech": "n.",
       "chinese": "滑翔机",
       "example_sentence": "The Wright brothers tested control ideas on a glider before adding an engine.",
-      "example_sentence_zh": "莱特兄弟在装发动机前用滑翔机试验操控想法。"
+      "example_sentence_zh": "莱特兄弟在装发动机前用滑翔机试验操控想法。",
+      "essential": false
     },
     {
       "id": 65,
@@ -614,7 +649,8 @@
       "partOfSpeech": "n.",
       "chinese": "古列尔莫·马可尼",
       "example_sentence": "Guglielmo Marconi sent the first wireless signal across the Atlantic.",
-      "example_sentence_zh": "古列尔莫·马可尼发送了首条跨大西洋无线电信号。"
+      "example_sentence_zh": "古列尔莫·马可尼发送了首条跨大西洋无线电信号。",
+      "essential": false
     },
     {
       "id": 66,
@@ -623,7 +659,8 @@
       "partOfSpeech": "n.",
       "chinese": "亚历山大·贝尔",
       "example_sentence": "Alexander Bell patented the telephone in the nineteenth century.",
-      "example_sentence_zh": "亚历山大·贝尔在十九世纪为电话申请了专利。"
+      "example_sentence_zh": "亚历山大·贝尔在十九世纪为电话申请了专利。",
+      "essential": false
     },
     {
       "id": 67,
@@ -632,7 +669,8 @@
       "partOfSpeech": "n.",
       "chinese": "欧洲",
       "example_sentence": "Paper mills spread across Europe after the skill left the East.",
-      "example_sentence_zh": "技艺东传西走后，造纸厂遍布欧洲。"
+      "example_sentence_zh": "技艺东传西走后，造纸厂遍布欧洲。",
+      "essential": false
     },
     {
       "id": 68,
@@ -641,7 +679,8 @@
       "partOfSpeech": "n.",
       "chinese": "拉萨（中国城市）",
       "example_sentence": "Travellers take the high-speed train to Lhasa for its mountain views.",
-      "example_sentence_zh": "旅客乘高铁去拉萨欣赏山景。"
+      "example_sentence_zh": "旅客乘高铁去拉萨欣赏山景。",
+      "essential": false
     },
     {
       "id": 69,
@@ -650,7 +689,8 @@
       "partOfSpeech": "n.",
       "chinese": "唐古拉山口",
       "example_sentence": "The Tanggula Pass is one of the highest points on the railway.",
-      "example_sentence_zh": "唐古拉山口是铁路沿线最高点之一。"
+      "example_sentence_zh": "唐古拉山口是铁路沿线最高点之一。",
+      "essential": false
     },
     {
       "id": 70,
@@ -659,7 +699,8 @@
       "partOfSpeech": "n.",
       "chinese": "公元",
       "example_sentence": "Papermaking skills were documented in China long before 1000 CE.",
-      "example_sentence_zh": "造纸技艺在中国公元一千年之前就有记载。"
+      "example_sentence_zh": "造纸技艺在中国公元一千年之前就有记载。",
+      "essential": false
     },
     {
       "id": 71,
@@ -668,7 +709,8 @@
       "partOfSpeech": "n.",
       "chinese": "奥克兰（美国城市）",
       "example_sentence": "Arthur Fry first used the sticky note in his office in Oakland.",
-      "example_sentence_zh": "亚瑟·弗赖伊在奥克兰的办公室里首次使用了便利贴。"
+      "example_sentence_zh": "亚瑟·弗赖伊在奥克兰的办公室里首次使用了便利贴。",
+      "essential": false
     },
     {
       "id": 72,
@@ -677,7 +719,8 @@
       "partOfSpeech": "n.",
       "chinese": "斯潘塞·西尔弗",
       "example_sentence": "Spencer Silver invented the low-tack glue behind Post-it notes.",
-      "example_sentence_zh": "斯潘塞·西尔弗发明了便利贴背后的低黏胶。"
+      "example_sentence_zh": "斯潘塞·西尔弗发明了便利贴背后的低黏胶。",
+      "essential": false
     },
     {
       "id": 73,
@@ -686,7 +729,8 @@
       "partOfSpeech": "n.",
       "chinese": "亚瑟·弗赖伊",
       "example_sentence": "Arthur Fry used the weak glue to mark pages in his choir book.",
-      "example_sentence_zh": "亚瑟·弗赖伊用弱胶在合唱谱里标记页码。"
+      "example_sentence_zh": "亚瑟·弗赖伊用弱胶在合唱谱里标记页码。",
+      "essential": false
     },
     {
       "id": 74,
@@ -695,7 +739,8 @@
       "partOfSpeech": "n.",
       "chinese": "奥维尔·莱特",
       "example_sentence": "Orville Wright piloted the first powered flight at Kitty Hawk.",
-      "example_sentence_zh": "奥维尔·莱特在基蒂霍克驾驶了首次动力飞行。"
+      "example_sentence_zh": "奥维尔·莱特在基蒂霍克驾驶了首次动力飞行。",
+      "essential": false
     },
     {
       "id": 75,
@@ -704,7 +749,8 @@
       "partOfSpeech": "n.",
       "chinese": "威尔伯·莱特",
       "example_sentence": "Wilbur Wright solved wing design problems before the famous flight.",
-      "example_sentence_zh": "威尔伯·莱特在著名飞行前解决了机翼设计问题。"
+      "example_sentence_zh": "威尔伯·莱特在著名飞行前解决了机翼设计问题。",
+      "essential": false
     }
   ]
 }

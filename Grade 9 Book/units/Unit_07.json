@@ -9,7 +9,8 @@
       "partOfSpeech": "n.",
       "chinese": "节奏；韵律",
       "example_sentence": "Clap the rhythm before you sing the first line.",
-      "example_sentence_zh": "唱第一句前先拍出节奏。"
+      "example_sentence_zh": "唱第一句前先拍出节奏。",
+      "essential": false
     },
     {
       "id": 2,
@@ -38,7 +39,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "流行音乐；蹦出",
       "example_sentence": "Her favourite pop track has a chorus everyone can sing along to.",
-      "example_sentence_zh": "她最爱的流行歌有一段人人能跟着唱的副歌。"
+      "example_sentence_zh": "她最爱的流行歌有一段人人能跟着唱的副歌。",
+      "essential": false
     },
     {
       "id": 5,
@@ -47,7 +49,8 @@
       "partOfSpeech": "n.",
       "chinese": "爵士乐",
       "example_sentence": "Late-night jazz filled the café while students tapped their feet.",
-      "example_sentence_zh": "深夜爵士乐充满咖啡馆，学生们用脚打节拍。"
+      "example_sentence_zh": "深夜爵士乐充满咖啡馆，学生们用脚打节拍。",
+      "essential": false
     },
     {
       "id": 6,
@@ -56,7 +59,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "说唱乐；表演说唱乐",
       "example_sentence": "He wrote a rap about studying hard and dreaming big.",
-      "example_sentence_zh": "他写了一段关于努力学习和远大梦想的 rap。"
+      "example_sentence_zh": "他写了一段关于努力学习和远大梦想的 rap。",
+      "essential": false
     },
     {
       "id": 7,
@@ -75,7 +79,8 @@
       "partOfSpeech": "phrase",
       "chinese": "随着唱",
       "example_sentence": "The whole hall began to sing along to the golden oldie.",
-      "example_sentence_zh": "全场开始跟着那首金色老歌一起唱。"
+      "example_sentence_zh": "全场开始跟着那首金色老歌一起唱。",
+      "essential": false
     },
     {
       "id": 9,
@@ -84,7 +89,8 @@
       "partOfSpeech": "n. & adj.",
       "chinese": "歌词；抒情的",
       "example_sentence": "Read the lyric slowly to catch the poet's mood.",
-      "example_sentence_zh": "慢慢读歌词，体会诗人的情绪。"
+      "example_sentence_zh": "慢慢读歌词，体会诗人的情绪。",
+      "essential": false
     },
     {
       "id": 10,
@@ -103,7 +109,8 @@
       "partOfSpeech": "n.",
       "chinese": "电吉他",
       "example_sentence": "Debbie borrowed an electric guitar for the school rock night.",
-      "example_sentence_zh": "黛比为学校摇滚之夜借了一把电吉他。"
+      "example_sentence_zh": "黛比为学校摇滚之夜借了一把电吉他。",
+      "essential": true
     },
     {
       "id": 12,
@@ -122,7 +129,8 @@
       "partOfSpeech": "n.",
       "chinese": "小号；喇叭",
       "example_sentence": "A bright trumpet note signalled the start of the parade.",
-      "example_sentence_zh": "小号一声亮音宣告游行开始。"
+      "example_sentence_zh": "小号一声亮音宣告游行开始。",
+      "essential": false
     },
     {
       "id": 14,
@@ -131,7 +139,8 @@
       "partOfSpeech": "n.",
       "chinese": "风格；方式",
       "example_sentence": "Each performer chose a different style for the same song.",
-      "example_sentence_zh": "同首歌每位演奏者选了不同风格。"
+      "example_sentence_zh": "同首歌每位演奏者选了不同风格。",
+      "essential": false
     },
     {
       "id": 15,
@@ -150,7 +159,8 @@
       "partOfSpeech": "adj.",
       "chinese": "金色的",
       "example_sentence": "Golden lights shone on the stage during the finale.",
-      "example_sentence_zh": "压轴时金色灯光洒在舞台上。"
+      "example_sentence_zh": "压轴时金色灯光洒在舞台上。",
+      "essential": false
     },
     {
       "id": 17,
@@ -189,7 +199,8 @@
       "partOfSpeech": "phrase",
       "chinese": "随着跳舞",
       "example_sentence": "Couples dance to folk tunes at the town fair.",
-      "example_sentence_zh": "集市上情侣随着民间曲调跳舞。"
+      "example_sentence_zh": "集市上情侣随着民间曲调跳舞。",
+      "essential": false
     },
     {
       "id": 21,
@@ -238,7 +249,8 @@
       "partOfSpeech": "n.",
       "chinese": "作曲家",
       "example_sentence": "The composer revised the score until every bar felt right.",
-      "example_sentence_zh": "作曲家改谱直到每一小节都恰到好处。"
+      "example_sentence_zh": "作曲家改谱直到每一小节都恰到好处。",
+      "essential": false
     },
     {
       "id": 26,
@@ -277,7 +289,8 @@
       "partOfSpeech": "phrase",
       "chinese": "（向某人）表示敬佩",
       "example_sentence": "Hats off to the gifted pianist who played from memory.",
-      "example_sentence_zh": "向凭记忆演奏的有天赋钢琴家致敬。"
+      "example_sentence_zh": "向凭记忆演奏的有天赋钢琴家致敬。",
+      "essential": false
     },
     {
       "id": 30,
@@ -316,7 +329,8 @@
       "partOfSpeech": "v.",
       "chinese": "胜过",
       "example_sentence": "She tried to outdo her last performance with a harder piece.",
-      "example_sentence_zh": "她选更难曲目，想超越上次演出。"
+      "example_sentence_zh": "她选更难曲目，想超越上次演出。",
+      "essential": false
     },
     {
       "id": 34,
@@ -335,7 +349,8 @@
       "partOfSpeech": "n.",
       "chinese": "真挚情感；灵魂",
       "example_sentence": "Soul music carries emotion straight to the listener's heart.",
-      "example_sentence_zh": "灵魂乐把情感直送进听众心里。"
+      "example_sentence_zh": "灵魂乐把情感直送进听众心里。",
+      "essential": false
     },
     {
       "id": 36,
@@ -344,7 +359,8 @@
       "partOfSpeech": "phrase",
       "chinese": "轻视；蔑视",
       "example_sentence": "Never look down on folk songs—they hold a nation's memory.",
-      "example_sentence_zh": "别轻视民歌——它们承载民族记忆。"
+      "example_sentence_zh": "别轻视民歌——它们承载民族记忆。",
+      "essential": false
     },
     {
       "id": 37,
@@ -353,7 +369,8 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "波兰的；波兰人；波兰语",
       "example_sentence": "He spoke Polish at home and English at school.",
-      "example_sentence_zh": "他在家说波兰语，在学校说英语。"
+      "example_sentence_zh": "他在家说波兰语，在学校说英语。",
+      "essential": false
     },
     {
       "id": 38,
@@ -392,7 +409,8 @@
       "partOfSpeech": "n.",
       "chinese": "葬礼",
       "example_sentence": "Mourners heard a quiet piano piece at the funeral.",
-      "example_sentence_zh": "吊唁者在葬礼上听到一首轻柔钢琴曲。"
+      "example_sentence_zh": "吊唁者在葬礼上听到一首轻柔钢琴曲。",
+      "essential": false
     },
     {
       "id": 42,
@@ -401,7 +419,8 @@
       "partOfSpeech": "phrase",
       "chinese": "老老少少",
       "example_sentence": "Young and old danced together when the band played pop hits.",
-      "example_sentence_zh": "乐队演奏流行金曲时，老老少少一起跳舞。"
+      "example_sentence_zh": "乐队演奏流行金曲时，老老少少一起跳舞。",
+      "essential": false
     },
     {
       "id": 43,
@@ -410,7 +429,8 @@
       "partOfSpeech": "n.",
       "chinese": "职业；行业",
       "example_sentence": "Teaching music became her profession after years on stage.",
-      "example_sentence_zh": "多年舞台生涯后，教音乐成了她的职业。"
+      "example_sentence_zh": "多年舞台生涯后，教音乐成了她的职业。",
+      "essential": false
     },
     {
       "id": 44,
@@ -419,7 +439,8 @@
       "partOfSpeech": "n.",
       "chinese": "贡献；捐款",
       "example_sentence": "Chopin's contribution to piano music is still studied today.",
-      "example_sentence_zh": "肖邦对钢琴音乐的贡献至今仍被研究。"
+      "example_sentence_zh": "肖邦对钢琴音乐的贡献至今仍被研究。",
+      "essential": false
     },
     {
       "id": 45,
@@ -448,7 +469,8 @@
       "partOfSpeech": "phrase",
       "chinese": "光明正大",
       "example_sentence": "The jury picked the winner fair and square after every performance.",
-      "example_sentence_zh": "评委在每场演出后光明正大地选出了胜者。"
+      "example_sentence_zh": "评委在每场演出后光明正大地选出了胜者。",
+      "essential": true
     },
     {
       "id": 48,
@@ -477,7 +499,8 @@
       "partOfSpeech": "phrase",
       "chinese": "用脚打节拍",
       "example_sentence": "Everyone began to tap their feet when the drums kicked in.",
-      "example_sentence_zh": "鼓点一起，大家就开始用脚打节拍。"
+      "example_sentence_zh": "鼓点一起，大家就开始用脚打节拍。",
+      "essential": false
     },
     {
       "id": 51,
@@ -506,7 +529,8 @@
       "partOfSpeech": "n.",
       "chinese": "同学",
       "example_sentence": "My schoolmate and I downloaded the same practice track.",
-      "example_sentence_zh": "我和同学下载了同一首练习曲。"
+      "example_sentence_zh": "我和同学下载了同一首练习曲。",
+      "essential": false
     },
     {
       "id": 54,
@@ -535,7 +559,8 @@
       "partOfSpeech": "n.",
       "chinese": "克拉丽斯",
       "example_sentence": "Clarice chose a romantic ballad for the final round.",
-      "example_sentence_zh": "克拉丽斯在决赛选了一首浪漫民谣。"
+      "example_sentence_zh": "克拉丽斯在决赛选了一首浪漫民谣。",
+      "essential": false
     },
     {
       "id": 57,
@@ -544,7 +569,8 @@
       "partOfSpeech": "n.",
       "chinese": "黛比",
       "example_sentence": "Debbie commented that the trumpet section was too loud.",
-      "example_sentence_zh": "黛比评论说小号声部太响了。"
+      "example_sentence_zh": "黛比评论说小号声部太响了。",
+      "essential": false
     },
     {
       "id": 58,
@@ -553,7 +579,8 @@
       "partOfSpeech": "n.",
       "chinese": "罗伯特·舒曼",
       "example_sentence": "Robert Schumann encouraged young Chopin in Vienna.",
-      "example_sentence_zh": "罗伯特·舒曼在维也纳鼓励年轻的肖邦。"
+      "example_sentence_zh": "罗伯特·舒曼在维也纳鼓励年轻的肖邦。",
+      "essential": false
     },
     {
       "id": 59,
@@ -562,7 +589,8 @@
       "partOfSpeech": "n.",
       "chinese": "弗雷德里克·肖邦",
       "example_sentence": "Frédéric Chopin composed mostly for the piano.",
-      "example_sentence_zh": "弗雷德里克·肖邦的作品主要为钢琴而作。"
+      "example_sentence_zh": "弗雷德里克·肖邦的作品主要为钢琴而作。",
+      "essential": false
     },
     {
       "id": 60,
@@ -571,7 +599,8 @@
       "partOfSpeech": "n.",
       "chinese": "波兰",
       "example_sentence": "Poland celebrates Chopin with concerts and statues.",
-      "example_sentence_zh": "波兰用音乐会和雕像纪念肖邦。"
+      "example_sentence_zh": "波兰用音乐会和雕像纪念肖邦。",
+      "essential": false
     },
     {
       "id": 61,
@@ -580,7 +609,8 @@
       "partOfSpeech": "n.",
       "chinese": "维也纳（奥地利首都）",
       "example_sentence": "Vienna was a centre of European music in the nineteenth century.",
-      "example_sentence_zh": "十九世纪维也纳是欧洲音乐中心。"
+      "example_sentence_zh": "十九世纪维也纳是欧洲音乐中心。",
+      "essential": false
     }
   ]
 }

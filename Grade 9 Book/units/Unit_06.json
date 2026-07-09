@@ -69,7 +69,8 @@
       "partOfSpeech": "v. & n.",
       "chinese": "发射；发起",
       "example_sentence": "Weather delayed the rocket launch by twenty-four hours.",
-      "example_sentence_zh": "天气让火箭发射推迟了二十四小时。"
+      "example_sentence_zh": "天气让火箭发射推迟了二十四小时。",
+      "essential": false
     },
     {
       "id": 8,
@@ -108,7 +109,8 @@
       "partOfSpeech": "phrase",
       "chinese": "入睡",
       "example_sentence": "It is hard to fall asleep with sunrise every ninety minutes in orbit.",
-      "example_sentence_zh": "在轨道上每九十分钟一次日出，很难入睡。"
+      "example_sentence_zh": "在轨道上每九十分钟一次日出，很难入睡。",
+      "essential": false
     },
     {
       "id": 12,
@@ -127,7 +129,8 @@
       "partOfSpeech": "n.",
       "chinese": "地质；地质学",
       "example_sentence": "The rover studies geology to learn how Mars formed.",
-      "example_sentence_zh": "探测器研究地质以了解火星如何形成。"
+      "example_sentence_zh": "探测器研究地质以了解火星如何形成。",
+      "essential": false
     },
     {
       "id": 14,
@@ -136,7 +139,8 @@
       "partOfSpeech": "n.",
       "chinese": "人造卫星；卫星",
       "example_sentence": "A weather satellite sends images of storms back to Earth.",
-      "example_sentence_zh": "气象卫星把风暴图像传回地球。"
+      "example_sentence_zh": "气象卫星把风暴图像传回地球。",
+      "essential": false
     },
     {
       "id": 15,
@@ -155,7 +159,8 @@
       "partOfSpeech": "n.",
       "chinese": "人；人类",
       "example_sentence": "No human being has set foot on Mars yet.",
-      "example_sentence_zh": "还没有人类踏上火星。"
+      "example_sentence_zh": "还没有人类踏上火星。",
+      "essential": false
     },
     {
       "id": 17,
@@ -204,7 +209,8 @@
       "partOfSpeech": "n.",
       "chinese": "系外行星",
       "example_sentence": "Each new exoplanet discovery raises questions about life beyond the Sun.",
-      "example_sentence_zh": "每发现一颗系外行星，都会引发关于太阳系外生命的疑问。"
+      "example_sentence_zh": "每发现一颗系外行星，都会引发关于太阳系外生命的疑问。",
+      "essential": false
     },
     {
       "id": 22,
@@ -253,7 +259,8 @@
       "partOfSpeech": "phrase",
       "chinese": "以防万一",
       "example_sentence": "Pack extra batteries in case the rover loses power on Mars.",
-      "example_sentence_zh": "多带备用电池，以防探测器在火星上断电。"
+      "example_sentence_zh": "多带备用电池，以防探测器在火星上断电。",
+      "essential": false
     },
     {
       "id": 27,
@@ -272,7 +279,8 @@
       "partOfSpeech": "phrase",
       "chinese": "在船（或火车、飞机）上",
       "example_sentence": "There are six astronauts on board the space station today.",
-      "example_sentence_zh": "今天空间站上共有六名宇航员。"
+      "example_sentence_zh": "今天空间站上共有六名宇航员。",
+      "essential": false
     },
     {
       "id": 29,
@@ -321,7 +329,8 @@
       "partOfSpeech": "phrase",
       "chinese": "合作；协作；配合",
       "example_sentence": "NASA cooperates with other agencies to survey Mars.",
-      "example_sentence_zh": "美国国家航空航天局与其他机构合作探测火星。"
+      "example_sentence_zh": "美国国家航空航天局与其他机构合作探测火星。",
+      "essential": false
     },
     {
       "id": 34,
@@ -330,7 +339,8 @@
       "partOfSpeech": "phrase",
       "chinese": "访问；参观（某地）",
       "example_sentence": "Ann dreamed of the day humans would set foot on Mars.",
-      "example_sentence_zh": "安梦想着人类踏上火星的那一天。"
+      "example_sentence_zh": "安梦想着人类踏上火星的那一天。",
+      "essential": false
     },
     {
       "id": 35,
@@ -409,7 +419,8 @@
       "partOfSpeech": "n.",
       "chinese": "火星",
       "example_sentence": "Mars appears red because iron-rich dust covers its surface.",
-      "example_sentence_zh": "火星呈红色，因为富含铁的尘土覆盖其表面。"
+      "example_sentence_zh": "火星呈红色，因为富含铁的尘土覆盖其表面。",
+      "essential": false
     },
     {
       "id": 43,
@@ -418,7 +429,8 @@
       "partOfSpeech": "n.",
       "chinese": "旅行者1号探测器",
       "example_sentence": "Voyager carries a golden record of sounds from Earth.",
-      "example_sentence_zh": "旅行者号携带着一张记录地球声音的金唱片。"
+      "example_sentence_zh": "旅行者号携带着一张记录地球声音的金唱片。",
+      "essential": false
     },
     {
       "id": 44,
@@ -427,7 +439,8 @@
       "partOfSpeech": "n.",
       "chinese": "比邻星",
       "example_sentence": "Proxima Centauri is the nearest star beyond our solar system.",
-      "example_sentence_zh": "比邻星是太阳系外最近的恒星。"
+      "example_sentence_zh": "比邻星是太阳系外最近的恒星。",
+      "essential": false
     },
     {
       "id": 45,
@@ -436,7 +449,8 @@
       "partOfSpeech": "n.",
       "chinese": "安",
       "example_sentence": "Ann wrote a report on how rovers cooperate with satellites in orbit.",
-      "example_sentence_zh": "安写了一份关于探测器如何与轨道卫星协作的报告。"
+      "example_sentence_zh": "安写了一份关于探测器如何与轨道卫星协作的报告。",
+      "essential": false
     }
   ]
 }

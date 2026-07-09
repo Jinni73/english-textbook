@@ -29,7 +29,8 @@
       "partOfSpeech": "phrase",
       "chinese": "用完；耗尽",
       "example_sentence": "I ran out of time before I could finish the memory quiz.",
-      "example_sentence_zh": "我还没做完记忆测验时间就耗尽了。"
+      "example_sentence_zh": "我还没做完记忆测验时间就耗尽了。",
+      "essential": false
     },
     {
       "id": 4,
@@ -48,7 +49,8 @@
       "partOfSpeech": "phrase",
       "chinese": "混淆；弄乱",
       "example_sentence": "Do not mix up the dates of the two family picnics.",
-      "example_sentence_zh": "别把两次家庭野餐的日期搞混了。"
+      "example_sentence_zh": "别把两次家庭野餐的日期搞混了。",
+      "essential": false
     },
     {
       "id": 6,
@@ -57,7 +59,8 @@
       "partOfSpeech": "phrase",
       "chinese": "有效使用（或利用）某物",
       "example_sentence": "She put her old diary to good use by turning entries into a story.",
-      "example_sentence_zh": "她把旧日记好好利用，把条目改成了故事。"
+      "example_sentence_zh": "她把旧日记好好利用，把条目改成了故事。",
+      "essential": false
     },
     {
       "id": 7,
@@ -106,7 +109,8 @@
       "partOfSpeech": "v.",
       "chinese": "记住；记忆",
       "example_sentence": "It is easier to memorize a list when you link each item to a picture.",
-      "example_sentence_zh": "把每项和图片联系起来，背清单会更容易。"
+      "example_sentence_zh": "把每项和图片联系起来，背清单会更容易。",
+      "essential": false
     },
     {
       "id": 12,
@@ -115,7 +119,8 @@
       "partOfSpeech": "v. & n.",
       "chinese": "给……打钩；对号；钩号",
       "example_sentence": "Tick each name you can recall without looking at your notes.",
-      "example_sentence_zh": "不看书本能想起的名字就打个钩。"
+      "example_sentence_zh": "不看书本能想起的名字就打个钩。",
+      "essential": false
     },
     {
       "id": 13,
@@ -134,7 +139,8 @@
       "partOfSpeech": "phrase",
       "chinese": "经历；仔细查看",
       "example_sentence": "We went through every ticket stub saved since last summer.",
-      "example_sentence_zh": "我们把去年夏天留存的每张票根都翻了一遍。"
+      "example_sentence_zh": "我们把去年夏天留存的每张票根都翻了一遍。",
+      "essential": false
     },
     {
       "id": 15,
@@ -143,7 +149,8 @@
       "partOfSpeech": "phrase",
       "chinese": "发生于；使遭遇",
       "example_sentence": "What happened to the wallet you lost at the airport?",
-      "example_sentence_zh": "你在机场丢的钱包后来怎么样了？"
+      "example_sentence_zh": "你在机场丢的钱包后来怎么样了？",
+      "essential": false
     },
     {
       "id": 16,
@@ -152,7 +159,8 @@
       "partOfSpeech": "phrase",
       "chinese": "记在心中；记住",
       "example_sentence": "Keep in mind that feelings can colour how we remember events.",
-      "example_sentence_zh": "请记住，情绪会影响我们怎样回忆事件。"
+      "example_sentence_zh": "请记住，情绪会影响我们怎样回忆事件。",
+      "essential": false
     },
     {
       "id": 17,
@@ -171,7 +179,8 @@
       "partOfSpeech": "phrase",
       "chinese": "就某人的情况而言",
       "example_sentence": "In Johnny's case, music unlocked memories he thought were gone.",
-      "example_sentence_zh": "就约翰尼而言，音乐唤起了他以为已消失的记忆。"
+      "example_sentence_zh": "就约翰尼而言，音乐唤起了他以为已消失的记忆。",
+      "essential": false
     },
     {
       "id": 19,
@@ -290,7 +299,8 @@
       "partOfSpeech": "phrase",
       "chinese": "首先",
       "example_sentence": "To start with, write down five facts you remember clearly.",
-      "example_sentence_zh": "首先，写下你清楚记得的五条事实。"
+      "example_sentence_zh": "首先，写下你清楚记得的五条事实。",
+      "essential": false
     },
     {
       "id": 31,
@@ -299,7 +309,8 @@
       "partOfSpeech": "adj.",
       "chinese": "短期的",
       "example_sentence": "Phone numbers live in short-term memory unless you repeat them.",
-      "example_sentence_zh": "电话号码留在短期记忆里，除非你反复念。"
+      "example_sentence_zh": "电话号码留在短期记忆里，除非你反复念。",
+      "essential": false
     },
     {
       "id": 32,
@@ -308,7 +319,8 @@
       "partOfSpeech": "adj.",
       "chinese": "长期的",
       "example_sentence": "Family photos help move moments into long-term memory.",
-      "example_sentence_zh": "家庭照片有助于把瞬间存入长期记忆。"
+      "example_sentence_zh": "家庭照片有助于把瞬间存入长期记忆。",
+      "essential": false
     },
     {
       "id": 33,
@@ -317,7 +329,8 @@
       "partOfSpeech": "n.",
       "chinese": "技巧",
       "example_sentence": "The mind-map technique made the long passage easy to retell.",
-      "example_sentence_zh": "思维导图技巧让长段落变得容易复述。"
+      "example_sentence_zh": "思维导图技巧让长段落变得容易复述。",
+      "essential": false
     },
     {
       "id": 34,
@@ -346,7 +359,8 @@
       "partOfSpeech": "phrase",
       "chinese": "使疲乏；磨损",
       "example_sentence": "Cramming all night will wear out your brain before the test.",
-      "example_sentence_zh": "通宵死记硬背会在考试前把大脑拖垮。"
+      "example_sentence_zh": "通宵死记硬背会在考试前把大脑拖垮。",
+      "essential": false
     },
     {
       "id": 37,
@@ -515,7 +529,8 @@
       "partOfSpeech": "n.",
       "chinese": "松鼠",
       "example_sentence": "Rick drew a squirrel to remember the word \"nut\" in his list.",
-      "example_sentence_zh": "里克画了一只松鼠来记清单里的 nut 这个词。"
+      "example_sentence_zh": "里克画了一只松鼠来记清单里的 nut 这个词。",
+      "essential": false
     },
     {
       "id": 54,
@@ -524,7 +539,8 @@
       "partOfSpeech": "n.",
       "chinese": "坚果",
       "example_sentence": "Link each nut in the bowl to one fact you must memorize.",
-      "example_sentence_zh": "把碗里的每颗坚果对应一条必须记住的事实。"
+      "example_sentence_zh": "把碗里的每颗坚果对应一条必须记住的事实。",
+      "essential": false
     },
     {
       "id": 55,
@@ -533,7 +549,8 @@
       "partOfSpeech": "n.",
       "chinese": "海豚",
       "example_sentence": "The dolphin show at the aquarium became Johnny's brightest memory.",
-      "example_sentence_zh": "水族馆的海豚表演成了约翰尼最鲜亮的记忆。"
+      "example_sentence_zh": "水族馆的海豚表演成了约翰尼最鲜亮的记忆。",
+      "essential": false
     },
     {
       "id": 56,
@@ -552,7 +569,8 @@
       "partOfSpeech": "n. & v.",
       "chinese": "纲要；概述",
       "example_sentence": "Outline the chapter before you try to retell it from memory.",
-      "example_sentence_zh": "先列章节纲要，再凭记忆复述。"
+      "example_sentence_zh": "先列章节纲要，再凭记忆复述。",
+      "essential": false
     },
     {
       "id": 58,
@@ -581,7 +599,8 @@
       "partOfSpeech": "phrase",
       "chinese": "把某物分为",
       "example_sentence": "Divide the passage into four parts and summarize each.",
-      "example_sentence_zh": "把段落分成四部分并分别概括。"
+      "example_sentence_zh": "把段落分成四部分并分别概括。",
+      "essential": false
     },
     {
       "id": 61,
@@ -590,7 +609,8 @@
       "partOfSpeech": "adj.",
       "chinese": "通用的",
       "example_sentence": "Memory training is not one-size-fits-all for every student.",
-      "example_sentence_zh": "记忆训练并非对每位学生都一刀切。"
+      "example_sentence_zh": "记忆训练并非对每位学生都一刀切。",
+      "essential": false
     },
     {
       "id": 62,
@@ -599,7 +619,8 @@
       "partOfSpeech": "n.",
       "chinese": "里克",
       "example_sentence": "Rick uses colour codes to remember dates and names.",
-      "example_sentence_zh": "里克用颜色编码来记日期和名字。"
+      "example_sentence_zh": "里克用颜色编码来记日期和名字。",
+      "essential": false
     },
     {
       "id": 63,
@@ -608,7 +629,8 @@
       "partOfSpeech": "n.",
       "chinese": "约翰尼",
       "example_sentence": "Johnny keeps opera tickets in a chain inside his desk drawer.",
-      "example_sentence_zh": "约翰尼把歌剧票用链子串着放在书桌抽屉里。"
+      "example_sentence_zh": "约翰尼把歌剧票用链子串着放在书桌抽屉里。",
+      "essential": false
     },
     {
       "id": 64,
@@ -617,7 +639,8 @@
       "partOfSpeech": "n.",
       "chinese": "鲍勃",
       "example_sentence": "Bob wrote a graph in his notebook showing his recall scores.",
-      "example_sentence_zh": "鲍勃在笔记本里画了一张回忆得分图表。"
+      "example_sentence_zh": "鲍勃在笔记本里画了一张回忆得分图表。",
+      "essential": false
     }
   ]
 }
