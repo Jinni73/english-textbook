@@ -499,7 +499,7 @@
       "partOfSpeech": "n.",
       "chinese": "公寓",
       "example_sentence": "Many workers rent a flat close to the port.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "许多工人在港口附近租公寓。"
     },
     {
@@ -509,7 +509,7 @@
       "partOfSpeech": "n.",
       "chinese": "讨论",
       "example_sentence": "The class had a lively discussion about Kenya's development.",
-      "essential": false,
+      "essential": true,
       "example_sentence_zh": "全班就肯尼亚的发展进行了热烈的讨论。"
     },
     {
