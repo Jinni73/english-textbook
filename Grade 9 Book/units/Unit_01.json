@@ -19,7 +19,7 @@
       "partOfSpeech": "adj.",
       "chinese": "崎岖的",
       "example_sentence": "The rough terrain made the journey difficult.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "崎岖的地形使旅途变得艰难。"
     },
     {
@@ -39,7 +39,7 @@
       "partOfSpeech": "n.",
       "chinese": "沙尘暴",
       "example_sentence": "A powerful sandstorm swept across the desert.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "一场强沙尘暴席卷了沙漠。"
     },
     {
@@ -49,7 +49,7 @@
       "partOfSpeech": "n.",
       "chinese": "农田",
       "example_sentence": "Large areas of farmland are being developed.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "大片农田正在被开发。"
     },
     {
@@ -69,7 +69,7 @@
       "partOfSpeech": "n.",
       "chinese": "缺乏",
       "example_sentence": "The lack of rainfall caused a drought.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "降雨不足导致了干旱。"
     },
     {
@@ -79,7 +79,7 @@
       "partOfSpeech": "n.",
       "chinese": "灌木",
       "example_sentence": "A small bush grew near the path.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "小径旁长着一丛小灌木。"
     },
     {
@@ -89,7 +89,7 @@
       "partOfSpeech": "n.",
       "chinese": "根",
       "example_sentence": "The tree's roots extended deep into the soil.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "树根深深扎入土壤。"
     },
     {
@@ -149,7 +149,7 @@
       "partOfSpeech": "adj.",
       "chinese": "高科技的",
       "example_sentence": "The company uses high-tech equipment in manufacturing.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "该公司在制造过程中使用高科技设备。"
     },
     {
@@ -159,7 +159,7 @@
       "partOfSpeech": "n.",
       "chinese": "温室",
       "example_sentence": "Vegetables grow in the greenhouse year-round.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "温室里一年四季都种着蔬菜。"
     },
     {
@@ -189,7 +189,7 @@
       "partOfSpeech": "n.",
       "chinese": "向往的地方；吸引力",
       "example_sentence": "The national park is a major tourist attraction.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "国家公园是一个主要的旅游景点。"
     },
     {
@@ -229,7 +229,7 @@
       "partOfSpeech": "n.",
       "chinese": "电子支付",
       "example_sentence": "E-payment services have become increasingly popular.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "电子支付服务越来越受欢迎。"
     },
     {
@@ -259,7 +259,7 @@
       "partOfSpeech": "adj. & n.",
       "chinese": "音频的；音频",
       "example_sentence": "The audio quality of the recording is excellent.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "这段录音的音质非常好。"
     },
     {
@@ -279,7 +279,7 @@
       "partOfSpeech": "n.",
       "chinese": "小路；轨道",
       "example_sentence": "The railway track runs through the savanna.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "铁路轨道穿过稀树草原。"
     },
     {
@@ -419,7 +419,7 @@
       "partOfSpeech": "n.",
       "chinese": "结论",
       "example_sentence": "In conclusion, the project greatly improved transport.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "总之，该项目极大地改善了交通。"
     },
     {
@@ -459,7 +459,7 @@
       "partOfSpeech": "adj.",
       "chinese": "人造的；非天然的",
       "example_sentence": "The lake is a man-made reservoir for the city.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "这个湖是供城市使用的人工水库。"
     },
     {
@@ -469,7 +469,7 @@
       "partOfSpeech": "n.",
       "chinese": "奇迹",
       "example_sentence": "Many people called the recovery a miracle.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "许多人把这次康复称为奇迹。"
     },
     {
@@ -499,7 +499,7 @@
       "partOfSpeech": "n.",
       "chinese": "公寓",
       "example_sentence": "Many workers rent a flat close to the port.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "许多工人在港口附近租公寓。"
     },
     {
@@ -509,7 +509,7 @@
       "partOfSpeech": "n.",
       "chinese": "讨论",
       "example_sentence": "The class had a lively discussion about Kenya's development.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "全班就肯尼亚的发展进行了热烈的讨论。"
     },
     {
@@ -519,7 +519,7 @@
       "partOfSpeech": "n.",
       "chinese": "方面",
       "example_sentence": "Transport is a key aspect of the country's growth.",
-      "essential": true,
+      "essential": false,
       "example_sentence_zh": "交通是该国发展的一个关键方面。"
     },
     {

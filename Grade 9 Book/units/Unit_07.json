@@ -70,7 +70,7 @@
       "chinese": "评论；批评",
       "example_sentence": "Please leave a kind comment after the online performance.",
       "example_sentence_zh": "在线演出后请留下友善的评论。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 8,
@@ -110,7 +110,7 @@
       "chinese": "电吉他",
       "example_sentence": "Debbie borrowed an electric guitar for the school rock night.",
       "example_sentence_zh": "黛比为学校摇滚之夜借了一把电吉他。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 12,
@@ -140,7 +140,7 @@
       "chinese": "风格；方式",
       "example_sentence": "Each performer chose a different style for the same song.",
       "example_sentence_zh": "同首歌每位演奏者选了不同风格。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 15,
@@ -160,7 +160,7 @@
       "chinese": "金色的",
       "example_sentence": "Golden lights shone on the stage during the finale.",
       "example_sentence_zh": "压轴时金色灯光洒在舞台上。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 17,
@@ -260,7 +260,7 @@
       "chinese": "电子的",
       "example_sentence": "Electronic sounds blended with trumpet and drums.",
       "example_sentence_zh": "电子音效与小号和鼓融合在一起。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 27,
@@ -280,7 +280,7 @@
       "chinese": "评分；等级",
       "example_sentence": "The new album received a five-star rating online.",
       "example_sentence_zh": "新专辑在网上获得五星评分。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 29,
@@ -470,7 +470,7 @@
       "chinese": "光明正大",
       "example_sentence": "The jury picked the winner fair and square after every performance.",
       "example_sentence_zh": "评委在每场演出后光明正大地选出了胜者。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 48,
@@ -550,7 +550,7 @@
       "chinese": "想象力；想象",
       "example_sentence": "Use your imagination to picture the scene behind the lyric.",
       "example_sentence_zh": "用想象力想象歌词背后的场景。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 56,

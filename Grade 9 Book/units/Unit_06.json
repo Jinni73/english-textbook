@@ -10,7 +10,7 @@
       "chinese": "超出；在……较远的一边；在（或向）更远处",
       "example_sentence": "Telescopes let us see worlds beyond our own planet.",
       "example_sentence_zh": "望远镜让我们看见地球以外的世界。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "chinese": "任务；使命",
       "example_sentence": "The Mars rover mission searches for signs of ancient water.",
       "example_sentence_zh": "火星探测器任务在寻找古代水的痕迹。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "chinese": "望远镜",
       "example_sentence": "Astronomers aimed the telescope at Proxima Centauri last night.",
       "example_sentence_zh": "天文学家昨晚把望远镜对准比邻星。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "chinese": "探测器；漫游者",
       "example_sentence": "The rover rolled slowly across the red dust of Mars.",
       "example_sentence_zh": "探测器缓缓驶过火星的红色尘土。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 5,
@@ -50,7 +50,7 @@
       "chinese": "需人操作的",
       "example_sentence": "The first manned mission to the Moon amazed people worldwide.",
       "example_sentence_zh": "首次载人登月任务震惊了全世界。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
       "chinese": "维修；保持",
       "example_sentence": "Engineers maintain the spacecraft so systems stay reliable in orbit.",
       "example_sentence_zh": "工程师维护飞船，让系统在轨道上保持可靠。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 7,
@@ -170,7 +170,7 @@
       "chinese": "需要；要求",
       "example_sentence": "Long missions require careful planning for food and air.",
       "example_sentence_zh": "长期任务需要仔细规划食物和空气。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 18,
@@ -180,7 +180,7 @@
       "chinese": "火箭",
       "example_sentence": "The rocket lifted the unmanned probe beyond Earth's atmosphere.",
       "example_sentence_zh": "火箭把无人探测器送出地球大气层。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 19,
@@ -190,7 +190,7 @@
       "chinese": "取消；终止",
       "example_sentence": "Officials cancel launches if wind near the pad is too strong.",
       "example_sentence_zh": "发射台附近风太大时，官员会取消发射。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 20,
@@ -220,7 +220,7 @@
       "chinese": "太阳的；太阳能的",
       "example_sentence": "Solar panels on the station capture energy from the Sun.",
       "example_sentence_zh": "空间站的太阳能板捕获太阳的能量。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 23,
@@ -240,7 +240,7 @@
       "chinese": "神秘的；奇怪的",
       "example_sentence": "The dark side of the Moon once seemed mysterious to early astronomers.",
       "example_sentence_zh": "月球背面对早期天文学家曾显得神秘。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 25,
@@ -250,7 +250,7 @@
       "chinese": "宇宙飞船",
       "example_sentence": "The crowded spacecraft carried supplies for a six-month stay.",
       "example_sentence_zh": "拥挤的飞船载着六个月驻留的补给。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 26,
@@ -270,7 +270,7 @@
       "chinese": "板；牌子",
       "example_sentence": "A warning board listed every tool allowed on board the ship.",
       "example_sentence_zh": "警示牌列出了飞船上允许携带的每件工具。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 28,
@@ -290,7 +290,7 @@
       "chinese": "十亿",
       "example_sentence": "Our galaxy holds hundreds of billions of stars.",
       "example_sentence_zh": "我们的星系拥有数千亿颗恒星。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 30,
@@ -300,7 +300,7 @@
       "chinese": "万亿；兆",
       "example_sentence": "Distances in space are often measured in trillions of metres.",
       "example_sentence_zh": "太空距离常以万亿米计。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 31,
@@ -350,7 +350,7 @@
       "chinese": "星系",
       "example_sentence": "Voyager is heading toward the edge of our galaxy.",
       "example_sentence_zh": "旅行者号正朝我们星系的边缘飞去。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 36,
@@ -360,7 +360,7 @@
       "chinese": "无（需）人操作的",
       "example_sentence": "Unmanned craft reached Mars long before manned flights were planned.",
       "example_sentence_zh": "在计划载人飞行之前，无人飞行器就已到达火星。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 37,

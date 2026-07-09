@@ -90,7 +90,7 @@
       "chinese": "纸",
       "example_sentence": "Ancient papermaking turned plant fibre into sheets people could write on.",
       "example_sentence_zh": "古代造纸把植物纤维变成可书写的纸页。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 10,
@@ -100,7 +100,7 @@
       "chinese": "按钮；扣子",
       "example_sentence": "Press the button and the machine prints your file.",
       "example_sentence_zh": "按下按钮，机器就会打印你的文件。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 11,
@@ -370,7 +370,7 @@
       "chinese": "石头；岩石",
       "example_sentence": "Stone wheels ground fibre before it entered the paper vat.",
       "example_sentence_zh": "石磨在纤维入槽前把它磨碎。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 38,
@@ -430,7 +430,7 @@
       "chinese": "没有一个；毫无",
       "example_sentence": "None of the early gliders flew as far as the Wright brothers' plane.",
       "example_sentence_zh": "早期滑翔机没有一架飞得像莱特兄弟的飞机那样远。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 44,
@@ -550,7 +550,7 @@
       "chinese": "起源；诞生",
       "example_sentence": "The birth of radio linked ships far from any shore.",
       "example_sentence_zh": "无线电的诞生让远离海岸的船只也能联络。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 56,
@@ -610,7 +610,7 @@
       "chinese": "逐渐地；逐步地",
       "example_sentence": "Trains gradually replaced horse carts on long trade routes.",
       "example_sentence_zh": "在长途商路上，火车逐渐取代马车。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 62,

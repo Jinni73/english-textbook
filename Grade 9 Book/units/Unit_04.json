@@ -70,7 +70,7 @@
       "chinese": "链条",
       "example_sentence": "Each happy memory formed a chain that led back to childhood.",
       "example_sentence_zh": "每一段快乐回忆连成链，引回童年。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 8,
@@ -80,7 +80,7 @@
       "chinese": "稳定的；稳固的",
       "example_sentence": "A stable routine helps long-term memories settle in.",
       "example_sentence_zh": "稳定的作息有助于长期记忆沉淀。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 9,
@@ -90,7 +90,7 @@
       "chinese": "讲座；讲课",
       "example_sentence": "The lecture on memory tricks kept the whole hall awake.",
       "example_sentence_zh": "关于记忆技巧的讲座让全场都精神集中。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 10,
@@ -170,7 +170,7 @@
       "chinese": "情况；事实",
       "example_sentence": "In this case, a vivid image helped her recall the address.",
       "example_sentence_zh": "在这种情况下，一幅鲜明画面帮她想起了地址。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 18,
@@ -250,7 +250,7 @@
       "chinese": "枪声；（射出的）炮弹",
       "example_sentence": "A gunshot in the film made him recall a scary news report.",
       "example_sentence_zh": "电影里的枪声让他想起一则可怕的新闻报道。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 26,
@@ -260,7 +260,7 @@
       "chinese": "成年的",
       "example_sentence": "As a grown-up, Rick still keeps his childhood notebook.",
       "example_sentence_zh": "长大成人后，里克仍保存着童年的笔记本。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 27,
@@ -280,7 +280,7 @@
       "chinese": "葡萄藤；葡萄树",
       "example_sentence": "Climbing the grapevine behind the house became a summer memory.",
       "example_sentence_zh": "爬屋后葡萄藤成了夏天的记忆。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 29,
@@ -290,7 +290,7 @@
       "chinese": "促进；使增长；帮助；增长",
       "example_sentence": "Sharing stories with friends can boost your mood and memory.",
       "example_sentence_zh": "和朋友分享故事能提升情绪，也有助记忆。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 30,
@@ -340,7 +340,7 @@
       "chinese": "段落；走廊",
       "example_sentence": "Read the passage once, then close the book and outline it.",
       "example_sentence_zh": "读一遍段落，合上书再写出纲要。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 35,
@@ -380,7 +380,7 @@
       "chinese": "图像；形象",
       "example_sentence": "Create a silly image for each item on your shopping list.",
       "example_sentence_zh": "给购物清单上的每项编一个滑稽画面。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 39,
@@ -390,7 +390,7 @@
       "chinese": "图；图表",
       "example_sentence": "The graph shows how recall drops without review.",
       "example_sentence_zh": "图表显示不复习时回忆率如何下降。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 40,
@@ -400,7 +400,7 @@
       "chinese": "观看；观点；视野",
       "example_sentence": "From his view, forgetting names is normal under stress.",
       "example_sentence_zh": "在他看来，压力下忘名很正常。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 41,
@@ -430,7 +430,7 @@
       "chinese": "燃料",
       "example_sentence": "Emotion can fuel a memory so it stays bright for years.",
       "example_sentence_zh": "情感能为记忆供能，让它亮好多年。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 44,
@@ -450,7 +450,7 @@
       "chinese": "密码；口令",
       "example_sentence": "He wrote the password on a sticky note and hid it in his notebook.",
       "example_sentence_zh": "他把密码写在便签上，夹在笔记本里。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 46,

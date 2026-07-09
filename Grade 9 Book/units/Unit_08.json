@@ -10,7 +10,7 @@
       "chinese": "引体向上",
       "example_sentence": "He did twelve pull-ups before the boxing tryout.",
       "example_sentence_zh": "拳击选拔前他做了十二个引体向上。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 2,
@@ -100,7 +100,7 @@
       "chinese": "参加赛跑的人",
       "example_sentence": "The lead runner opened a gap before the final bend.",
       "example_sentence_zh": "领先选手在最后一个弯道前拉开了差距。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 11,
@@ -160,7 +160,7 @@
       "chinese": "（冰上动作的）花样；数字；人物；认为",
       "example_sentence": "The skater landed a difficult figure after a dramatic spin.",
       "example_sentence_zh": "选手在精彩旋转后完成了高难度花样。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 17,
@@ -190,7 +190,7 @@
       "chinese": "力量；体力",
       "example_sentence": "Core strength helps pull-ups and shot-put alike.",
       "example_sentence_zh": "核心力量对引体向上和推铅球都有帮助。",
-      "essential": false
+      "essential": true
     },
     {
       "id": 20,
@@ -270,7 +270,7 @@
       "chinese": "攀岩",
       "example_sentence": "Bouldering builds finger strength without ropes.",
       "example_sentence_zh": "攀岩不用绳子也能练手指力量。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 28,
@@ -290,7 +290,7 @@
       "chinese": "吉祥物",
       "example_sentence": "Bing Dwen Dwen became a beloved mascot worldwide.",
       "example_sentence_zh": "冰墩墩成了全球喜爱的吉祥物。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 30,
@@ -490,7 +490,7 @@
       "chinese": "希腊的；希腊人的；古希腊人；希腊人",
       "example_sentence": "Greek athletes honour traditions born in ancient games.",
       "example_sentence_zh": "希腊运动员传承古代运动会留下的传统。",
-      "essential": true
+      "essential": false
     },
     {
       "id": 50,
