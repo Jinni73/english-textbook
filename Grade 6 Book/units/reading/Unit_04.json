@@ -1,0 +1,30 @@
+{
+  "unit": 4,
+  "title": "Managing money well",
+  "passages": [
+    {
+      "id": "how-can-you-manage-money-well",
+      "title": "How can you manage money well?",
+      "textbookRef": "p.44",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "Our winner",
+        "The winner is my good friend, Chen Jie. She's a 12-year-old girl from Class One, Grade Six.",
+        "Manage money well",
+        "We all know it's difficult to manage our money well, but Chen Jie has her special ways. She writes a spending plan. Every week she gets her pocket money. She also gets some money for selling waste and old things. She keeps her money in three money jars. Jar 1 is spending money. She uses half this money to buy goods like books. She also uses it to pay for services like haircuts. Jar 2 is money to share. She uses this to buy gifts, for example, birthday gifts for her family. Jar 3 is money to save. Chen Jie puts money there to save up for big things like a new bike. She really manages her money well!"
+      ]
+    },
+    {
+      "id": "a-long-history-of-money",
+      "title": "A long history of money",
+      "textbookRef": "p.48",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "A long time ago, people exchanged goods or services. Sometimes it was difficult to get the things they wanted.",
+        "Later, people used different forms of money. But what did the money look like? Look! There is shell money, knife money, copper coins, ...",
+        "But metal coins were heavy to carry. So people used paper money.",
+        "We still use paper money today. We also have bankbooks and cards."
+      ]
+    }
+  ]
+}

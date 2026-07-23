@@ -3,6 +3,23 @@
   "title": "Smart Learning",
   "passages": [
     {
+      "id": "ellas-podcast-active-learning",
+      "title": "Ella's Podcast: Active Learning",
+      "textbookRef": "p.24",
+      "sectionLabel": "SECTION A · Podcast interview",
+      "paragraphs": [
+        "Ella: Hi, this is Ella's podcast. Today's guest is Binbin. He's going to give us some ideas for learning English.",
+        "Binbin: Hi, Ella. Thanks for having me! For learning English, I think first you need to become an active learner.",
+        "Ella: What do you mean by that?",
+        "Binbin: Well, because I want to speak English well, I practise English all the time.",
+        "Ella: Oh, you must spend a lot of time studying!",
+        "Binbin: Well, it doesn't mean you have to study all the time. You need to spend time using the language. For example, I speak English with friends. I repeat the dialogues from the films I like. I read English books, and sometimes I write my diary in English.",
+        "Ella: Wow! I guess you really enjoy learning.",
+        "Binbin: Yes, it's true! But you see, I started out at zero and came across problems. I mean you just have to take things step by step. Start simple and build up.",
+        "Ella: That's so true."
+      ]
+    },
+    {
       "id": "how-to-become-a-successful-learner",
       "title": "How to Become a Successful Learner",
       "textbookRef": "p.26",
@@ -14,6 +31,40 @@
         "In addition, studies show that students learn more when they hang out with other students who are serious about study. First, by being together, students can easily learn from each other. Second, students are challenged to do better by each other. This has been proven to encourage learner growth.",
         "Successful learners also use the best learning materials they can find. In the 21st century, this means using new technology and resources, not just textbooks. Since there are so many learning materials on the internet, it is important to think carefully and choose wisely what and how you study. Take advantage of the best tools and resources to learn wisely and efficiently.",
         "Finally, successful learners see learning as part of daily life. It is something they will do even after they leave school, even when they are old. As you continue on your learning journey, you should try to walk at your own speed and enjoy the trip. Never lose heart. The road ahead of you may be long and may have many mountains and valleys, but it also has great treasure. You will find more joy in living a life with learning!"
+      ]
+    },
+    {
+      "id": "teaching-others",
+      "title": "Teaching Others",
+      "textbookRef": "p.28",
+      "sectionLabel": "Vocabulary in Use · Cloze",
+      "paragraphs": [
+        "According to some experts, teaching others is, in part, a good method to learn actively. In addition, it is a way to get a deeper understanding of a subject or course. For example, you might try to explain your understanding of a topic to another learner, or you might work on creating learning materials for them. Here are some tips: First, teach the simple points clearly and step by step. Second, try to connect your teaching with the learner's experience. Third, ask the learner to explain what they have learnt to you. This helps to check their understanding as well as your teaching."
+      ]
+    },
+    {
+      "id": "chen-lei-my-love-of-books",
+      "title": "Chen Lei: My Love of Books",
+      "textbookRef": "p.29",
+      "sectionLabel": "Project · Online post",
+      "paragraphs": [
+        "My love of books comes from my mother. Books are her classroom and teacher, and through books she has become the wise and smart person I know.",
+        "Because of my mother's love of reading, our home is full of books on different subjects. When I was a child, my mother sat me on her knee, told me stories, and taught me how to read. Soon, I was reading by myself, and I found children's books no longer kept me interested. So I started reading my books and magazines—especially popular science books and books about the lives of famous people. After dinner, I would just pick out a book from the shelf to read in my room. Reading opened up new worlds and allowed me to discover new things for myself. I think that reading is great fun.",
+        "Now that I am older, I can always find time to read in the school library. I believe that reading has helped me a lot with my schoolwork and made me more confident about my future.",
+        "Chen Lei, age 15"
+      ]
+    },
+    {
+      "id": "the-problem-of-procrastination",
+      "title": "The Problem of Procrastination",
+      "textbookRef": "p.84",
+      "sectionLabel": "Reading Plus",
+      "paragraphs": [
+        "Cathy knows that she has an essay due on Monday. However, instead of beginning work on it today, she waits until the last minute, and starts work on Sunday night. Of course, it is impossible to do a good job writing an essay in one night, so she gets a bad grade. She then kicks herself for not starting earlier and promises to do better next time, but she doesn't.",
+        "Does Cathy's story sound familiar? Like Cathy, many of us procrastinate—we put off doing something important until the last moment. But why do we do this? Some research shows that we procrastinate because of negative feelings, such as fear or worry. We are afraid of doing a poor job or getting bad grades. We think that we might fail. We put off doing the work in order to avoid having these bad feelings. Sadly, we are more likely to fail or do poorly when we procrastinate. This creates even more negative feelings and makes it more likely that we will procrastinate the next time.",
+        "The long-term solution to this problem is to deal with our negative feelings. We need to forgive ourselves for failing. We need to accept that sometimes we will not meet the mark. We also need to realize that difficult work isn't always a bad thing. It is through difficulty that we learn and grow.",
+        "So what can we do? Here are some tips. First, realize that once we face our fears and get started, our fears often go away, and we start to enjoy the work. Second, break large projects into small parts, each with their own smaller deadline. Take each thing step by step. Third, reward yourself for getting a step done. Relax or do something fun, then get back to work. Finally, remove temptation. This means if you watch TV to put off work, then work at the library. If you chat with friends to put off work, then work alone and turn off your phone. Find a place to work that does not have such distractions.",
+        "In the end, it is up to you and the actions you take to overcome procrastination. So what are you waiting for?"
       ]
     }
   ]

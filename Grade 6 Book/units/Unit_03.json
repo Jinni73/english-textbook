@@ -150,7 +150,8 @@
       "partOfSpeech": "n.",
       "chinese": "一杯（的量）；玻璃",
       "example_sentence": "Drink a glass of warm milk before bed.",
-      "example_sentence_zh": "睡前喝一杯温牛奶。"
+      "example_sentence_zh": "睡前喝一杯温牛奶。",
+      "essential": true
     },
     {
       "id": 17,

@@ -3,6 +3,25 @@
   "title": "Beyond Earth",
   "passages": [
     {
+      "id": "why-explore-space",
+      "title": "Why Explore Space?",
+      "textbookRef": "p.54",
+      "sectionLabel": "SECTION A · Interview",
+      "paragraphs": [
+        "Host: Our question today is: Why do we explore space? Let's talk to space scientist Dr Yang. Welcome, Dr Yang!",
+        "Dr Yang: Thank you very much. Well, there are three good reasons to explore space. First, to improve our knowledge of Earth and its place in the universe.",
+        "Host: Could you explain that a bit more?",
+        "Dr Yang: Sure. The study of other planets helps us better understand Earth's geology, history, and relationship with other planets.",
+        "Host: Oh, right.",
+        "Dr Yang: Second, technology developed for space can benefit us here on Earth.",
+        "Host: Could you give our listeners an example?",
+        "Dr Yang: Of course. Some satellites, for example, help us deal with problems caused by climate change.",
+        "Host: Yes, that's very useful. And the third reason?",
+        "Dr Yang: Well, at some point in the far future, we may find new resources in outer space. It might sound crazy, but our Earth may run out of resources. In that case, a new home for us human beings will be needed.",
+        "Host: Wow, interesting! Maybe Mars will be made into our new home in the future."
+      ]
+    },
+    {
       "id": "to-the-stars-and-beyond",
       "title": "To the Stars and Beyond",
       "textbookRef": "p.56",
@@ -12,6 +31,19 @@
         "The man-made object which has travelled furthest from Earth is Voyager 1. This spacecraft was launched in 1977. In case Voyager 1 is found by alien life, a special record with sounds and pictures from Earth is carried on board. It shows who we are and where we are from. Now, Voyager 1 is an amazing 23.5 billion kilometres from Earth, but that is still a long way from Earth's nearest star, Proxima Centauri. That star is 4.2 light years away—about 40 trillion kilometres!",
         "The challenge of visiting the stars gets even bigger for space flights with humans. The furthest that any human has gone in space is only about 400,000 kilometres, around the other side of the moon. Time is a big problem. At present, even a journey to the planet Mars will take around six to nine months. What will the astronauts eat and drink during this period? And how about their health and safety? These problems grow when we talk about visiting another star. It might take hundreds of thousands of years to get there!",
         "Scientists, however, believe that visiting the stars is not a completely wild dream. One idea is to have the astronauts sleep during their journey like some animals do in winter. Another is to develop much faster spacecraft. While this is not possible right now, with nations and scientists cooperating with one another, there is hope that the necessary technology will be developed. Humans have set foot on the moon, successfully landed rovers on Mars, and even photographed other galaxies. In time, it seems likely that one day we may reach the stars as people once dreamt."
+      ]
+    },
+    {
+      "id": "all-about-satellites",
+      "title": "All about Satellites",
+      "textbookRef": "p.89",
+      "sectionLabel": "Reading Plus",
+      "paragraphs": [
+        "In October 1957, people listening to radios around the world heard something no one had ever heard before. For three weeks, there was just \"Beep, beep, beep.\" About one beep a second. Millions of people sat round their radios just listening for this beep. The beep itself was not all that amazing. The amazing thing was the place where it came from—space. The beep came from the world's first man-made satellite, Sputnik 1.",
+        "Sputnik 1 was launched by the Soviet Union on 4 October 1957. It was round, made of metal, and more than two times larger than a basketball. It weighed about 84 kilograms, travelled at 29,000 kilometres an hour, and took 96.2 minutes to circle Earth. Sputnik 1 stopped beeping when its radio battery died on 26 October, and it burnt up when it fell back to Earth on 4 January 1958.",
+        "The launch of Sputnik 1 also began the age of satellites. The first satellites were used for research. Through them, we can better understand the world we live in. They also send back photographs that help us to make better maps of our world.",
+        "Communication satellites were also soon developed. These allow TV and radio signals to be sent across oceans or to places thousands of kilometres away. This is how people can watch TV across continents and oceans. Weather satellites soon followed. These can tell us when a storm is coming or whether it will snow next week. One new kind of satellite that is now becoming more useful to the public is the positioning satellite. This satellite works with a highly complicated system, like the BDS (BeiDou Navigation Satellite System), which can tell us where our car or even our mobile phone is.",
+        "It seems that there is no end to the possible uses of satellites. The only real limit to their use is our own imagination."
       ]
     }
   ]

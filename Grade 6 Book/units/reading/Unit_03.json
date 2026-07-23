@@ -1,0 +1,38 @@
+{
+  "unit": 3,
+  "title": "Healthy life",
+  "passages": [
+    {
+      "id": "liu-jia-and-miss-white",
+      "title": "Liu Jia and Miss White",
+      "textbookRef": "p.32",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "Liu Jia was crying. So Miss White asked her, \"What's the matter, Liu Jia? You look sad.\" Liu Jia answered, \"I'm feeling down. My good friend Lucy moved to another city.\"",
+        "Miss White listened carefully and told Liu Jia, \"Think about happy things. Call your friend or send her some emails.\"",
+        "\"I tried that, but I still feel unhappy,\" said Liu Jia.",
+        "Miss White gave her a glass of water. \"Maybe you can do some exercise. Exercise may cheer you up!\"",
+        "\"Join some after-school clubs and make new friends! You can talk and have fun with them,\" added Miss White.",
+        "\"I will try. Thank you, Miss White,\" said Liu Jia.",
+        "Dear Miss White,",
+        "I often make video calls with my friend now. I also joined a ping-pong club and made some new friends. I feel much better. Thank you so much!",
+        "Liu Jia"
+      ]
+    },
+    {
+      "id": "helping-hands",
+      "title": "Helping hands",
+      "textbookRef": "p.36–37",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "My name is Right Hand. This is my twin brother, Left Hand.",
+        "One day, our master didn't wash us and ate his food. He felt ill the next day. Now he washes us before every meal.",
+        "On another day, our master had a bad cold. He had a runny nose and a cough. We wiped his nose and covered his mouth with a tissue. We're important for his physical health.",
+        "We're also important for his mental and social health. One day, our master felt unhappy. But we helped him make handicrafts (手工艺品). He felt happy again.",
+        "Our master also cooked food for his parents and sister. They thanked him and said, \"You have really great hands!\"",
+        "We're important for our master and his friends. He uses us to give them a high five.",
+        "We really are helping hands!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "unit": 1,
+  "title": "Amazing places",
+  "passages": [
+    {
+      "id": "jinggang-mountains-reviews",
+      "title": "Jinggang Mountains Reviews",
+      "textbookRef": "p.8",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "A must-see — Sun Lin, Xining, China",
+        "My trip to the Jinggangshan Revolution Museum was amazing! I walked around the museum for hours and saw many old books and photos. The volunteers told great stories about the Red Army. The stories were really inspiring. I learnt a lot. Do you want to learn more about the Red Army? You should go there!",
+        "Wonderful views and food — Colin, London, UK",
+        "This was a great place for a summer trip! We climbed the Jinggang Mountains and took many photos of the bamboo forest and beautiful waterfalls. We tried delicious pumpkin soup and red rice in a nice restaurant too. The Jinggang Mountains are only about 1.5 hours from the airport by bus. I want to go there again!"
+      ]
+    },
+    {
+      "id": "eye-opening-findings-in-sanxingdui",
+      "title": "Eye-opening findings in Sanxingdui",
+      "textbookRef": "p.12",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "My last trip to Sanxingdui was great! In the Sanxingdui Museum, I saw strange masks, the \"big guy\" statue and a life-size \"fruit\" tree lamp.",
+        "Some believed people from Sanxingdui were aliens. But it's not true. They might eat hotpot three thousand years ago, just like we do today. (Chen Li, history teacher)"
+      ]
+    },
+    {
+      "id": "the-pearl-of-hangzhou",
+      "title": "The pearl of Hangzhou",
+      "textbookRef": "p.12",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "I visited the West Lake last autumn. On the first night, my friends and I watched the moon rising from a boat on the lake. We ate mooncakes and drank Longjing tea. The next day we walked along the lake. It was such a nice trip. (Jessica, nurse)"
+      ]
+    }
+  ]
+}

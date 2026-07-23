@@ -14,6 +14,41 @@
         "In the first step of Cai Lun's experiment, all the ingredients were mixed and boiled in water. Then, this material was beaten, cut up, and mixed with water again. Next, the liquid was poured over a bamboo screen, leaving just the fibre. Finally, this fibre was dried and pressed to form paper. To everyone's surprise, this paper was soft, light, easy to make and use, and most importantly, cheap. In 105 CE, Cai Lun showed his creation to the emperor. The emperor was very pleased and praised Cai Lun for his great work.",
         "Later on, the papermaking technique did not only speed up the development of Chinese culture, but also changed civilizations around the world. It first spread to China's neighbouring countries and finally reached Europe through Arabic countries in the 12th century. When the use of paper and printing came together in later centuries, it led to a rapid increase in the number of books. This resulted in a new birth of knowledge, creating the world we have today."
       ]
+    },
+    {
+      "id": "sticky-notes",
+      "title": "Sticky Notes",
+      "textbookRef": "p.48",
+      "sectionLabel": "Vocabulary in Use · Cloze",
+      "paragraphs": [
+        "Did you know that an accident led to the invention of sticky notes? In 1968, a scientist named Spencer Silver was trying to make a strong glue. To his surprise, he produced a glue that was really weak. It could stick things, but it could be removed very easily. The glue was interesting, but no one could find a use for it.",
+        "Then, in 1974, a man named Arthur Fry was trying to mark the pages in a song book using small pieces of paper. However, whenever he stood up to sing, the pieces fell to the floor. Then he remembered Silver's glue. With the glue, the paper stayed in the song book, but it could later be removed. Fry's idea resulted in the production of sticky notes of many sizes and colours. They gradually became popular and now are widely used all over the world."
+      ]
+    },
+    {
+      "id": "the-wright-brothers",
+      "title": "The Wright Brothers",
+      "textbookRef": "p.49",
+      "sectionLabel": "Project · Reading",
+      "paragraphs": [
+        "The invention of the plane has greatly changed the world. However, it seems that its inventors, Orville Wright and Wilbur Wright, were not looking to change the world at all. Rather, they just wanted to fly like birds.",
+        "To solve the problem of heavier-than-air flight, the Wright brothers began working with gliders. There were two main challenges. The first was how to get the glider into the air. The second was how to control it once it was flying. For both problems, they found their solution by looking at how birds flew. After they solved these problems, they added an engine to the glider. Then, in December 1903, the world's first plane flights were made.",
+        "The invention of the plane has made our travels around the world much easier and faster. Journeys that once took days, weeks, or even months, can now be made in only a few hours. As a result, communication among people in different countries is now much easier, and the world has become a much smaller place."
+      ]
+    },
+    {
+      "id": "young-inventors",
+      "title": "Young Inventors",
+      "textbookRef": "p.87–88",
+      "sectionLabel": "Reading Plus",
+      "paragraphs": [
+        "You may think that all inventors are adults with rich experience and university degrees, but you would be wrong. In fact, many famous inventions have been created by teenagers, just like you.",
+        "Helping the blind to read",
+        "At the age of three, Louis Braille became blind as a result of an accident. At a school for the blind, he was taught to read using books with raised letters. Blind people would run their fingers over the letters and guess their shapes. However, sometimes it was confusing because letters like \"Q\" and \"O\" were very similar, and they also took up too much space on a page. To solve these problems, a system was invented where letters were replaced with a code of raised dots. However, this new method was still too slow and difficult. At the age of 15, Braille made important improvements to the raised dot system. He made the code simpler and reduced the number of raised dots. Braille's system was incredibly successful and is still used today around the world.",
+        "Bringing entertainment to our homes",
+        "In 1921, Philo Farnsworth was 14 years old when he read about the problem of creating an electric television in a science magazine and became interested in it. One day, while he was working on a farm, he noticed the straight rows of crops, and it gave him an idea. Perhaps an image could be broken down into lines, changed into electronic signals, and then sent through the airwaves. For years, Farnsworth worked to develop his idea, but he faced many challenges along the way. Many people did not believe his idea would work, and he found it difficult to get money to pay for his research. However, he never gave up. When he was 21, he eventually succeeded in sending a simple image using his invention. This breakthrough was an important step in creating the modern televisions that we use for entertainment today.",
+        "These stories show that with a passion for solving problems, anyone can make a difference in the world, no matter how old they are. So, if you have an idea that you believe in, do not be afraid to go for it. Who knows? You may just be the next Louis Braille or Philo Farnsworth."
+      ]
     }
   ]
 }

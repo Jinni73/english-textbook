@@ -3,6 +3,23 @@
   "title": "The Changing World",
   "passages": [
     {
+      "id": "interview-changes-in-the-village",
+      "title": "Interview: Changes in the Village",
+      "textbookRef": "p.4",
+      "sectionLabel": "SECTION A · Interview",
+      "paragraphs": [
+        "Reporter: How has life changed in your hometown over the last 20 years?",
+        "Mr Yan: Oh, it has changed quite a lot! Many young people used to work in big cities. Now, more of them have come back to live and work here.",
+        "Reporter: Great! Have there been any other changes?",
+        "Ms Wu: Yes, we've changed the way we farm. I used to grow a few vegetables on a small farm to sell at the local market. Now, I have large, high-tech greenhouses. There, I grow tons of fruit and vegetables, and sell them in large cities.",
+        "Reporter: Wow, the new highway and railway must have helped a lot!",
+        "Mr Yan: Oh, they have! Our village has become a tourist attraction. We can now sell local products to tourists. We also sell products online to people all over China.",
+        "Reporter: Have these changes greatly improved your lives?",
+        "Ms Wu: Yes! We now have new houses. And our village has just built a new hospital and a library.",
+        "Reporter: Wonderful! Together you are building a new socialist village."
+      ]
+    },
+    {
       "id": "on-the-fast-track",
       "title": "On the Fast Track",
       "textbookRef": "p.6",
@@ -12,6 +29,33 @@
         "However, the new railway, built with China's help, has already cut the travel time between Mombasa and Nairobi to about four hours for passengers. Now, more than two million people use it every year.",
         "Local Kenyans have benefited a lot from the new railway. A government worker said, \"I'm very happy with the new railway built by our Chinese friends. Many changes have taken place in the town over the last few years, and the people who live here have become rich.\" A businessman said, \"My experience of using the train since 2017 has been good. It is very convenient and doesn't cost much money. I am able to get to places on time and make business deals with ease.\" The railway has also made the transport of food easier. \"Food used to take hundreds of lorries to carry between the two cities, but now it takes only two or three trains,\" said a supermarket manager. As a result, people now have more fresh food to eat.",
         "Although China and Kenya are far away from each other, the railway shows how different countries can work together to build a better world."
+      ]
+    },
+    {
+      "id": "changes-in-my-life",
+      "title": "Changes in My Life",
+      "textbookRef": "p.9",
+      "sectionLabel": "Project · Writing",
+      "paragraphs": [
+        "Now that I am older, my life is different from when I was in primary school. For example, my primary school was near my home, so I used to walk to school with my parents. Now my junior high school is farther from home. I take a bus every day with my friends.",
+        "My home has changed too. My family used to live in a small flat, but now we have moved to a much larger one. My grandma lives with us now as well. She has her own room and her own TV set. I am glad that I get to see her every day.",
+        "The way I study is also different. I have become more confident in my studies and often attend group discussions. I enjoy studying with my friends. It's amazing how much we have achieved together.",
+        "My life has changed in many ways, but one thing stays the same: the feeling of love and happiness shared by my family."
+      ]
+    },
+    {
+      "id": "love-my-hometown-build-my-hometown",
+      "title": "Love My Hometown, Build My Hometown",
+      "textbookRef": "p.81",
+      "sectionLabel": "Reading Plus",
+      "paragraphs": [
+        "With a deep love for their hometown, people of different ages and professions are contributing to its development and growing along with it. Today, let us explore three such stories.",
+        "The watermelon farmer",
+        "Liu Guanghui is an agricultural technology expert in watermelon farming. Although he is more than 70 years old, he still spends most of his days working in the sun on the farmland. He wears a wide hat, and his skin is brown from the sun. He loves farming and has spent his life researching ways to improve it. On his days off, Guanghui provides local farmers with technical training and guidance for free. With joint efforts of the government, farmers, and experts like him, the farming economy in the province has grown by more than one billion yuan over the years.",
+        "The flower live-streamer",
+        "Jiang Hui's friends and fellow villagers call her the \"flower girl\". When she was young, Hui often visited her aunt's flower field after school, where she learnt how to grow flowers. She also showed great talent in putting different flowers together beautifully. After graduating from university, Hui decided to return to her hometown and start her own flower business. To promote sales, she started to sell her flowers online. It was hard at first, but she didn't give up. She always patiently explained and offered practical advice to customers. Gradually, her online shop became more popular. She also helped and taught other villagers how to sell agricultural products online. \"Many people now know about the agricultural products from our town,\" Hui said with a big smile. \"This makes all the hard work worthwhile!\"",
+        "The village teacher",
+        "When Yuan Bailing was a little girl, it took her almost an hour to get to school each day, but she loved school so much that she never missed it. As she grew up, she witnessed how her village changed greatly over the years. Better roads and bridges have been built. Now it takes only ten minutes for children to get to school. As the first person from her village to graduate from university, Bailing decided to return to her hometown to become a teacher. She wants to help more children get a good education and be part of her hometown's growth and development. Though the area still needs further development, through the courage and hard work of its people—like Bailing—it has a bright future ahead."
       ]
     }
   ]

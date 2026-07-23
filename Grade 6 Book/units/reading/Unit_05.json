@@ -1,0 +1,29 @@
+{
+  "unit": 5,
+  "title": "Exploring space",
+  "passages": [
+    {
+      "id": "what-do-astronauts-do",
+      "title": "What do astronauts do?",
+      "textbookRef": "p.56",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "Chinese astronauts are called taikonauts. Their life in space is special.",
+        "The taikonauts get up early in the morning. But getting ready is different. They can't use water to wash their faces. So taikonauts have to use a wet cloth. They brush their teeth with a special toothpaste and have to \"eat\" it!",
+        "Each day the taikonauts are very busy. They do a lot of work. For example, they grow vegetables and rice. Sometimes, they also give classes to children and answer questions about space.",
+        "It is hard work. The taikonauts must stay healthy. Every afternoon they do exercise to keep healthy and strong. But their job is also very interesting. They can see the sunrise and sunset 16 times a day. The view is amazing! There is no other job like this one."
+      ]
+    },
+    {
+      "id": "fun-facts-about-our-solar-system",
+      "title": "Some fun facts about our solar system",
+      "textbookRef": "p.60",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "The closest planet to the Sun is not the hottest. The hottest planet is Venus. It has a temperature (温度) of about 467°C.",
+        "Jupiter's storm may be more than 300 years old. The name of the big storm on Jupiter is the Great Red Spot (大红斑). It is wider than Earth.",
+        "Neptune has the fastest wind in the solar system. Neptune's winds can reach over 2,000 kilometres per hour."
+      ]
+    }
+  ]
+}

@@ -19,6 +19,42 @@
         "Exercise. A healthy and active body boosts both your memory and your mind.",
         "Many more memory techniques can be found in books or online. Try some different methods to see which ones work best for you. You are sure to improve your memory!"
       ]
+    },
+    {
+      "id": "animal-memories",
+      "title": "Animal Memories",
+      "textbookRef": "p.38",
+      "sectionLabel": "Vocabulary in Use · Cloze",
+      "paragraphs": [
+        "Research shows that many animals have good long-term memories. They keep in mind where food can be found and where it is safe. For example, when squirrels run out of food, they go straight to the place where they hid nuts. Every autumn, wild geese fly thousands of kilometres south for the winter. Humans do not know for sure what goes through their minds during the journey, but wild geese seldom get lost. A similar situation happens to dolphins. They can recognize voices of other dolphins—even when they have not met each other for a long time."
+      ]
+    },
+    {
+      "id": "billys-memory-challenge",
+      "title": "Billy's Memory Challenge",
+      "textbookRef": "p.39",
+      "sectionLabel": "Project · Diary entry",
+      "paragraphs": [
+        "Friday, 20 November",
+        "In the past, I always felt stressed when I had to give a speech. I used to spend lots of time trying to memorize my speech, but I still forgot some parts. Last week, I decided to find out what the right way is to memorize a speech. I looked online and asked friends, and I found many useful methods.",
+        "I learnt how to create a speech outline. Instead of trying to remember every word of my speech, I remembered the key words first. Then I formed images of these key words in my mind, and linked them in order.",
+        "Another method is to divide the speech into short sections. I practised the first section until I could fully recall it. Then I moved on to the next. This helped me to find out which parts of the speech I needed to work on the most.",
+        "Finally, a friend told me that I should have confidence in myself. Nobody knows my speech except me. If I do forget some words, I shouldn't panic. Just remember the key words and continue!",
+        "I followed all these great methods and my speech today was a great success!"
+      ]
+    },
+    {
+      "id": "brain-sports",
+      "title": "Brain Sports",
+      "textbookRef": "p.86",
+      "sectionLabel": "Reading Plus",
+      "paragraphs": [
+        "How good is your memory? How many words can you memorize in 15 minutes? Well, some people can memorize 335 words. Some people are even more amazing. For example, someone once memorized the order of 2,530 playing cards in just one hour!",
+        "Just as there are sports competitions using our bodies, there are also sports competitions using our minds, such as the World Memory Championships. These were held in Wuhan, China, in 2019. There were many different events. For instance, the \"brain athletes\" had to remember as many names and faces as they could or as many words as possible in 15 minutes.",
+        "While you might think that these competitors were all born with a strong memory, this is often not true. For example, one champion has an average memory, but he makes full use of memory techniques. So, if he wants to remember the names of the Great Lakes in the US, he thinks of HOMES, because each letter in HOMES stands for a different lake.",
+        "Many competitors use what is called a \"memory palace\" to remember things. While most people are terrible at remembering lists, they are quite good at remembering where things are. Think about your bedroom. You can probably picture in your mind where everything in your bedroom is. Now, picture in your mind the things on the list in different places in your bedroom. Later, if you want to remember the words, all you need to do is to remember the picture.",
+        "Memory competitions are not for everyone, and not everyone is a brain athlete. On the other hand, some of their memory techniques may be useful for you in your studies. You should give them a try!"
+      ]
     }
   ]
 }

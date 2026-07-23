@@ -1,0 +1,46 @@
+{
+  "unit": 6,
+  "title": "Energy, nature and us",
+  "passages": [
+    {
+      "id": "save-energy-save-our-earth",
+      "title": "Save energy, save our Earth!",
+      "textbookRef": "p.68",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "Mother Earth is running out of resources! What should we do? Here are our top three ideas. We should all try to save energy and save our Earth!",
+        "Useful tips to save water: Take a quick shower. Wash all your dirty clothes together, not one at a time. Wash fruit and vegetables, then use the water again.",
+        "Useful tips to use less electricity: Use LED lighting. Turn off your TV or computer and unplug it. Set your air conditioner to 26℃ or more in summer.",
+        "Great tips to save and recycle resources: Use both sides of paper. Use old bottles again. You can put noodles or pencils in them."
+      ]
+    },
+    {
+      "id": "letter-from-the-editor",
+      "title": "Letter from the Editor",
+      "textbookRef": "p.69",
+      "sectionLabel": "Read and write",
+      "paragraphs": [
+        "Dear readers,",
+        "How can we all help Mother Earth? We are running a competition to find some helpful ideas from our readers. Please write to us and let us know your ideas and tips. Thank you.",
+        "Sincerely,",
+        "Editor"
+      ]
+    },
+    {
+      "id": "making-a-solar-oven",
+      "title": "Making a solar oven",
+      "textbookRef": "p.72–73",
+      "sectionLabel": "Reading time",
+      "paragraphs": [
+        "It was a sunny day. Grandpa, Binbin and Robin played outside.",
+        "They didn't want to go back to the kitchen to cook lunch. So, what could they do?",
+        "Grandpa had an idea. \"The sun is very hot. We can use solar power to cook our lunch here,\" he said. \"Let's make a solar oven!\" So, they did.",
+        "\"Wow! How does the box keep the heat? Why do we use black paper?\" Binbin wanted to know.",
+        "Soon their meal was ready.",
+        "\"The food is delicious. And we cooked with no gas or electricity! That's super cool!\" said Binbin.",
+        "\"Sunlight is a great source of energy. It can help light our house. It can run cars. And we can use it to cook too!\" said Robin.",
+        "\"Yes, we should use energy in smart ways,\" said Grandpa with a smile."
+      ]
+    }
+  ]
+}
