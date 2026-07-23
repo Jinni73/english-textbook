@@ -1,0 +1,19 @@
+{
+  "unit": 5,
+  "title": "Power of Ideas",
+  "passages": [
+    {
+      "id": "an-invention-that-changed-the-world",
+      "title": "An Invention That Changed the World",
+      "textbookRef": "p.46",
+      "sectionLabel": "SECTION B · How do we turn ideas into reality?",
+      "paragraphs": [
+        "Can you imagine a world without books, newspapers, or magazines? All of these things depend on one invention—papermaking. It, more than any other invention, was responsible for the rapid spread of information that shaped our modern world.",
+        "In ancient China, many different materials were used to write on, such as animal bones, bronze wares, stones, wood, bamboo, and even silk. In the Western Han Dynasty, there was also a very early form of paper made from jute—a fibre that comes from plants. However, all of these materials were either difficult to use and store or very expensive.",
+        "As the head officer of the palace workshop for the emperor in the Eastern Han Dynasty, Cai Lun became interested in trying to solve the problem. Different methods for creating something to write on were tried, but none were ideal. In his times, some kinds of bark—the outside part of trees—were used to make clothes. From past experiences, Cai Lun got the idea that bark, certain plants, and old clothes could be used to make a special material suitable to write on.",
+        "In the first step of Cai Lun's experiment, all the ingredients were mixed and boiled in water. Then, this material was beaten, cut up, and mixed with water again. Next, the liquid was poured over a bamboo screen, leaving just the fibre. Finally, this fibre was dried and pressed to form paper. To everyone's surprise, this paper was soft, light, easy to make and use, and most importantly, cheap. In 105 CE, Cai Lun showed his creation to the emperor. The emperor was very pleased and praised Cai Lun for his great work.",
+        "Later on, the papermaking technique did not only speed up the development of Chinese culture, but also changed civilizations around the world. It first spread to China's neighbouring countries and finally reached Europe through Arabic countries in the 12th century. When the use of paper and printing came together in later centuries, it led to a rapid increase in the number of books. This resulted in a new birth of knowledge, creating the world we have today."
+      ]
+    }
+  ]
+}

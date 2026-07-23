@@ -1,0 +1,24 @@
+{
+  "unit": 4,
+  "title": "Our Memory",
+  "passages": [
+    {
+      "id": "how-to-boost-your-memory",
+      "title": "How to Boost Your Memory",
+      "textbookRef": "p.36",
+      "sectionLabel": "SECTION B · How can we improve our memory?",
+      "paragraphs": [
+        "Would you like to improve your memory? To start with, it is important to understand how memory works.",
+        "There are two main kinds of memory: short-term memory and long-term memory. Short-term memory helps you remember things that you may only need for a short time, like phone numbers when you need to make a phone call. Long-term memory is the ability to remember things for days, years, or even a lifetime. So the real question is: How do you make sure what you learn enters your long-term memory? By using some clever memory techniques and leading a healthy life, you will see some great results. Let's take a look.",
+        "First, pay attention. However, you might fail to remember all the details. So, try taking notes and writing down key points. After all, it is easier to remember a summary than every word in a passage.",
+        "Second, use it or lose it. The more you review what you learn, the more likely you will remember it. However, you should not wear out your brain. Try studying for 40 minutes, and then take a break. You can also review information by discussing it with others or by teaching others.",
+        "A third way is to make use of senses. Create images by using tables, graphs, and mind maps to organize information. You can also create a story with information and view it in your mind like a film. In addition, make use of your other senses. For example, listening to recorded information can be very effective.",
+        "Last but not least, boost your memory by staying healthy.",
+        "Sleep well. While you sleep, your brain organizes your memories. Bad sleep makes it harder for new information to enter your long-term memory.",
+        "Eat well. Your brain needs food like an engine needs fuel. Healthy food and drink will help your brain work much better.",
+        "Exercise. A healthy and active body boosts both your memory and your mind.",
+        "Many more memory techniques can be found in books or online. Try some different methods to see which ones work best for you. You are sure to improve your memory!"
+      ]
+    }
+  ]
+}
